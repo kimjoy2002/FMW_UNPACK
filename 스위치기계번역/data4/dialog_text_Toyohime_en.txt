@@ -1,0 +1,134 @@
+﻿ID,LineID,face,dialog
+0,0,Toyohime0b,오물은 소독… 이라고 해 버려
+1,0,Toyohime0a,반보성의 원리는 알고 있어?
+2,0,Toyohime0a,받은 것은、돌려주지 않으면
+3,0,Toyohime0a,그러면、답례해요
+4,0,Toyohime0a,공짜로는 끝내지 않아요
+5,0,Toyohime0a,요리히메의 심부름을 하지 않으면 말야
+6,0,Toyohime0a,이세계의 거주자씨、환영해요
+7,0,Toyohime0a,달의 사자의 리더로서 부끄러워하지 않게…
+8,0,Toyohime0a,받으세요
+9,0,Toyohime0a,보이고 있어요
+10,0,Toyohime0a,그러면…
+11,0,Toyohime0a,피해서는 안 돼요
+12,0,Toyohime0a,이것은 비장의 꼰 끈의 1개…
+12,1,Toyohime0a,결코 끊어지지 않는 인연인 것이야
+12,2,Toyohime0a,그렇게、영원히 말야
+13,0,Toyohime0a,펨트파이바를 사용해요
+13,1,Toyohime0a,받으세요
+13,2,Toyohime0b,이봐요、튼튼하겠지요?
+14,0,Toyohime0a,확실히、이 근처에…
+14,1,Toyohime0a,그것!
+14,2,Toyohime0a,이것이 펨트스케이르야
+15,0,Toyohime0a,펨트라고는 알기 쉽게 말하면 잠시 동안…
+15,1,Toyohime0b,… 생략!
+15,2,Toyohime0a,즉、이런 일이군요
+16,0,Toyohime1a,자、괄목 하세요
+17,0,Toyohime1a,모두를 소립자에 돌려보내 주어요
+18,0,Toyohime1a,이것이 달의 병기의 힘이야
+19,0,Toyohime1a,이것이 정화의 광경이야
+20,0,Toyohime1a,이것이 달의 병기의 힘이야
+21,0,Toyohime1a,자、더러움을 털어 주어요
+22,0,Toyohime0b,우쭐거려 있으세요
+23,0,Toyohime1a,건방지구나
+24,0,Toyohime0a,복수 하는 의리는 있어
+25,0,Toyohime0a,불려 왔어요
+26,0,Toyohime0a,예쁘게 하는 것은 맡겨 둬
+27,0,Toyohime0a,우의하、이것을 받읍시다
+28,0,Toyohime0a,한눈 팔기는 금물이야
+29,0,Toyohime0a,그 장소、바뀝시다
+30,0,Toyohime0a,그 쪽의 요리히메도 노력하고 있는 것 같네
+31,0,Toyohime0a,뭔가 험이 적게 보여요
+32,0,Toyohime0a,어떤 생각으로、\n 아고코로님들에게 짜 하고 있는 거야…?
+33,0,Toyohime0a,다양하게 이야기를 듣고 싶은 곳이지만…
+34,0,Toyohime0a,레이센、어쩐지 잘못봤군요
+35,0,Toyohime0a,어머나、혹시 레이센?
+36,0,Toyohime0a,모든 병기의 사용이 허가되어요
+37,0,Toyohime0a,유명한 죄인의 모습을 취한다면…
+38,0,Toyohime0a,나도 요리히메와 함께 싸웁니다
+39,0,Toyohime0a,그 모습에 손을 드는 일이 된다고는
+40,0,Toyohime0a,달의 병기의 무서움은 알고 있을까요?
+41,0,Toyohime0a,우리 병사의 모습이군요、돌아누웠을까?
+42,0,Toyohime1a,더러워져 버렸어요、누군가씨의 탓으로
+43,0,Toyohime0a,추접하네요
+44,0,Toyohime0a,접하지 않아 주셔?
+45,0,Toyohime2b,상황은 좋지 않네요
+46,0,Toyohime2a,이것은 승복 할 수 없는 흐름이군요
+47,0,Toyohime2a,… 화나게 하고 싶은 것일까?
+48,0,Toyohime0a,아―、있던 말하고 싶다
+49,0,Toyohime0b,좋은 공격이었던 원이군요、\n 지금의만 허락해 줍시다
+50,0,Toyohime2b,추한 곳 보였군요
+51,0,Toyohime0a,추접하네요
+52,0,Toyohime0a,이것은 여러가지 입다물지 않아요
+53,0,Toyohime2c,어이쿠…
+54,0,Toyohime0a,맞지 않네요
+55,0,Toyohime0a,제대로 노렸을까
+56,0,Toyohime0a,총알이 피해 가요
+57,0,Toyohime0a,이제 한번 밀기[一押し]이야、노력해
+58,0,Toyohime1a,그런 것일까?
+59,0,Toyohime0b,그 필사적임、매우 지상인것 같아요
+60,0,Toyohime0a,쓸데없는 일을 해요
+61,0,Toyohime0a,방해군요
+62,0,Toyohime0a,결과가 같으면、빠른 것이 좋을 것입니다?
+63,0,Toyohime0a,입장을 바꿔 넣는다니 간단해요
+64,0,Toyohime2a,요리히메가 애먹이는 것도 납득이 가요…
+65,0,Toyohime2a,이것은 서투르구나…
+66,0,Toyohime0a,None
+67,0,Toyohime0b,오물은 소독… 이라고 해 버려
+68,0,Toyohime0a,지루함은 시키지 않으면 좋은 거네
+69,0,Toyohime0a,반보성의 원리는 알고 있어?
+70,0,Toyohime0a,받은 것은、돌려주지 않으면
+71,0,Toyohime0a,그러면、답례해요
+72,0,Toyohime0a,나라도 탄막은 할 수 있는거야
+73,0,Toyohime0a,달의 사자의 리더로서 부끄러워하지 않게…
+74,0,Toyohime0a,아고코로님에게 좋은 곳을 보이지 않으면
+75,0,Toyohime0a,요리히메、사양하지 않고 오세요
+76,0,Toyohime0a,요리히메、의욕에 넘쳐 있는 것 같구나
+77,0,Toyohime0a,카구야님、실례하겠습니다
+78,0,Toyohime0a,카구야님、상처를 되지 않게…
+79,0,Toyohime0a,아고코로님、가슴을 빌리도록 해 받습니다
+80,0,Toyohime0a,즐겨 주세요、아고코로님
+81,0,Toyohime0a,그렇게 무서워하지 않아도 괜찮지 않아
+82,0,Toyohime0a,여기도 탄막을 공부할 생각으로…
+83,0,Toyohime0a,받으세요
+84,0,Toyohime0a,보이고 있어요
+85,0,Toyohime0a,그러면…
+86,0,Toyohime0a,피해서는 안 돼요
+87,0,Toyohime0a,이것은 비장의 꼰 끈의 1개…
+87,1,Toyohime0a,결코 끊어지지 않는 인연인 것이야
+87,2,Toyohime0a,그렇게、영원히 말야
+88,0,Toyohime0a,펨트파이바를 사용해요
+88,1,Toyohime0a,받으세요
+88,2,Toyohime0b,이봐요、튼튼하겠지요?
+89,0,Toyohime0a,확실히、이 근처에…
+89,1,Toyohime0a,그것!
+89,2,Toyohime0a,이것이 펨트스케이르야
+90,0,Toyohime0a,펨트라고는 알기 쉽게 말하면 잠시 동안…
+90,1,Toyohime0b,… 생략!
+90,2,Toyohime0a,즉、이런 일이군요
+91,0,Toyohime1a,자、괄목 하세요
+92,0,Toyohime1a,이것이 달의 병기의 힘이야
+93,0,Toyohime0b,우쭐거려 있으세요
+94,0,Toyohime1a,건방지구나
+95,0,Toyohime0a,복수 하는 의리는 있어
+96,0,Toyohime0a,불려 왔어요
+97,0,Toyohime0a,예쁘게 하는 것은 맡겨 둬
+98,0,Toyohime0a,우의하、이것을 받읍시다
+99,0,Toyohime0a,한눈 팔기는 금물이야
+100,0,Toyohime0a,그 장소、바뀝시다
+101,0,Toyohime0a,아―、있던 말하고 싶다
+102,0,Toyohime0b,좋은 공격이었네요
+103,0,Toyohime2b,추한 곳 보였군요
+104,0,Toyohime2c,어이쿠…
+105,0,Toyohime0a,맞지 않네요
+106,0,Toyohime0a,제대로 노렸을까
+107,0,Toyohime0a,총알이 피해 가요
+108,0,Toyohime0a,이제 한번 밀기[一押し]이야、노력해
+109,0,Toyohime1a,그런 것일까?
+110,0,Toyohime0b,그 필사적임、매우 지상인것 같아요
+111,0,Toyohime0a,쓸데없는 일을 해요
+112,0,Toyohime0a,방해군요
+113,0,Toyohime0a,결과가 같으면、빠른 것이 좋을 것입니다?
+114,0,Toyohime0a,입장을 바꿔 넣는다니 간단해요
+115,0,Toyohime0a,아、매우 즐길 수 있었어요
+116,0,Toyohime0a,None

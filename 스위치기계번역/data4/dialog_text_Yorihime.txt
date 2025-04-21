@@ -1,0 +1,242 @@
+﻿ID,LineID,face,dialog
+0,0,Yorihime0a,일념을 보여 보세요
+1,0,Yorihime0a,물러나면、아픔이 최소한으로 끝나요
+2,0,Yorihime0a,도망칠 수 있다고 생각하고 있었을까
+3,0,Yorihime0a,도가 하지는 하지 않아요
+4,0,Yorihime0a,나 스스로 박수로 합니다!
+5,0,Yorihime0a,싸우는 것을 주저함은 하지 않아요
+6,0,Yorihime0b,달의 수호자의 힘을 보입시다
+7,0,Yorihime0a,환상향의 법식에 준거합시다
+8,0,Yorihime0a,힘을 시험합시다
+9,0,Yorihime0a,거리를 채워…
+9,1,Yorihime0a,하앗!
+10,0,Yorihime0a,이 틈…
+10,1,Yorihime0a,받았닷!
+11,0,Yorihime0a,도가 하지는 하지 않아요!
+11,1,Yorihime0a,거기야!
+12,0,Yorihime0b,목…
+12,1,Yorihime0a,목… 줘!
+13,0,Yorihime0a,이 정도의 거리라면…
+13,1,Yorihime0a,이 정도의 거리라면… 탓!
+14,0,Yorihime0c,거리를 취한 생각이라면…
+14,1,Yorihime0b,거리를 취한 생각이라면… 달콤하다!
+15,0,Yorihime0a,그 번뇌마다…
+15,1,Yorihime0a,그 번뇌마다… 끊는닷!
+16,0,Yorihime0a,거기도 나의 틈이야!
+16,1,Yorihime0a,거기도 나의 틈이야!
+17,0,Yorihime0a,신의 염에 구워지고 하세요
+17,1,Yorihime0b,종의 신도…
+17,2,Yorihime0a,히노카그트치!
+17,3,Yorihime0a,구워 쫓아랏!
+17,4,Yorihime0a,이것은 무엇보다도 뜨거운 불길!
+17,5,Yorihime0a,받으세요!
+17,6,Yorihime0a,되는 대로란…!
+18,0,Yorihime0a,신의 힘을 깨달으세요!
+18,1,Yorihime0b,화지가구토신이야…
+18,2,Yorihime0a,화지가구토신이야… 이 칼에!
+18,3,Yorihime0a,구워 쫓아랏!
+18,4,Yorihime1b,아직 끝나지 않습니다!
+18,5,Yorihime1b,오오오오오오옷!
+18,6,Yorihime0b,너무 약하다!
+19,0,Yorihime0a,받아 보는 것이 좋아요!
+19,1,Yorihime0a,와라、염의 신…
+19,2,Yorihime0a,화지가구토신!
+19,3,Yorihime0a,구워 쫓아랏!
+19,4,Yorihime0a,도가 하지는 하지 않아요!
+19,5,Yorihime0a,일곡!
+19,6,Yorihime0b,조금은 뼈가 있던듯 하네!
+20,0,Yorihime0a,깜박여 하는 동안도 주지는 않는다…
+20,1,Yorihime0a,다케미카즈라노 가미야、힘을!
+20,2,Yorihime0a,질풍… 심한 뇌전!
+20,3,Yorihime1b,하앗!
+20,4,Yorihime1b,이미 나의 틈이야!
+20,5,Yorihime1b,하아아아아아앗!
+20,6,Yorihime1a,이것이 신의 번개야
+21,0,Yorihime0a,따라 올 수 있을 리가 없어요
+21,1,Yorihime0a,다케미카즈라노 가미… 초래
+21,2,Yorihime0a,한숨에… 잡는닷!
+21,3,Yorihime1b,파악했닷!
+21,4,Yorihime1b,하、는! 하아…!
+21,5,Yorihime1b,일곡!
+21,6,Yorihime0b,시시한 것을 베었어요
+22,0,Yorihime0a,하늘의 힘으로 억제합시다
+22,1,Yorihime0a,다케미카즈라노 가미야、이 칼에!
+22,2,Yorihime0a,필살、필중!
+22,3,Yorihime1b,너무 늦닷!
+22,4,Yorihime1b,일순간으로 결정한닷!
+22,5,Yorihime1b,하아아아아아앗!
+22,6,Yorihime0b,신의 칼날、깨달았을까
+23,0,Yorihime0b,모든 어둠을 지워 없앱시다
+23,1,Yorihime0b,아마노이와토[天の岩戶]야…
+23,2,Yorihime0a,아마노이와토[天の岩戶]야… 열고―
+24,0,Yorihime0b,자、엎드리는 것이 좋아요
+24,1,Yorihime0b,커다란 자모의 광명이야…
+24,2,Yorihime0a,커다란 자모의 광명이야… 비추어라―
+25,0,Yorihime0a,와라、천조오미카
+25,1,Yorihime0b,빛이야、어둠을 쫓아라―
+25,2,Yorihime0b,빛이야、어둠을 쫓아라―
+26,0,Yorihime0b,와라、천조오미카─
+27,0,Yorihime0a,아마노이와토[天の岩戶]야、열고―
+28,0,Yorihime0a,상대의 움직임을 읽어 봅시다
+29,0,Yorihime0a,좀 더 힘을 지켜볼까요
+30,0,Yorihime0c,그대로 이길 수 없어요
+31,0,Yorihime0c,겁먹은듯 하네
+32,0,Yorihime0b,은혜에는 반드시 보답합니다
+33,0,Yorihime0a,이 싸움、내가 맡습니다
+34,0,Yorihime0a,뒤는 내가 맡읍시다
+35,0,Yorihime0a,이것도 의무의 하나입니다
+36,0,Yorihime0c,잘 모르구나、물러나세요
+37,0,Yorihime0a,언제라도 의지하면 좋아요
+38,0,Yorihime0a,나에게 계속되세요!
+39,0,Yorihime0a,내가 붙어 있어요
+40,0,Yorihime0a,틈을 만듭시다
+41,0,Yorihime0a,이슬을 지불합시다
+42,0,Yorihime0a,그대로 진행되세요
+43,0,Yorihime0a,탄막을 맞춘다고 하는 일이군요!
+44,0,Yorihime0a,신의 힘과 나의 검、당신과 함께 있어요
+45,0,Yorihime0a,이 전국을 우리들이 바꾸어요!
+46,0,Yorihime2a,지상의 무녀에 도와진다고는…!
+47,0,Yorihime0a,마무리가 어설펐어요、지상의 무녀
+48,0,Yorihime0a,레이무、뒤는 내가 맡읍시다
+49,0,Yorihime0a,무녀라고 해도、아직 미숙할까
+50,0,Yorihime0a,레이무、기분이 느슨해지고 있을까
+51,0,Yorihime0a,당신이라면 능숙하게 하겠지요
+52,0,Yorihime0a,무녀로서의 힘、마음껏 터세요!
+53,0,Yorihime0a,전위는 맡겼어요、지상의 무녀
+54,0,Yorihime0a,그 독특한 움직임、방해는 하지 않아요
+55,0,Yorihime0a,레이무、내가 견제로 돕시다
+56,0,Yorihime0a,나에게 머무는 신의 힘、레이무에게 맡겨요!
+57,0,Yorihime0a,레이무、전국을 우리 둘이서 바꾸어요!
+58,0,Yorihime0a,레이무、탄막을 맞추는 거네!
+59,0,Yorihime2a,당신이 이런 일을…
+60,0,Yorihime0a,견제의 역할은 완수한듯 하네
+61,0,Yorihime0b,레이센、뒤는 내가 맡읍시다
+62,0,Yorihime0b,레이센、기분이 느슨해지고 있을까
+63,0,Yorihime0a,원래는 그렇지만、\n 애완동물을 지키는 것도 의무입니다
+64,0,Yorihime0a,레이센、내가 견제로 돕시다
+65,0,Yorihime0a,레이센、내가 붙어 있어요
+66,0,Yorihime0a,전위는 맡겼어요、레이센
+67,0,Yorihime0a,이상하게 긴장할 필요는 없어요
+68,0,Yorihime0a,당신이라면 능숙하게 하겠지요
+69,0,Yorihime0a,나에게 머무는 신의 힘、레이센에게 맡겨요
+70,0,Yorihime0a,레이센、전국을 우리 둘이서 바꾸어요!
+71,0,Yorihime0a,레이센、탄막을 맞추세요!
+72,0,Yorihime0b,아고코로님의 원수、반드시 처형합니다!
+73,0,Yorihime0a,아고코로님의 생명이라면!
+74,0,Yorihime0a,아고코로님、뒤는 맡겨 주세요
+75,0,Yorihime2a,아고코로님을 상처 입힌다 따위!
+76,0,Yorihime0a,아고코로님、내려 주세요
+77,0,Yorihime0a,아고코로님、이슬을 지불합시다
+78,0,Yorihime0a,아고코로님、무리를 하시지 않도록…
+79,0,Yorihime0a,아고코로님、괜찮으시면 내가 정면으로…
+80,0,Yorihime0a,내가 당장이라도 앞에 나오기 때문에…
+81,0,Yorihime0a,아고코로님、보조자를 시켜 주세요
+82,0,Yorihime1b,나의 검、아고코로님에게 맡깁니다!
+83,0,Yorihime1b,아고코로님의 책으로 전국을 바꿉시다!
+84,0,Yorihime1b,아고코로님、탄막을 맞춥니다!
+85,0,Yorihime0a,누님의 원수、반드시 취합니다!
+86,0,Yorihime0a,누님、내가 베어 버립니다
+87,0,Yorihime0a,누님、뒤는 맡겨 주세요
+88,0,Yorihime0a,누님에게 상처를 입힐 수는…
+89,0,Yorihime0a,누님、내려 주세요
+90,0,Yorihime0a,누님、내가 이슬을 지불합니다
+91,0,Yorihime0a,누님、내가 먼저 갑니다
+92,0,Yorihime0a,너무 하지 않도록 해 주세요
+93,0,Yorihime0a,누님、너무 떨어지지 않도록 해 주세요
+94,0,Yorihime0a,누님、무리는 되지 않도록
+95,0,Yorihime0a,누님、보조자를 합시다
+96,0,Yorihime0a,누님、면월의 싸움을 보입시다
+97,0,Yorihime0a,누님、우리로 전국을 바꿉시다!
+98,0,Yorihime0a,누님、탄막을 맞춥시다
+99,0,Yorihime0b,레이센、각오에는 응합시다
+100,0,Yorihime0a,그렇게、훈련 대로 하면 되는거야
+101,0,Yorihime0a,의지를 내고 있도록(듯이)、좋은 경향이예요
+102,0,Yorihime0a,이것도 1군을 인솔하는 사람의 의무
+103,0,Yorihime0c,실전 경험 부족하구나…
+104,0,Yorihime0a,레이센、내가 붙어 있어요
+105,0,Yorihime1a,달의 방위대라면 해 보이세요!
+106,0,Yorihime0a,레이센、나에게 계속되세요
+107,0,Yorihime0a,전위의 일을 완수하세요、레이센
+108,0,Yorihime0a,레이센、훈련 대로로 하는거야
+109,0,Yorihime0a,레이센、나의 힘이 함께 있어요
+110,0,Yorihime0a,레이센、우리 둘이서 전국을 바꾸어요
+111,0,Yorihime0a,레이센、탄막을 맞추어요
+112,0,Yorihime0a,그 탄막은 단념했어요
+113,0,Yorihime0a,수싸움은 이쪽의 승리군요
+114,0,Yorihime0a,진검승부라면 가감(상태)하지 않아요
+115,0,Yorihime0a,맞혔던 것은 평가합시다
+116,0,Yorihime0a,맞히는 것만으로 힘껏일까
+117,0,Yorihime0a,어머나、방심하고 있었을까
+118,0,Yorihime0a,그 정도의 공격 밖에 할 수 없다고는…
+119,0,Yorihime2a,이 내가…
+120,0,Yorihime2a,내가 발을 멈출 수 있다고는…
+121,0,Yorihime2a,아무리 힘을 다해도 쓸데없다고 말하는데…
+122,0,Yorihime2a,하도록(듯이)、이지만 이 정도…!
+123,0,Yorihime0a,우연은 몇번도 계속되지 않는다
+124,0,Yorihime2a,나의 틈을 찾아낸다고는…
+125,0,Yorihime2a,나의 진단보다 빨랐던 것 같구나
+126,0,Yorihime2a,손은 뽑지 않지만…
+127,0,Yorihime0a,좋은 쳐박음이예요
+128,0,Yorihime0a,맞힌 것 뿐으로 기뻐하지 않는 것이군요
+129,0,Yorihime2a,아직 대항해 온다고 하는 거네…
+130,0,Yorihime0a,기운이 나져서는 의외이구나
+131,0,Yorihime0a,보이고 있어요
+132,0,Yorihime0a,너무 늦다!
+133,0,Yorihime0c,전혀 각오가 충분하지 않아요
+134,0,Yorihime0b,그 움직여、명확하게 안다
+135,0,Yorihime0a,이것이 탄막전의 마음가짐의 하나
+136,0,Yorihime0a,좋은 병사로는 될 수 없네요
+137,0,Yorihime0a,기본이 되어 있지 않은 공격이군요
+138,0,Yorihime0a,단련이 충분하지 않아요
+139,0,Yorihime0a,힘만으로는 이길 수 없어요
+140,0,Yorihime0c,바닥이 알려지는 공격이군요
+141,0,Yorihime0a,배운다고 하는 일을 하지 않는 것일까
+142,0,Yorihime0c,허술한 공격이예요
+143,0,Yorihime0a,다 안 결과였어요
+144,0,Yorihime0b,접하는 것조차 이길 수 없는 것 같네
+145,0,Yorihime0a,나에게는 사각은 없습니다
+146,0,Yorihime0a,나에게는 결코 더러움은 닿지 않는다
+147,0,Yorihime0a,모든 기는 나의 곁으로 있다
+148,0,Yorihime0a,미숙의 한 마디군요
+149,0,Yorihime0a,훌륭히라고 말해 둘까요
+150,0,Yorihime2a,내가 불찰을 취한다고는…
+151,0,Yorihime0a,그 탄막의 아름다움、인정합시다
+152,0,Yorihime0a,현재는、이것으로 칼을 납입합시다
+153,0,Yorihime1b,아고코로님을 상처 입힌 죄、갚으세요!
+154,0,Yorihime0a,어디의 말뼈다귀가 모르지만…
+155,0,Yorihime0a,악한 환영은 잘라 버릴 뿐!
+156,0,Yorihime0a,얼마나 모습을 흉내낼려고도…
+157,0,Yorihime2a,아고코로님의 모습을 희롱한다 따위…!
+158,0,Yorihime0a,그 존재가 불경이예요
+159,0,Yorihime0a,단순한 환영이라고는 해도 용서를
+160,0,Yorihime0a,그 존재가 불경이예요
+161,0,Yorihime0a,다만 부채를 내세우는 것 만으로는…
+162,0,Yorihime0c,그러면、\n 누님에게는 머네요
+163,0,Yorihime0c,임신하는 신에의 경의가 느껴지지 않아요
+164,0,Yorihime1b,자랑해 울어 기술 따위!
+165,0,Yorihime0a,아직 보상은 충분하지 않아요
+166,0,Yorihime0a,아직 보상은 충분하지 않아요
+167,0,Yorihime0a,무리하게 힘을 품은 곳에서…!
+168,0,Yorihime2a,패자를 고정시켜두는 검은 가지지 않습니다만…
+169,0,Yorihime0a,꿈의 힘、\n 상대에게 있어 불만은 없네요
+170,0,Yorihime0a,당신을 넘어뜨려、\n 책임을 다하게 해 받읍시다
+171,0,Yorihime0a,수 많은 신의 힘을 나타내、\n 이것으로 끝냅니다!
+172,0,Yorihime0a,꿈의 힘、\n 상대에게 있어 불만은 없네요
+173,0,Yorihime0a,당신을 넘어뜨려、\n 책임을 다하게 해 받읍시다
+174,0,Yorihime0a,수 많은 신의 힘을 나타내、\n 이것으로 끝냅니다!
+175,0,Yorihime0a,완전히、부끄럽네요…
+176,0,Yorihime0a,스스로마주볼 기회라고 생각합시다…
+177,0,Yorihime0a,누님의 움직임은 나에게도 읽을 수 없어요…
+178,0,Yorihime0a,오랜만에 훈련을 할 생각으로…
+179,0,Yorihime1b,아고코로님에게 손을 든 죄、갚아 받는다!
+180,0,Yorihime0a,머물어라、신의 염…
+180,1,Yorihime0a,머물어라、신의 염…
+180,2,Yorihime0a,히노카그트치、초래!
+180,3,Yorihime0a,구워 쫓아랏!
+180,4,Yorihime0a,티끌 하나 남기지 않는다…!
+180,5,Yorihime0a,티끌 하나 남기지 않는다…!
+180,6,Yorihime0b,이것은 아직、수가 아주 많음 분의 1이야!
+181,0,Yorihime0a,매일 단련하고 있을까 \n 확인해 주어요
+182,0,Yorihime0a,아휴、\n 아직 엉거주춤한 자세는 회복되지 않은거네
+183,0,Yorihime0a,누님、가슴을 빌리게 해 받습니다
+184,0,Yorihime0a,연습을 붙여 받는 것은 \n 오래간만이군요

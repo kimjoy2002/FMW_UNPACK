@@ -1,0 +1,981 @@
+﻿Char1,Char2,Name1,Name2
+Rumia,Daiyosei,큐어 다크니스,
+Rumia,Cirno,최강의 어둠,
+Rumia,Remilia,어둠의 권속,낮의 밤의 왕
+Rumia,Flan,미친 어둠의 권속,어둠의 파괴자
+Rumia,Letty,얼어붙는 어둠,
+Rumia,Lunasa,기력이…빠진다…,
+Rumia,Yukari,환상구울,
+Rumia,Wriggle,어스름의 등불,
+Rumia,Mystia,어두운 밤 자연생성,트윈 나이트버드
+Rumia,Keine,요괴학생 제1호,
+Rumia,Reimu,항복한 요괴 제1호,
+Rumia,Yorihime,뒤편의 달,
+Rumia,Toyohime,뒤편의 달,
+Rumia,Kisume,꽈리처럼 붉은 도깨비불,
+Rumia,Yamame,그림자 거미,
+Rumia,Yugi,다크 파워,
+Rumia,Satori,기어오는 마음의 어둠,
+Rumia,Koishi,밤구석 외톨이가 되어버려,
+Rumia,Ichirin,승인건가-,
+Rumia,Byakuren,승인건가-,
+Rumia,Nue,언디파인드 다크니스,
+Rumia,Medicine,독을 먹는다면 꽃까지,
+Rumia,Luna,나이트 페어리,
+Rumia,Kurumi,암야의 권속,흑의 금발유녀
+Rumia,Mima,완전한 어둠,
+Daiyosei,Cirno,호수 위의 마정조,다이치르가 나의 해피 세트
+Daiyosei,Koakuma,무명의 참모,천사와 악마
+Daiyosei,Letty,큐어 크리스탈,
+Daiyosei,LilyW,큐어 스프링,
+Daiyosei,LilyB,큐어 스프링,
+Daiyosei,Lyrica,리리카냰,
+Daiyosei,Wriggle,큐어 나이트버그,
+Daiyosei,Mystia,큐어 코러스,
+Daiyosei,Marisa,대요정냰,
+Daiyosei,Eirin,생명의 근원,
+Daiyosei,Minoriko,고구마x4,
+Daiyosei,Sanae,큐어 미라클,
+Daiyosei,Kisume,퓨어 그린,
+Daiyosei,Nazrin,나즈린 짱,
+Daiyosei,Sunny,큐어 서니,
+Daiyosei,Star,큐어 사파이어,
+Daiyosei,Luna,큐어 차일드,
+Daiyosei,Kurumi,호수 위의 정신,
+Daiyosei,Shinki,기도의 집약,
+Cirno,Patchouli,이터널 메가 블리자드,
+Cirno,Letty,빙설의 결정조,어느 겨울날의 우정
+Cirno,LilyW,봄을 알리는 얼음요정,
+Cirno,LilyB,봄을 알리는 얼음요정,
+Cirno,Yuyuko,무모함은 령기!,
+Cirno,Ran,최강의 식,최강의 요수
+Cirno,Wriggle,스노우 버그 스톰,
+Cirno,Mystia,이노센트 월드,일석이조
+Cirno,Marisa,무모함은 용기,
+Cirno,Tewi,못박힌 눈덩이,
+Cirno,Mokou,반작용 봄,
+Cirno,Hina,페어리 스핀,
+Cirno,Aya,천공의 설풍,
+Cirno,Hatate,남몰래 치러진 대전쟁,
+Cirno,Suwako,케로짱 얼음에도 지지않아,
+Cirno,Nazrin,자이언트 킬링,
+Cirno,Yuka,햇볕에 그을린 치르노,
+Cirno,Tenshi,다이아몬드 더스트,쌀쌀한 용기
+Cirno,Sunny,요정대전쟁,
+Cirno,Star,북극성,최강의 별
+Cirno,Luna,최강이라 미안,
+Cirno,Kurumi,호수위의 마,
+Cirno,Yumeko,최강 클래스,
+Meiling,Koakuma,평화의 홍색,
+Meiling,Patchouli,철벽의 이지스,
+Meiling,Sakuya,홍마의 종자조,녹슬지 않는 권과 나이프
+Meiling,Remilia,홍마의 붉은 정예,스칼렛 오라
+Meiling,Flan,무지개색의 인연,칠색 채광의 주종
+Meiling,Chen,문지기 오렌지,고양이 방울
+Meiling,Alice,칠색의 무지개,
+Meiling,Yukari,홍색의 경계,야쿠모 홍이라곤 부를수 없어
+Meiling,Wriggle,하이퍼 곤충색 발차기,
+Meiling,Tewi,흰토끼 태극권,
+Meiling,Mokou,불타올라라 홍룡,
+Meiling,Shizuha,낙엽 발차기,
+Meiling,Minoriko,가을의 전사들,
+Meiling,Momiji,방패와 벽,
+Meiling,Yugi,다가오는 귀기,
+Meiling,Kogasa,무지개색 파라솔,오버 더 레인보우
+Meiling,Ichirin,문답무용의 요괴권,
+Meiling,Sho,용호의 권,타이거 & 드래곤
+Meiling,Byakuren,연꽃의 주먹,
+Meiling,Yuka,가드닝,
+Meiling,Iku,오조룡의 권,땅의 용과 하늘의 용
+Meiling,Tenshi,황사의 지맥,
+Meiling,Elliy,보통의 문지기,홍몽의 문지기
+Koakuma,Patchouli,이동식 대도서관,모시겠습니다~
+Koakuma,Sakuya,관의 티타임,
+Koakuma,Remilia,악마의 권속,데빌 윙
+Koakuma,Flan,레이디 매너 레슨,
+Koakuma,Minoriko,보급부대,
+Koakuma,Hina,헌신의 가호,
+Koakuma,Hatate,걸즈 타임,
+Koakuma,Sanae,영력 스포일러,
+Koakuma,Iku,오피스 레이디,
+Koakuma,Kurumi,마력의 순환,
+Koakuma,Mima,매혹하는 마력,
+Patchouli,Sakuya,메탈 퍼티그,
+Patchouli,Remilia,백년지기 친구,악마의 관
+Patchouli,Flan,그늘의 마법소녀,
+Patchouli,Alice,칠색과 일곱 요일의 마녀,마도서 탐구자
+Patchouli,Lunasa,루나 크레센트,
+Patchouli,Yukari,현자의 방벽,
+Patchouli,Wriggle,책벌레,
+Patchouli,Mystia,세븐스 문,
+Marisa,Patchouli,금서목록,가져가지마-
+Patchouli,Eirin,머큐리 오션,연단의 수은
+Patchouli,Kaguya,로열 다이아몬드 링,
+Patchouli,Reisen,프로젝트 스미요시,스미요시 월면침략계획
+Patchouli,Shizuha,리프 슬래셔,
+Patchouli,Minoriko,엘리멘탈 하베스터,
+Patchouli,Nitori,마법과학 아카데미아,
+Patchouli,Sanae,미라큘러스 거스트,
+Patchouli,Kanako,무적포대,디스트로이드 콤비
+Patchouli,Satori,기록되가는 마음,
+Patchouli,Utsuho,디바인 플레어,
+Patchouli,Komachi,나른한 도서관,부동의 포대
+Patchouli,Yuka,새틀라이트 해바라기,선&문 어택
+Patchouli,Tenshi,화담의 마녀,
+Patchouli,Sunny,선샤인 리플렉터,
+Patchouli,Kurumi,열심히 일하라,대도서관의 함정
+Patchouli,Akyu,환상의 서고,
+Patchouli,Mima,연속영창,
+Patchouli,Yumeko,데몬즈 블레이드,
+Sakuya,Remilia,몽환의 홍마조,완전히 소쇄해진 주종관계
+Sakuya,Flan,곁에서 새기는 시계,
+Sakuya,Letty,COOL LADIES,
+Sakuya,Chen,시계태엽 첸,
+Sakuya,Alice,조종 돌,
+Sakuya,Lyrica,개고기~,
+Sakuya,Youmu,백은의 종자,쾌도난마
+Sakuya,Yukari,터널 이펙트,거미줄 한 권
+Sakuya,Mystia,메이드 씨의 노래,
+Sakuya,Reimu,청소의 방해자,
+Sakuya,Marisa,매지컬 사쿠야 짱 스타,마법사와 마술사
+Sakuya,Udonge,만월의 적안,
+Sakuya,Eirin,은발의 종자,말할 수 없는 인연
+Sakuya,Kaguya,시간의 주인,
+Sakuya,Mokou,불꽃의 시계,영겁의 은발
+Sakuya,Reisen,메이드복과 기관총,
+Sakuya,Yorihime,금속의 싸움,
+Sakuya,Sanae,완상의 인간,
+Sakuya,Yamame,실거미 한 가닥,
+Sakuya,Byakuren,매직 스타 소드,
+Sakuya,Komachi,수명 얼마든지 있음,속도에의 회답
+Sakuya,Yuka,달 밑에서 피는 꽃,마이 페이버릿 띵즈
+Sakuya,Tenshi,흐림의 종자,
+Sakuya,Kurumi,은색수저,
+Sakuya,Akyu,홍차의 향기,
+Sakuya,Yumeko,싸우는 메이드 씨,금과 은의 메이드
+Remilia,Flan,Scarlets,영원히 붉은 어린 쌍달
+Remilia,Lunasa,데모나 루나틱,언니는 괴로워
+Remilia,Wriggle,흡혈 강의,
+Remilia,Reimu,진홍의 결계,
+Remilia,Udonge,루나틱 레드,
+Remilia,Eirin,진월의 마력,
+Remilia,Kaguya,배트 배드 레이디,
+Remilia,Mokou,불꽃의 악마,
+Remilia,Shizuha,홍색의 언니,
+Remilia,Hina,휠 오브 포츈,
+Remilia,Aya,빠른 날개,환상향최속결정전
+Remilia,Sanae,오망성 육망성,
+Remilia,Satori,미저러블 하트,운명의 마음의 사슬
+Remilia,Utsuho,신인가 악마인가,진 다이나믹 황제
+Remilia,Kogasa,타타라 양산,
+Remilia,Yuka,선혈의 붉은 꽃,세계를 물들이는 힘
+Remilia,Suika,홍무의 두 악마,
+Remilia,Iku,스크램블 러시,
+Remilia,Tenshi,주홍색 농무,
+Remilia,Kurumi,흡혈은 기본소양,흡혈소녀
+Remilia,Akyu,안개 속의 싸움,
+Remilia,Shinki,데몬 로드,
+Flan,Alice,인디언 돌,프랑틱 돌
+Flan,Yuyuko,벚꽃의 광소,미쳐 피는 벚꽃
+Flan,Marisa,마법소녀 키리사메 플랑,반짝반짝 별
+Flan,Udonge,증폭되는 광기,루나틱 디스트로이어
+Flan,Kaguya,유구한 유폐,
+Flan,Mokou,파괴와 재생,
+Flan,Yorihime,불꽃의 검,
+Flan,Minoriko,홍색의 동생,시스터 오브 스칼렛
+Flan,Kisume,비밀의 흉악함,
+Flan,Parsee,파괴적인 그녀,
+Flan,Koishi,그리고 아무도 외롭지 않았다.,
+Flan,Nazrin,서치 & 디스트로이,
+Flan,Kogasa,타타라 양산 (동생),
+Flan,Nue,현대에 사는 공포,언노운 엑스트라
+Flan,Sunny,서니 밀크의 홍무이변,
+Flan,Kurumi,탄막유희,
+Letty,LilyW,봄의 발소리,꽃샘추위
+Letty,LilyB,봄의 발소리,꽃샘추위
+Letty,Yuyuko,엄동과 영춘,흑막~
+Letty,Yukari,잠자는 요괴,
+Letty,Wriggle,겨울잠으로의 초대,칩거
+Letty,Mystia,환상 해협 겨울 풍경,냉기 바사라
+Letty,Shizuha,혹한의 도래,시들해짐의 잠
+Letty,Minoriko,결실의 잠,
+Letty,Aya,기록적 대한파,
+Letty,Utsuho,설국의 온천,
+Letty,Yuka,결정의 꽃다발,
+Letty,Suika,대설산 토가쿠시 던지기,
+Letty,Tenshi,눈보라의 지맥,
+Chen,Youmu,요요습격,요요선봉
+Chen,Yuyuko,이웃집 언니,
+Chen,Ran,요요발호,요괴의 식과 식의 식
+Chen,Yukari,야쿠모 첸…?,
+Chen,Momiji,캣츠 & 아이,
+Chen,Hatate,트윈테일즈,
+Chen,Orin,우린 고양이로소이다,냥냥구락부
+Chen,OrinC,우린 고양이로소이다,냥냥구락부
+Chen,Nazrin,궁지에 몰린 쥐와 함께,
+Chen,Kogasa,사람을 놀래키는 정도의 능력,
+Chen,Sho,타이거&캣,비상비사문천
+Chen,Byakuren,네코마인Z,
+Chen,Iku,날아다니는 겹비늘,
+Chen,Elliy,문지기의 오렌지,
+Alice,Lunasa,기교의 손끝,
+Alice,Yukari,기량의 높은 경지,
+Alice,Keine,환상소녀의 브레인,박치기는 브레인
+Alice,Reimu,구면의 신뢰,앨리스 마에스트라
+Alice,Marisa,금주의 영창조,
+Alice,Hina,새크리파이스 돌,
+Alice,Nitori,마법의 손끝,인형공방NITORI
+Alice,Aya,발견! 마을의 순회 공연인,
+Alice,Hatate,인도어 스타일,
+Alice,Yamame,실 사용자,
+Alice,Parsee,저주의 짚인형,
+Alice,Satori,스트로 돌,
+Alice,Ichirin,사람 행세 요괴,
+Alice,Byakuren,마계의 마법사,
+Alice,Medicine,자라나는 마음,유독성 자동인형사
+Alice,Yuka,칠색의 요화조,다채롭게 피는 요화
+Alice,Iku,한다면 하는 여자들,
+Alice,Tenshi,우박의 연격,
+Alice,Sunny,숲의 주민,
+Alice,Star,숲의 주민,
+Alice,Luna,숲의 주민,
+Alice,Elliy,블론드 헤어,야 금발!
+Alice,Mima,비주의 영창,
+Alice,Yumeko,마음의 혈연,마계신의 딸들
+Alice,Shinki,이어져 가는 것,Dear my...
+LilyW,Lyrica,봄이여 오라,버닝 나이트
+LilyW,Lunasa,스프링 소나타,
+LilyW,Yuyuko,춘설,있으나마나 한 봄
+LilyW,Wriggle,경칩,겨울잠에서 깨어나다
+LilyW,Mystia,봅의 시,
+LilyW,Tewi,럭키 심볼,행운의 징조
+LilyW,Reisen,하늘에 걸쳐친 인연,봄빛 지상
+LilyW,Shizuha,초겨울의 따뜻한 날씨,
+LilyW,Minoriko,파종 시즌,
+LilyW,Medicine,은방울꽃의 계절,릴리 오브 더 밸리
+LilyW,Yuka,환상춘화,생명의 순환
+LilyW,Kurumi,싹트는 악마,
+LilyB,Lyrica,봄이여 오라,버닝 나이트
+LilyB,Lunasa,스프링 소나타,
+LilyB,Yuyuko,춘설,있으나마나 한 봄
+LilyB,Wriggle,경칩,겨울잠에서 깨어나다
+LilyB,Mystia,봅의 시,
+LilyB,Tewi,럭키 심볼,행운의 징조
+LilyB,Reisen,하늘에 걸쳐친 인연,봄빛 지상
+LilyB,Shizuha,초겨울의 따뜻한 날씨,
+LilyB,Minoriko,파종 시즌,
+LilyB,Medicine,은방울꽃의 계절,릴리 오브 더 밸리
+LilyB,Yuka,환상춘화,생명의 순환
+LilyB,Kurumi,싹트는 악마,
+Lyrica,Merlin,태양과 별의 음색,키보드 세션
+Lyrica,Lunasa,별과 달의 중주,광채육리
+Lyrica,Mystia,피아노 레슨,
+Lyrica,Marisa,반짝반짝 별의 소리,
+Lyrica,Tewi,해치워버려 우사,
+Lyrica,Yorihime,멀쩡한 여동생,
+Lyrica,Koishi,여동생 요괴,
+Lyrica,Kogasa,파라솔 스타 심포니,파라솔 스타 피아노
+Lyrica,Byakuren,목어 연탄,
+Lyrica,Star,멜로디어스 스타,트릭스타 걸즈
+Lyrica,Elliy,엘리를 위하여,
+Lyrica,Kurumi,기대의 신성,
+Merlin,Lunasa,달과 해의 선율,관현악 앙상블
+Merlin,Yuyuko,빙글빙글 블로섬,하이텐션 유령
+Merlin,Mystia,관악독창,
+Merlin,Tewi,행복 전도사,
+Merlin,Kaguya,달의 음율,
+Merlin,Hina,빙글빙글~,
+Merlin,Yamame,야마메를랑,
+Merlin,Parsee,마음을 움직이는 파동,
+Merlin,Utsuho,해피 선,태양이 잔뜩
+Merlin,Nue,울려라! 유에프오,
+Merlin,Komachi,리버사이드 송,
+Merlin,Yuka,플라워 락,
+Merlin,Tenshi,유정천의 음,
+Merlin,Sunny,해피 서니,
+Lunasa,Mystia,현악독창,
+Lunasa,Marisa,마법사의 우울,
+Lunasa,Udonge,루나 사운드 웨이브,
+Lunasa,Toyohime,고요의 바다,
+Lunasa,Shizuha,평온한 낙엽,
+Lunasa,Nazrin,하멜른의 바이올린 연주,
+Lunasa,Medicine,노이즈 멜랑콜리,
+Lunasa,Luna,사일런트 문,무디 루나
+Lunasa,Elliy,엘리의 우울,
+Youmu,Yuyuko,유명의 주인조,벚꽃의 검술사범조
+Youmu,Ran,요접들의 경호원,요괴들의 경호원
+Youmu,Keine,혼혈의 인간,
+Youmu,Udonge,GUN×SWORD,
+Youmu,Yorihime,검광일섬,참함태도
+Youmu,Nitori,디바이딩 엣지,
+Youmu,Momiji,백번 단련된 검극,천리안 x 검
+Youmu,Yugi,지옥 유명의 고륜,
+Youmu,Utsuho,지옥극락 멜트베기,
+Youmu,Kogasa,요괴가 담금질한 이 누관검!,아밤 스트랏슈
+Youmu,Murasa,망설의 영혼,
+Youmu,Sho,불굴의 일선,
+Youmu,Byakuren,열반의 적정과도 같이,
+Youmu,Yuka,물파초,
+Youmu,Tenshi,창천의 검사,
+Youmu,Yumeko,블레이드 마스터,
+Youmu,Shinki,신을 베는 검,
+Yuyuko,Yukari,이중의 요접,게으른 사접
+Yuyuko,Mystia,먹느냐 듣게하느냐,배후령 주의
+Yuyuko,Reimu,무채색의 벚꽃,
+Yuyuko,Eirin,맹월의 술잔,
+Yuyuko,Kaguya,영원한 시간의 주민,윤회에서 벗어난 자
+Yuyuko,Toyohime,더러움 없는 신체,어렴풋한 더러움
+Yuyuko,Aya,마을사람 A 발견,
+Yuyuko,Sanae,신령의 해후,
+Yuyuko,Kanako,짊어진 것의 거대함,
+Yuyuko,Suwako,와접우월,
+Yuyuko,Satori,유령들의 관리자,고스트 랜드
+Yuyuko,Murasa,미련의 영혼,지금을 살아가는 유령
+Yuyuko,Komachi,유명의 인도자,명계안내인
+Yuyuko,Eiki,저승을 지켜보는자,
+Yuyuko,Yuka,앵화지연총,사령의 밤 벚꽃놀이
+Yuyuko,Suika,맑은 술,취객의 삶
+Yuyuko,Tenshi,무념무상,천계에서 눈구경과 술을
+Yuyuko,Luna,눈과 달과 벚꽃의 나라,
+Yuyuko,Mima,머무는 영혼,
+Yuyuko,Shinki,너그러운 마음,SP요괴
+Ran,Yukari,최강의 주종,비길 자 없는 수학자
+Ran,Marisa,스타&폭스,
+Ran,Tewi,환상 주토피아,
+Ran,Udonge,- Illusion -,환시의 요수
+Ran,Kaguya,프린세스 텐코,
+Ran,Momiji,쇼기 견왕전,
+Ran,Aya,이즈나권현 강림,
+Ran,Orin,고양이 목숨은 아홉개,
+Ran,OrinC,고양이 목숨은 아홉개,
+Ran,Kogasa,엄브렐라 샘플링,
+Ran,Sho,금발의 요수조,호가호위
+Ran,Byakuren,초인 스펠카드,
+Ran,Nue,전설의 요수,
+Ran,Komachi,타마모노의 낫,
+Ran,Yuka,여우 창문,불퇴불적
+Ran,Star,스타 폭스,
+Ran,Shinki,탄막수업참관,
+Yukari,Wriggle,비행충 네스트,
+Yukari,Keine,이어지는 역사,
+Yukari,Reimu,환상의 결계조,붙잡을수 없는 하늘의 경계
+Yukari,Marisa,인요의 혼천의,
+Yukari,Eirin,현자의 추억,지상과 달의 지혜
+Yukari,Toyohime,건너편의 달,제 2차 월면전쟁
+Yukari,Sanae,상식의 뒷면,
+Yukari,Kisume,낯선 백골,
+Yukari,Yamame,빛과 어둠의 그물,
+Yukari,Satori,이어진 손,요의 기억
+Yukari,Koishi,신출귀몰,환상과 실체의 경계
+Yukari,Nazrin,현자와 현장,
+Yukari,Kogasa,잃어버린 우산의 훌쩍 여행,트윈 엄브렐라
+Yukari,Byakuren,보랏빛 구름길,
+Yukari,Nue,키마라의 날개,옛 시절을 아는 요괴
+Yukari,Komachi,늦잠족,게으르며 우아한 행방불명
+Yukari,Eiki,환상의 감시자,
+Yukari,Yuka,궁극의 대요괴,끝없는 미소
+Yukari,Suika,고참 요괴친구,숨어 사는 친구
+Yukari,Tenshi,여우비의 마음씨,잔혹하게 사라져라
+Yukari,Akyu,연기의 편집자,요괴박사
+Yukari,Mima,요괴의 성좌,
+Yukari,Yumeko,언리미티드 탄막 워크스,
+Yukari,Shinki,창조자,아인 소프 오르
+Wriggle,Mystia,야밤을 비추는 날갯소리,한여름밤의 권유
+Wriggle,Marisa,지상의 유성,
+Wriggle,Tewi,벌레 포획 재작전,
+Wriggle,Kaguya,벌레와 공주님 둘,
+Wriggle,Mokou,불타는 여름의 반딧불,
+Wriggle,Shizuha,궁극의 발차기,
+Wriggle,Minoriko,궁극의 발차기,
+Wriggle,Nitori,물가의 요괴,시냇물의 반딧불
+Wriggle,Sanae,기적의 매미,
+Wriggle,Suwako,벌레는 입 때문에 개구리가 꿀꺽한다,
+Wriggle,Yamame,싸움을 잇는 가는 실,
+Wriggle,Parsee,질투의 벌레,
+Wriggle,Byakuren,매직 버터플라이,
+Wriggle,Medicine,다가오는 벌레의 독,
+Wriggle,Yuka,화조풍월,꽃과 벌레
+Wriggle,Kurumi,개미 관찰대,
+Mystia,Reimu,미코미코 레이무,
+Mystia,Marisa,내셔널 라이트,
+Mystia,Tewi,토끼의 댄스,
+Mystia,Mokou,파이어 봄버,불타올라라 새여
+Mystia,Aya,새 구이 박멸 동맹,
+Mystia,Suwako,돌 일곱 개와 달 일곱 개,
+Mystia,Parsee,질투의 노랫소리,
+Mystia,Yugi,궤멸의 펑크 샤우트,음격의 오니
+Mystia,Utsuho,요괴새의 날개치기,가자 새대가리
+Mystia,Byakuren,요괴독경 라이브,
+Mystia,Komachi,삼도의 뱃노래,사~암 도~오천 나룻터~
+Mystia,Medicine,은~방울꽃~,
+Mystia,Suika,밤의 술집 포장마차,
+Mystia,Luna,사일런스 보이스,
+Keine,Reimu,시작의 역사,
+Keine,Tewi,역사의 방관자,태고부터의 역사
+Keine,Eirin,영원의 근변,
+Keine,Mokou,새기는 인간의 역사,죽림의 인간
+Keine,Yorihime,불꽃의 열혈탄막교사,
+Keine,Momiji,강철의 고독한 늑대,
+Keine,Hatate,저속 돌진,
+Keine,Sanae,마을을 지키는 인간,
+Keine,Parsee,되돌아오는 이치죠 다리,
+Keine,Yugi,지옥의 교사,
+Keine,Kogasa,옛날의 소나기,
+Keine,Sho,어그레시브 비스트,
+Keine,Nue,짐승이 합쳐진 요괴,
+Keine,Eiki,걸어다니는 설교,
+Keine,Suika,단단한 두 뿔,
+Keine,Akyu,마을의 지식인,
+Keine,Yumeko,사랑과 열혈의 교육자,
+Keine,Shinki,만들어지는 역사,탄막 학부모회
+Reimu,Marisa,삼색연화접,영웅과 조정자
+Reimu,Tewi,행운의 메커니즘,
+Reimu,Eirin,두 망향,
+Reimu,Mokou,요괴퇴치의 전문가,요괴 버스터즈
+Reimu,Reisen,신사의 달토끼,
+Reimu,Yorihime,지상과 달의 무녀,천성의 무녀
+Reimu,Shizuha,모셔지지 못하는 들판신님,
+Reimu,Minoriko,모셔지지 못하는 들판신님,
+Reimu,Momiji,레이무검랑전설,
+Reimu,Aya,무녀밀착취재,
+Reimu,Hatate,파파라치 격퇴 결계,
+Reimu,Sanae,환상의 무녀조,기슭과 산의 무녀
+Reimu,Suwako,전신전령의 신놀이,무녀의 신놀이
+Reimu,Parsee,하시히메 신사,
+Reimu,Orin,스컬 리더,
+Reimu,OrinC,스컬 리더,
+Reimu,Koishi,지각의 이면,
+Reimu,Eiki,낙원의 재녀,
+Reimu,Yuka,아름다운 탄막의 꽃,
+Reimu,Suika,대등한 인간과 오니,신사에서 빈둥빈둥
+Reimu,Tenshi,쾌청의 무녀,
+Reimu,Sunny,동방삼월정,오리엔탈 S 플레이스
+Reimu,Mima,음양저주옥,
+Marisa,Tewi,버섯채취 대작전,
+Marisa,Udonge,이스케이프 벨로시티,
+Marisa,Yorihime,별가루의 인간,
+Marisa,Hina,질풍노도,
+Marisa,Nitori,맹우의 연,호기심의 인요
+Marisa,Aya,스피드스터,
+Marisa,Sanae,별모양의 탄막,모리야스타
+Marisa,Kisume,츠루베오토시 자리,
+Marisa,Yamame,환상 여단,트레져 헌터
+Marisa,Yugi,힘이야말로 파워,
+Marisa,Orin,인요 콜렉터즈,참을수 없는 수집벽
+Marisa,OrinC,인요 콜렉터즈,참을수 없는 수집벽
+Marisa,Utsuho,항성의 마포,
+Marisa,Koishi,클로즈드 런어웨이,
+Marisa,Nazrin,트레져 헌터,
+Marisa,Kogasa,파라솔 스타 매직,
+Marisa,Byakuren,블랙 로터스,
+Marisa,Yuka,빛과 열의 마포,꽃에 별
+Marisa,Suika,이부키도지 자리,
+Marisa,Tenshi,이슬비의 포격,
+Marisa,Star,슈팅 스타,
+Marisa,Luna,좀도둑 수집가,
+Marisa,Akyu,요정 버스터즈,요정섬멸조
+Marisa,Mima,마법의 사제조,
+Marisa,Yumeko,4차원 스커트,
+Tewi,Udonge,영야의 흰토끼조,달의 이나바와 지상의 이나바
+Tewi,Eirin,신데렐라 케이지,
+Tewi,Kaguya,달의 공주와 펫 (지상),달의 공주와 지상의 이나바
+Tewi,Reisen,지상의 토끼와 달의 토끼,
+Tewi,Toyohime,천성의 행운,
+Tewi,Minoriko,맨발 건강법,
+Tewi,Nitori,믹스 베지터블,
+Tewi,Murasa,후카히레스프의 바다,바닷물의 아픔
+Tewi,Sho,남아도는 행운과 재보,
+Tewi,Medicine,은방울 꽃밭 빌리기,
+Tewi,Yuka,네잎 클로버,
+Tewi,Suika,오니의 술 품평가,
+Udonge,Eirin,죽림의 약사,약학의 사제
+Udonge,Kaguya,달의 공주와 펫 (달),달의 공주와 달의 이나바
+Udonge,Reisen,문 솔져스,1호 2호
+Udonge,Yorihime,뒤돌아보는 일이 없도록,전 주인과 전 펫
+Udonge,Toyohime,달의 상관,
+Udonge,Hatate,한창의 걸즈,
+Udonge,Sanae,제복 걸즈,오캐닉 오버!
+Udonge,Suwako,스와코 중사,
+Udonge,Satori,정신감응파,
+Udonge,Utsuho,붉은색의 눈,
+Udonge,Sho,타이거&버니,
+Udonge,Komachi,롱 레인지 슛,
+Udonge,Tenshi,내려앉은 청람,
+Udonge,Luna,루나틱 루나 차일드,
+Eirin,Kaguya,달에서 온 죄인,에테르 영야 되돌리기
+Eirin,Mokou,업이 깊은 신체,
+Eirin,Reisen,현자의 봉서,달토끼의 편지
+Eirin,Yorihime,아득한 달을 생각하다,
+Eirin,Toyohime,천인의 계보,질손의 아내
+Eirin,Kanako,묶인 대지의 신,
+Eirin,Suwako,토착의 신과 하늘의 신,
+Eirin,Yamame,병과 약 겨루기,병주고 약주기
+Eirin,Satori,현자의 추억,
+Eirin,Medicine,독은 곧 약이니,
+Eirin,Suika,술은 백약의 으뜸,
+Eirin,Star,스타 보야주,
+Eirin,Mima,마법 스승과 약학 스승,되살아나는 태고의 문
+Kaguya,Mokou,봉래의 인연,영원한 호적수
+Kaguya,Reisen,되살아나는 달의 기억,
+Kaguya,Yorihime,프린세스 프린세스,
+Kaguya,Toyohime,프린세스 피치,고금월도만상전
+Kaguya,Shizuha,환상추월,
+Kaguya,Minoriko,환상추월,
+Kaguya,Hatate,안에서 보는 세계,방구석 파파라치
+Kaguya,Suwako,신 난제 「스와코의 모자」,
+Kaguya,Kisume,신 난제 「키스메의 두레박」,
+Kaguya,Parsee,작자 미상,
+Kaguya,Yugi,지상으로의 가교,주고 받은 술잔
+Kaguya,Satori,어슴푸레 떠오르는 금각사,
+Kaguya,Kogasa,신 난제 「코가사의 우산」,
+Kaguya,Byakuren,천년의 감옥,
+Kaguya,Nue,정체불명의 광석,
+Kaguya,Yuka,달에는 떼구름,
+Kaguya,Suika,쇄월,
+Kaguya,Tenshi,프린세스 텐코,
+Kaguya,Star,삼천년의 구슬,분재 취미
+Kaguya,Mima,여유와 교만,
+Kaguya,Shinki,생명의 샘,
+Mokou,Minoriko,감자튀김,홍련에 구워진 고구마
+Mokou,Aya,요익천상,
+Mokou,Kanako,재생의 신사,
+Mokou,Yugi,불주먹의 격추왕,
+Mokou,Orin,지옥의 도깨비불,
+Mokou,OrinC,지옥의 도깨비불,
+Mokou,Utsuho,업화현란,화염조
+Mokou,Nazrin,불쥐,
+Mokou,Eiki,단죄의 화염,
+Mokou,Tenshi,염천의 맹화,
+Mokou,Akyu,다시 보는 날까지,
+Reisen,Yorihime,계승되는 이름,교관과 나
+Reisen,Toyohime,기대의 명명,
+Reisen,Nitori,환상기관총,탄막 무장
+Reisen,Orin,땅과 달의 메신저,
+Reisen,OrinC,땅과 달의 메신저,
+Reisen,Iku,하늘의 날개옷,
+Reisen,Tenshi,내려앉은 청람,
+Reisen,Yumeko,메이드복과 기관총,
+Yorihime,Toyohime,월면의 수호자조,와타츠키의 스펠카드
+Yorihime,Nitori,달과 캇파,
+Yorihime,Sanae,신령초래,서몬 쿠니유즈리
+Yorihime,Kanako,환상 쿠니유즈리,위원중국평정
+Yorihime,Satori,와타츠키의 추억,
+Yorihime,Utsuho,신들의 그릇,맹렬한 신의 불꽃
+Yorihime,Sho,불퇴의 의지,
+Yorihime,Byakuren,수적 대일여래,환샹향의 황색 섬광
+Yorihime,Eiki,단죄의 일극,격노 뿡뿡
+Yorihime,Iku,뇌광일섬,천뢰일섬
+Yorihime,Tenshi,천의무봉,
+Yorihime,Sunny,설마의 천적,
+Yorihime,Mima,비할 데 없는 강한 힘,
+Yorihime,Yumeko,선렬한 참격,악 속 참 !
+Toyohime,Hina,히나마츠리,
+Toyohime,Utsuho,전설거인의 총,분해의 바람
+Toyohime,Kogasa,놀란 복숭아나무,
+Toyohime,Murasa,풍요의 바다,와다츠미의 마음
+Toyohime,Eiki,헬 & 헤븐,
+Toyohime,Medicine,봐주는 것 없다,
+Toyohime,Iku,용궁에서의 사자,
+Toyohime,Tenshi,천계도낭,
+Toyohime,Mima,절대적 단단함의 벽,
+Shizuha,Minoriko,아키 자매,영고의 신들
+Shizuha,Momiji,폴 앤드 폴,
+Shizuha,Aya,단풍선풍,
+Shizuha,Kanako,같은 머리장식,
+Shizuha,Kisume,수줍음 많은 단풍,
+Shizuha,Sho,황금의 가을,
+Shizuha,Eiki,분노의 단풍,
+Shizuha,Elliy,가을의 전사 엘리,
+Shizuha,Kurumi,가을의 전사? 쿠루미 짱,
+Minoriko,Nitori,야채 슈터,폭발의 채소
+Minoriko,Momiji,달리고 떨어지는 고구마,
+Minoriko,Aya,고구마 선풍,
+Minoriko,Sanae,오곡풍양 라이스 샤워,
+Minoriko,Kanako,신의 죽,
+Minoriko,Kisume,가을의 낙일,
+Minoriko,Sho,여무는 황금,
+Minoriko,Iku,하고로모 푸드,
+Minoriko,Elliy,가을의 전사 엘리,
+Minoriko,Kurumi,가을의 전사? 쿠루미 짱,가지가 휠 정도로 열려라
+Hina,Nitori,산의 상담소,캇파와 수난
+Hina,Momiji,물가의 감시자,
+Hina,Hatate,엔가쵸,
+Hina,Sanae,액막이 부적,
+Hina,Yamame,병과 액의 퇴적,
+Hina,Parsee,질투하는 신님,
+Hina,Komachi,액신님께서 지나가신다,운명의 리버사이드
+Hina,Medicine,인형의 마음,인형전선
+Hina,Iku,스파이럴 이펙트,
+Hina,Yumeko,Misery Dolls,
+Nitori,Momiji,산의 요괴 친구,산 위의 쇼기 기사
+Nitori,Hatate,완전방수 카메라,
+Nitori,Sanae,청류의 목욕재계,
+Nitori,Kanako,산의 개발 청부인,
+Nitori,Suwako,수생의 임팩트,
+Nitori,Yamame,더렵혀지지 않는 강,
+Nitori,Parsee,강의 요괴,
+Nitori,Satori,물 밑의 트라우마,
+Nitori,Utsuho,뉴클리어 웨폰,
+Nitori,Kogasa,시리코다마 투수 정면 강습,
+Nitori,Murasa,물 밑의 트라우마,
+Nitori,Komachi,강물의 흐름처럼,
+Nitori,Tenshi,환상향 일기예보,
+Nitori,Sunny,광학미채,
+Nitori,Yumeko,발키리 스커트,
+Nitori,Shinki,무장신키,
+Momiji,Aya,영산의 텐구조,비상하는 야마부시
+Momiji,Hatate,원시안의 염사,
+Momiji,Sanae,영산의 신앙,
+Momiji,Kanako,마운틴 울프,
+Momiji,Suwako,울프스 레인,
+Momiji,Kisume,머티리얼 가드,단단한 방패
+Momiji,Orin,캣츠&아이,
+Momiji,OrinC,캣츠&아이,
+Momiji,Ichirin,운명의 대검,
+Momiji,Sho,타이거 & 울프,
+Momiji,Byakuren,검랑의 이끎,
+Momiji,Eiki,텅 오브 울프,
+Momiji,Star,스타 울프,
+Momiji,Yumeko,강철의 칼날송곳니,
+Aya,Hatate,더블 스포일러,
+Aya,Sanae,요괴산의 바람,
+Aya,Kanako,역풍의 진격,
+Aya,Suwako,개구리를 위하여 바람은 분다,
+Aya,Kisume,통장수가 돈을 번다,
+Aya,Yugi,오에야마 바람,
+Aya,Satori,매크로버스트,
+Aya,Utsuho,검은 날개의 요괴,
+Aya,Kogasa,호외 서프라이즈,폭풍의 잔
+Aya,Ichirin,마하펀치,
+Aya,Byakuren,마하라이더,
+Aya,Nue,UFO 특집,공포신문
+Aya,Komachi,사출의 바람,
+Aya,Yuka,꽃에 바람,
+Aya,Suika,옛 산의 노장,오늘밤도 입만은 야자타임
+Aya,Iku,풍뢰소녀,
+Aya,Tenshi,비바람의 질주,
+Aya,Akyu,붓은 검보다 강하다,
+Aya,Yukari,초고속 스키마,
+Hatate,Sanae,요즘 걸즈,
+Hatate,Kanako,신앙의 산,꿈의 격식없는 술자리
+Hatate,Suwako,신앙의 산,
+Hatate,Satori,카메라 샤이 로즈,
+Hatate,Koishi,염사의 가시,
+Hatate,Ichirin,하이컬러 소녀,
+Hatate,Iku,날개옷 혼활 전설,
+Sanae,Kanako,모리야의 신풍조,함께 살아가는 바람
+Sanae,Suwako,모리야의 혈통조,신위의 혈통
+Sanae,Utsuho,대낮의 거성,거대 기뇰의 불
+Sanae,Nazrin,쥐를잡자 쥐를잡자,
+Sanae,Kogasa,추억의 잃어버린 우산,가지 같은 색의 우산
+Sanae,Nue,정체는 에일리언,
+Sanae,Suika,오거&오가닉,
+Sanae,Tenshi,나기의 무녀,천지인
+Kanako,Suwako,스와의 두 신,왕년의 동반자
+Kanako,Utsuho,깃들고 깃들여진 신,
+Kanako,Byakuren,신불혼효,사업 경쟁자
+Kanako,Medicine,뱀의 독,독사의 송곳니
+Kanako,Iku,구름을 헤엄치는 큰 뱀,썬더 마운틴
+Kanako,Tenshi,천지개벽,
+Kanako,Shinki,- 신과 신 -,천지창조
+Suwako,Kisume,우물을 떠난 개구리,우물 밖 개구리
+Suwako,Parsee,물에 잠긴 쇠바퀴,
+Suwako,Utsuho,마그마의 양서류,
+Suwako,Kogasa,비를 부르는 청개구리,본체는…?
+Suwako,Ichirin,옛 쇠바퀴,오래된 쇠바퀴
+Suwako,Medicine,비를 부르는 독개구리,호에이 4년의 독개구리
+Suwako,Suika,축제가 좋은 신과 오니,
+Suwako,Tenshi,곤을 지배하는 힘,장마의 생활
+Suwako,Sunny,초근성 개구리,
+Suwako,Shinki,어머니인 신,육아 경험자
+Suwako,Yukari,스키마 다이버,
+Kisume,Yamame,지저의 입구,환상의 풍혈
+Kisume,Parsee,지저의 주민,
+Kisume,Yugi,통과 술잔,
+Kisume,Orin,관짝수송부대,
+Kisume,OrinC,관짝수송부대,
+Kisume,Kogasa,백골 우산 돌리기,우산 위의 춤추는 뼈
+Kisume,Ichirin,요괴가 불쑥,
+Kisume,Tenshi,철벽의 수비,
+Yamame,Parsee,봉인당한 요괴들,
+Yamame,Yugi,지저의 힘자랑,
+Yamame,Satori,핑크 스파이더,
+Yamame,Utsuho,쿠로다니 야바메,
+Yamame,Nazrin,흑사병,트레져 헌터
+Yamame,Ichirin,천망 샌드백,
+Yamame,Byakuren,사냥감을 노리는 입문자,
+Yamame,Nue,정체불명의 열병,
+Yamame,Medicine,독타입,
+Yamame,Suika,산의 힘 센 사람,영산의 힘자랑
+Parsee,Yugi,오니의 참배,신경써줬으면 해
+Parsee,Satori,모두의 마음의 병,
+Parsee,Utsuho,젤러시 플레어,
+Parsee,Koishi,하트 탄막,몰아의 사랑
+Parsee,Nue,비슷한 원전,
+Parsee,Medicine,다리 위의 독부,
+Parsee,Suika,옛 친구를 향한 질투,
+Yugi,Satori,지저의 실력자,
+Yugi,Utsuho,지옥의 오니 온천,
+Yugi,Ichirin,운거의 철권,땅과 하늘의 철권
+Yugi,Byakuren,금강의 권,
+Yugi,Nue,괴력난신을 논하지 않는다,
+Yugi,Yuka,호방 라일락,화재와 싸움은
+Yugi,Suika,힘과 기술의 사천왕,호방뇌락
+Yugi,Iku,뇌영의 귀신,금강나선
+Yugi,Mima,무법의 제압자,아웃로우
+Satori,Orin,나아가는 지령전,우리들은 지금부터
+Satori,OrinC,나아가는 지령전,우리들은 지금부터
+Satori,Utsuho,희망의 태양,우리들은 지금부터
+Satori,Koishi,마음의 꽃,코메이지 자매
+Satori,Ichirin,핑크 클라우드,
+Satori,Eiki,내일을 향한 한걸음,지옥의 관리자들
+Satori,Shinki,마인드크래프트,마음의 생겨남
+Orin,Utsuho,지저의 짐승들,흉조는 나를 알고있으니
+Orin,Koishi,지령전의 오른팔,우리들은 지금부터
+Orin,Ichirin,불꽃의 대륜,
+Orin,Murasa,피연못지옥,
+Orin,Byakuren,무덤을 노리는 입문자,
+Orin,Komachi,영혼과의 이야기꾼,사후의 운반인
+Orin,Eiki,고양이 손이라도 빌리고싶어,
+Orin,Suika,캣 갈지자걸음,
+Orin,Elliy,원피스 드레스,
+Orin,Shinki,대부활,
+OrinC,Utsuho,지저의 짐승들,흉조는 나를 알고있으니
+OrinC,Koishi,지령전의 오른팔,우리들은 지금부터
+OrinC,Ichirin,불꽃의 대륜,
+OrinC,Murasa,피연못지옥,
+OrinC,Byakuren,무덤을 노리는 입문자,
+OrinC,Komachi,영혼과의 이야기꾼,사후의 운반인
+OrinC,Eiki,고양이 손이라도 빌리고싶어,
+OrinC,Suika,캣 갈지자걸음,
+OrinC,Elliy,원피스 드레스,
+OrinC,Shinki,대부활,
+Utsuho,Koishi,서브터레이니언 하트,우츠호의 마음
+Utsuho,Murasa,칠성의 국자,
+Utsuho,Nue,항성으로부터의 탄막X,
+Utsuho,Yuka,태양의 꽃,사이살리스
+Utsuho,Suika,연옥의 토식,
+Utsuho,Tenshi,열일의 태양,
+Utsuho,Sunny,태양이 잔뜩,건강한 해님
+UtsuhoB,Koishi,서브터레이니언 하트,우츠호의 마음
+UtsuhoB,Murasa,칠성의 국자,
+UtsuhoB,Nue,항성으로부터의 탄막X,
+UtsuhoB,Yuka,태양의 꽃,사이살리스
+UtsuhoB,Suika,연옥의 토식,
+UtsuhoB,Tenshi,열일의 태양,
+UtsuhoB,Sunny,태양이 잔뜩,건강한 해님
+Koishi,Nazrin,리틀 리틀 스톤,
+Koishi,Kogasa,포가튼 월드,게릴라 무의식
+Koishi,Ichirin,지옥에 한바퀴의 꽃을,
+Koishi,Byakuren,공에 다다른 마음,시고 공중무색 무수상행식
+Koishi,Nue,에일리언 씨!,인비지블
+Koishi,Medicine,이노센트 마인드,
+Koishi,Tenshi,무념무상의 경지,
+Nazrin,Ichirin,절의 요괴,구름 위 탐색
+Nazrin,Murasa,절의 요괴,물밑 쇠스랑
+Nazrin,Sho,폐사지의 잔광,비사문의 부하
+Kogasa,Ichirin,게릴라 주먹,깜짝 안광 플래시
+Kogasa,Murasa,물가의 괴담,
+Kogasa,Sho,분실 신고,
+Kogasa,Byakuren,원망스러워~,
+Kogasa,Nue,우산 아래의 음모,
+Kogasa,Komachi,황천중유의 여행길의 우산,
+Kogasa,Eiki,게릴라 설교,
+Kogasa,Yuka,웃는 얼굴이 무서운 우산,내일도 맑기를
+Kogasa,Iku,깜짝 번개,깜짝 라이트닝
+Kogasa,Sunny,맑은 날의 우산,
+Kogasa,Star,파라솔 스타 페어리,
+Kogasa,Luna,달밤의 우산,
+Kogasa,Kurumi,배트시터 우산,
+Ichirin,Murasa,절의 요괴,반야탕 팬클럽
+Ichirin,Sho,참회의 살풍,
+Ichirin,Byakuren,철권 비구니,
+Ichirin,Nue,다크 클라우드,주먹의 인연
+Ichirin,Yuka,여름의 환상태랑,꽃과 아저씨
+Ichirin,Suika,연격의 거대요괴,초대형요괴
+Ichirin,Iku,대전 뉴도,운해의 요괴
+Ichirin,Akyu,함교 크루,함교의 전우
+Murasa,Byakuren,물밑을 밝히는 빛,빛의 배
+Murasa,Nue,어둠과 물에 잠기다,침몰선의 귀신
+Murasa,Komachi,가라앉는 나룻배,편도 배 여행
+Murasa,Iku,심해로의 초대,
+Murasa,Tenshi,수밀 복숭아,
+Murasa,Akyu,함교 크루,
+Sho,Byakuren,가득한 법의 빛,
+Sho,Eiki,정의의 심판,
+Sho,Tenshi,황금의 진원,
+Sho,Star,트윙클 스타,
+Sho,Luna,사일런트 별,
+Sho,Elliy,야~ 금발,
+Sho,Shinki,정화의 마,
+Byakuren,Nue,요괴와 스님,전설의 비공원반
+Byakuren,Yuka,Lotus Land,
+Byakuren,Iku,천개돌파,
+Byakuren,Star,스타 소드의 호법,
+Byakuren,Mima,마법은하계,
+Byakuren,Shinki,마신복송,펜팔 친구
+Nue,Kurumi,대요괴 쿠루미 짱,
+Komachi,Eiki,낙원의 심판조,
+Komachi,Iku,잔업은 거절,
+Komachi,Tenshi,천무의 나룻배,
+Komachi,Elliy,노련한 쌍낫,트윈 데스사이즈
+Eiki,Yuka,사계의 순환,
+Eiki,Tenshi,노발천을 뚫어라,
+Eiki,Akyu,전생의 업,
+Medicine,Yuka,바람을 보는 은방울꽃,군영의 초
+Medicine,Suika,지효성 독,알코올 중독
+Yuka,Sunny,태양의 꽃,
+Yuka,Elliy,유카 짱 러브,몽환의 요마
+Yuka,Kurumi,유카 짱 러브,책 읽어줘
+Yuka,Mima,옛 영마,예로부터의 사자
+Suika,Iku,귀룡의 토식,
+Suika,Tenshi,가랑비의 강력,
+Iku,Tenshi,천공의 주민조,비상천
+Iku,Yumeko,소드 피시 댄스,
+Sunny,Star,별과 해의 요정,별과 태양의 빛
+Sunny,Luna,해와 달의 요정,태양과 달의 빛
+Sunny,Elliy,근성 근성 초근성,
+Sunny,Kurumi,쿠루밀크,쓴 샌드위치
+Star,Luna,달과 별의 요정,달과 별의 빛
+Elliy,Kurumi,몽환의 종자조,양손의 꽃
+Elliy,Shinki,사랑스러운 엘리,
+Akyu,Mima,리인카네이션,
+Akyu,Shinki,요악단의 역사,
+Mima,Yumeko,WANTED!,구면의 강호
+Mima,Shinki,옛 요괴의 대두,
+Yumeko,Shinki,마계의 수호자조,미스틱 스퀘어
+Patchouli,UtsuhoB,디바인 플레어,
+Remilia,UtsuhoB,신인가 악마인가,진 다이나믹 황제
+Letty,UtsuhoB,설국의 온천,
+Merlin,UtsuhoB,해피 선,태양이 잔뜩
+Youmu,UtsuhoB,지옥극락 멜트베기,
+Mystia,UtsuhoB,요괴새의 날개치기,가자 새대가리
+Marisa,UtsuhoB,항성의 마포,
+Udonge,UtsuhoB,붉은색의 눈,
+Mokou,UtsuhoB,엽화현란,화염조
+Yorihime,UtsuhoB,신들의 그릇,맹렬한 신의 불꽃
+Toyohime,UtsuhoB,전설거인의 총,분해의 바람
+Nitori,UtsuhoB,뉴클리어 웨폰,
+Aya,UtsuhoB,검은 날개의 요괴,
+Sanae,UtsuhoB,대낮의 거성,거대 기뇰의 불
+Kanako,UtsuhoB,깃들고 깃들여진 신,
+Suwako,UtsuhoB,마그마의 양서류,
+Yamame,UtsuhoB,쿠로다니 야바메,
+Parsee,UtsuhoB,젤러시 플레어,
+Yugi,UtsuhoB,지옥의 오니 온천,
+Satori,UtsuhoB,희망의 태양,우리들은 지금부터
+Orin,UtsuhoB,지저의 짐승들,흉조는 나를 알고있으니
+OrinC,UtsuhoB,지저의 짐승들,흉조는 나를 알고있으니
+Meko,Meko,메~코,불량품 대책용
+Meko,Daiyosei,큐어 머튼,
+Meko,Cirno,우리들 천재네!,
+Meko,Meiling,메~이링,
+Meko,Koakuma,모시겠습니다!,
+Meko,Patchouli,대도서관과 양치기,
+Meko,Sakuya,양모 메이드,
+Meko,Remilia,징기스칸 파티,
+Meko,Letty,윈터 심볼,
+Meko,Chen,포근포근 코타츠,
+Meko,Alice,양털 펠트,
+Meko,Lily,노곤한 봄의 늦잠,
+Meko,Lyrica,메코 씨의 양,
+Meko,Merlin,메코 씨의 양,
+Meko,Lunasa,메코 씨의 양,
+Meko,Youmu,동방양양몽,
+Meko,Ran,양양발호,
+Meko,Wriggle,리그울,고치같은 양털
+Meko,Mystia,양세기 노래,
+Meko,Keine,탄막교실,
+Meko,Reimu,양들의 탄막,울렸다-!
+Meko,Marisa,병에 담긴 털구슬,
+Meko,Tewi,아임 거짓말쟁이,
+Meko,Udonge,도망치는 건 부끄럽지만,
+Meko,Kaguya,난제 - 자기 전의 세는 양,
+Meko,Mokou,몽클몽클,
+Meko,Yorihime,트라우마 패닉,양털이 불타버려!
+Meko,Toyohime,트라우마 브레이커즈,어라… 친구들이…?
+Meko,Reisen,도망치는 건 부끄럽지만,
+Meko,Shizuha,가을의 전사 메코,
+Meko,Minoriko,가을의 전사 메코,군고구마 좋아
+Meko,Nitori,시바텐의 요괴,
+Meko,Momiji,흰털의 수인,양과 늑대
+Meko,Aya,마하 쉽,
+Meko,Hatate,허밋 시프,
+Meko,Sanae,환상향의 뉴페이스,
+Meko,Kanako,갓 램,마운틴 쉽
+Meko,Kisume,키스메~코,
+Meko,Yamame,야마메~코,
+Meko,Parsee,저주의 양털인형,
+Meko,Satori,펫 후보,
+Meko,Orin,쉽 프론트 워크,펫 동맹
+Meko,Utsuho,목가의 햇살,네버 기브업
+Meko,Koishi,메리 씨와 양,
+Meko,Nazrin,라무린,
+Meko,Kogasa,따뜻한 소녀,
+Meko,Ichirin,싸우는 양떼구름,
+Meko,Murasa,고잉 메리 씨,
+Meko,Sho,양질호피,
+Meko,Byakuren,수련꽃,
+Meko,Nue,거짓의 검은 양,
+Meko,Komachi,영면으로의 초대,
+Meko,Medicine,레플리칸트,
+Meko,Iku,정전기,내 전격은 우주제일
+Meko,Sunny,햇볕 쬐기,
+Meko,Star,기척에 민감,
+Meko,Luna,양들의 침묵,
+Meko,Elliy,에리 씨의 양,
+Meko,Kurumi,아이챌린지!,
+Meko,Akyu,양피지에 새겨지는 기억,
+Meko,Suika,램×주,
+Meko,Yumeko,유메~코,
+Meko,Tensoku,로봇은 세는 양의 꿈을 꾸는가?,
+Meko,Makura,끝에서의 한걸음,재방문의 꿈자리
+Makura,Rumia,꿈먹기,
+Makura,Daiyosei,큐어 드림,
+Makura,Cirno,얼음베개,
+Makura,Meiling,화상몽갈,꿈지기
+Makura,Koakuma,몽마 견습,서큐버스!?
+Makura,Remilia,환상향 나이트메어,붉음보다 붉은 꿈
+Makura,Flan,포비든 드림,
+Makura,Letty,한파와 코타츠,링거링 드림
+Makura,Alice,친절한 동반자,잠자다 깨어난 인형
+Makura,Lily,봄의 꿈,영원의 춘몽
+Makura,Lyrica,소리의 꿈,Dreams
+Makura,Merlin,졸음의 꿈,
+Makura,Lunasa,우울의 꿈,
+Makura,Yuyuko,화서의 꿈,개스틀리 드림
+Makura,Yukari,침석수류,뷰티풀 드리머
+Makura,Ran,대륙에서 온 요괴,남색의 수몽
+Makura,Wriggle,꿈벌레,꿈을 먹는 벌레
+Makura,Mystia,침구 a song,
+Makura,Keine,인간을 사모하는 요괴,
+Makura,Reimu,몽상의 인요,
+Makura,Marisa,꿈빛 마스터 스파크,훔칠수 없는 꿈
+Makura,Udonge,영화지몽,풍광의 꿈
+Makura,Eirin,불변을 원하는 자,호접몽환
+Makura,Kaguya,꿈빛 고향,
+Makura,Yorihime,제4괴안통로,
+Makura,Toyohime,제4괴안통로,
+Makura,Reisen,환상소녀 온 더 문,
+Makura,Shizuha,수면의 가을,
+Makura,Minoriko,수면의 가을,풍요의 꿈
+Makura,Hina,사람이 그리운 신님,
+Makura,Nitori,몽위과학세기,
+Makura,Sanae,환상향의 뉴페이스,
+Makura,Kanako,흘러들어온 신들,
+Makura,Suwako,흘러들어온 신들,
+Makura,Koishi,태아의 꿈,꿈자리에 조상님 총기립
+Makura,Nazrin,꿈나라의 앨리스,
+Makura,Byakuren,성인유몽,
+Makura,Nue,헤이안쿄의 악몽,
+Makura,Yuka,유몽,꽃과 꿈
+Makura,Tenshi,무념몽상의 경지,
+Makura,Iku,아가씨즈,
+Makura,Sunny,꿈빛 체이스,
+Makura,Star,꿈빛 체이스,
+Makura,Luna,꿈빛 체이스,
+Makura,Kurumi,잘자 쿠루미 짱,
+Makura,Akyu,명석몽,
+Makura,Mima,스트레인져스,몽시공
+Makura,Suika,취생몽생,
+Makura,Shinki,사랑을 외치는 신,몽상가

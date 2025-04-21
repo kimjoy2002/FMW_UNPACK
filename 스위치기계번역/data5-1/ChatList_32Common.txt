@@ -1,0 +1,1931 @@
+﻿○共通第三十二話白玉楼階段の死線
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: first battle w/ Youmu
+ 3: Youmu spell 1
+ 4: Youmu spell 2
+ 5: Youmu spell 3
+ 6: beat Youmu
+ 7: ADVB
+ 8-36: battle vs. Youmu
+37: lose
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=10,FROM=幽明結界,TO=白玉楼への階段,name=명계,icon=0>
+
+<BG=*bg_talk_Meikai.png,fade=0,color=1,title=*bg_Meikai,bgm=bgm_talk_inishie>
+
+Luna6b:잠깐만, 다들 기다려...
+
+Rumia0a:정말 루나는 둔하다니까-
+
+Patchouli4b:정말 긴 계단이네...
+벌써 지쳐버렸는데
+
+Komachi0a:조금만 더 참아, 저기 문이 보이지?
+
+Komachi1a:저 뒤에 있는게 백옥루.
+사이교우아야카시는 거기 정원에 있을거야
+
+Alice0a:정말 벚꽃이 피어있네. 지상엔 없었던...
+
+Letty2a:봄의 힘이 느껴지니까,
+갑자기 졸려지기 시작했네
+
+Cirno1b:자면 안 돼, 레티. 잤다간 죽어!
+
+Daiyosei0a:뭔가 이상하네...
+평범한 봄 과는 다른 느낌이 들어
+
+Keine4a:명계에 있는건 모두 죽어있다고 들었다.
+그 탓인건가?
+
+LilyW3a:아니요, 봄의 기운만이 아니라
+다른 무언가가 섞여있는 느낌이에요
+
+Shizuha4a:...사이교우아야카시의 기운, 이구나
+
+Hina4a:일찍이 수많은 사람들을 매료시켜,
+영원히 잠들게 만들었다고 하는...
+
+Hina1b:피로 얼룩진 전승에 걸맞은,
+불길한 요기야
+
+Sanae3b:처음엔 믿기 힘들었는데,
+점점 실감이 나기 시작하네요
+
+Marisa0b:근데, 그렇게나 위험한 나무라면
+시들어 죽게 만드는게 좋았을텐데.
+
+Marisa0a:그랬으면, 이런 귀찮은 일은
+애초에 일어나지 않았을거라고
+
+Hina4a:그게 가능했다면 현자들도 그렇게 했을거야.
+
+Hina0b:아지만, 그 야쿠모 유카리조차
+건들 수 없었다고 들었어
+
+Reimu3b:유카리도?
+
+Hina0a:응. 전해들은 얘기니까,
+자세하게는 모르지만...
+
+Minoriko0b:알면 알수록,
+가을이 멀어져가는 느낌이야
+
+Shizuha0b:그런 벚나무를 부활시킨다니,
+흑막은 무슨 생각인걸까
+
+Meiling0a:코마치 씨는, 명계에 온 적이 있으셨죠.
+뭔가 짐작가는건 없으신가요?
+
+Komachi4b:없는건 아니지만,
+그 분이 이런 이변을 일으킨다니...
+
+Elliy0a:그 분, 이라면...
+
+Komachi0a:사이교우지 유유코,
+명계의 관리를 맡고있는 망령 아가씨야.
+
+Komachi0a:몇 번 정도밖에 만나보지 못했지만
+
+Aya0b:사이교우지라는 이름은,
+저도 들은적이 있습니다.
+
+Aya0a:놀랍게도,
+천년 넘게 명계에 살고있는 걸물이라고...
+
+Mokou0a:명계를 관리하고 있다면,
+그녀석이 흑막이라고 봐도 되겠어
+
+Nitori0a:요우무도 그 사람의 명령으로,
+우리들과 싸우려고 하겠네
+
+Keine0a:그럴 녀석이니까.
+솔직하다 할지, 앞만 바라본다 할지...
+
+Sho0b:앞만 바라본다, 인가요?
+
+Alice0a:좋게 말하면 올곧고, 
+나쁘게 말하면 시야가 좁다...
+그런 느낌일려나.
+
+Alice4a:나중에, 만났을 때 진심으로 덤벼오겠지
+
+Daiyosei3b:저번엔 친구였던 요우무 씨와,
+싸워야만 하는 건가요...
+
+Sakuya5a:상대가 진심으로 덤벼온다면,
+가만히 당하고만 있을 순 없으니까
+
+Reimu0a:녀석은 봄을 빼앗고, 
+우리들은 봄을 되찾는다...
+
+Reimu1a:그렇다면 할 일은 단 하나.
+정면에서 들이닥쳐 걷어 차줄 뿐이야!
+
+Marisa0a:저돌맹진이라면, 나도 지지 않는다고!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Patchouli5a:...길어! 정말 지나치게 긴걸
+
+Koakuma1a:괘, 괜찮아요 파츄리 님!
+저택까지 얼마 안남았으니...
+
+Cirno3b:근데, 앞 뒤가 쭉 계단이니까
+뭔가 재미있네
+
+Luna6b:슬슬, 어디 앉고싶은데...
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,240,160,1)>
+
+Youmu0a:...역시 여기까지 오셨군요
+
+</hide>
+
+<pause>
+
+Marisa1a:요우무!
+
+Youmu1a:말했을 터입니다.
+다시 만난다면, 봐주지 않겠다고
+
+Nitori3a:요우무, 여름엔 함께 싸우기도 했으면서,
+왜 이변을 일으키고 있는거야?
+
+Youmu1a:모든 것은 유유코 님의 명령을 위해서입니다.
+
+Youmu1a:얌전히 봄을 두고 돌아가신다면,
+근시일내에 돌려드리겠다고 약속하죠
+
+Daiyosei3b:안되겠어요,
+역시 저희 얘길 들을 생각이 없어요...!
+
+Marisa2b:각오는 해 놨지.
+이쪽도 봄을 넘겨줄 생각은 없다!
+
+Youmu1a:알겠습니다, 그렇다면...!
+
+<pause>
+
+Nazrin0b:...오호라, 
+이거 간단히 지나갈 수는 없겠군
+
+Reimu0d:머릿수로 밀어붙인다니, 겁이라도 먹었어?
+
+Youmu0a:목적 달성을 위해서라면 
+수단을 가리지 않을겁니다.
+
+Youmu1a:여러분의 거의 없는 봄을 빼앗아
+아가씨를 위해 바치도록 하죠!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//妖夢と初戦闘
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu1a:자, 그럼 시작해볼까!
+
+Youmu0a:최후까지 일어서 있는 자가,
+남은 봄을 가져간다...
+
+Youmu1a:레이무 일행분들이라도, 각오하시길!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:자, 그럼 탄막전 개시다!
+
+Youmu0a:최후까지 일어서 있는 자가,
+남은 봄을 가져간다...
+
+Youmu1a:마리사 일행분들이라도, 각오하시길!
+
+</Cond>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//妖夢通常撃破
+
+Marisa0a:어떠냐!
+
+Youmu1a:역시, 
+보통 수단으론 당해낼 수 없군요...!
+
+Youmu3a:조금만 있으면,
+유유코 님의 바람을 이룰 수 있다고 말했는데
+
+Alice1a:...꽃이 피지 않는 벚나무,
+사이교우아야카시를 피우려는 것 말이구나
+
+Youmu2b:역시나! 거기까지 눈치채셨군요.
+
+Youmu0a:조금만 더 있으면,
+사이교우아야카시는 만개합니다...
+
+Youmu0a:여기서 여러분의 봄을 빼앗으면,
+마지막 한 조각이 채워지겠군요
+
+Minoriko2a:마지막 한 조각이라니,
+그정도까지 부활이 가까운거야...!?
+
+Alice1b:그런 짓을 하면, 죽음의 힘이 해방되어
+큰 일이 벌어질건데
+
+Youmu2b:부활? 죽음의 힘?
+영문도 모를 소릴...
+
+Star4b:어라, 영문도 모를 소리라니...?
+
+Sanae1d:설마, 요우무 씨는 
+사이교우아야카시에 대해서 모르고...?!
+
+Youmu1a:이상한 소리를 해 봤자,
+제 검은 무뎌지지 않습니다!
+
+Youmu1a:이백유순을 가르는,
+칼날의 섬광으로 베어넘기겠습니다!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//妖夢スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Youmu2a:큭...!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Youmu2a:버텨냈나...!
+
+</Cond>
+
+Marisa3a:왜 그러냐 요우무,
+네 실력은 그 정도가 아니잖아
+
+Elliy3a:이쪽도 이제서야 시동이 걸린 참이라구!
+
+Youmu2a:강하다...
+역시 얕볼 수 없는 상대야...
+
+Cirno1a:당연하지, 우리들을 물로보면
+저온 화상을 입을걸!
+
+Letty0a:저온 화상은, 너같이 차가운거랑은
+관계 없지만
+
+Youmu0a:...정말이지, 여름 때랑 똑같네요.
+
+Youmu1a:하지만, 
+여유부릴 수 있는것도 여기까지입니다.
+저는 결코 굴하지 않습니다!
+
+<pause>
+
+Meiling1a:이 기백은?!
+이쪽이 이기고 있는데도...
+
+Nazrin4a:불리함도 도리도 안중에 없나.
+듣던대로 올곧군
+
+Youmu2a:저의 각오는 불퇴전의 경지...
+
+Youmu1a:자, 정정 당당한 승부를!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//妖夢スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Youmu2a:큿...!
+이 기술도 격파당하다니...!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Youmu2a:또다시 놓칠 줄이야...!
+
+</Cond>
+
+Sakuya0b:너도 실력이 늘어났구나.
+예전과는 확연히 달라
+
+Patchouli0c:하지만, 이번엔 우리들이 더 강했네
+
+Sanae3b:요우무 씨,
+더이상 이 싸움을 그만두지 않겠나요?
+
+Sanae0b:저희들의 얘길 들으면,
+분명 사정을 알아주실 거라...
+
+Youmu2a:...아니요,
+저는 한 걸음도 물러설 수 없습니다.
+
+Youmu1a:여긴 백옥루의 문앞,
+목숨을 걸고서라도 지켜내야할 일선입니다!
+
+Marisa3a:사나에,
+저녀석은 말로 어떻게 할 수 있는
+쉬운 녀석이 아니야
+
+Reimu1a:대화는, 결판을 내고 난 뒤에 하자고!
+
+Youmu2a:...더는 물러설 수 없어.
+내게 남은 건, 이 일념 뿐...
+
+Youmu1a:그렇다면...
+내 모든 것을 검에 맡기고, 벤다!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//妖夢スペル３撃破
+
+Youmu2a:크윽!
+
+Letty0a:드디어 얌전해졌네
+
+Kurumi4a:이제 앞으로 갈 수 있겠어...
+
+Youmu2a:큭, 더 이상은...
+
+Youmu1a:그래도, 쓰러질 수는 없습니다!
+
+<pause>
+
+Momiji1a:그럴수가...!? 아직도 싸울 생각인가요!
+
+Sho0b:대체 무엇이, 그녀를 저정도까지...
+
+Youmu1a:하아아아아앗!
+
+<pause>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Keine)>
+
+Keine2a:크윽!
+
+Mokou2a:케이네!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Alice) && (CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice2a:꺄아아악!
+
+Marisa1a:앨리스!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Alice) && (CHECK_FLAG,M29_ALICE,==,0)>
+
+Alice2a:꺄아아악!
+
+Shanghai0a:상하-이!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nitori) && (CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori2a:우와아아앗!
+
+Marisa1a:니토리!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nitori) && (CHECK_FLAG,M29_NITORI,==,0)>
+
+Nitori2a:우와아아앗!
+
+Hina1b:니토리!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Rumia)>
+
+Rumia2b:으앗-
+
+Daiyosei1a:루미아 짱!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Daiyosei)>
+
+Daiyosei2a:꺄아아아악!
+
+Cirno1a:다이짜앙!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Cirno)>
+
+Cirno2a:우와아아앗!
+
+Daiyosei1a:치르노 짱!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sakuya)>
+
+Sakuya2a:큿...!
+
+Meiling1a:사쿠야 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Meiling)>
+
+Meiling2a:으윽!
+
+Sakuya3a:메이링!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Patchouli) && (CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli6c:무큐-...
+
+Marisa1a:파츄리!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Patchouli) && (CHECK_FLAG,M29_PATCHOULI,==,0)>
+
+Patchouli6c:무큐-...
+
+Koakuma1a:파츄리 님!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Koakuma)>
+
+Koakuma2a:꺄아아아악!
+
+Patchouli5a:소악마!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Elliy)>
+
+Elliy2a:꺄아아악?!
+
+Kurumi6d:엘리 짱!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kurumi)>
+
+Kurumi4e:히익, 칼이 덮쳐온다-!
+
+Elliy1a:쿠루미!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Komachi)>
+
+Komachi2a:아파라, 방심했네
+
+Sakuya1a:코마치!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Mokou)>
+
+Mokou2a:큭, 이 자식이...!
+
+Keine1a:모코우!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sunny)>
+
+Sunny2a:우으으...
+
+Luna2a:서니-!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Luna)>
+
+Luna2a:꺄아아아아악!
+
+Star2a:루나!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Star)>
+
+Star2a:꺄아아악!
+
+Sunny1a:스타-!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Faries)>
+
+Sunny2a:히에에에엑?!
+
+Alice1a:너희들!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Minoriko)>
+
+Minoriko5a:꺄아아아아악!
+
+Shizuha3a:미노리코!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Shizuha)>
+
+Shizuha5b:꺄아아아!
+
+Minoriko1b:언니!!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Hina)>
+
+Hina2a:꺄아아악!
+
+Nitori1b:히나!!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sanae)>
+
+Sanae2a:꺄아아앗!!
+
+Momiji1a:코치야 님!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Aya)>
+
+Aya2a:큭, 방심해버렸네요!
+
+Momiji1a:선배!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Momiji)>
+
+Momiji2a:큿, 실수를...!
+
+Sanae1a:이누바시리 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Letty)>
+
+Letty2a:큿...!
+
+Cirno1a:레티!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,LilyW)>
+
+LilyW2a:아으읏...!
+
+Shizuha3a:릴리-!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nazrin)>
+
+Nazrin2a:이런, 방심해버렸나!
+
+Sho1b:나즈린!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sho)>
+
+Sho2a:크윽!
+
+Nazrin2a:주인!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Reimu)>
+
+Reimu2a:꺄아악!
+
+Marisa1a:레이무!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Marisa)>
+
+Marisa2a:이 자식이...!
+
+Reimu1a:마리사!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Remilia)>
+
+Remilia2a:이 자식...!
+
+Sakuya1a:아가씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Flan)>
+
+Flan2a:앗!
+
+Meiling1a:플랑 아가씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Lunasa)>
+
+Lunasa2a:큭...!
+
+Reimu1a:루나사!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Merlin)>
+
+Merlin2a:어-라-
+
+Sanae1a:메를랑 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Lyrica)>
+
+Lyrica2a:대체 뭐야-
+
+Marisa1a:리리카!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Ran)>
+
+Ran2a:큭...!
+
+Sho1a:란 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yukari)>
+
+Yukari2a:...읏!
+
+Reimu1a:유카리!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yuyuko)>
+
+Yuyuko2a:어라아~
+
+Sanae1a:유유코 씨...!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Wriggle)>
+
+Wriggle2a:우와-앗!
+
+Cirno1a:리글!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Mystia)>
+
+Mystia2a:악!
+
+Rumia0a:미스티아, 괜찮아-?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Tewi)>
+
+Tewi2a:으앗, 튀었어야 했는데!
+
+Daiyosei1a:테위 짱!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Udonge)>
+
+Udonge2b:자, 잠깐만!
+
+Keine1a:레이센!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Eirin)>
+
+Eirin2a:방심을...!
+
+Keine1a:에이린!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kaguya)>
+
+Kaguya1a:어머...
+
+Mokou0a:어딜 보는거야, 카구야!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Suika)>
+
+Suika2a:어라라라라!?
+
+Reimu1a:스이카!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yuka)>
+
+Yuka2a:......
+
+Elliy2a:아앗, 유카 짱!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Medicine)>
+
+Medicine2a:우와와앗!
+
+Alice1a:메디!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Eiki)>
+
+Eiki2a:어, 엄벌할겁니다!
+
+Komachi0a:우와아. 
+시키에이키 님을 상대로 저질러버렸군...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Hatate)>
+
+Hatate2a:잠깐-!
+
+Momiji1a:하타테 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kanako)>
+
+Kanako2a:큭...!
+
+Sanae1a:카나코 님!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Suwako)>
+
+Suwako2a:뭐야, 정말-!
+
+Sanae1a:스와코 님!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Akyu)>
+
+Akyu2a:꺄악!
+
+Keine1a:아큐!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kisume)>
+
+Kisume2b:우왓!
+
+Daiyosei1a:키스메 짱!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yamame)>
+
+Yamame0a:맞아버렸나!
+
+Nitori2a:야마메!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Parsee)>
+
+Parsee2a:이 자식...!
+
+Reimu0a:......
+
+Parsee2a:왜 반응이 없는건데!?
+아무나 걱정좀 해줘!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yugi)>
+
+Yugi2a:어이쿠!
+
+Aya0a:유기 씨, 무사하신가요!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Satori)>
+
+Satori2a:큭...!
+
+Marisa1a:사토리!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Orin)>
+
+Orin2a:아야!
+
+Marisa1a:오린!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Utsuho)>
+
+Utsuho2a:누와앗-!
+
+Sanae1a:오쿠 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Koishi)>
+
+Koishi2a:아야...
+
+Marisa1a:코이시!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kogasa)>
+
+Kogasa2b:우와아앗!?
+
+Sanae1a:코가사 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Ichirin)>
+
+Ichirin2a:큭...!
+
+Unzan0a:......!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Murasa)>
+
+Murasa2b:아프구만!
+
+Nazrin2a:선장!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Byakuren)>
+
+Byakuren2a:불찰...!
+
+Sho1a:히지리!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nue)>
+
+Nue2a:이 녀석!
+
+Sanae1a:누에 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Tenshi)>
+
+Tenshi2c:이 자식이...!
+
+Keine1a:텐시!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Iku)>
+
+Iku2a:이건...!
+
+Keine1a:이쿠!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yorihime)>
+
+Yorihime2a:큭...!
+
+Reimu1a:요리히메!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Toyohime)>
+
+Toyohime2b:어머머머
+
+Marisa1a:토요히메!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Reisen)>
+
+Reisen2a:우와아앗!
+
+LilyW0a:토끼 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Mima)>
+
+Mima1a:호오, 제법인데!
+
+Marisa1a:미마 님!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yumeko)>
+
+Yumeko0a:...!
+
+Alice1a:유메코 씨!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Shinki)>
+
+Shinki2a:꺄아악!
+
+Alice1a:엄마!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Tensoku)>
+
+Tensoku0a:......!
+
+Nitori2a:아앗, 비상천칙!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Meko)>
+
+Meko0b:후와와와와...!
+
+Makura2a:메코...!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Makura)>
+
+Makura2a:큭...!
+
+Meko0b:마쿠라 님-!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Onamazu)>
+
+Onamazu1a:칫...!
+
+Meko0b:오오나마즈!
+
+</Cond>
+
+Meiling1a:그런 상태로, 계속 싸우겠다니...!
+
+Nitori2a:마리사, 어떡하지?
+더 이상은 서로 소모전이 될 뿐이야!
+
+Marisa2b:적이지만 훌륭하다고 해 둘까.
+하지만, 너무 지나친걸...!
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Reimu,0)>
+
+Marisa1a:어이, 레이무.
+나랑 같이 단숨에 공격해보자
+
+Reimu0a:너랑 내가...?
+
+Marisa1a:그래,
+이렇게 된 이상 생각할 시간도 없어.
+
+Marisa1a:내가 먼저 갈게.
+넌 나한테 맞춰서 보조해라!
+
+Reimu5c:...정말이지, 
+누구한테 보조하란 소릴 하는거야.
+
+Reimu1a:난 내 마음 가는대로 공격할테니,
+너가 알아서 나에게 맞춰!
+
+<pause>
+
+Youmu1a:레이무 씨, 마리사 씨!
+
+Marisa1a:요우무, 이거로 결판을 지어주마!
+
+Reimu0a:우린, 이런 곳에서 멈춰 있을 수 없어...
+
+Reimu1a:널 넘어서, 나아갈거야!
+
+<pause>
+
+Youmu2a:우와아아앗!
+
+Elliy1a:무녀와 마법사의 합동 공격...!?
+
+Alice2b:레이무, 마리사, 방금 그건...
+
+Marisa0a:이판사판으로 해본건데,
+어떻게 잘 된 것 같구만
+
+Reimu0g:내키진 않았지만, 어쩔 수 없었네
+
+Keine0a:홍백과 흑백이 융합한, 삼색의 탄막...
+즉흥으론 보이지 않는 훌륭한 연계다! 
+
+Aya0a:마치, 삼색의 나비가 춤추는 듯한...
+
+Marisa1a:이름붙여, 삼샋연화접이다!
+
+Sanae1a:그럼, 이번에야말로 요우무 씨는...
+
+<pause>
+
+Youmu2a:분하다, 유유코 님...!
+
+Meiling1a:결판이 났군요!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<MAP=10,FROM=白玉楼への階段,TO=白玉楼への階段,name=명계,icon=0>
+
+<BG=*bg_talk_Meikai.png,fade=0,color=1,title=*bg_Meikai,bgm=bgm_talk_kagaku>
+
+Youmu2a:아파라...
+
+Youmu2a:죄송합니다, 유유코 님.
+제 역할을 다할 수 없었습니다...
+
+Keine1a:요우무, 괜찮은가?!
+
+Alice4a:너무 무리했다니까.
+치료하면서 얘길 들어보자
+
+Koakuma0a:그럼, 이 구급 세트로...
+
+Youmu3a:크읏, 싸움에서 패한데다가
+동정까지 받는 건...
+
+Aya0a:뭐어, 진정해주세요.
+저희들도 이유없이 당신을 이런 꼴로 만든게 아니니까
+
+Momiji0a:혹시, 요우무 씨는
+그 벚꽃, 사이교우아야카시에 관해서
+잘 모르시는게 아닌가요?
+
+Youmu2b:사이교우아야카시, 말인가요...?
+
+Sakuya5b:응, 아까부터 무턱대고
+벚꽃을 피우려는 거 같던데...
+
+Sakuya5a:그건 평범한 벚나무가 아니야,
+봉인당했던 요괴 벚나무지
+
+Youmu2b:요괴 벚나무...?
+
+Nitori2a:케이네 씨, 역시나...
+
+Keine2a:음, 아무것도 모르고
+이변에 가담하고 있었던 거군
+
+Patchouli0b:사이교우아야카시는,
+본 자를 죽음으로 이끄는 불길한 요괴 벚나무...
+
+Patchouli0a:그게 만개한다면,
+봉인이 풀려 죽음의 힘이 해방될거야
+
+Youmu2b:뭐라고요?! 유유코 님은 그런 소린 전혀...
+
+Komachi4b:아마, 본인도 모르는걸지도 몰라
+
+Komachi0b:아무튼, 
+사이교우아야카시가 부활한다면
+그 분에게도 위험이 미치겠지
+
+Youmu2b:...!
+
+Letty0a:...즉, 너가 필사적으로 모은 봄이
+주인을 위험에 빠뜨리고 있는 거야
+
+Shizuha0a:주인을 위한 마음이,
+역효과를 내버렸네
+
+Youmu3a:그런, 저는 무슨 짓을...
+
+Sho0a:이렇게 될줄 모르고 했던 일이잖아요.
+부디, 낙심하지 말아주세요
+
+Youmu3a:......
+
+Alice0b:조금 더 얘길 듣고싶었지만,
+일단 여기까지 해 둘까
+
+Sanae3b:네, 요우무 씨도 쇼크를 받으셨으니...
+
+Youmu3a:......
+
+Youmu0a:기다려 주세요,
+저도 여러분에게 협력하겠습니다
+
+Nitori2a:뭐...?!
+
+Elliy1b:협력하겠다니, 우리들은
+네 주인과 싸울지도 모른다구
+
+Youmu2a:그건 알고 있습니다만,
+그렇다고 여기에 남아 있을 순 없습니다.
+
+Youmu0a:지금, 이 순간에도
+유유코 님이 위험에 처해있으니...
+
+Youmu1a:자기가 저지른 짓이 두려워,
+등돌리고 있을 순 없습니다!
+
+Nazrin0b:...라 말하고 있는데,
+저 녀석을 믿어도 되는건가?
+
+Keine0a:이정도로 싸운 뒤다, 의심할 이유는 없지
+
+Shizuha0b:그럼 들려줘.
+너희들은, 왜 이 이변을 일으킨거야?
+
+Youmu0a:처음엔 그저 아가씨의 변덕이었습니다.
+정원에 있는『꽃이 피지 않는 벚나무』를
+개화시키려는...
+
+Letty0a:그저 변덕... 그런 적당한 이유였구나
+
+Youmu3a:그렇지만, 유유코 님이 생각하시는 건
+저도 이해하지 못하는 경우가 많아서요.
+
+Youmu0a:가끔씩, 
+벚나무를 멍하니 바라보고 있으셨는데
+무엇을 생각하신 건지...
+
+Shizuha4a:그럼, 사이교유아야카시의 힘을 써서
+뭔가 하려는거 아니야?
+
+Youmu3a:저도 모르겠습니다.
+하지만, 죽음의 힘을 악용하려는 것은 아닙니다.
+
+Youmu0a:유유코 님도, 
+죽음을 다루는 능력을 가지고 계십니다.
+그런 힘을 허투루 쓰진 않으실겁니다
+
+Luna6a:뭐, 죽음으로 이끄는 힘...?!
+
+Kurumi6a:뭐야 그거 무서워!
+그럼 사이교우아야카시의 힘 따윈 필요없는거잖아!
+
+Minoriko4a:왜 꽃을 피우려는건지,
+점점 더 알 수 없어졌네...
+
+Marisa0b:그 녀석의 계획은,
+직접 들을 수밖에 없겠어
+
+Mokou3c:죽음을 부르는 벚나무와,
+죽음을 부르는 이미 죽은 아가씨.
+이 이변의 최후에 걸맞는 상대군
+
+Letty0a:...이 다음이,
+진정한 흑막의 등장이구나
+
+Sakuya5b:꼬박 하루가 걸려버렸으니,
+아가씨도 기다리시겠네
+
+Patchouli4a:얼른 끝내고,
+따뜻한 차라도 마시고 싶어
+
+Sanae0a:여러분, 이 다음이 최대 고난일텐데
+자신만만하시네요...
+
+Aya0a:코치야 님, 긴장하셨나요?
+살짝 진정하시지 못하시는 것 같은데
+
+Momiji4a:걱정하지 않으셔도 됩니다,
+저희들과 요괴의 산에 무사히 돌아갈테니까요
+
+Sanae0a:네, 네에...!
+감사합니다, 샤메이마루 씨, 이누바시리 씨
+
+Keine1a:그럼 다들, 준비는 됐나?
+
+Letty1a:올바른 계절을 맞이하기 위하여...
+
+Hina1a:고통받는 인간을 구하기 위하여...
+
+LilyW0a:그리고 봄을 기다리는,
+환상향의 모든 생명을 위하여!
+
+Marisa1a:반드시 막아세우겠어!
+명계의 주인, 사이교우지 유유코와...
+
+Reimu1a:요괴 벚나무,
+사이교우아야카시의 부활을!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//妖夢vs.霊夢
+
+Youmu1a:아까 말했었죠,
+다음번엔 레이무 씨가 상대라도
+용서하지 않겠다고
+
+Reimu0a:나도, 이제와서 
+봐 달라고 할 생각은 없어.
+
+Reimu1a:방해한다면 걷어차버린다,
+상대가 누구든 간에 말이지!
+
+Youmu1a:알겠습니다, 그렇다면 저도
+진심으로 상대해드리죠!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//妖夢vs.魔理沙
+
+Marisa0b:봄 도둑같은 짓을 너가 할 줄이야.
+
+Marisa0a:여름 때에는,
+얌전한 녀석이라고 생각했는데 말이지
+
+Youmu0a:아가씨의 명령이라면,
+마리사 씨에게 칼날을 들이댈 수도 있습니다.
+
+Youmu1a:백옥루의 정원사로서,
+정정당당한 승부를!
+
+Marisa1a:이쪽도 바라던 바다!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//妖夢vs.慧音
+
+Keine0b:말을 들어달라...고 해봤자 의미는 없겠군
+
+Youmu1a:제 역할을 다하기 위해서,
+여러분과 싸울 수밖에 없습니다.
+
+Youmu1a:케이네 씨라고 해도,
+봐 줄 생각은 없습니다
+
+Keine1a:나도 각오는 되어있다.
+그 검, 받아내주마!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//妖夢vs.アリス
+
+Alice0b:역시나, 싸울 수밖에 없겠구나
+
+Youmu0a:여러분은 저의 적입니다.
+설득같은건 생각하지도 마시길
+
+Alice0d:물론 설득도 잠깐 생각했었지만,
+넌 올곧으니까 말이지.
+
+Alice0a:여기선 싸워야만 한다는건,
+나도 알고 있어.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//妖夢vs.にとり
+
+Nitori2a:요우무랑은 싸우고 싶지 않아.
+그렇지만...
+
+Youmu0a:하지만, 니토리 씨도 싸울 각오가 있기에
+앞에 나선거겠죠
+
+Nitori3c:어쩔 수 없잖아,
+여기선 절대 후퇴할 수 없으니까.
+
+Nitori1b:요우무의 전력, 확인해 볼게!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//妖夢vs.ル-ミア
+
+Rumia0a:자아, 어둠 속에서 검을 맞힐 수 있으려나-
+
+Youmu0a:...저번에 만났을 때에도
+그런 말을 하셨죠.
+
+Youmu1a:모습을 감춰도,
+기척의 흐름으로 알 수 있습니다
+
+Rumia5a:위도 아래도 없는 어둠 속에서,
+기척을 읽는다니-
+
+<end>
+
+<ChatID:14>----------------------------------------
+//妖夢vs.大妖精
+
+Daiyosei2a:요우무 씨, 들어주세요...!
+
+Youmu1a:대요정 씨, 앞에 나서는건 위험할겁니다!
+
+Daiyosei3b:그건 알고있지만,
+다들 힘내고 있으니까요...
+
+Youmu1a:...이런 상대라도,
+나는 벨 수밖에 없어...!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//妖夢vs.チルノ
+
+Youmu0a:이번에도 레이무 씨에게
+협력하고 있으시군요
+
+Cirno5b:최강인 이 몸이 없으면 불안하니까!
+
+Youmu0a:당신같은 사람이 동료라면,
+든든하긴 하지요.
+
+Youmu1a:하지만, 여긴 고작 요정이
+나설 자리가 아닙니다!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//妖夢vs.咲夜さん
+
+Sakuya0a:여름 때엔, 너가 먼저 달려들었지.
+이번엔 입장이 반대네
+
+Youmu0a:지금 과거를 떠올리고 있을만한
+여유가 있는건가요...?
+
+Sakuya5b:적어도, 지난번보다는.
+
+Sakuya6a:너도, 한번 땅바닥의 맛을 맛보면
+머리가 식혀질려나?
+
+Youmu1a:할 수 있으면 해보시길...!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//妖夢vs.美鈴
+
+Meiling6a:저번보다 빈틈이 없어...
+계속 단련하셨군요
+
+Youmu0a:지켜야만 하는 것이 있으니,
+약한 채로 있어선 안되니까요.
+
+Youmu1a:당신의 철벽,
+다시 한번 뚫어내겠습니다!
+
+Meiling1a:그 말, 그대로 돌려드리죠!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//妖夢vs.パチュリ-
+
+Youmu0a:파츄리 씨는, 
+관에서 나오지 않을 거라 생각했는데...
+
+Patchouli4d:기온이 너무 낮아서
+편하게 독서를 할 수가 없어.
+
+Patchouli4b:난방을 하면
+사쿠야가 절약해야 한다며 잔소리를 하고,
+그러면서 레미의 방은...
+
+Youmu3a:조금만 더 절약하고 계시면,
+봄이 돌아올겁니다
+
+Patchouli6d:내가 싫어하는 말을 알려줄게.
+소음과 인내야
+
+<end>
+
+<ChatID:19>----------------------------------------
+//妖夢vs.小悪魔
+
+Youmu0a:소악마 씨 까지,
+레이무 씨 일행과 같이 있으실 줄이야...
+
+Koakuma0a:지금의 요우무 씨를,
+파츄리 님에게 접근시킬 수는 없으니까요.
+
+Koakuma1a:저의 탄막으로,
+발을 잠깐이라도 묶겠습니다!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//妖夢vs.エリ-
+
+Elliy2a:잠깐만 잠깐만,
+저번에 싸웠을 때랑 분위기가 다른데?!
+
+Youmu0a:검 수행을 계속하고 있으니,
+언제까지고 같은 곳에 머무를 수는 없습니다.
+
+Youmu1a:더욱 담금질된 저의 칼날,
+당신이 받아 낼 수 있을까요?
+
+Elliy1a:대답하기 곤란한데...
+불굴의 근성으로 견뎌내 주지!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//妖夢vs.くるみ
+
+Kurumi2a:히익, 날카로운 게 달려든다-!
+
+Youmu2b:달려든다니...
+당신은 날붙이가 무서운건가요?
+
+Kurumi4c:가위 정도는 괜찮은데...
+식칼 부터는 안돼.
+
+Kurumi3d:그래서 요리도,
+냄비에 야채를 넣는 정도밖에 못해
+
+Youmu3a:편파적인 식단이 될 것 같네요...
+
+<end>
+
+<ChatID:22>----------------------------------------
+//妖夢vs.小町
+
+Komachi0a:그 망령 공주에게,
+너같은 종자가 있었을 줄이야
+
+Youmu2b:당신은 유유코 님과 만난 적이 있는 겁니까?
+
+Komachi1c:꽤나 예전에, 일 때문에-
+두 번 정도.
+
+Komachi4a:똑같이 윤회와 관련된 사람이니까,
+말은 붙여놔야지
+
+Youmu1a:그렇습니까, 하지만 
+그렇다고 비켜줄 거라는 생각은 하지 말아 주시길!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//妖夢vs.妹紅
+
+Mokou3a:나는 다른 녀석들처럼 자비롭지 않아.
+무슨 수를 써서라도 얌전하게 만들어주겠어
+
+Youmu1a:그런 빈틈 투성이의 자세로,
+잘도 잘난 듯 말하시는군요...!
+
+Mokou1a:빈틈 투성이로 보인다면,
+얼른 덤벼들어 보라고
+
+<end>
+
+<ChatID:24>----------------------------------------
+//妖夢vs.サニ-
+
+Sunny4a:실은, 요우무 씨와 싸우는건
+이번이 처음이에요
+
+Youmu0a:생각해보니 그렇네요.
+저번에 처음 만났을 때가 언제였던가...
+
+Star3d:그때인가? 
+쿠루미가 빵을 주워먹었던 날
+
+Luna3c:아냐아냐, 앨리스 씨의 집에
+모험하러 갔을 때...
+
+Youmu3a:...둘 다 기억에 없습니다만,
+설마 저, 따돌림 받고 있나요?
+
+<end>
+
+<ChatID:25>----------------------------------------
+//妖夢vs.ルナ
+
+<end>
+
+Youmu0a:루나
+
+<end>
+
+<ChatID:26>----------------------------------------
+//妖夢vs.スタ-
+
+<end>
+
+Youmu0a:스타-
+
+<end>
+
+<ChatID:27>----------------------------------------
+//妖夢vs.穣子
+
+Minoriko4a:난폭하게 구는건 싫어.
+얌전히 우릴 보내주렴
+
+Youmu0a:그게 불가능하니까,
+이렇게 검을 겨누고 있는 겁니다.
+
+Youmu1a:상대가 맨손이라도,
+봐 줄 생각은 없어요
+
+Minoriko1a:덤벼 보렴!
+결실의 신력을 남김없이 꺼내들테니!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//妖夢vs.静葉
+
+Youmu1a:제 뒤론 한 발짝도 내디지 못할겁니다!
+
+Shizuha4a:대체 왜그러는거야?
+사계의 순환을 방해하는 일이,
+얼마나 위험한지...
+
+Youmu3a:그거랑 이거랑은 별개의 일입니다.
+봄은 언젠가 돌려줄 생각이니...
+
+Shizuha3a:필기구를 빌린 것 마냥
+가볍게 말할만한 일이 아니야
+
+<end>
+
+<ChatID:29>----------------------------------------
+//妖夢vs.雛
+
+Hina0b:그렇게나 망설임 없는 검으로,
+사이교우아야카시의 부활에 가담하고 있다니...
+
+Hina4b:이해할 수 없네. 너 같은 인간이, 
+왜 그 벚나무에 관여하고 있는거야?
+
+Youmu3a:저는, 당신이 하는 말을
+이해하지 못하겠네요...
+
+Hina1b:...지금은, 얘길 해봤자 의미가 없네.
+일단은 싸움을 끝내야겠어
+
+<end>
+
+<ChatID:30>----------------------------------------
+//妖夢vs.早苗さん
+
+Sanae1a:요우무 씨!
+여름엔 이 분들의 동료였는데,
+왜 이런 짓을 하는건가요?
+
+Youmu0a:봄을 모아, 벚꽃을 피우는 것이
+저에게 부여된 역할.
+
+Youmu1a:저는 딱히, 정의를 위해
+싸우고 있는게 아니니까요
+
+Sanae2a:으으, 역시 이렇게 되는군요.
+
+Sanae5b:아니면, 요우무 씨를 이해하지 못하는
+제가 잘못된 걸까요...?
+
+<end>
+
+<ChatID:31>----------------------------------------
+//妖夢vs.文
+
+Aya0a:명계에 오는 건 처음이니,
+확실히 취재를 해 둬야...
+
+Youmu0a:성질 나쁜 침입자군요.
+그 사진기와 같이 베도록 하겠습니다
+
+Aya1a:하지도 못할 건 말하지 않는게 좋아요.
+환상향 최속의 비행, 당신의 눈으론...
+
+Youmu1a:...보입니다.
+마음을 가다듬으면, 아무리 빨리 움직여봤자
+멈춰 있는 것과 마찬가지!
+
+Aya3a:검의 극의란 녀석인가요?
+이 김에 그것도 취재해야겠네요
+
+<end>
+
+<ChatID:32>----------------------------------------
+//妖夢vs.椛
+
+Momiji5a:당신과 싸우는 것도 이걸로 3번째...
+
+Momiji0a:슬슬, 결판을 내도록 합시다
+
+Youmu0a:그런 식으로,
+싸움에 사적인 감정을 끌고 오는 
+사람일줄은 몰랐군요
+
+Momiji0a:검을 겨루다 보면 자연스래 드는 생각이죠.
+당신도 그렇지 않습니까?
+
+Momiji1a:자신을 시험할 상대가 있다는 건,
+실로 행운이지요!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//妖夢vs.レティ
+
+Letty0a:생각도 없이 이런 이변을 돕다니,
+어리석구나
+
+Youmu2a:이 한파...! 추위를 다루는 요괴가, 
+어쩌다 동료가 된 거지...?
+
+Letty0a:그 대답은, 너희들이 만들어낸
+이 일그러진 겨울이 알고 있을거야.
+
+Letty1b:봐도 모르겠다면, 싸움으로 알려줄게
+
+<end>
+
+<ChatID:34>----------------------------------------
+//妖夢vs.リリ-
+
+LilyW2a:더 이상 봄을 모으면 안 돼요!
+
+Youmu2b:어이쿠...!
+그렇게 깊게 파고들었다간 다칠겁니다.
+
+Youmu0a:일이 끝나면 돌려드릴테니,
+당신은 기다리고 있어 주세요
+
+LilyW0b:그럴 순 없어요.
+환상향에 잠든 생명, 모두가 몸을 기다리고 있어요.
+
+LilyW0a:지금 당장, 모았던 봄을 돌려주세요!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//妖夢vs.ナズ-リン
+
+Youmu1a:처음 보는 분이군요.
+몇 명이 오든, 저는 지지 않을 겁니다!
+
+Nazrin0a:이런 상황에도 물러서지 않는다라,
+그것도 주인에 대한 충의가 만들어내는 것...인가
+
+Youmu0a:갑자기 느긋하게 논평을...
+틈이 생긴다면 베어버릴겁니다
+
+Nazrin4b:너야말로, 그런 충고를 하기 보단
+달려드는게 현명한 일 아닌가...
+
+Nazrin3b:듣던 대로, 상당히 고지식하군.
+주인과 조금 닮았어
+
+<end>
+
+<ChatID:36>----------------------------------------
+//妖夢vs.星
+
+Sho0b:주인을 위해 싸운다,
+그것이 당신이 검을 잡는 이유입니까
+
+Youmu0a:물론입니다.
+유유코 님의 바람을 이루기 위하여,
+저는 싸워 이겨내 보이겠습니다
+
+Sho4b:함께하는 사람을 위해 칼을 휘두른다...
+그 모습은 부럽다고 생각합니다.
+
+Sho1b:하지만, 환상향을 겨울에 가두다니.
+당신들은 잘못됐어요
+
+<end>
+
+<ChatID:37>----------------------------------------
+//全滅時
+
+Youmu1a:제 승리입니다.
+여러분의 얼마 없는 봄은 받아가겠습니다
+
+<Cond=(FIND_UNIT,Reimu,player,==,-1) && (FIND_UNIT,Marisa,player,!=,-1)>
+
+Reimu2a:큭, 이런 곳에서...!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Reimu,player,!=,-1) && (FIND_UNIT,Marisa,player,==,-1)>
+
+Marisa2a:큭, 이런 곳에서...!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Reimu,player,==,-1) && (FIND_UNIT,Marisa,player,==,-1)>
+
+Reimu2a:큭, 이런 곳에서...!
+
+Marisa2a:둘이 한꺼번에 당할 줄이야...!
+
+</Cond>
+
+<end>
+
+<ChatID:38>----------------------------------------
+//EX条件クリア(ver.2.7.9追加)
+
+Youmu1a:빨라...!
+
+Marisa1a:이 정도 탄막으로, 
+우리들을 멈춰세울 수 있을거라 생각하지 말라고!
+
+Reimu1a:각오해, 요우무!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//妖夢vs.メ-コ
+
+Meko1f:요우무, 봄을 돌려줘!
+
+Meko1c:이대로는, 먹을게 없어서
+모두가 쫄쫄 굶고 말거야!
+
+Youmu1a:누군진 모르겠으나, 일이 끝나면
+곧바로 돌려드리겠다고 했습니다!
+
+Meko0g:하지만, 실은 그것 뿐 만이 아니라...
+
+Meko1d:나 참-, 이렇게 된 이상
+탄막전으로 멈춰세울 수밖에 없겠어!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//妖夢vs.まくら
+
+Makura0g:주인을 위해서라면,
+예전의 동료라도 칼을 겨누는 거군요
+
+Youmu1a:제 역할은 유유코님을 지키는 것!
+그것이 그 무엇보다 중요합니다!
+
+Makura1c:그 망설임 없는 마음이,
+당신의 강점이겠지요.
+
+Makura1a:하지만, 이 이변은 너무 위험합니다.
+여긴 지나가겠습니다
+
+<end>
+
+<ChatID:41>----------------------------------------
+//妖夢vs.妖夢
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Youmu1b:...옛날의 나 자신과 대립하다니,
+묘한 기분이군요
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Youmu2b:당신은...!?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Youmu3b:...지금의 당신에게
+무슨 말을 해도 통하지 않을 거란 건
+잘 알고 있습니다.
+
+Youmu1c:그러니까, 제가 막겠습니다!
+그리고, 과오를 뉘우치겠어!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Youmu1a:수상한 녀석이 무슨 소릴...!
+방해한다면, 용서 없이 벤다!
+
+</nomove>
+
+<end>
+
+<ChatID:42>----------------------------------------
+//妖夢vs.幽々子
+
+Yuyuko1b:그 벚나무의 기운이 느껴지네
+
+Youmu0c:유유코 님, 있으셨습니까.
+
+Youmu1b:걱정하지 않으셔도 됩니다.
+누구도 방해하지 못할거니까
+
+Yuyuko1a:부탁할게. 벚꽃이 피어줘야,
+그 뒤의 일들을 볼 수 있을테니까
+
+Youmu2b:네에...
+
+Yuyuko3a:그렇지만, 정말 잘할 수 있으려나.
+살짝 확인해 봐야겠어
+
+<end>
+
+<ChatID:43>----------------------------------------
+//妖夢vs.紫
+
+Youmu0c:유카리 님, 돌아오셨군요.
+
+Youmu4c:유유코 님이 심심해하셨는데,
+분명 기뻐하실거에요
+
+Yukari2a:심심했다...인가.
+그래서 봄 같은걸 모아, 저 벚나무를...
+
+Youmu0b:사이교우아야카시에 대해,
+알고 계셨나요?
+
+Yukari4a:너나 유유코보다 더 잘 알지.
+
+Youmu0d:그렇다면, 벚꽃이 피는 광경을
+같이 보시는건?
+
+Youmu4c:이만큼이나 봄이 있으니, 분명...
+
+Yukari4b:......
+
+Youmu2b:유카리 님?
+
+Yukari4a:...불길하디 불길한, 요괴 벚나무.
+개화하는 모습 따위, 다신 보고 싶지 않아.
+
+Yukari2c:적어도, 너가 가진 거의 없는 봄은
+여기서 돌려받도록 할게
+
+Youmu2b:유카리 님, 방해를 하시다니...!?
+
+<end>

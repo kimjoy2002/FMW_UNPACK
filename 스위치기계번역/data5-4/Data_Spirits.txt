@@ -1,0 +1,59 @@
+﻿ID,Name,Spr,SE,Tar,Pair,Type,BTL,Text
+NONE,??,kasoku,kasoku,SELF,0,-----,0,미습득한 정신커맨드입니다.
+TEISATSU,정찰,teisatsu,teisatsu,TILE_ENEMY,0,1턴,0,1턴동안 지정한 적유닛에게 주는 데미지가 1.05배가 되고 받는 데미지가 0.95배가 된다.
+KANNOU,감응,hicchu,hicchu,TILE_PLAYER,0,-----,0,지정한 아군 유닛에게 「필중」의 효과.
+SHUCHU,집중,shuchu,shuchu,SELF,0,1턴,1,1턴동안 명중률 회피율 +30%.
+HICCHU,필중,hicchu,hicchu,SELF,0,1턴,1,1턴동안 명중률이 100%가 된다. 상대가 「번뜩임」을 사용했을 경우 그쪽이 우선된다.
+HIRAMEKI,번뜩임,hirameki,hirameki,SELF,0,회피할때까지,1,한번만 회피율이 100%가 된다.\n효과는 필중보다 우선되지만 원호공격에 대해선 무효.
+CHOKKAN,직감,chokkan,chokkan,SELF,0,각 효과에 의존,1,1턴 동안 명중률이 100%가 된다.\n또한 한번만 회피율이 100%가 된다.
+KASOKU,가속,kasoku,kasoku,SELF,1,이동할때까지,0,한번만 이동력 +3.
+TEKAGEN,봐주기,tekagen,tekagen,SELF,0,공격할때까지,1,자신보다 기량이 낮은 상대의 HP를 10 남긴다.\n(상대의 HP가 10 미만일 경우 주는 데미지가 0이된다.)
+JYUNNO,순응,jyunno,jyunno,SELF,1,1턴,1,1턴동안 유닛과 무기의 지형 적응이 「밤」이외 S가 된다.\n(원래 S일 경우 SS가 된다.)
+OEN,응원,doryoku,doryoku,TILE_PLAYER,1,-----,0,지정한 아군 유닛에게 「노력」의 효과.
+SHUKUFUKU,축복,koun,koun,TILE_PLAYER,1,-----,0,지정한 아군 유닛에게 「행운」의 효과.
+INORI,기도,inori,inori,TILE_PLAYER,1,-----,0,지정한 아군 유닛이 다음 전투에서 획득하는 PP가 배가 된다.
+DORYOKU,노력,doryoku,doryoku,SELF,1,다음전투까지,1,다음 전투에서 획득하는 경험치가 2배가 된다.
+KOUN,행운,koun,koun,SELF,1,다음전투까지,1,다음 전투에서 획득하는 점수가 2배가 된다.
+CHOKUGEKI,직격,chokugeki,chokugeki,SELF,0,공격할때까지,1,일부 스킬이나 배리어나 사이즈차 등으로 주는 데미지의 감소를 무효화.\n원호 방어 등도 무효화한다.
+SOGEKI,저격,sogeki,sogeki,SELF,0,공격할때까지,1,사정 1의 공격 및 맵공격을 제외한 무기의 사정 +2.
+TOTSUGEKI,돌격,totsugeki,totsugeki,SELF,0,공격할때까지,1,한번만 맵공격을 제외한 모든 공격이 이동후 사용가능이 된다.
+RENGEKI,연격,rengeki,rengeki,SELF,0,공격할때까지,1,다음 공격으로 적 유닛을 격추했을 경우 한번더 행동가능.\n1턴에 한번만 사용가능.
+SHINRAI,신뢰,shinrai,shinrai,TILE_PLAYER,0,-----,0,지정한 아군 유닛의 HP를 2000 회복한다.
+YUJO,우정,shinrai,yujo,TILE_PLAYER,0,-----,0,지정한 아군 유닛의 HP를 전부 회복한다.
+KENSHIN,헌신,kenshin,kenshin,TILE_PLAYER,0,-----,0,지정한 아군 유닛의 MP를 50 회복한다.
+HOKYU,보급,kenshin,hokyu,TILE_PLAYER,0,-----,0,지정한 아군 유닛의 MP와 탄수를 전부 회복한다.
+KITAI,기대,kenshin,hokyu,TILE_PLAYER,0,-----,0,지정한 아군 유닛의 SP를 50 회복한다.
+KONJO,근성,konjo,konjo,SELF,0,-----,1,자신의 HP를 최대치의 30%만큼 회복한다.
+DOKONJO,초근성,konjo,konjo,SELF,0,-----,1,자신의 HP를 전부 회복한다.
+JIBAKU,자폭,nekketsu,nekketsu,JIBAKU,0,-----,0,사용시 퇴각하지만 인접 유닛에게 유닛의 남은 HP의 절반만큼 데미지를 준다.\n격추는 되지 않으며 특수능력 「특수내성」를 가진 적유닛에겐 무효.
+FUKKATSU,부활,koun,koun,FUKKATSU,0,-----,0,격추당한 아군 유닛을 부활시킨다. 부활시의 SP는 최대치의 50%. \n고유 커맨드의 횟수는 0이 되고 피 격추수의 기록은 리셋된다.
+TEPPEKI,철벽,teppeki,teppeki,SELF,0,1턴,1,1턴동안 받는 데미지가 절반이 된다.\n(그레이즈 데미지도 절반)
+FUKUTSU,불굴,fukutsu,fukutsu,SELF,0,피탄될때까지,1,한번만 피탄시 데미지가 10이 된다.\n(그레이즈는 피탄으로 취급하지 않는다)
+GEKITO,격전,gekito,gekito,SELF,0,1턴,1,1턴동안 주는 최종 데미지가 1.2배가 된다.\n크리티컬은 발생하지만 「열혈」등의 효과는 중첩되지 않는다.
+KAISHIN,회심,kaishin,kaishin,SELF,1,공격할때까지,1,다음 전투에서 공격이 반드시 크리티컬이 된다.
+NEKKETSU,열혈,nekketsu,nekketsu,SELF,0,공격할때까지,1,한번만 주는 최종 데미지가 1.5배가 된다.\n단 크리티컬은 발생하지 않는다.
+TAMASHI,혼,tamashi,tamashi,SELF,0,공격할때까지,1,한번만 주는 최종 데미지가 1.8배가 된다.\n단 크리티컬은 발생하지 않는다.
+SUTEMI,몸버리기,sutemi,sutemi,SELF,0,공격할때까지,1,한번만 주는 최종 데미지가 1.8배가 된다.\n이동시의 탄막효과도 무시하지만 공격후 반드시 피탄된다.
+KISHU,기습,kishu,kishu,SELF,0,각효과에의존,1,「가속」 「필중」 「열혈」의 효과.
+GEKIDO,격노,gekido,gekido,ALL_ENEMY,0,-----,0,모든 적유닛에게 500 데미지.\n(격추는 불가능)
+DATSURYOKU,탈력,datsuryoku,datsuryoku,TILE_ENEMY,0,-----,0,지정한 적유닛의 파워를 10 내린다.
+GEKIREI,격려,kiai,kiai,TILE_PLAYER,1,-----,0,지정한 아군 유닛의 파워를 10올린다.\n전위 후위 양쪽에게 유효.
+COBU,고무,cobu,cobu,ALL_PLAYER,0,-----,0,모든 아군 유닛의 파워를 5올린다.\n전위 후위 양쪽에게 유효.
+KIAI,기합,kiai,kiai,SELF,0,-----,1,자신의 파워를 10 올린다.
+KIHAKU,기백,kiai,kiai,SELF,0,-----,1,자신의 파워를 30 올린다.
+KAKUREMI,은신,kakuremi,kakuremi,SELF,1,1턴,1,1턴동안 적유닛의 공격대상이 되지 않는다. 자신이 공격할경우엔 반격을 받는다.
+KAKURAN,교란,kakuran,kakuran,ALL_ENEMY,0,1턴,0,1턴동안 적유닛의 최종 명중률이 절반이 된다.\n효과는 「필중」이 우선.
+IATSU,위압,iatsu,iatsu,TILE_ENEMY,0,-----,0,지정한 적유닛의 탄막을 소거한다.\n스펠카드나 특수능력 「특수내성」를 가진 적유닛에겐 무효.
+CHOHATSU,도발,chohatsu,chohatsu,TILE_ENEMY,0,전투할때까지,0,지정한 적유닛이 사용자를 쫓아 이동한다. 누군가와 전투할때까지 효과는 지속되며\n특수능력「특수내성」을 가진 적유닛에겐 무효.
+KAKUSEI,각성,kakusei,kakusei,SELF,0,행동할때까지,1,한번 행동횟수가 늘어난다. 효과를 얻기 위해서는 사용자가 전위일 필요가 있다.
+SAIDO,재동,saido,saido,TILE_PLAYER,1,-----,0,행동을 종료한 아군 유닛을 다시 행동가능으로 만든다.
+KISEKI,기적,kiseki,kiseki,SELF,0,각효과에의존,1, 「가속」 「필중」 「번뜩임」 「기백」 「열혈」 「철벽」\n「행운」 「노력」 「초근성」의 효과.
+AI,사랑,ai,ai,TILE_PLAYER,0,각효과에의존,0,지정한 아군 유닛에게 「응원」 「축복」 「기도」\n「격려」 「헌신」 「신뢰」 「감응」의 효과.
+YUKI,용기,yuki,yuki,SELF,0,각효과에의존,1, 「가속」 「필중」 「불굴」 「기합」 「돌격」 「직격」 「열혈」의 효과.
+KIZUNA,인연,kizuna,kizuna,ALL_PLAYER,0,-----,0,모든 아군 유닛의 HP을 2000 회복한다.
+YUME,꿈,kasoku,kasoku,YUME,0,커맨드에의존,1,출격한 아군 유닛이 습득하고있는 임의의 정신커맨드를 사용한다.\n단 더 많은 SP를 소비한다.
+SUTEMI2,반동,kasoku,kasoku,TILE_PLAYER,0,-----,0,몸버리기내부처리용
+EXTRA,없음,kasoku,kasoku,SELF,0,----,0,예비칸
+EXTRA2,없음,kasoku,kasoku,TILE_PLAYER,0,-----,0,예비칸2
+NA,----,kasoku,kasoku,NA,0,-----,0,이 칸엔 아무것도 습득하지 않습니다.
+BLANK,,kasoku,kasoku,TILE_PLAYER,0,-----,0,번뜩임내부처리용

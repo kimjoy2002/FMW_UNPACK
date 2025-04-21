@@ -1,0 +1,728 @@
+﻿○魔理沙第五話大妖精SOS
+
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=1,FROM=香霖堂,TO=人里への森,name=어느 숲,icon=2>
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=*bg_Forest,bgm=bgm_talk_aoki>
+
+Marisa6a:후후-훙, 흐흐흐-흠♪
+
+Nitori4d:자기만을 위해서만 마법 쓰는 마법-사-♪
+
+Alice4a:...잠깐, 부끄러우니까 그만 부르면 안될까?
+
+Alice5b:게다가, 마리사는 그렇다 치고 왜 니토리도 같이
+부르고 있는거야?
+
+Nitori4c:뭐-, 건전한 소년이라면 누구든 아는 노래잖아
+
+Marisa0c:같이 부르고 싶었으면 솔직하게 끼워달라 말하라고
+
+Nitori4b:맞아맞아, 앨리스도 같이 부르자.
+
+Alice1a:싫어, 절대 사양이야.
+
+Alice4a:...하아. 아까 그 녀석을 쫓아 이 방향으로 오긴 했는데...
+
+Alice0a:흑막의 정체는 여전히 불명이잖아. 
+놀지만 말고, 조금은 생각해봐
+
+Nitori0b:맞아 마리사, 좀 더 생각해봐
+
+Marisa3a:너는 대체 누구 편이냐?
+
+Marisa0a:그래도, 정보가 부족하긴 하지. 
+붉은 안개를 만들어 낸다는 거랑, 그 메이드가 부하라는 것 외엔 
+모조리 수수께끼야
+
+Nitori4b:그 메이드 씨도 강했으니, 흑막은 분명 엄청 강한 요괴겠네
+
+Marisa0a:어떤 요괴든 나의 마스터 스파크면 일망타진이지.
+
+Marisa0b:그리고, 상대는 강한 편이 재밌어.
+점점 기대가 된다고
+
+Nitori4b:정말 긍정적이네에
+
+Alice0c:옛날과 전혀 변한게 없네. 처음 만났을 때가 생각나
+
+Marisa0b:옛날이라곤 해도 그리 오래된 일은 아니잖아
+
+Nitori4b:처음 만났을 때라니?
+
+Marisa0a:좀 전의 이변 때 말이야.
+스펠카드가 유행하기 전이라, 니토리는 모를거라 생각하지만 
+
+Nitori1a:그런가, 짐작 가는게 없네...
+마리사와 앨리스는 오랫동안 친구로 지낸 사이구나
+
+Alice0d:친구까진 아니야. 오랫동안 알고 지낸 사이라 하면
+레이무가 가장 오래되지 않았나?
+
+Marisa0a:그 녀석과는 악연이니까. 옛날의 그 녀석은
+『우후후 』하고 웃었었지
+
+Nitori1a:흐-음, 뭔가 레이무의 이미지랑은 다르네.
+
+Nitori0a:그래서, 마리사와 앨리스는 어쩌다 만난거야?
+둘의 이야기, 좀 더 듣고싶네
+
+Alice0c:그렇네... 잘 기억도 안나고,
+딱히 떠올리고 싶지도 않아
+
+Marisa0a:나는 기억 난다고. 마계에 놀러갔을 때였지
+
+Nitori4b:앨리스는 마계에 살았었다 했지. 둘이서 탄막전을 한거야?
+
+Marisa0b:뭐 그렇지, 그 시절의 앨리스는...
+
+Alice0c:딱히 말하지 않아도 되잖아. 재미있는 이야기도 아니고
+
+Marisa0b:뭐야, 닳는것도 아닌데.
+
+Marisa0a:즉 그건가, 나에게 졌었던 이야기를 듣는게 싫은거지?
+
+Alice1a:조용히 해!
+
+<SE=se_move_swing01.ogg,wait=1>
+
+Marisa0a:어이쿠! 잡힐까 보냐!
+
+<SE=se_move_bania01.ogg,wait=0>
+
+<Code=(map_shake,1,30,8)>
+
+<Code=(demo_wait,30)>
+
+Alice2a:꺄앗!
+
+Nitori2a:우왓, 앨리스 괜찮아?!
+
+Alice0a:...하여튼. 마리사 녀석, 새 마법 때문에 신났나 보네
+
+Nitori4b:그렇다니까. 이젠 보이지도 않고
+
+Alice0a:어쩔 수 없네, 일단 쫓아가자
+
+<end>
+
+
+<ChatID:1>---------------------------------------
+//1PP
+
+<Code=(update_view,352,288)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+<Code=(demo_wait,30)>
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+<Code=(demo_wait,30)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+Daiyosei0a:치르노 짱, 치르노 짱!
+
+Daiyosei3b:...정말이지, 치르노 짱 대체 어디로 간거야.
+
+Daiyosei0a:숨바꼭질을 할 때 마다, 항상 혼자서 
+멀리 가버린다니까.
+
+Daiyosei0a:저번에도, 신사 근처에서 놀자고 했으면서
+결국 마법의 숲까지 갔고...
+
+Daiyosei3b:항상 술래 역할인 내 처지를 알아줬으면 좋겠네에.
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+Daiyosei2c:...앗
+
+<nomove>
+
+<Code=(cursor_jump,416,192,1)>
+
+Noname0a:......
+
+</nomove>
+
+Daiyosei0a:(방금 저기서 소리가 들렸어. 
+분명 치르노 짱이 저기 있나보네)
+
+Daiyosei0b:(후후, 몰래 가까이 가서 반대로 놀래켜줘야지)
+
+<pause>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+Daiyosei0b:바밤! 치르노 짱, 찾-았...
+
+<pause>
+
+<Code=(icon_set_direction,KedamaB_en,Daiyosei,0)>
+
+Daiyosei2a:...꺄악?!
+
+<pause>
+
+KedamaB0a:......
+
+Daiyosei0a:어라, 치르노 짱이 아니었다...
+
+Daiyosei3b:미안해, 놀랐어? 잠깐 친구를 찾고 있었는데,
+요정...이 아니라 털구슬이랑 착각했네
+
+KedamaB0a:......
+
+<pause>
+
+Daiyosei3b:...혹시 화났어?
+
+Daiyosei0b:음, 낮잠을 자고 있었던 걸까.
+이제 방해하지 않을테니까, 느긋하게 쉬어
+
+KedamaB0a:......
+
+<pause>
+
+Daiyosei3b:어, 저기...
+
+<pause>
+
+Daiyosei2a:...읏!
+
+Daiyosei2a:...미안, 나 지금 급하거든!
+
+<Code=(icon_set_direction,KedamaB_en,Daiyosei,0)>
+
+<pause>
+
+Daiyosei2c:!
+
+<pause>
+
+<Code=(cursor_jump,336,304,1)>
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+<Code=(demo_wait,30)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+<Code=(demo_wait,30)>
+
+Daiyosei2c:어, 어라!?
+
+<nomove>
+
+<Code=(cursor_jump,272,272,0)>
+
+KedamaB0a:......
+
+</nomove>
+
+Daiyosei3b:...어, 그러니까...
+
+Daiyosei3b:아까 그 털구슬의 친구, 지...?
+나, 친구를 찾아야만 해서. 거기서 비켜주면 안될까...?
+
+<nomove>
+
+<Code=(cursor_jump,272,272,0)>
+
+KedamaB0a:......
+
+</nomove>
+
+<pause>
+
+Daiyosei2c:!
+
+Daiyosei1a:(대체 무슨 일이지?! 뭔가 이 털구슬들, 이상해.
+뭔가 흥분하고 있는 것 같아...)
+
+Daiyosei2a:(이렇게 둘러싸이면 건너편으로 갈 수가 없어...!)
+
+<end>
+
+<ChatID:2>---------------------------------------
+//大妖精で毛玉に攻撃
+
+Daiyosei3b:이 털구슬들을 쓰러뜨리지 않으면 
+앞으로 나아갈 수가 없어...
+
+Daiyosei1a:할 수 있을진 모르겠지만, 일단 해보자
+
+<end>
+
+<ChatID:3>---------------------------------------
+//3PP,会話イベント
+
+Daiyosei2a:하아, 하아...
+
+Daiyosei3b:안되겠어, 역시 나 혼자선
+이런 탄막을 벗어날 수 없어.
+
+Daiyosei3b:거기에다, 저 털구슬들, 
+나를 진심으로 쓰러뜨리려는 것 같아..
+
+Daiyosei2a:있잖아, 어째서 비켜주지 않는거야?
+설마 날 먹으려는건 아니지...?
+
+KedamaB0a:......
+
+<pause>
+
+Daiyosei2a:...읏!
+
+Daiyosei2b:...아얏, 오지 마!
+
+<pause>
+
+KedamaB0a:......!
+
+<pause>
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+Daiyosei2c:이런, 벌써 이런 곳까지!
+
+<pause>
+
+Daiyosei3a:그만해, 뭐하려는 거야?
+난 먹어도 맛없을건데...?
+
+Daiyosei3a:싫어... 무서워, 무서워어...
+
+Daiyosei3a:아무나, 도와줘...
+
+Daiyosei2b:도와줘, 치르노 짱!!
+
+Noname0a:거기까지다!
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Daiyosei,0)>
+
+Marisa0b:털구슬들에게 둘러싸이다니, 위험했어.
+
+Marisa0a:키리사메 마리사님이 왔으니,
+이제 안심하라고
+
+Daiyosei2c:당신은...?
+
+Marisa6a:숲의 히어로다. 
+편하게 마리사 씨라 불러도 괜찮아.
+
+Marisa0a:덤으로, 우수한 서포터도 두 명...
+
+Marisa6b:...잠깐, 어라?
+
+<nowindow>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,Marisa,FD_LEFT,0)>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+</nowindow>
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Daiyosei,0)>
+
+Marisa0b:뭐야, 둘 다 늦네. 조금 지나치게 빨리 날았나?
+
+Daiyosei2c:숲의, 히어로-...
+
+Daiyosei1a:...저기, 털구슬들에게 습격받아서 곤란한 상황이에요!
+저, 친구를 놓쳐버려서...
+
+Daiyosei3b:그래서, 혹시 괜찮으시면...
+
+Marisa0b:너, 이제 와서 무슨 소리를 하는거냐?
+
+Marisa0a:어떻게 봐도 널 도와주러 온 거잖아.
+
+Daiyosei2c:그렇다는 것은...
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+Marisa2b:무사히 이곳을 빠져나가고 싶다면,
+내 곁에서 떨어지지 마. 알겠냐!
+
+Daiyosei2c:...네, 네엣!
+
+Daiyosei0a:(이 사람... 인간인데도,
+요정인 나를 도와주는 거야?)
+
+<end>
+
+
+<ChatID:4>-------------------------------------------
+//4PP,アリスとにとりが増援
+
+Nitori1b:있다, 마리사다!
+
+<Code=(icon_set_direction,Marisa,Nitori,0)>
+
+<Code=(icon_set_direction,Daiyosei,Nitori,0)>
+
+Marisa0b:너희들이냐, 늦었다고
+
+Alice0a:마리사, 아무리 그대로 너무 앞서갔어.
+
+Alice1a:너 혼자서...엇, 어라?
+
+Daiyosei0a:......
+
+KedamaB0a:......
+
+Nitori0b:어라, 설마 전투중이야?
+
+Marisa0b:그래, 이 상황을 보라고
+
+Nitori0b:상황이라니...
+
+Alice0a:요정 한 명이, 수많은 털구슬에게 둘러싸여
+상처를 입고 있어...
+
+Nitori4b:그래서, 그 요정을 구하는거다.
+알기 쉽잖아?
+
+Daiyosei3b:저, 저기...
+
+Marisa0a:걱정 마, 이 녀석들은 동료다.
+우리들이 털구슬들을 퇴치 해 주겠어
+
+Nitori1b:응, 약한 아이를 괴롭히는건 용서못한다구!
+
+Alice1a:나도 도와줄게. 얘긴 나중에 들려줘
+
+<end>
+
+<ChatID:5>---------------------------------------
+//KedamaB0a:vs.魔理沙
+
+Marisa1a:요정 괴롭히기는 인간님의 특권이라고.
+털구슬은 얌전히 퇴치나 당해라!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//KedamaB0a:vs.アリス
+
+Alice1b:아무리 털구슬이라도, 
+여러명이서 여자애를 에워싸는건 안되지. 
+조금 혼내줘야겠어
+
+<end>
+
+<ChatID:7>----------------------------------------
+//KedamaB0a:vs.にとり
+
+Nitori1b:다 같이 요정을 괴롭히다니, 비겁하네.
+내가 벌해주겠어!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//クリア時会話
+
+Marisa0b:좋아, 청소 종료. 유난히 튼튼한 털구슬이었어
+
+Alice0a:저번에 싸웠던 털구슬과는 조금 다르네.
+이것도 붉은 안개 때문인걸까
+
+Daiyosei0a:......
+
+Marisa0a:그렇게 됐으니, 이제 안심해.
+저 털구슬들은 쫓아 냈다고
+
+Daiyosei0a:...저기, 정말 감사합니다.
+위험할때 도와주셔서...
+
+Nitori1a:이 정도 쯤이야. 곤란할땐 서로 돕는거지
+
+Alice0a:그런데, 너는 어쩌다가 털구슬들에게
+둘러싸인거야?
+
+Alice0d:마법의 숲을 혼자 다니는건,
+별로 추천하지 않아
+
+Daiyosei0a:...실은, 친구를 찾고 있던 중이었어요
+
+Nitori0b:찾는다니... 행방불명 같은건가?
+
+Daiyosei3b:아뇨, 그저 숨바꼭질이긴 하지만, 
+제가 술래니까 찾아야만 해서
+
+Marisa0b:큰일 날 뻔한 것 치곤, 소소한 이야기구만
+
+Nitori4c:요정답다면 요정다운 이야기지만
+
+Daiyosei3b:...죄, 죄송해요
+
+Nitori4b:아, 나쁜 의미로 말한건 아니야. 신경쓰지 마.
+
+Nitori0a:그래서, 너는 이제 어떡할거야?
+
+Daiyosei0a:이 주변은 잔뜩 찾아봤으니,
+일단 호수로 돌아갈까 싶어요
+
+Marisa0b:응? 호수라고?
+
+Marisa0a:우연이네, 우리들도 마침 거기로 가고 있었어
+
+Alice0d:그렇다면 같이 갈래?
+또 털구슬에게 습격당할지도 모르잖아
+
+Daiyosei0a:아뇨, 그... 여러분들도 
+따로 할 일이 있으실테니...
+
+Marisa0a:요정 주제에 사양하지 마.
+어차피 지나가야하는 길이니까
+
+Daiyosei3b:그래도...
+
+Daiyosei0a:......
+
+Daiyosei0a:그렇다면 저, 안개의 호수까지 안내할게요.
+항상 가는 곳이라 익숙하니까
+
+Marisa0a:오호, 그거 괜찮은 이야기네.
+모처럼이니 길 안내를 부탁할까.
+
+Marisa0a:그럼, 서두르자. 이변의 흑막은 기다려 줘도,
+레이무는 기다려 주지 않으니까
+
+Nitori4b:이번엔 너무 앞서가지 말아줘-
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,496,176,1)>
+
+<hide=all>
+
+Sanae0a:......
+
+<hide=all>
+
+Sanae0b:방금 그 마법사, 그 무녀에 대해서 뭔가
+알고있는 것 같네요. 
+
+Sanae0a:그렇다는 것은... 그녀의 뒤를 쫓으면,
+하쿠레이의 무녀를 찾아낼 수 있는 걸까요.
+
+Sanae0a:스토커 같아서 내키진 않지만...
+길 안내를 받도록 하죠
+
+</hide>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ADVB
+
+<MAP=1,FROM=人里への森,TO=湖への道,name=어느 숲,icon=2>
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=*bg_Forest,bgm=bgm_talk_gag>
+
+Nitori4b:후우, 꽤 왔네
+
+Marisa0b:안개가 상당히 짙어졌네.
+자칫하다 길을 잃겠는데...
+
+Daiyosei0a:어, 여기에 큰 나뭇가지가 떨어져 있으니까...
+
+Daiyosei0b:여러분, 여기에요. 쭉 앞으로 가면 호수에 도착해요
+
+Marisa6b:이런 식의 길 안내라니, 괜찮을려나?
+큰 나뭇가지라면 아까도 굴러다녔는데
+
+Alice0a:걱정하지 않아도 돼.
+요정은, 우리들과는 다른 감각으로 
+자연을 인지하니까
+
+Marisa0a:그런건가. 잘 모르겠지만 편리하겠네.
+
+Marisa0b:...음, 그러고 보니 너,
+아직 이름을 듣지 못했네
+
+Daiyosei2c:엇, 이름...인가요?
+
+Marisa0b:그래, 이름을 모르면 여러가지로 곤란하잖아.
+
+Marisa0a:그렇게 됐으니 나는 마리사.
+대마법사다.
+
+Alice0d:『대』는 필요 없잖아.
+나는 앨리스, 마법사야.
+
+Nitori4c:니토리야, 잘 부탁해.
+
+Daiyosei0a:네, 그러니까... 잘 부탁드려요.
+
+Daiyosei3b:......
+
+Marisa0b:왜 그래? 자기소개 타임인데
+
+Daiyosei3b:아, 아뇨. 인간이나 요괴가 
+이름을 물어본건 처음이라, 조금 놀라서...
+
+Daiyosei0a:저는『대요정 』이라 불러주세요.
+다들 저를 그렇게 불러서
+
+Marisa0a:대요정인가, 잘 부탁해
+
+Alice0d:『대 』요정이라는 것은,
+다른 요정보다 더 힘이 있다는 거야?
+방금은 탄막전도 하고 있었고
+
+Daiyosei0a:다들 그렇게 부를 뿐이라, 이름값은 못하네요.
+
+Daiyosei3b:탄막도, 치르노 짱에 비해서...
+
+Nitori4b:혹시, 그 치르노라는 애가
+방금 말했던 친구?
+
+Daiyosei0b:네. 치르노 짱은 호수의 요정중 가장 강하고,
+저랑 가장 친한 친구에요.
+
+Daiyosei0a:숨바꼭질을 하면, 항상 어디론가 가버리지만...
+
+Daiyosei3b:얼른 찾지 않으면, 
+저에게 무슨 일이 생긴건 아닐까 하고
+걱정하니까...
+
+Marisa0b:자기가 숨어놓고선, 뭔가 엉망진창이네
+
+Alice0d:너도 참 고생이 많구나.
+
+Nitori0a:그래도, 요정인데 친구를
+소중히 여기다니 대견하네.
+
+Nitori1a:좋-아, 니토리 언니가 발 벗고 나서서
+친구 찾기를 도와줄게!
+
+Marisa6a:언니라고 불릴만한 키는 아니지만
+
+Daiyosei0a:......
+
+Alice2b:...있잖아
+
+Daiyosei2c:...네에?!
+
+Alice0d:우리들이 요괴라고 해서 
+그렇게 긴장할 필요는 없어.
+
+Alice0d:너를 잡아먹겠다는 생각은 아무도 안하니까
+
+Daiyosei2b:...네, 네에...
+
+Alice0d:인간은 요정을 혼내기도 하니,
+겁내는 것도 이해는 가지만...
+
+Alice0d:모두가 그러는건 아니니까
+
+Daiyosei0a:네에...
+
+Nitori0a:그나저나『대 』요정이라니 멋있네.
+나도 그런게 있음 좋겠다-
+
+Marisa0a:그러면 너도『대니토리 』라
+불러달라고 하면 되잖아.
+
+Nitori4a:불러달라 한다면,
+ 『자이언트 니토리』쪽이 좋을지도.
+
+Nitori1a:풀 아머 니토리라던가,
+니토리 스나이퍼 커스텀도 멋있네
+
+Marisa0b:그건『대 』가 붙어있지 않잖아
+
+Daiyosei0a:......
+
+Daiyosei0b:풋, 우후후
+
+Daiyosei0a:(확실히, 마리사 씨는 인간인데도 별나구나아)
+
+Daiyosei0b:(뭔가, 치르노 짱과 잘 맞을 것 같아)
+
+Alice0d:그럼, 계속해서 호수까지 길 안내를 부탁해.
+친구도 찾아야 하니까
+
+Daiyosei0a:네, 저를 따라와 주세요
+
+Daiyosei1a:(기다려 줘, 치르노 짱...!)
+
+<end>
+
+<ChatID:10>----------------------------------------
+//まくら初戦闘
+
+Makura1c:요정 한 명을 집단으로 습격할줄은...
+
+Makura1a:그 사악한 소행,
+제가 바로잡아 드리겠습니다
+
+<end>
+
+<ChatID:11>----------------------------------------
+//メ-コ初戦闘
+
+Meko1d:둘러싸서 괴롭히는건 안돼-!
+
+Meko1a:검은 털구슬따위, 우리들이 해치워주겠어!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//大妖精初戦闘★発生しない
+
+Daiyosei3b:이 때, 엄청 무서웠지.
+마리사 씨가 오지 않았다면, 분명...
+
+Daiyosei5c:그래도, 지금은 나도 힘내야해...!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//チルノ初戦闘
+
+Cirno2b:너희들, 다이짱에게서 떨어져-!
+
+Cirno3b:기다려, 다이짱. 이 몸이 도와줄게!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//依姫初戦闘
+
+Yorihime0b:겁에 질린 상대를, 단체로...
+
+Yorihime1b:추악하구나, 각오하시길!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//レティ初戦闘
+
+Letty4a:...지독한 그림이네.
+나의 한파로, 영원히 잠들게 해줄게
+
+<end>
+
+

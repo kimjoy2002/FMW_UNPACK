@@ -1,0 +1,53 @@
+﻿ID,LineID,face,dialog
+0,0,Utsuho0a,나라도 싸울 수 있다!
+1,0,Utsuho0a,지옥아는 제일 강하다!
+2,0,Utsuho0a,얕잡아 보면、심하기 때문에!
+3,0,Utsuho0a,오린에게는 이길 수 없어도…
+4,0,Utsuho0a,크게 쳐들어~…
+4,1,Utsuho1a,던진다!
+5,0,Utsuho0a,그렇게…
+5,1,Utsuho1a,그─… 것!
+6,0,Utsuho0a,이것이 나의…
+6,1,Utsuho1a,이것이 나의… 탄막이다!
+7,0,Utsuho0a,가겠어~…
+7,1,Utsuho0a,에잇!
+7,2,Utsuho0a,에잇! … 어?
+8,0,Utsuho0a,필살~…!
+8,1,Utsuho0a,우랴앗!
+8,2,Utsuho0a,우랴앗! … 저것 저것?
+9,0,Utsuho0a,스페셜~…
+9,1,Utsuho0a,펀치!
+9,2,Utsuho0a,펀치! … 저것 저것?
+10,0,Utsuho0a,이것은 아파…
+10,1,Utsuho0a,묻는다!
+10,2,Utsuho0a,묻는다! … 저것 저것?
+11,0,Utsuho0a,이것으로 어때!
+11,1,Utsuho0a,울트라 스페셜…
+11,2,Utsuho0a,울트라 스페셜…\n 고르덴데리샤스…
+11,3,Utsuho0a,울트라 스페셜…\n 고르덴데리샤스…\n 자이언트 매그넘…!
+11,4,Utsuho0a,판치!
+11,5,Utsuho0a,… 네─와、-와…
+12,0,Utsuho0a,이것으로 어때!
+12,1,Utsuho0a,하이퍼 골드…
+12,2,Utsuho0a,하이퍼 골드…\n 라그쥬아리후르오트마틱크…
+12,3,Utsuho0a,하이퍼 골드…\n 라그쥬아리후르오트마틱크…\n 진파이나르바체르로만싱…
+12,4,Utsuho0a,두근거려 판치!
+12,5,Utsuho0a,… 네─와、-와…
+13,0,Utsuho0a,이래서야、반격 할 수 없어
+14,0,Utsuho2a,보고、잃어 버렸다…
+15,0,Utsuho2a,아、어? 도대체 어디에서…
+16,0,Utsuho0a,이런 건은 없어!
+17,0,Utsuho0a,원、나라고!
+18,0,Utsuho0a,위험하다!
+19,0,Utsuho2a,아직 당할 수는…!
+20,0,Utsuho2a,원원、여기서 침착하지 않으면…!
+21,0,Utsuho2a,나、그만두어―!
+22,0,Utsuho2a,있고、아프다!
+23,0,Utsuho2a,와왓!?
+24,0,Utsuho0a,그런 애송이、맞지 않아!
+25,0,Utsuho0a,아、어?
+26,0,Utsuho0a,효과가 없는 것 같다!
+27,0,Utsuho0a,에잇!
+28,0,Utsuho0a,에에─응이다!
+29,0,Utsuho2a,나、당해 버렸다~!?
+30,0,Utsuho0a,None

@@ -1,0 +1,170 @@
+﻿ID,LineID,face,dialog
+0,0,Daiyosei0a,나도 할 수 있을까?
+1,0,Daiyosei0a,가끔은 치료 말고도...
+2,0,Daiyosei0a,가능하다면 대화로 해결하고 싶지만...
+3,0,Daiyosei0a,지금이 찬스일지도...
+4,0,Daiyosei1a,나도 조금은...!
+5,0,Daiyosei0a,힘낼게요!
+6,0,Daiyosei1a,저도 싸울게요!
+7,0,Daiyosei1a,앞으로 조금이니까!
+8,0,Daiyosei0a,한 끗 이라도...
+9,0,Daiyosei1a,이거라면 나도!
+10,0,Daiyosei1a,에잇!
+11,0,Daiyosei1a,가...갑니다!
+12,0,Daiyosei1a,피、피하지 말아줘!
+13,0,Daiyosei2a,에잇!
+14,0,Daiyosei1a,죄송해요!
+15,0,Daiyosei1a,이얍!
+16,0,Daiyosei2a,던집니다!
+17,0,Daiyosei2a,쏩니다!
+18,0,Daiyosei2a,부탁할게、맞아줘!
+19,0,Daiyosei0a,에잇、이거라면!
+20,0,Daiyosei1a,잔뜩 연습한 탄막이니까!
+21,0,Daiyosei1a,이건、맞으면 아플거야!
+22,0,Daiyosei1a,불타는 탄막이에요!
+23,0,Daiyosei1a,나라도!
+24,0,Daiyosei2a,미안해!
+25,0,Daiyosei0a,피하고만 있어선 안되겠지만...
+26,0,Daiyosei0a,지금은 이러고 있을 수밖에 없네
+27,0,Daiyosei0a,이래선 반격할 수가 없네
+28,0,Daiyosei0a,그렇게 멀리서、치사하네요
+29,0,Daiyosei0a,어떡하지、닿지 않아...
+30,0,Daiyosei0a,무섭지만、좀 더 가까이 가야해...
+31,0,Daiyosei3a,죄송해요、절 위해서...
+32,0,Daiyosei1a,도와드릴게요!
+33,0,Daiyosei1a,뒤에서 쏘겠습니다!
+34,0,Daiyosei1a,이어서 가겠습니다!
+35,0,Daiyosei1a,저도 같이 힘내겠습니다!
+36,0,Daiyosei1a,지지 말아주세요!
+37,0,Daiyosei1a,곧 도와주러 올거에요...!
+38,0,Daiyosei3a,미안、치르노 짱...
+39,0,Daiyosei0a,나도、\n 치르노 짱의 힘이 되고싶어!
+40,0,Daiyosei0a,치르노 짱、뒤는 맡겨줘!
+41,0,Daiyosei2a,치르노 짱、위험해!
+42,0,Daiyosei0a,치르노 짱、너무 앞서나갔어!
+43,0,Daiyosei3a,루미아 짱、미안해...
+44,0,Daiyosei0a,루미아 짱、다음은 내가!
+45,0,Daiyosei0a,나도、친구를 위해서라면!
+46,0,Daiyosei0a,루미아 짱、 제대로 앞을 봐!
+47,0,Daiyosei0a,루미아 짱...\n 주위가 제대로 보일려나
+48,0,Daiyosei3a,첸 짱、미안해...
+49,0,Daiyosei0a,나도、친구를 위해서라면!
+50,0,Daiyosei0a,첸 짱、다음은 내가!
+51,0,Daiyosei2a,첸 짱、도망쳐!
+52,0,Daiyosei2a,첸 짱、위험해!
+53,0,Daiyosei3a,미스티아 짱、미안해...
+54,0,Daiyosei0a,나도、친구를 위해서라면!
+55,0,Daiyosei0a,미스티아 짱、다음은 내가!
+56,0,Daiyosei2a,미스티아 짱、도망쳐!
+57,0,Daiyosei2a,미스티아 짱、위험해!
+58,0,Daiyosei3a,나즈린 짱、미안해...
+59,0,Daiyosei0a,나즈린 짱、도울게!
+60,0,Daiyosei0a,나즈린 짱、다음은 내가!
+61,0,Daiyosei2a,나즈린 짱、도망쳐!
+62,0,Daiyosei2a,나즈린 짱、위험해!
+63,0,Daiyosei2a,괜찮아요、상처는 없습니다!
+64,0,Daiyosei2a,아직 괜찮아요!
+65,0,Daiyosei2a,이、이대로면 문제는 없겠어!
+66,0,Daiyosei2a,꺄악!
+67,0,Daiyosei2a,싫엇!
+68,0,Daiyosei2a,읏、역시 무리인가...
+69,0,Daiyosei2a,...으응、아직 괜찮아...
+70,0,Daiyosei2a,아직、이정도는!
+71,0,Daiyosei2a,아、아직 쓰러질 수는 없어요!
+72,0,Daiyosei2a,이 정도는 참아야만...!
+73,0,Daiyosei0a,비、빗나갔네...?
+74,0,Daiyosei0a,어딘가 숨을 곳을 찾아야겠어...
+75,0,Daiyosei1a,보여요!
+76,0,Daiyosei0a,헛、다행이다...
+77,0,Daiyosei0a,치르노 짱、나 피했어!
+78,0,Daiyosei0a,오늘은 컨디션이 좋은가...
+79,0,Daiyosei0a,조그만한게 도움이 됐을지도...
+80,0,Daiyosei0a,마、막아냈어...?
+81,0,Daiyosei0a,에잇!
+82,0,Daiyosei0a,가、가끔은 내가!
+83,0,Daiyosei2a,역시、\n 나로선 무리였나봐...
+84,0,Daiyosei0a,물러나겠습니다、\n 여러분 서로 상처를 입히진 말아주시길
+85,0,Daiyosei2a,저 애가 벌레를 다루는건가...?
+86,0,Daiyosei2a,꺄악、벌레가 잔뜩...!?
+87,0,Daiyosei0a,잔뜩 연습했었으니까
+88,0,Daiyosei0a,서니 짱도 거기 있었구나
+89,0,Daiyosei0a,잔뜩 연습했었으니까
+90,0,Daiyosei0a,루나 짱도 거기 있었구나
+91,0,Daiyosei0a,잔뜩 연습했었으니까
+92,0,Daiyosei0a,스타 짱도 거기 있었구나
+93,0,Daiyosei0a,3대 1이라도 지지 않을거야!
+94,0,Daiyosei0a,세 사람 다 거기 있었꾸나
+95,0,Daiyosei0a,나도 할 수 있을까?
+96,0,Daiyosei0a,가끔은 치료 말고도...
+97,0,Daiyosei0a,지금이 찬스일지도...
+98,0,Daiyosei1a,나도 조금은...!
+99,0,Daiyosei0a,힘낼게요!
+100,0,Daiyosei1a,저도 싸울게요!
+101,0,Daiyosei1a,에잇!
+102,0,Daiyosei1a,가...갑니다!
+103,0,Daiyosei1a,피、피하지 말아줘!
+104,0,Daiyosei2a,에잇!
+105,0,Daiyosei1a,죄송해요!
+106,0,Daiyosei1a,이얍!
+107,0,Daiyosei2a,던집니다!
+108,0,Daiyosei2a,쏩니다!
+109,0,Daiyosei2a,부탁할게、맞아줘!
+110,0,Daiyosei0a,에잇、이거라면!
+111,0,Daiyosei1a,잔뜩 연습한 탄막이니까
+112,0,Daiyosei1a,이건、맞으면 아플거야!
+113,0,Daiyosei1a,불타는 탄막이에요!
+114,0,Daiyosei1a,나라도!
+115,0,Daiyosei0a,피하고만 있어선 안되겠지만...
+116,0,Daiyosei0a,지금은 이러고 있을 수밖에 없
+117,0,Daiyosei0a,이래선 반격할 수가 없어
+118,0,Daiyosei0a,그렇게 멀리서、치사하네요
+119,0,Daiyosei0a,어떡하지、닿지 않아...
+120,0,Daiyosei0a,무섭지만、좀 더 가까이 가야해.
+121,0,Daiyosei3a,죄송해요、절 위해서...
+122,0,Daiyosei1a,도와드릴게요!
+123,0,Daiyosei1a,뒤에서 쏘겠습니다!
+124,0,Daiyosei1a,이어서 가겠습니다!
+125,0,Daiyosei1a,저도 같이 힘내겠습니다!
+126,0,Daiyosei1a,지지 말아주세요!
+127,0,Daiyosei1a,곧 도와주러 올거에요...!
+128,0,Daiyosei3a,미안、치르노 짱...
+129,0,Daiyosei0a,나도、\n 치르노 짱의 힘이 되고싶어!
+130,0,Daiyosei0a,치르노 짱、뒤는 맡겨줘!
+131,0,Daiyosei2a,치르노 짱、위험해!
+132,0,Daiyosei0a,치르노 짱、너무 앞서나갔어!
+133,0,Daiyosei3a,루미아 짱、미안해...
+134,0,Daiyosei0a,루미아 짱、다음은 내가!
+135,0,Daiyosei0a,나도、친구를 위해서라면!
+136,0,Daiyosei0a,루미아 짱、 제대로 앞을 봐!
+137,0,Daiyosei0a,루미아 짱...\n 주위가 제대로 보일려나
+138,0,Daiyosei3a,미스티아 짱、미안해...
+139,0,Daiyosei0a,나도、친구를 위해서라면!
+140,0,Daiyosei0a,미스티아 짱、다음은 내가!
+141,0,Daiyosei2a,미스티아 짱、도망쳐!
+142,0,Daiyosei2a,미스티아 짱、위험해!
+143,0,Daiyosei2a,괜찮아요、상처는 없습니다!
+144,0,Daiyosei2a,아직 괜찮아요!
+145,0,Daiyosei2a,이、이대로면 문제는 없겠어!
+146,0,Daiyosei2a,꺄악!
+147,0,Daiyosei2a,싫엇!
+148,0,Daiyosei2a,읏、역시 무리인가...
+149,0,Daiyosei2a,...으응、아직 괜찮아...
+150,0,Daiyosei2a,아직、이정도는!
+151,0,Daiyosei2a,아、아직 쓰러질 수는 없어요!
+152,0,Daiyosei2a,이 정도는 참아야만...!
+153,0,Daiyosei0a,비、빗나갔네...?
+154,0,Daiyosei0a,어딘가 숨을 곳을 찾아야겠어...
+155,0,Daiyosei1a,보여요!
+156,0,Daiyosei0a,헛、다행이다...
+157,0,Daiyosei0a,치르노 짱、나 피했어!
+158,0,Daiyosei0a,오늘은 컨디션이 좋은가...
+159,0,Daiyosei0a,조그만한게 도움이 됐을지도...
+160,0,Daiyosei0a,마、막아냈어...?
+161,0,Daiyosei0a,에잇!
+162,0,Daiyosei0a,가、가끔은 내가!
+163,0,Daiyosei2a,꺄악!\n 더이상은 무리같아...
+164,0,Daiyosei0a,None
+165,0,Daiyosei0a,탄막에 마음이 담겨있어...
+166,0,Daiyosei0a,메코 씨、갑니다!
+167,0,Daiyosei0a,봐준 건가...?
+168,0,Daiyosei0a,마쿠라 씨、갑니다!

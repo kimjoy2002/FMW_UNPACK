@@ -1,0 +1,222 @@
+﻿ID,再生するファイル,Name,Name_Orig,From,By,Arrange,Sel,採用
+bgm_gen_op_theme,bgm_gen_op_theme,환상소녀대전~요요몽,요요몽 ~ Snow or Cherry Petal,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,0,1
+bgm_battle_Rumia,bgm_battle_Rumia,십자가를 짊어지고 야밤을 달리다~요마야행,요마야행,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,1,1
+bgm_weapon_Rumia_Dimmer,bgm_weapon_Rumia_Dimmer,밤하늘에 춤추는 먹어치우는 무언가~꽈리처럼 붉은 혼,꽈리처럼 붉은 혼/요마야행,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,0,1
+bgm_battle_Daiyosei,bgm_battle_Daiyosei,조용한 호수 위의 명참모(베스트 프렌드)~루네이트 엘프,루네이트 엘프,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,1,1
+bgm_battle_Cirno,bgm_battle_Cirno,Flap&Frappe&Flapper~말괄량이 연랑,말괄량이 연랑,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,1,1
+bgm_weapon_Cirno_Fbaka,bgm_weapon_Cirno_Fbaka,무적의 세션!!~말괄량이 연랑/기타,말괄량이 연랑/그 외 다수,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,0,1
+bgm_battle_Meiling,bgm_battle_Meiling,지켜라! 중화소녀!~상하이 홍차관,상하이 홍차관 ~ Chinese Tea/메이지 17년의 상하이 앨리스,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,1,1
+bgm_battle_Koakuma,bgm_battle_Koakuma,악마라도 순수한 마음으로~브와르 마법도서관,브와르 마법도서관,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,1,1
+bgm_battle_Patchouli,bgm_battle_Patchouli,압실레 멜로사의 마녀~락드 걸,락드 걸 ~ 소녀밀실,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,1,1
+bgm_battle_Sakuya2,bgm_battle_Sakuya2,DISTORTION DIAL~달시계 루나 다이얼,달시계 ~ 루나 다이얼,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,1,1
+bgm_weapon_Sakuya_Meek,bgm_weapon_Sakuya_Meek,무너져 가는 은의 칼날~체페슈의 어린 후예,체페슈의 어린 후예/메이드와 피의 회중시계,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,0,1
+bgm_battle_Sakuya,bgm_battle_Sakuya,소쇄한 밤에 피는 꽃과~플라워링 나이트,플라워링 나이트,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,Ibiza,1,1
+bgm_battle_Remilia,bgm_battle_Remilia,영원히 어린 홍색을 물들이고~죽은 왕녀를 위한 셉텟,죽은 왕녀를 위한 셉텟/체페슈의 어린 후예,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,1,1
+bgm_battle_Flan2,bgm_battle_Flan2,언밸런스 언노운~마법소녀들의 백년제,마법소녀들의 백년제,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,1,1
+bgm_battle_Flan,bgm_battle_Flan,FRANTIC DESTROYER~U.N.오웬은 그녀인가?,U.N.오웬은 그녀인가?,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,1,1
+bgm_battle_Flan3,bgm_battle_Flan3,엽기적이며 귀여운 게스트~U.N.오웬은 그녀인가?,U.N.오웬은 그녀인가?,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,1,1
+bgm_battle_Letty,bgm_battle_Letty,LETTY THE COOL LADY~크리스탈라이즈 실버,크리스탈라이즈 실버,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Letty2,bgm_battle_Letty2,THAWY DAYS~이상향,이상향 ~ Deep Mountain,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Chen,bgm_battle_Chen,오렌지 팬시~댜오예쭝,댜오예쭝(Withered Leaf)/토오노 환상 이야기,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Hourai,bgm_battle_Hourai,애정 가득 수제 인형~부쿠레슈티의 인형사,부쿠레슈티의 인형사,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_Alice,bgm_battle_Alice,DANCING DOLL~인형재판,인형재판 ~ 사람의 형상을 가지고 노는 소녀,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Alice2,bgm_battle_Alice2,손 끝을 이어서~Romantic Children,Romantic Children,동방괴기담 ~ Mystic Square,ZUN,cobu,1,1
+bgm_battle_LilyW_NS,bgm_battle_LilyW_NS,저 멀리 싹트지 않는 봄의 시~천공에 있는 꽃의 도시,천공에 있는 꽃의 도시,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_LilyW,bgm_battle_LilyW,순백의 봄천사(백합)~천공에 있는 꽃의 도시,천공에 있는 꽃의 도시,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_LilyB,bgm_battle_LilyB,Black Lily III~천공에 있는 꽃의 도시,천공에 있는 꽃의 도시,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_Lunasa,bgm_battle_Lunasa,Luna crescente(Lunasa)~유령악단,유령악단 ~ Phantom Ensemble,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_Merlin,bgm_battle_Merlin,샤이니 트랜스 블루(Merlin)~유령악단,유령악단 ~ Phantom Ensemble,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_Lyrica,bgm_battle_Lyrica,반짝반짝한 너의 소리(Lyrica)~유령악단,유령악단 ~ Phantom Ensemble,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Prism,bgm_battle_Prism,명계의 프리즘 팬텀~유령악단,유령악단 ~ Phantom Ensemble,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza & cobu,1,1
+bgm_pp_prism02,bgm_pp_prism02,무지개에 바람을~유령악단,유령악단 ~ Phantom Ensemble,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,0,1
+bgm_battle_Youmu,bgm_battle_Youmu,검 광 일 섬~동방요요몽,동방요요몽 ~ Ancient Temple,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Youmu2,bgm_battle_Youmu2,베어라 수라와 같이~히로아리 괴조를 쏘다,히로아리 괴조를 쏘다 ~ Till When？,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Yuyuko,bgm_battle_Yuyuko,산화의 나비~유아하게 피어라 묵염의 벚꽃,유아하게 피어라 묵염의 벚꽃 ~ Border of Life,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Unknown,bgm_battle_Unknown,BORDER OF LIFE~보더 오브 라이프,보더 오브 라이프,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,0,1
+bgm_battle_Yuyuko2,bgm_battle_Yuyuko2,춤추며 웃어라 마을사람A!!~고스트 리드/사령의 밤 벚꽃놀이,고스트 리드/사령의 밤 벚꽃놀이,동방신령묘 ~ Ten Desires.,ZUN,Ibiza,1,1
+bgm_battle_Ran,bgm_battle_Ran,CYANO FANTASIA~소녀환장,소녀환장 ~ Necro-Fantasy,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Ran2,bgm_battle_Ran2,ACCEL FOX~요요발호,요요발호 ~ Who done it！,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,1,1
+bgm_battle_Yukari,bgm_battle_Yukari,몽현에 빠져라 - 경계의 추억~네크로 판타지아,네크로 판타지아,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,1,1
+bgm_battle_Yukari2,bgm_battle_Yukari2,경계와 추억의 종연~네크로 판타지아,네크로 판타지아,대공마술 ~ Magical Astronomy,ZUN,Ibiza,1,1
+bgm_battle_Yukari3,bgm_battle_Yukari3,현자여 인도하소서~밤이 내려온다-전신,밤이 내려온다 ~ Evening Star/전신,동방췌몽상 ~ Immaterial and Missing Power.,ZUN/U2,Ibiza,1,1
+bgm_battle_Suika,bgm_battle_Suika,백만귀무뢰 - 개개의 군세~동화나라의 오니들의 섬,동화나라의 오니들의 섬 ~ Missing Power,동방췌몽상 ~ Immaterial and Missing Power.,ZUN,Ibiza,1,1
+bgm_weapon_Suika_Yakou,bgm_weapon_Suika_Yakou,만귀융성 - 태고의 힘~쇄월,쇄월,동방췌몽상 ~ Immaterial and Missing Power.,U2,Ibiza,0,1
+bgm_battle_Wriggle,bgm_battle_Wriggle,-덧없는 불- Firefly Soul~준준추월 환시의 밤,준준추월 ~ Mooned Insect/환시의 밤 ~ Ghostly Eyes,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,1,1
+bgm_weapon_Wriggle_Kick,bgm_weapon_Wriggle_Kick,-항성- Twinkling Rigel~준준추월 환시의 밤,준준추월 ~ Mooned Insect/환시의 밤 ~ Ghostly Eyes,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_battle_Mystia,bgm_battle_Mystia,월하의 칠팔성 장어~이젠 노래밖에 들리지 않아/밤참새의 노랫소리,이젠 노래밖에 들리지 않아/밤참새의 노랫소리,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,1,1
+bgm_weapon_Mystia_Sparrow,bgm_weapon_Mystia_Sparrow,활짝 열어둔 휴먼 케이지~이젠 노래밖에 들리지 않아,이젠 노래밖에 들리지 않아,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_weapon_Mystia_Owl,bgm_weapon_Mystia_Owl,분노의 안티 그릴드~밤참새의 노랫소리,밤참새의 노랫소리,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_weapon_Mystia_Mysterious,bgm_weapon_Mystia_Mysterious,바이바이 치킨 하트~이젠 노래밖에 들리지 않아,이젠 노래밖에 들리지 않아,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_weapon_Mystia_Master,bgm_weapon_Mystia_Master,문명개화와 사랑의 맛 ~이젠 노래밖에 들리지 않아/밤참새의 노랫소리,이젠 노래밖에 들리지 않아/밤참새의 노랫소리,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_battle_Keine,bgm_battle_Keine,강철의 브레인~플레인 에이지아,플레인 에이지아,동방영야초 ~ Imperishable Night.,ZUN,cobu,1,1
+bgm_weapon_Keine_Zutsuki,bgm_weapon_Keine_Zutsuki,벌주기 - 사랑의 테마- ~그리운 동방의 피,그리운 동방의 피 ~ Old World,동방영야초 ~ Imperishable Night.,ZUN,cobu,0,1
+bgm_battle_KeineH,bgm_battle_KeineH,지금이야말로 달이 차오르는 때~익스텐드 애쉬,익스텐드 애쉬 ~ 봉래인,동방영야초 ~ Imperishable Night.,ZUN,cobu,1,1
+bgm_battle_Reimu,bgm_battle_Reimu,SPECTER BUSTER~동방요연담,동방요연담,동방몽시공 ~ Phantasmagoria of Dim.Dream,ZUN,cobu,1,1
+bgm_battle_ReimuR,bgm_battle_ReimuR,Dream Balancer~소녀기상곡,소녀기상곡 ~ Dream Battle,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,1,1
+bgm_battle_ReimuEX,bgm_battle_ReimuEX,"THANK YOU FOR PLAYING SIDE """"R""""~봄빛 오솔길",봄빛 오솔길 ~ Colorful Path,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,Ibiza,1,1
+bgm_weapon_Reimu_Musou,bgm_weapon_Reimu_Musou,봉인의 부적 - 진귀한 빛~Witching Dream,Witching Dream/기타,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,0,1
+bgm_weapon_ReimuR_MT,bgm_weapon_ReimuR_MT,그 목소리는 닿지 않으리~영원의 무녀,영원의 무녀,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,Ibiza,0,1
+bgm_battle_Marisa,bgm_battle_Marisa,BE A SHOOTING STAR~별의 그릇,별의 그릇 ~ Casket of Star,동방환상향 ~ Lotus Land Story,ZUN,cobu,1,1
+bgm_battle_MarisaR,bgm_battle_MarisaR,STARDUST HERO~사랑색 마스터 스파크,사랑색 마스터 스파크,동방영야초 ~ Imperishable Night.,ZUN,cobu,1,1
+bgm_battle_MarisaEX,bgm_battle_MarisaEX,"THANK YOU FOR PLAYING SIDE """"M""""~오리엔탈 다크플라이트",오리엔탈 다크플라이트,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,Ibiza,1,1
+bgm_weapon_Marisa_Maspa,bgm_weapon_Marisa_Maspa,꿈이 별에 닿는 순간~Dim. Dream,Dim. Dream/기타,동방몽시공 ~ Phantasmagoria of Dim.Dream,ZUN,Ibiza,0,1
+bgm_weapon_Reimu_Miiru,bgm_weapon_Reimu_Miiru,삼색탄막 트로이메라이~이색연화접,이색연화접 ~ Red and White,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,Ibiza,0,1
+bgm_weapon_ReiMari_SMiiru,bgm_weapon_ReiMari_SMiiru,환상을 건 일격~앨리스 마에스트라,앨리스 마에스트라,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,0,1
+bgm_battle_Tewi,bgm_battle_Tewi,달밤에 찧은 거짓말과 떡~우사님의 새하얀 깃발,우사님의 새하얀 깃발/신데렐라 케이지 ~ Kagome-Kagome,동방화영총 ~ Phantasmagoria of Flower View. 기타,ZUN,Ibiza,1,1
+bgm_battle_Udonge,bgm_battle_Udonge,Feel eyes on you~광기의 눈동자,광기의 눈동자 ~ Invisible Full Moon,동방영야초 ~ Imperishable Night.,ZUN,cobu,1,1
+bgm_weapon_Udonge_Lunatic,bgm_weapon_Udonge_Lunatic,UDON-ZAM~광기의 눈동자,광기의 눈동자 ~ Invisible Full Moon,동방영야초 ~ Imperishable Night.,ZUN,cobu,0,1
+bgm_battle_Eirin,bgm_battle_Eirin,MIND OF SPACE~천년환상향,천년환상향 ~ History of the Moon,동방영야초 ~ Imperishable Night.,ZUN,cobu,1,1
+bgm_pp_1969,bgm_pp_1969,밤을 가둔 화살과 탄환~보이지1969,보이지1969,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_battle_Kaguya,bgm_battle_Kaguya,지극히 정직한 교만과 유희~죽취비상,죽취비상 ~ Lunatic Princess,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,1,1
+bgm_pp_1970,bgm_pp_1970,비추는 월향-되돌려지는 밤~보이지1970,보이지1970,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,1,1
+bgm_battle_Mokou,bgm_battle_Mokou,영구히 불타는 마음~달까지 닿아라 불사의 연기,달까지 닿아라 불사의 연기,동방영야초 ~ Imperishable Night.,ZUN,cobu,1,1
+bgm_battle_MokouEX,bgm_battle_MokouEX,Undying Flames~죽림 인 플레임,죽림 인 플레임,동방심비록 ~ Urban Legend in Limbo.,아키야마 우니,Ibiza,1,1
+bgm_battle_Medicine,bgm_battle_Medicine,Innocent Poison~포이즌 바디,포이즌 바디 ~ Forsaken Doll,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,cobu,1,1
+bgm_battle_Komachi,bgm_battle_Komachi,PRICE OF LIFE~피안귀향,피안귀향 ~ Riverside View,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,cobu,1,1
+bgm_battle_Eiki,bgm_battle_Eiki,칠십년 후의 환상심판~60년만의 동방재판,60년만의 동방재판 ~ Fate of Sixty Years,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,Ibiza,1,1
+bgm_battle_Shizuha,bgm_battle_Shizuha,정적의 가을 바람~인간을 사랑한 신,인간을 사랑한 신 ~ Romantic Fall,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Minoriko,bgm_battle_Minoriko,들끓는 수확제~이나다히메님께 야단맞으니까,이나다히메님께 야단맞으니까,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Hina,bgm_battle_Hina,MISERY GO ROUND~운명의 다크사이드,운명의 다크사이드,동방풍신록 ~ Mountain of Faith.,ZUN,cobu,1,1
+bgm_weapon_Hina_Pain,bgm_weapon_Hina_Pain,어떤 액신의 노래~재앙신께서 다니시는 길,재앙신께서 다니시는 길 ~ Dark Road,동방풍신록 ~ Mountain of Faith.,ZUN,cobu,0,1
+bgm_battle_Nitori,bgm_battle_Nitori,수대공 초요괴 탄두NITORI~아쿠타가와 류노스케의 캇파,아쿠타가와 류노스케의 캇파 ~ Candid Friend,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Nitori2,bgm_battle_Nitori2,계곡과 강의 밑바닥에서~아쿠타가와 류노스케의 캇파,아쿠타가와 류노스케의 캇파 ~ Candid Friend,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,0,1
+bgm_battle_Nitori_FA,bgm_battle_Nitori_FA,맹우의 연~신들이 사랑한 환상향,신들이 사랑한 환상향,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Momiji,bgm_battle_Momiji,백랑 괄목하라~폴 오브 폴,폴 오브 폴 ~ 가을다워지는 폭포,동방풍신록 ~ Mountain of Faith.,ZUN,cobu,1,1
+bgm_weapon_Momiji_Bite,bgm_weapon_Momiji_Bite,달리고 떨어지는 가을~폴 오브 폴,폴 오브 폴 ~ 가을다워지는 폭포,동방풍신록 ~ Mountain of Faith.,ZUN,cobu,0,1
+bgm_battle_Aya,bgm_battle_Aya,질풍! 선풍! 샤메이마루!~풍신소녀,풍신소녀,동방문화첩 ~ Shoot the Bullet.,ZUN,cobu,1,1
+bgm_battle_Aya2,bgm_battle_Aya2,검은 날개의 풍신~요괴의 산,요괴의 산,동방풍신록 ~ Mountain of Faith.,ZUN,cobu,1,1
+bgm_weapon_AyaHata_DS,bgm_weapon_AyaHata_DS,지금을 베어갈라 문화를 꽃피워라~레트로스펙티브 교토,레트로스펙티브 교토,동방문화첩 ~ Shoot the Bullet.,ZUN,Ibiza,0,1
+bgm_battle_Sanae3,bgm_battle_Sanae3,어머니이신 바다여-바람과 함께~신앙은 덧없는 인간을 위해,신앙은 덧없는 인간을 위해,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Sanae2,bgm_battle_Sanae2,함께 살아가는 바람의 증거~신앙은 덧없는 인간을 위해,신앙은 덧없는 인간을 위해,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Sanae,bgm_battle_Sanae,BRAND NEW WIND~소녀가 본 일본의 원풍경,소녀가 본 일본의 원풍경,동방풍신록 ~ Mountain of Faith.,ZUN,cobu,1,1
+bgm_battle_Kanako,bgm_battle_Kanako,사나운 신령과 신덕의 바람~신성하고 장엄한 옛 전장,신성하고 장엄한 옛 전장 ~ Suwa Foughten Field,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Suwako,bgm_battle_Suwako,전신 전례 신놀이~네이티브 페이스,네이티브 페이스,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,1,1
+bgm_battle_Iku,bgm_battle_Iku,LIGHTNING FISH~검은 바다에 붉음을,검은 바다에 붉음을 ~ Legendary Fish,동방비상천 ~ Scarlet Weather Rhapsody.,ZUN,cobu,1,1
+bgm_weapon_Iku_Gigadrill,bgm_weapon_Iku_Gigadrill,저 구름을 뚫고~동방비상천,동방비상천/기타,동방비상천 ~ Scarlet Weather Rhapsody.,아키야마 우니,cobu,0,1
+bgm_battle_Tenshi,bgm_battle_Tenshi,Colorless Blade~유정천변,유정천변 ~ Wonderful Heaven,동방비상천 ~ Scarlet Weather Rhapsody.,ZUN,Ibiza,1,1
+bgm_weapon_Tenshi_Hisouten,bgm_weapon_Tenshi_Hisouten,노발천을 뚫어라!!(short)~천의무봉 유심지의 유정천,천의무봉/유심지의 유정천,동방비상천 ~ Scarlet Weather Rhapsody.,ZUN/아키야마 우니,Ibiza,0,1
+bgm_battle_Kisume,bgm_battle_Kisume,산다면 수도의 나무통에서~암흑의 풍혈,암흑의 풍혈,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_Yamame,bgm_battle_Yamame,업비트 스파이더~봉인당한 요괴,봉인당한 요괴 ~ Lost Place,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_Parsee,bgm_battle_Parsee,숨겨진 마음에 울리는 통곡~녹안의 젤러시 건너는 발길이 끊어진 다리,녹안의 젤러시/건너는 발길이 끊어진 다리,동방지령전 ~ Subterranean Animism.,ZUN,Ibiza,1,1
+bgm_battle_Yugi,bgm_battle_Yugi,일귀당천-조력무용~꽃의 술잔 오오에야마 옛 지옥 길거리를 가다,꽃의 술잔 오오에야마/옛 지옥 길거리를 가다,동방지령전 ~ Subterranean Animism.,ZUN,Ibiza,1,1
+bgm_battle_Satori,bgm_battle_Satori,The eyeline~소녀 사토리,소녀 사토리 ~ 3rd eye,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_weapon_SatoKoi_KHB,bgm_weapon_SatoKoi_KHB,An 3rd LOVE!!~소녀 사토리,소녀 사토리 ~ 3rd eye/기타,동방지령전 ~ Subterranean Animism.,ZUN,cobu,0,1
+bgm_battle_Orin,bgm_battle_Orin,JAJAAAN ROCK!!~시체여행,시체여행 ~ Be of good cheer！,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_UtsuhoB,bgm_battle_UtsuhoB,SKYGAZER~업화 맨틀,업화 맨틀,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_Utsuho,bgm_battle_Utsuho,태양을 삼킨 까마귀~영지의 태양신앙,영지의 태양신앙 ~ Nuclear Fusion,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_UtsuhoH,bgm_battle_UtsuhoH,지상에 떨어진 태양~영지의 태양신앙,영지의 태양신앙 ~ Nuclear Fusion,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_UtsuhoH2,bgm_battle_UtsuhoH2,우리들은 지금부터~폐옥 럴러바이,폐옥 럴러바이/기타,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_Koishi,bgm_battle_Koishi,PARANOIA STEP~하르트만의 요괴소녀,하르트만의 요괴소녀,동방지령전 ~ Subterranean Animism.,ZUN,cobu,1,1
+bgm_battle_Seirensen,bgm_battle_Seirensen,봄하늘의 배~봄의 항구에서,봄의 항구에서,동방성련선 ~ Undefined Fantastic Object.,ZUN,cobu,1,1
+bgm_battle_Nazrin,bgm_battle_Nazrin,녹슮을 모르는 비근한 가족~작디작은 현장,작디작은 현장,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Nazrin_H,bgm_battle_Nazrin_H,My Greatest Treasure~작디작은 현장,마계지방도시 에소테리아/봄의 항구에/작디작은 현장,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Kogasa,bgm_battle_Kogasa,프리즘 파라슈터~만년 방치된 우산에 주의를,만년 방치된 우산에 주의를,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Ichirin,bgm_battle_Ichirin,운거의 철권~쉰세대 아저씨와 신세대 소녀,쉰세대 아저씨와 신세대 소녀,동방성련선 ~ Undefined Fantastic Object.,ZUN,cobu,1,1
+bgm_battle_Murasa,bgm_battle_Murasa,크로스 앵커-무라사~캡틴 무라사,캡틴 무라사,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Sho,bgm_battle_Sho,초열의 헝그리 타이거~범무늬의 비사문천,범무늬의 비사문천,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Sho_H,bgm_battle_Sho_H,부활의 골든 브레이버ー~마계지방도시 에소테리아,마계지방도시 에소테리아/기타,동방성련선 ~ Undefined Fantastic Object.,ZUN,cobu,1,1
+bgm_battle_Byakuren,bgm_battle_Byakuren,Holy Resistance~감정의 마천루,감정의 마천루 ~ Cosmic Mind,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Nue,bgm_battle_Nue,헤이안 키메라 신드롬~헤이안의 에일리언,헤이안의 에일리언,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Nue2,bgm_battle_Nue2,다시 한번 - 나답게 사는 것~밤하늘의 UFO 로맨스,밤하늘의 UFO 로맨스/기타,동방성련선 ~ Undefined Fantastic Object.,ZUN,Ibiza,1,1
+bgm_battle_Tensoku,bgm_battle_Tensoku,우리들의 비상천칙 ver.GSW~우리들의 비상천칙,우리들의 비상천칙,동방비상천칙 ~ 초대형 기뇰의 수수께끼를 쫓아서,아키야마 우니,cobu,1,1
+bgm_battle_Tensoku2,bgm_battle_Tensoku2,우리들의 비상천칙 ver.원곡풍~우리들의 비상천칙,우리들의 비상천칙,동방비상천칙 ~ 초대형 기뇰의 수수께끼를 쫓아서,아키야마 우니,cobu,1,1
+bgm_battle_Hatate,bgm_battle_Hatate,검색완료의 순풍소녀~당신네 마을의 괴사건,당신네 마을의 괴사건,더블 스포일러 ~ 동방문화첩,ZUN,Ibiza,1,1
+bgm_battle_Sunny,bgm_battle_Sunny,굴절할 수 없는 호기심~서니 루틸 플렉션,서니 루틸 플렉션,동방삼월정 ~ Eastern and Little Nature Deity.,ZUN,Ibiza,1,1
+bgm_battle_Luna,bgm_battle_Luna,봄이지만 신경 안 써~밤이니까 잠들 수 없어,밤이니까 잠들 수 없어,동방삼월정 ~ Eastern and Little Nature Deity.,ZUN,Ibiza,1,1
+bgm_battle_Star,bgm_battle_Star,트릭스터 걸~요정 반짝반짝하게,요정 반짝반짝하게,동방삼월정 ~ Eastern and Little Nature Deity.,ZUN,Ibiza,1,1
+bgm_weapon_SFormation,bgm_weapon_SFormation,크게 빛나라 자그마한 미래여~귀여운 대전쟁의 리프레인,귀여운 대전쟁의 리프레인,동방삼월정 ~ Strange and Bright Nature Deity. 제 2권,ZUN,Ibiza,0,1
+bgm_battle_Faries,bgm_battle_Faries,우리의 마음처럼 언제나 빛을 휘날리리~언제나 정신없는 호기심,언제나 정신없는 호기심,요정대전쟁 ~ 동방삼월정,ZUN,Ibiza,1,1
+bgm_weapon_Faries_FOD,bgm_weapon_Faries_FOD,세 마음이여 불타오르는 샛별이 되어라~요정대전쟁,요정대전쟁 ~ Fairy Wars,요정대전쟁 ~ 동방삼월정,ZUN,Ibiza,0,1
+bgm_battle_Mima,bgm_battle_Mima,뫼비우스의 띠 위에서~리인카네이션,리인카네이션,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,cobu,1,1
+bgm_battle_Mima2,bgm_battle_Mima2,Enter the Aluren~Reincarnation,Reincarnation,동방몽시공 ~ Phantasmagoria of Dim.Dream,ZUN,Ibiza,1,1
+bgm_battle_Elliy,bgm_battle_Elliy,살며시 다가오는 몽환~영전,영전 ~ Perdition crisis,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,1,1
+bgm_battle_Elliy2,bgm_battle_Elliy2,꿈의 문에 서있는 소녀~영전,영전 ~ Perdition crisis,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,1,1
+bgm_weapon_Elliy_Reflector,bgm_weapon_Elliy_Reflector,꽃에 곁들이는 두 사람~Bad Apple!!,Bad Apple!!,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,0,1
+bgm_battle_Kurumi,bgm_battle_Kurumi,홍의 음소 호수에 떠오르니~홍향곡,홍향곡 ~ Scarlet Phoneme/기타,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,1,1
+bgm_battle_Yuka2,bgm_battle_Yuka2,절망의 꽃을 피워봅시다~잠자는 공포,잠자는 공포 ~ Sleeping Terror,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,1,1
+bgm_weapon_Yuka_Maspa,bgm_weapon_Yuka_Maspa,화조풍월 소풍농월~금석환상향,금석환상향 ~ Flower Land,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,Ibiza,0,1
+bgm_battle_Yuka,bgm_battle_Yuka,계절의 끝을 알리는 꽃(Ver.영)~앵화지연총,앵화지연총 ~ Japanese Flower,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,Ibiza,1,1
+bgm_battle_Yukachan,bgm_battle_Yukachan,As a flower~유몽,유몽 ~ Inanimate Dream,동방환상향 ~ Lotus Land Story,ZUN,cobu,1,1
+bgm_battle_Yumeko,bgm_battle_Yumeko,사랑과 연민의 소드 댄스~가엾은 인형,가엾은 인형 ~ Doll of Misery,동방괴기담 ~ Mystic Square,ZUN,cobu,1,1
+bgm_battle_Shinki,bgm_battle_Shinki,Ain Soph Aur~신화환상,신화환상 ~ Infinite Being,동방괴기담 ~ Mystic Square,ZUN,Ibiza,1,1
+bgm_battle_Akyu,bgm_battle_Akyu,붓을 든 소녀는 역사를 편찬한다~재패니즈 사가,재패니즈 사가,동방구문사기 ~ Perfect Memento in Strict Sense.,ZUN,Ibiza,1,1
+bgm_battle_Yorihime,bgm_battle_Yorihime,LUNATIC GUARDIAN~와타츠키의 스펠카드,와타츠키의 스펠카드 ~ Lunatic Blue,동방맹월초 ~ Silent Sinner in Blue.,ZUN,cobu,1,1
+bgm_battle_Toyohime,bgm_battle_Toyohime,LUNATIC ELEGANCE~와타츠키의 스펠카드,와타츠키의 스펠카드 ~ Lunatic Blue,동방맹월초 ~ Silent Sinner in Blue.,ZUN,cobu,1,1
+bgm_battle_Reisen,bgm_battle_Reisen,변화와 불변의 제로 파이터~휠체어의 미래우주,휠체어의 미래우주,대공마술 ~ Magical Astronomy,ZUN,Ibiza,1,1
+bgm_battle_Onamazu,bgm_battle_Onamazu,미지의 무언가의 대진격~언노운X,언노운X ~ Unfound Adventure,동방비상천칙 ~ 초대형 기뇰의 수수께끼를 쫓아서,ZUN,Ibiza,1,1
+bgm_battle_Meko,bgm_battle_Meko,병에 담긴 새끼 양~Fall Asleep,산본당 오리지널,산본당 오리지널,Ibiza,Ibiza,1,1
+bgm_battle_Meko2,bgm_battle_Meko2,디스페어 쉽~병에 담긴 새끼 양,병에 담긴 새끼 양~Fall Asleep,산본당 오리지널,Ibiza,Ibiza,1,1
+bgm_battle_Makura,bgm_battle_Makura,Dreaming Beauty~꿈을 꾸는 아름다움,산본당 오리지널,산본당 오리지널,cobu,cobu,1,1
+bgm_battle_Makura2,bgm_battle_Makura2,Awaking Beauty~깨어나는 아름다움,Dreaming Beauty ~꿈을 꾸는 아름다움,산본당 오리지널,cobu,cobu,1,1
+bgm_battle_MekoK,bgm_battle_MekoK,졸음의 해후~Another Sheep,산본당 오리지널,산본당 오리지널,Ibiza,Ibiza,0,1
+bgm_battle_Shitone,bgm_battle_Shitone,낯선 흑색~Blacked out,산본당 오리지널,산본당 오리지널,cobu,cobu,0,1
+bgm_battle_Shitone2,bgm_battle_Shitone2,비웃는 흑색~face your black,낯선 흑색~Blacked out,산본당 오리지널,cobu,cobu,0,1
+bgm_pp_dendera,bgm_pp_dendera,환상향의 내일을 위해~밤의 덴데라노를 가다,밤의 덴데라노를 가다,렌다이노 야행 ~ Ghostly Field Club,ZUN,Ibiza,0,1
+bgm_pp_greenwich,bgm_pp_greenwich,전장의 그리니치~천공의 그리니치,천공의 그리니치,대공마술 ~ Magical Astronomy,ZUN,cobu,0,1
+bgm_pp_renmery,bgm_pp_renmery,월하요란~달의 요조 요괴고양이의 환상,달의 요조 요괴고양이의 환상,렌다이노 야행 ~ Ghostly Field Club,ZUN,Ibiza,0,1
+bgm_pp_pinch,bgm_pp_pinch,소녀여 수라를 넘어라~꿈과 현실의 경계,꿈과 현실의 경계,몽위과학세기 ~ Changeability of Strange Dream,ZUN,Ibiza,0,1
+bgm_pp_pcomes,bgm_pp_pcomes,환상소녀등장!~소녀비봉구락부,소녀비봉구락부,렌다이노 야행 ~ Ghostly Field Club,ZUN,cobu,0,1
+bgm_pp_kasho,bgm_pp_kasho,고요한 화서의 나라~화서의 꿈,화서의 꿈,몽위과학세기 ~ Changeability of Strange Dream,ZUN,cobu,0,1
+bgm_pp_circus,bgm_pp_circus,무해한 기괴~서커스 레버리,서커스 레버리,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,Ibiza,0,1
+bgm_pp_toroya,bgm_pp_toroya,암중모색에서 구한 빛~트로이군의 밀림,트로이군의 밀림,토리후네 유적 ~ Trojan Green Asteroid,ZUN,Ibiza,0,1
+bgm_ep_cafe,bgm_ep_cafe,탄막 카페테라스~위성 카페테라스,위성 카페테라스,대공마술 ~ Magical Astronomy,ZUN,cobu,0,1
+bgm_ep_eiya,bgm_ep_eiya,악령들의 침공~영야의 대가,영야의 대가 ~ Imperishable Night,동방영야초 ~ Imperishable Night.,ZUN,cobu,0,1
+bgm_ep_ecomes,bgm_ep_ecomes,증원-미움받는 요괴들의 테마~소녀 사토리,소녀 사토리 ~ 3rd eye,동방지령전 ~ Subterranean Animism.,ZUN,Ibiza,0,1
+bgm_ep_53min,bgm_ep_53min,정지된 시간 속에서~53분간의 푸른 바다,53분간의 푸른 바다,묘유동해도 ~ Retrospective 53 minutes,ZUN,cobu,0,1
+bgm_pp_tepes,bgm_pp_tepes,SCARLET PRESSURE~체페슈의 어린 후예,체페슈의 어린 후예/죽은 왕녀를 위한 셉텟/기타,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,0,1
+bgm_pp_kurenai,bgm_pp_kurenai,홍의 혼~붉음보다 붉은 꿈,붉음보다 붉은 꿈/기타,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,0,1
+bgm_pp_Kanako,bgm_pp_Kanako,역풍의 진격~기둥의 묘지,기둥의 묘지 ~ Grave of Being,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,0,1
+bgm_ep_Kanako,bgm_ep_Kanako,군신들의 발소리~기둥의 묘지,기둥의 묘지 ~ Grave of Being,동방풍신록 ~ Mountain of Faith.,ZUN,Ibiza,0,1
+bgm_pp_truth,bgm_pp_truth,벚꽃현란~얼티메이트 트루스,얼티메이트 트루스,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,0,1
+bgm_pp_ayakashi,bgm_pp_ayakashi,요의 봄의 아름다움~요요몽,요요몽 ~ Snow or Cherry Petal/기타,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,cobu,0,1
+bgm_pp_mukui,bgm_pp_mukui,한밤중의 별바람~영야의 대가,영야의 대가 ~ Imperishable Night.,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_pp_michi,bgm_pp_michi,밤길로 돌아오기 위해~미지의 꽃 매지의 여행,미지의 꽃 매지의 여행,미지의 꽃 매지의 여행,ZUN,Ibiza,0,1
+bgm_pp_tokoshie,bgm_pp_tokoshie,저 편의 영원에서~영야초,영야초 ~ Eastern Night./기타,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_pp_getsumen,bgm_pp_getsumen,수많은 별들을 업고~월면투어에 어서오세요,월면투어에 어서오세요,대공마술 ~ Magical Astronomy,ZUN,Ibiza,0,1
+bgm_pp_mantle,bgm_pp_mantle,HELL'S MANTLE~업화 맨틀,업화 맨틀,동방지령전 ~ Subterranean Animism.,ZUN,cobu,0,1
+bgm_pp_lastremote,bgm_pp_lastremote,회신~라스트 리모트,라스트 리모트,동방지령전 ~ Subterranean Animism.,ZUN,cobu,0,1
+bgm_pp_agartha,bgm_pp_agartha,아가르타에 가는 자들~아가르타의 바람,아가르타의 바람,이자나기 물질 ~ Neo-traditionalism of Japan.,ZUN,cobu,0,1
+bgm_pp_mugen01,bgm_pp_mugen01,face to heart~무간의 종,무간의 종 ~ Infinite Nightmare,더블 스포일러 ~ 동방문화첩,ZUN,cobu,0,1
+bgm_pp_mugen02,bgm_pp_mugen02,지 interlude~하르트만의 요괴소녀,하르트만의 요괴소녀,동방지령전 ~ Subterranean Animism.,ZUN,cobu,0,1
+bgm_pp_makai,bgm_pp_makai,어머니가 엮은 세계~이상한 나라의 앨리스,이상한 나라의 앨리스,동방괴기담 ~ Mystic Square,ZUN,cobu,0,1
+bgm_pp_hokkai,bgm_pp_hokkai,GET SAINT BACK~법계의 불,법계의 불,동방성련선 ~ Undefined Fantastic Object.,ZUN,cobu,0,1
+bgm_pp_izanagi,bgm_pp_izanagi,아득한 몽환세계로~이자나기 오브젝트,이자나기 오브젝트,이자나기 물질 ~ Neo-traditionalism of Japan.,ZUN,Ibiza,0,1
+bgm_pp_kikai,bgm_pp_kikai,가라앉는 문명~환상기계,환상기계 ~ Phantom Factory,몽위과학세기 ~ Changeability of Strange Dream,ZUN,Ibiza,0,1
+bgm_pp_jujigun,bgm_pp_jujigun,트릭 유어 드림~마법소녀십자군,마법소녀십자군,렌다이노 야행 ~ Ghostly Field Club,ZUN,Ibiza,0,1
+bgm_pp_Yukachan,bgm_pp_Yukachan,사계의 생명이 모이는 장소~Dream Land,Dream Land,동방환상향 ~ Lotus Land Story,ZUN,Ibiza,0,1
+bgm_pp_warabe,bgm_pp_warabe,갈라지는 꿈의 끝자락~동제,동제 ~ Innocent Treasures,몽위과학세기 ~ Changeability of Strange Dream,ZUN,Ibiza,0,1
+bgm_pp_GSW,bgm_pp_GSW,환상소녀대전 -Dreams-,요요몽 ~ Snow or Cherry Petal,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,0,1
+bgm_pp_gfree,bgm_pp_gfree,EX［hi］Re:Vision~G Free,G Free,대공마술 ~ Magical Astronomy,ZUN,Ibiza,0,1
+bgm_pp_final,bgm_pp_final,끝 너머를 그리는 꿈~Dawn of Hope,산본당 오리지널,산본당 오리지널,Ibiza,Ibiza,0,1
+bgm_pp_enigma,bgm_pp_enigma,맞이하는 꿈과 내일로 이어지는 인연~에니그마틱 인형,에니그마틱 인형/그 외 다수,봉래인형 ~ Dolls in Pseudo Paradise,ZUN (Ibiza & cobu),Ibiza,0,1
+bgm_gen_intermission,bgm_gen_intermission,다가올 놀이에 대비하여~봉래전설,봉래전설/기타,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,Ibiza,0,1
+bgm_gen_intermission2,bgm_gen_intermission2,새로운 시대의 놀이에 대비하여~봉래전설,봉래전설/기타,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,Ibiza,0,1
+bgm_gen_Mekoroom,bgm_gen_Mekoroom,축복의 브러싱~병에 담긴 새끼 양,병에 담긴 새끼 양~Fall Asleep,산본당 오리지널,Ibiza,Ibiza,0,1
+bgm_talk_aoki,bgm_talk_aoki,일상과 비일상의 경계~아오키가하라의 전설,아오키가하라의 전설,묘유동해도 ~ Retrospective 53 minutes,ZUN,Ibiza,0,1
+bgm_talk_ningyo,bgm_talk_ningyo,작전 세우나요?~인형의 숲,인형의 숲,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,cobu,0,1
+bgm_talk_gag,bgm_talk_gag,비밀의 미션!~갑론을박,갑론을박/기타,동방비상천 ~ Scarlet Weather Rhapsody.,ZUN/아키야마 우니,Ibiza,0,1
+bgm_talk_emergency,bgm_talk_emergency,급습-다가오는 위기~영지의 태양신앙,영지의 태양신앙 ~ Nuclear Fusion,동방지령전 ~ Subterranean Animism.,ZUN,Ibiza,0,1
+bgm_talk_unknown,bgm_talk_unknown,뻔히 보이는 적은 동료인가~마술사 메리,마술사 메리,렌다이노 야행 ~ Ghostly Field Club,ZUN,Ibiza,0,1
+bgm_talk_kaikidan,bgm_talk_kaikidan,괴기는 웃는다~동방괴기담,동방괴기담,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,cobu,0,1
+bgm_talk_inishie,bgm_talk_inishie,암운~오래된 명계사,오래된 명계사,렌다이노 야행 ~ Ghostly Field Club,ZUN,cobu,0,1
+bgm_talk_hiroshige,bgm_talk_hiroshige,그의 꿈은 여기에~히로시게 36호,히로시게 36호 ~ Neo Super-Express,묘유동해도 ~ Retrospective 53 minutes,ZUN,cobu,0,1
+bgm_talk_kagaku,bgm_talk_kagaku,결의를 가슴에~과학세기의 소년소녀,과학세기의 소년소녀,몽위과학세기 ~ Changeability of Strange Dream,ZUN,cobu,0,1
+bgm_talk_yozakura,bgm_talk_yozakura,연한 색의 속삭임~사령의 밤 벚꽃놀이,사령의 밤 벚꽃놀이,동방신령묘 ~ Ten Desires.,ZUN,cobu,0,1
+bgm_talk_yuutsu2,bgm_talk_yuutsu2,소원의 별의 밤~마법사의 우울,마법사의 우울,The Grimoire of Marisa,ZUN,cobu,0,1
+bgm_talk_soratoumi,bgm_talk_soratoumi,그 잊을 수 없는 영원의 날들~가장 맑은 하늘과 바다,가장 맑은 하늘과 바다,묘유동해도 ~ Retrospective 53 minutes,ZUN,cobu,0,1
+bgm_talk_flanhelp3,bgm_talk_flanhelp3,Flanhelp Op.1-496~U.N.오웬은 그녀인가?,U.N.오웬은 그녀인가?/기타,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,cobu,0,1
+bgm_talk_heartfelt,bgm_talk_heartfelt,Heart fault~하트펠트 팬시,하트펠트 팬시,동방지령전 ~ Subterranean Animism.,ZUN,cobu,0,1
+bgm_talk_korekara,bgm_talk_korekara,우리들은 지금부터 on piano~폐옥 럴러바이,폐옥 럴러바이 외 2곡,동방지령전 ~ Subterranean Animism.,ZUN,cobu,0,1
+bgm_talk_potion,bgm_talk_potion,환상소녀대전대~Witch of Love Potion,Witch of Love Potion,봉래인형 ~ Dolls in Pseudo Paradise,ZUN,cobu,0,1
+bgm_talk_dream,bgm_talk_dream,양들이 꾸는 꿈~Labyrinth of Nightmare,산본당 오리지널,산본당 오리지널,Ibiza,Ibiza,0,1
+bgm_talk_yokoku,bgm_talk_yokoku,환상소녀대전(예고Ver)~요요몽,요요몽 ~ Snow or Cherry Petal,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,0,1
+bgm_gen_ED01,bgm_gen_ED01,붉은 감정의 바다의 물결~붉음보다 덧없는 영원,붉음보다 덧없는 영원,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,0,1
+bgm_gen_staffroll01,bgm_gen_staffroll01,안개가 걷힌 이 푸른 하늘 저편에~붉은 누각,붉은 누각 ~ Eastern Dream...,동방홍마향 ~ the Embodiment of Scarlet Devil.,ZUN,Ibiza,0,1
+bgm_gen_ED_Sakuya,bgm_gen_ED_Sakuya,열린 감옥문과 마음~플라워링 나이트,플라워링 나이트,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,cobu,0,1
+bgm_gen_ED02,bgm_gen_ED02,요에 잠든 꿈의 끝과 시작~봄바람의 꿈,봄바람의 꿈/기타,동방요요몽 ~ Perfect Cherry Blossom.,ZUN,Ibiza,0,1
+bgm_gen_staffroll02,bgm_gen_staffroll02,찾아온 봄은 벚꽃색 바람에 날려~사쿠라 사쿠라,사쿠라 사쿠라 ~ Japanize Dream.../기타,동방요요몽 ~ Perfect Cherry Blossom. 기타,ZUN,Ibiza,0,1
+bgm_gen_ED03,bgm_gen_ED03,보라색에 교차하는 경치~달맞이꽃,달맞이꽃,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_gen_staffroll03,bgm_gen_staffroll03,끝없는 허공을 올려다보다~유현의 단풍나무/에너지 여명,유현의 단풍나무/에너지 여명,동방영야초 ~ Imperishable Night.,ZUN,Ibiza,0,1
+bgm_gen_ED04,bgm_gen_ED04,그리고 환상의 꽃은 피어난다~꽃은 환상대로,꽃은 환상대로,동방화영총 ~ Phantasmagoria of Flower View.,ZUN,Ibiza,0,1
+bgm_gen_staffroll04,bgm_gen_staffroll04,각성~동제,동제 ~ Innocent Treasures,몽위과학세기 ~ Changeability of Strange Dream,ZUN,cobu,0,1
+bgm_gen_staffroll_Meko,bgm_gen_staffroll_Meko,메코 소니얀드(Short),병에 담긴 새끼 양~Fall Asleep,산본당 오리지널,Ibiza,cobu,0,1

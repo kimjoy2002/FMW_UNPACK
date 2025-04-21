@@ -1,0 +1,3 @@
+﻿ID,LineID,face,dialog
+0,0,UsagiN0a,……
+1,0,UsagiN0a,None

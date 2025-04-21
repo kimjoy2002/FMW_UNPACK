@@ -1,0 +1,25 @@
+﻿ID,LineID,face,dialog
+0,0,Yousei11a,간다!
+1,0,Yousei11a,간다!
+2,0,Yousei11a,해주기 때문에!
+3,0,Yousei11a,지지 않는 거네!
+4,0,Yousei11a,일방적으로 공격해 버려 말야!
+5,0,Yousei11a,프랙티스도 하지 않고 、\n 섣부르게 앞에 나오기 때문!
+6,0,Yousei11a,에이!
+7,0,Yousei11a,맞아라―!
+8,0,Yousei11a,그거─!
+9,0,Yousei11a,움직이고 있어도 쓸데없는 것이니까!
+10,0,Yousei10a,총알을 쓸데없게 시키는 것도、\n 요정의 역할이야
+11,0,Yousei10a,아―、위험했다…
+12,0,Yousei11a,그런 멀리서 비겁한 것―!
+13,0,Yousei12a,아우─!
+14,0,Yousei12b,아프다!!
+15,0,Yousei11a,참고 견뎌버리면!
+16,0,Yousei11a,-다、빗나감!
+17,0,Yousei11a,해치워 준다!
+18,0,Yousei11a,원호해요!
+19,0,Yousei10a,대신에 내가…
+20,0,Yousei12b,만난다―、당해 버렸다…
+21,0,Yousei12b,1회 휴일―!
+22,0,Yousei12a,유감、또 다음주…
+23,0,Yousei10a,None

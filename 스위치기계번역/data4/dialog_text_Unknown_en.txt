@@ -1,0 +1,4 @@
+﻿ID,LineID,face,dialog
+0,0,Unknown0a,……
+1,0,Unknown0a,None
+2,0,Unknown0a,None

@@ -1,0 +1,524 @@
+﻿UnitID,ID,LineID,face,dialog
+Akyu,56,0,Akyu2b,글자、지병의 적이…\n 뒤로 안정하게 하고 있지 않으면!
+Akyu,57,0,Akyu2a,、충분히 노력했군요…\n 뒤는 맡겼습니다!
+Akyu,96,0,Akyu3e,여기를… 빠질 수 없었습니다
+Alice,233,0,Alice1a,감싸、분명하게 앞을 봐!
+Alice,234,0,Alice0c,이봐요、유카에게 칭찬되어지고 싶겠지요?
+Alice,237,0,Alice1a,나의 인형에게 무엇을 해!
+Alice,238,0,Alice1c,자주(잘) 해 준 원이군요、호라이
+Alice_en,40,0,Alice0a,None
+Alice_en,160,0,Alice4c,후후후、꽤 기분이 좋네요
+Aya,38,0,Aya0c,이 일은、\n 확실히 기사에 하도록 해 받으니까요
+Aya,225,0,Aya1b,췌향씨、내가 길을 엽시다!
+Aya,226,0,Aya0a,나도 공격하기 때문에 미리 승낙을
+Aya,227,0,Aya1b,췌향씨、내가 선도합시다!
+Aya,231,0,Aya4a,귀신을 방패로 하다는、\n 텐구의 수치예요!
+Aya,232,0,Aya0a,주제넘지만、원호에 들어가게 해 받아요
+Aya,233,0,Aya1b,유기씨、원호는 맡겨 주세요!
+AyaK,39,0,Aya0c,이 일은、\n 확실히 기사에 하도록 해 받으니까요
+AyaK,270,0,Aya0a,내 쪽이 빠른 것에 정해져 있습니다
+AyaK,271,0,Aya7b,너무 늦어서、기다릴 수 없었습니다
+AyaK,272,0,Aya2b,어머、너무 방심했습니까
+AyaK,276,0,Aya0a,아니―、졌습니다. \n 얌전하게 뒤로 내리고 있네요
+AyaK,277,0,Aya0c,이 일은 환상향안에 \n 넓은 시켜 받아요
+AyaK,278,0,Aya2a,이것은 상정외군요…
+Aya_en,29,0,Aya6a,、이런 것이군요
+Aya_en,115,0,Aya0c,레이무씨、겨드랑이가 달콤해요
+Bakebake_en,16,0,Bakebake0a,……
+Byakuren,161,0,Byakuren1a,미마씨、잘 부탁드립니다!
+Byakuren,162,0,Byakuren0a,미마씨、모두 싸웁시다
+ByakurenH,174,0,ByakurenH2a,거절하지 못할이란…
+ByakurenH,175,0,ByakurenH0a,이것으로 기분이 풀렸습니까…?
+Byakuren_en,76,0,Byakuren0a,기분이 깃들이지 않는 공격 따위…
+Chen,92,0,Chen1a,보라색님、저 녀석이 적이군요!
+Chen,93,0,Chen1a,달리는 것이라면 맡겨 주세요!
+Chen_en,95,0,Chen0a,이 정도、화내는 있고!
+Chen_en,96,0,Chen0a,하면 할 수 있다 라는、\n 란님이 말한 것이니까!
+Chen_en,97,0,Chen0a,이 정도 간단해!
+Cirno,130,0,Cirno0a,첸、조심하지 않으면 안 돼요!
+Cirno,131,0,Cirno0a,첸은 정말、전 밖에 보지 않기 때문에!
+Cirno,134,0,Cirno1a,지나쳐、맞지 말아요!
+Cirno,135,0,Cirno1a,첸、어느 쪽으로 가?
+Cirno_en,138,0,Cirno0a,그런 풋내기!
+Cirno_en,141,0,Cirno0a,와와… 아까웠지요!
+Cirno_en,142,0,Cirno0a,아、위험했다아
+Cirno_en,254,0,Cirno0a,이런 것 낙승잖아!
+Daiyosei,153,0,Daiyosei0a,사니짱、나의 힘도 사용해!
+Daiyosei,154,0,Daiyosei0a,사니짱、내가 함께 있으니까요!
+Daiyosei,155,0,Daiyosei3a,루나짱、미안해요…
+Daiyosei,156,0,Daiyosei0a,나도、친구를 위해서라면!
+Daiyosei,159,0,Daiyosei0a,루나짱、위험하다!
+Daiyosei,160,0,Daiyosei0a,루나짱、저쪽이구나!
+Daiyosei_en,84,0,Daiyosei0a,내려가고 있습니다、\n 여러분 서로 상처는 하지 말아 주세요
+Daiyosei_en,164,0,Daiyosei0a,None
+Eiki,96,0,Eiki0a,능숙한 상대를 미움은 하지 않습니다
+Eiki,97,0,Eiki1a,이 정도로、나의 중재는 요동은 하지 않습니다…!
+Eiki,98,0,Eiki1a,여기서 넘어질 수는 없습니다
+Eiki,99,0,Eiki1a,나를 추적한다고는…
+Eiki_en,40,0,Eiki1a,훌륭한 기백이라고 말할 수 있습니다
+Eiki_en,76,0,Eiki1a,아직 나는 넘어져 있지 않아요
+Eiki_en,108,1,Eiki1a,이것이 염라의 중재입니다!
+Eirin,186,0,Eirin0a,나에게 접할 수 없어요
+Eirin,187,0,Eirin0a,관망의 생각일까
+Eirin,223,0,Eirin0a,제자의 그런 모습은 보고 싶지 않네요
+Eirin_en,57,0,Eirin0a,이 정도와는、웃어 버려요
+Elliy,144,0,Elliy1a,보이고 있다 보이고 있다!
+Elliy,145,0,Elliy1a,카、근사해. 나!
+Elliy,148,0,Elliy1a,이 낫은 탄막을 막는거야!
+Elliy,149,0,Elliy1a,보이고 있다 보이고 있다!
+Elliy_en,93,0,Elliy1a,이 낫은 탄막을 막는거야!
+Elliy_en,95,0,Elliy1a,카、근사해. 나!
+Elliy_en,176,0,Elliy0a,맞지 않아요!
+Elliy_en,178,0,Elliy1a,보이고 있다 보이고 있다!
+EvileyeK2_en,3,1,EvileyeK0a,… 사바키、직코우…
+EvileyeK_en,3,1,EvileyeK0a,… 사바키、직코우…
+Evileye_en,73,0,Evileye0a,……
+Faries,16,1,Star0a,이번은 루나가 리더인 거네
+Faries,16,2,Sunny0a,괜찮은가… 루나응 냄새가 나니까
+Faries,16,3,Luna1a,… 나빴다
+Faries,17,1,Luna1a,좋은、두 사람 모두. S·F·A야
+Faries,17,2,Sunny0a,S… 슈퍼!
+Faries_en,13,1,Sunny0a,한다 라고 말하면… 물론 저것이군요!
+Flan,158,0,Flan0a,싸워도、시시해요!
+Flan,159,0,Flan0a,당신、이제 되어요
+Flan,160,0,Flan0a,아─아、이 정도의 상대인 거네
+Flan,161,0,Flan0a,아하하、약하네요!
+Flan,226,0,Flan0a,마음껏 의지는 없는거네
+Flan,256,0,Flan0b,저기 마리사、여기 여기!
+Flan,257,1,Flan0a,에잇! … 어이쿠
+Flan_en,24,5,Flan1a,망가져 버려랏!!
+Flan_en,51,0,Flan0a,그렇게 사라져 버리고 싶으면!
+Goki,3,0,Goki0a,……
+Goki_en,2,0,Goki0a,……
+GyokutoT_en,21,0,GyokutoT0c,와、이런 일은…
+Hatate,152,0,Hatate0a,이 정도의 상처는 각오 위야!
+Hatate,153,0,Hatate0a,에 、나쁘지 않은 팔이군요!
+Hatate,154,0,Hatate0a,이런 건 데미지에 들어가지 않는다!
+Hatate,155,0,Hatate0a,약한데、음울하구나
+Hatate,156,0,Hatate2a,、추적되어져 버리고 있는 것!?
+Hatate_en,62,0,Hatate2a,아직도、여기로부터 만회할 수 있다!
+Hina,125,0,Hina0a,테잇!
+Hina,126,0,Hina0a,그렇게 멍하니 하고 있으면、\n 액으로부터 도망칠 수 없어요
+Hina_en,53,0,Hina0a,그렇게 멍하니 하고 있으면、\n 액으로부터 도망칠 수 없어요
+Hina_en,120,0,Hina0a,위험했지요
+Hourai,19,0,Hourai0a,……
+Ichirin,151,0,Ichirin1a,아큐、우리가 붙어 있어요!
+Ichirin,152,0,Ichirin1a,아큐、만약의 경우가 되면 바뀌어
+Ichirin,153,0,Ichirin1a,아큐、우선은 우리가 나와요!
+Ichirin,154,0,Ichirin1a,아큐、한다면 우리들에게 이어!
+Ichirin,155,0,Ichirin1a,아큐、이 때 당신도 날뛰세요!
+Ichirin_en,66,0,Ichirin1a,기백으로 참아 보인다!
+Iku,137,0,Iku2a,맨손에서는 돌아갈 수 없네요
+Iku,138,0,Iku0a,놀라울 정도 단순한 공격…
+Iku_en,67,0,Iku0a,쓸데없다고 말하지 않았습니까?
+Kaguya,177,0,Kaguya1a,예상외예요、안쪽이 깊은 거네
+Kaguya,178,0,Kaguya1a,능숙한 공격이군요…
+Kaguya,179,0,Kaguya1a,즐겁게 해 주어요
+Kaguya,180,0,Kaguya1a,나와 대등하게 싸울 수 있는 것 같네
+Kaguya_en,63,0,Kaguya1a,나를 노리는 것은 마음대로 땅에 타락하는거야
+Kanako,182,0,Kanako0a,불쾌한 공격이다…
+Kanako,183,0,Kanako0a,조금 귀찮은 것이 되어 왔군
+Kanako,184,0,Kanako4e,나의 힘에 대항 되어 있는이라면…?
+Kanako,185,0,Kanako1a,、나에게 상처를 입힌다 따위…!
+Kanako,186,0,Kanako0a,내가 싸우는데 적당한 상대인 것 같다
+Kanako,265,0,Kanako0a,신의 고집을 얕잡아 보지 마…!
+Kanako_en,60,0,Kanako0a,조금 귀찮은 것이 되어 왔군
+Kanako_en,120,0,Kanako0a,인내심의 한계를 느낄 수 있던 (분)편이 진다
+KappaC_en,33,0,KappaC1b,카운터、받은 것입니다!
+KappaS_en,31,0,Kappa1a,이 정도라면!
+Kappa_en,35,0,Kappa1a,이 정도라면!
+KedamaN_en,12,0,KedamaN0a,인정하자… 이것이 멸망이다
+Kedama_en,80,0,Kedama0a,미인씨에게 차졌다면 숙원…
+Keine,181,0,Keine1a,그렇게는 갈까!
+Keine,182,0,Keine1a,아직도 공격하고 와!
+KeineH,169,0,KeineH2a,힘으로는 저쪽이 위인가…!
+KeineH,170,0,KeineH2a,구、피탄해 버린다고는…
+KeineH_en,39,0,KeineH2a,여기는 참을 수 밖에 없다…!
+Keine_en,38,0,Keine2a,이 정도로 접힐까 보냐!
+Keine_en,103,0,Keine2a,이 정도의 팔이란 말야!
+Kisume,89,0,Kisume0a,두는 근심응、통으로 방패가 됩니다!
+Kisume,90,0,Kisume0a,지저의 모두를 상처 입히게 하지 않는다!
+Kisume,91,0,Kisume1a,잘도、진하고씨를…
+Kisume_en,55,0,Kisume0a,맞으면 굉장히 흔들릴 것 같다…
+KKedama_en,81,0,KKedama0a,미인씨에게 차졌다면 숙원…
+Koakuma,123,0,Koakuma2a,유감입니다…
+Koakuma,124,0,Koakuma0a,무리를 너무 해 버렸던、\n 뒤로 내리고 있네요
+Koakuma_en,43,0,Koakuma2a,미안해요、파츄리님―
+Koakuma_en,101,0,Koakuma2a,나、역시 무리였습니다―
+Kogasa,91,0,Kogasa0a,이런 때에도 사용할 수 있는거야!
+Kogasa,92,0,Kogasa0a,튼튼한 만들기니까!
+Kogasa,93,0,Kogasa2b,몰인정하게 취급하지 않아도 좋지 않아!
+Kogasa_en,57,0,Kogasa2b,밀려 버리고 있어!?
+Koishi,98,0,Koishi0a,마리사、파 손─에 해 버려!
+Koishi,99,0,Koishi0a,마리사、옆에 있어요
+Koishi,100,0,Koishi0a,마리사의 멋지면 넣고 싶구나
+Koishi,132,0,Koishi0a,어디를 보고 있는 거야?
+Koishi_en,43,0,Koishi0a,!
+Komachi,114,0,Komachi2a,조금 기합을 다시 넣지 않으면 말야!
+Komachi,115,0,Komachi2a,우선은 냉정하게 안 되면
+Komachi,116,0,Komachi2a,이것이라도 나들이옷이야、\n 가감(상태)해와 주어라
+Komachi,117,0,Komachi0a,꽤 좋은 팔같지 않은가
+Komachi,241,1,Shinigami1a,키있고!
+Komachi,242,0,Shinigami0a,그것 그것、사신님의 대로야!
+Komachi_en,63,0,Komachi2a,조금 기합을 다시 넣지 않으면 말야!
+Komachi_en,118,4,Komachi0a,삶의 방법을 후회하는 것이군
+Komachi_en,196,1,Komachi1a,우랴앗!
+Kurumi,145,0,Kurumi0a,후후응、바보취급 하지 말아요!
+Kurumi,146,0,Kurumi0a,빗나갔어! 후후후
+Kurumi,149,0,Kurumi0a,히야─개、그레이즈!
+Kurumi,150,0,Kurumi0a,오글오글 흩어져~와
+Kurumi_en,89,0,Kurumi0a,기、빠듯이 세이프!
+Kurumi_en,90,0,Kurumi0a,이 날개는 장식이 아닌 걸!
+Kurumi_en,91,0,Kurumi0a,도망 다닐 수 밖에 없어요―
+Kurumi_en,165,0,Kurumi0a,에헴! 효과가 없어
+Letty,137,0,Letty0a,그 정도의 움직임 밖에 할 수 없는거야?
+Letty,138,0,Letty0a,이 정도해 보이지 않으면
+Letty,176,0,Letty0a,물러나세요. \n 대신에 잡아 주어요
+Letty,177,0,Letty0a,어째서 요정 따위를…
+Letty_en,38,0,Letty0a,방한은 만전이라고 하는 일일까
+Letty_en,113,0,Letty0a,어머나、능숙하게 할 수 있었군요
+LilyB,46,0,LilyB0a,… 여기에 온다…!
+LilyB,47,0,LilyB0a,… 도망 다니면…!
+LilyW,29,0,LilyW00a,미안해요、\n 봄을 찾아낼 수 없었습니다
+LilyW,99,0,LilyW0b,져 버렸습니다…
+LilyW,100,0,LilyW0b,이제 힘이…
+LilyW_en,36,0,LilyW0a,저것、공격해도 좋습니까?
+Luna,112,0,Luna0a,스타、나도 해요!
+Luna,113,0,Luna0a,스타、도와요!
+Lunasa,150,0,Lunasa0a,당신과는 템포가 서로 맞물리지 않는다
+Lunasa,151,0,Lunasa0a,연주할 기회는 놓치지 않는다
+Lunasa,154,0,Lunasa2a,밀기가 부족했을까…
+Lunasa,155,0,Lunasa2a,나의 연주도 아직도네…
+Luna_en,51,2,Sunny0a,S… 그렇게 말하면 나
+Luna_en,51,3,Star0a,F… 두 명에게 숨어
+Luna_en,102,0,Luna1a,에이!
+Lyrica,143,0,Lyrica0a,그런 얼간이인 공격은!
+Lyrica,144,0,Lyrica0a,개런티에 보너스 붙어도 \n 좋은 것이 아니야?
+Lyrica,147,0,Lyrica0a,이것은 굉장한 편리하지 않아?
+Lyrica,148,0,Lyrica0a,템포가 늦네요
+Lyrica_en,66,0,Lyrica0a,그 소리는 이미 기억하고 있어요!
+Makura,31,0,Makura0a,단순한 견제입니까
+MakuraF_en,22,0,MakuraF0a,구、무겁다…!
+MakuraS,31,0,Makura0a,단순한 견제입니까
+MakuraS_en,44,0,Makura2a,확실히 강한 힘입니다…
+Makura_en,30,0,Makura2a,나의 힘이 밀리고 있어…?
+Marisa,121,0,Marisa0a,감이 무디어졌지 않을까?
+Marisa,122,0,Marisa0a,레이무、그 녀석은 나의 사냥감이다!
+Marisa,125,0,Marisa1a,모두까지 말한데、목적은 저 녀석이다
+Marisa,126,0,Marisa1a,너무 마이 페이스라면、\n 내가 승리를 받아 버리겠어!
+MarisaR,52,10,Reimu1a,천패… 풍신각!
+MarisaR,52,11,Reimu1a,이제 한 장!
+MarisaR,52,14,Marisa1a,오레리즈산!
+MarisaR,52,15,Marisa1a,오레 리즈…!
+MarisaR_en,46,0,Marisa0a,상대는 한사람이 아니다?
+MarisaR_en,108,2,Marisa1a,레자!
+Marisa_en,67,0,Marisa0a,뭐 진 것이니까 도리가 없다. \n 돌아가 잔다!
+Marisa_en,68,0,Marisa1b,나쁘지만 더 이상은 무리이다. \n 뒤는 맡겼다구
+Medicine,144,0,Medicine2a,원아、위험하다!
+Medicine,145,0,Medicine0a,맞거나 하지 않아요!
+Medicine_en,46,0,Medicine0a,이제 독이 돌고 있는 것이 아니야?
+Meiling,165,0,Meiling2a,아직 끝나고는 있지 않습니다!
+Meiling,166,0,Meiling2a,배… 배수진이닷!
+Meiling,172,0,Meiling2a,피탄!? 틈을 찔렸다!
+Meiling,275,0,Meiling2a,、좋은 공격이군요!
+Meiling_en,48,0,Meiling0a,맞을까 보냐!
+Meiling_en,130,0,Meiling1a,방비로라면 지지 않는닷!
+Meko,22,1,Meko0a,영차…
+MekoD_en,10,0,MekoD0a,통하지 않기 때문에!
+MekoM_en,29,0,MekoM0a,이것이라도 안되면、좀 더…!
+Meko_en,23,3,Meko1a,결정타는 나야!
+Merlin,126,0,Merlin0a,떠들고 있지만、\n 분명하게 다른 소리도 듣고 있는거야~
+Merlin,127,0,Merlin0a,이 상태로 \n 분위기를 살려 버립시다!
+Merlin_en,65,0,Merlin0a,그것보다、나의 곡을 들어는!
+Mima,118,0,Mima0a,조금은 할 수 있는 것 같다
+Mima,119,0,Mima2a,이건、상당한 처사가 아닌가
+Mima_en,69,0,Mima0a,이것이 힘의 차이라는 녀석이다
+Mima_en,130,0,Mima0a,꿰뚫어 보심이야
+Minoriko,66,0,Minoriko0a,에이! 간과할 수 없어요!
+Minoriko,67,0,Minoriko0a,겨울이 확실히 하지 않으면、하는 보람이 없는거야!
+Minoriko,70,0,Minoriko0a,가을의 탄막이 시들지 않으면 좋지만…
+Minoriko,71,0,Minoriko1a,동 상대라도、힘을 합할 수 밖에 없네요!
+Minoriko_en,48,0,Minoriko0a,우리의 콤비 네이션、\n 보여 버리자!
+Minoriko_en,50,0,Minoriko0a,누나、위험하닷!
+Minoriko_en,95,0,Minoriko1a,여물어라! 나의 탄막!
+Mokou,119,0,Mokou0a,두고 카구야、저 녀석에게 걸겠어
+Mokou,120,0,Mokou0a,두고 카구야、알고 있구나?
+Mokou_en,30,0,Mokou0a,이 정도、상처중에 들어가지 않는다
+Mokou_en,96,0,Mokou0a,내리지 않으면、연루가 되겠어!
+Momiji,202,0,Momiji2a,여기서 당할 수는…
+Momiji,203,0,Momiji2a,찰과상이다!
+Momiji_en,54,0,Momiji2a,과연이구나、니토리
+Momiji_en,136,0,Momiji1a,풋나기라도、방패로는 될 수 있습니다!
+Murasa,159,0,Murasa2a,움직이는 것이 겨우인가…!
+Murasa,160,0,Murasa2a,이 상대에게는 이길 수 없는거야…!?
+Murasa,161,0,Murasa2a,히지리를 위해서(때문에)도、질 수 없다!
+Murasa_en,83,0,Murasa2a,뼈의 접히는 상대같다…
+Mystia,68,0,Mystia1a,해 버린다!
+Mystia,69,0,Mystia1a,백 코러스는 인내 할 수 없다!
+Mystia,72,0,Mystia0a,이런 것을 기다리고 있던거야!
+Mystia,73,0,Mystia1a,백 코러스는 인내 할 수 없다!
+Mystia_en,66,0,Mystia0a,간신히 타 왔어요~
+Mystia_en,67,0,Mystia2a,내가 당하다니~
+Mystia_en,131,0,Mystia0a,그런 것보다、나의 노래를 들어요
+Mystia_en,190,0,Mystia0a,어머나、\n 그렇게 나의 노래를 듣고 싶은거야?
+Nazrin,143,0,Nazrin0a,나라도 이길 수 있을 것 같은 상대다
+Nazrin,144,0,Nazrin0a,나라도、이 정도의 공격이라면!
+Nazrin_en,37,0,Nazrin0a,맞으면 위험했지요
+Nazrin_en,90,0,Nazrin0a,큰 배야、보충은 한다
+Nazrin_en,145,0,Nazrin0a,일방적과는、갔군요…
+Nazrin_H,161,0,Nazrin0a,지금 것은 위험했을까나…
+Nazrin_H,162,0,Nazrin0a,좋아、뿌리쳤군요
+Nitori,277,0,Nitori1b,요격 해 준다!
+Nitori,278,0,Nitori1b,탄막 요격 시스템 기동!
+Nitori,281,0,Nitori2a,처음부터 연구의 해 수선이다―!
+Nitori,282,0,Nitori2a,응. \n 내구성에 문제가 있었는지
+Nitori_FA,252,0,Nitori1a,좋아、동작은 완벽하다
+Nitori_FA,253,0,Nitori1a,과연、나의 발명품!
+Nitori_FA,256,0,Nitori2a,와、여기에 오지마아!
+Nitori_FA,257,0,Nitori2a,、폭발해 버릴지도…!
+Nitori_FA_en,39,0,Nitori2a,이! 되돌려란 말야!
+Nitori_FA_en,125,0,Nitori2a,구、파악하지 못한다…!
+Nue,43,0,Nue0a,이런 것 피하지 않아도!
+Nue,201,0,Nue0a,전혀 효과가 없다!
+Nue,202,0,Nue0a,힘이 근본적으로 충분하지 않는다!
+Nue_B,43,0,Nue0a,이런 것 피하지 않아도!
+Nue_B,201,0,Nue0a,전혀 효과가 없다!
+Nue_B,202,0,Nue0a,힘이 근본적으로 충분하지 않는다!
+Nue_en,43,0,Nue0a,이런 것 피하지 않아도!
+Nue_en,93,0,Nue0a,눈도 마음도 흐리기 때문에、\n 나의 정체를 몰라
+Nue_en,176,0,Nue0a,대요괴 누에님에게、\n 그런 공격이 통하는 것일까!
+Nue_G,43,0,Nue0a,이런 것 피하지 않아도!
+Nue_G,201,0,Nue0a,전혀 효과가 없다!
+Nue_G,202,0,Nue0a,힘이 근본적으로 충분하지 않는다!
+Onamazu_en,20,0,Onamazu0a,깜찍한 공격이야의
+Orin,183,0,Orin0a,뜨거워질 것 같다
+Orin,218,0,Orin0a,、로 하고 있는 것이 아니야!
+OrinC,19,0,OrinC0a,……
+Orin_en,39,0,Orin2a,아얏! 맞아 버렸는가!?
+Parsee,166,0,Parsee0a,구、멈추세요!
+Parsee,167,0,Parsee0a,빗나감야、빗나감!
+Parsee,170,0,Parsee0a,발이 묶임[足止め]도 안 되네요
+Parsee,171,0,Parsee0a,진심으로 나를 노리고 있다 라고 하는 거야…?
+Patchouli,183,0,Patchouli0a,니토리、\n 물에 잠수할 때는 먼저 말해 줘
+Patchouli,184,0,Patchouli0a,니토리、목적은 맡겼어요
+Patchouli,185,0,Patchouli0a,유폭 하는 발명품은 없겠지요
+Patchouli,186,0,Patchouli0a,니토리、상대의 움직임을 억제해요
+Patchouli,304,0,Patchouli2a,프랑、침착하세요!
+Patchouli_en,68,0,Patchouli4e,의지가 느껴지지 않아요
+Patchouli_en,69,0,Patchouli4f,이야기도 안 돼요
+Patchouli_en,143,0,Patchouli2a,… 눌러 잘라지기 전에、\n 눌러 자르지 않으면 안 된다
+Prism,65,0,Merlin0a,이 무대는 우리의 것이군요~
+Prism,66,0,Merlin0a,오래 기다리셨습니다! \n 소령연주대야~!
+Prism,66,1,Lyrica0a,이 무대는 우리가 빼앗았다!
+Prism_en,33,0,Lunasa0a,두 사람 모두、주위에 배려해
+Prism_en,101,0,Lunasa0a,다음의 연주의 준비를 해 둬
+Ran,140,0,Ran2a,자님의 앞에서 보기 흉한 모습은 보여지지 않는다!
+Ran,141,0,Ran2a,구、회피 패턴을 바꾸지 않으면…!
+Ran_en,55,0,Ran0a,응、계산 대로다
+Ran_en,56,0,Ran0a,계산 이상이다、평가를 고치자
+Ran_en,149,0,Ran0a,그러면 통하지 않는구나
+Ran_en,208,0,Ran0a,그러면 통하지 않는구나
+Reimu,229,0,Reimu2a,당한 채로는 끝내지 않아요!
+Reimu,230,0,Reimu2a,음울한 것이 왔군요…
+Reimu,233,0,Reimu0a,가볍다 가볍다!
+Reimu,234,0,Reimu0a,좀 더 격렬한 공격이라도 좋아요
+ReimuR,98,0,Reimu0a,조금 너무 긴장을 늦추는 것이 아니야?
+ReimuR,99,0,Reimu0a,수고 걸게 하지 않고군요
+ReimuR,100,0,Reimu0a,의지가 없으면 돌아가면?
+ReimuR,101,0,Reimu1a,조금、괜찮아?
+ReimuR,104,0,Reimu1a,그쪽은 그쪽에서 좋아하게 하세요!
+ReimuR,105,0,Reimu1a,그 적을 저것 해 줘!
+ReimuR_en,107,0,Reimu2a,피할 수 없다!? 그렇다면…!
+ReimuR_en,189,0,Reimu0a,텐션 내리는구나
+Reisen,113,0,Reisen0a,카구야님이 진심으로 해 준다면!
+Reisen,114,0,Reisen0a,여기서 카구야님과 함께 결정하면!
+Reisen,135,0,Reisen0a,、마음껏 자주(잘)!
+Reisen,136,0,Reisen0a,적의 공격에 맞추어!
+Reisen_S,132,0,Reisen0a,와、이렇게 하면 먼저 공격할 수 있다…
+Reisen_S,133,0,Reisen0a,、매복 성공!
+Reisen_T,113,0,Reisen0a,카구야님이 진심으로 해 준다면!
+Reisen_T,114,0,Reisen0a,여기서 카구야님과 함께 결정하면!
+Reisen_T,135,0,Reisen0a,、마음껏 자주(잘)!
+Reisen_T,136,0,Reisen0a,적의 공격에 맞추어!
+Remilia,186,0,Remilia0a,얼마나 목적이 정확해도 말야
+Remilia,187,0,Remilia0a,적당한 운동이 되어요
+Remilia,188,0,Remilia0a,전혀、붙어 올 수 있고 없잖아
+Remilia,191,0,Remilia0a,떨려 목적이 정해지지 않는 것일까
+Remilia,192,0,Remilia0a,떠들썩한 것뿐
+Remilia,232,0,Remilia1a,여기서 일망타진으로 해 주어요!
+Remilia_en,45,0,Remilia2a,후회해도 늦어요!
+Remilia_en,86,1,Remilia1a,찢는다!
+Remilia_en,146,0,Remilia0a,나의 마력이 닿지 않습니다 라고!?
+Rumia,121,0,Rumia0a,자주(잘) 너무 자주(잘) 보여 、\n 헷갈려 버렸어?
+Rumia,122,0,Rumia0a,리굴、그렇게 서두르지 말아요
+Rumia_en,69,0,Rumia0a,이 정도、어둠 중(안)에서도 피할 수 있어요
+Rumia_en,70,0,Rumia0a,어? 지금의 나를 노렸어?
+Rumia_en,71,0,Rumia0a,좋은 소화가 될 것 같다
+Rumia_en,72,0,Rumia0a,맞으면、견딜 수 없어요~
+Rumia_en,73,0,Rumia0a,와와! 위험하구나…
+Rumia_en,281,0,Rumia2a,저것、휘청휘청 해 왔다
+Sakuya,207,0,Sakuya0a,이 정도해 보이지 않으면
+Sakuya,208,0,Sakuya0a,유감이었습니다、또 아무쪼록
+Sakuya,211,0,Sakuya0a,그런 것에 해당되도록(듯이)는、\n 메이드는 감당해내지 않아요
+Sakuya,212,0,Sakuya0a,슬슬 돌아가면?
+Sakuya,243,1,Sakuya1a,때야 멈추어랏!
+Sakuya,442,0,Sakuya2a,방심은 할 수 없는 상대와 같구나…
+Sakuya_en,75,0,Sakuya0b,간단한 것이군요
+Sakuya_en,76,0,Sakuya1a,… 그런 것!
+Sakuya_en,170,0,Sakuya2a,아무래도 호각인것 같네요…
+Sakuya_en,234,0,Sakuya0a,그 움직여、늦고조차 없어요
+Sanae,182,0,Sanae2a,카나코님、나는 무녀 실격입니다…
+Sanae,183,0,Sanae1a,카나코님、사나에가 계속됩니다!
+Sanae,186,0,Sanae0a,스와코님 대신에… 라고 해 버려
+Sanae,187,0,Sanae0a,신님을 수호하는 것이、무녀의 의무입니다!
+Sanae_en,71,0,Sanae2a,… 조금 힘들어졌습니다
+Sanae_en,162,0,Sanae1a,레이무씨、위험합니다!
+Sanae_K,189,0,Sanae1a,야사카님、사나에가 계속됩니다!
+Sanae_K,190,0,Sanae0a,야사카님의 인도가 있으면…!
+Sanae_K,193,0,Sanae0a,여기는 사나에에게 맡겨 주세요
+Sanae_K,194,0,Sanae0a,야사카님、내가 받습니다!
+Sanae_S,189,0,Sanae0a,신님과 무녀로 힘을 합하면…!
+Sanae_S,190,0,Sanae0a,신님을 수호하는 것이、무녀의 의무입니다!
+Sanae_S,193,0,Sanae1a,카나코님、사나에가 수행 합니다
+Sanae_S,194,0,Sanae1a,카나코님、돕습니다!
+Satori,92,0,Satori0a,레미리아씨、내가 견제로 돕니다
+Satori,93,0,Satori0a,프랑 돌씨의 움직임을 신경쓰고 있네요
+Satori,134,0,Satori0a,생각은 모두 알고 있습니다
+Seirensen,116,0,Murasa0a,누에까지 손상시키게 하지 않는다!
+Seirensen,117,0,Ichirin0a,누에、위험하다!
+Seirensen,118,0,Akyu1a,케이네씨의 몫도 싸웁시다!
+Seirensen,119,0,Ichirin0a,케이네씨가 만들어 준 호기예요!
+Seirensen_en,57,0,Unzan0a,……
+Seirensen_K,68,1,Ichirin0a,위험할 때야말로、일치단결해라…\n (와)과 운잔은 말하고 있어요
+Seirensen_KA,82,0,Murasa2b,이래서야 히지리에게 대면 할 수 없다…
+Seirensen_M,50,0,Murasa0a,성련선을 앞에 낸다!
+Seirensen_M,51,0,Korin0a,아군과 적의 사이에 끼어들자!
+Seirensen_MA,78,0,Murasa0a,전에 지나쳐、별!
+Seirensen_MA,79,0,Murasa0a,별、멍하니 하고 있는 것이지 않아!
+Seirensen_MA,80,0,Murasa2b,나즈린까지、\n 이 성련선을 위해서(때문에)…!
+Seirensen_R,30,0,Korin0a,뒤는 우리들에게 맡겨 줘
+Seirensen_R,31,0,Kosuzu0a,멋졌던 것이에요!
+Seirensen_RA,63,0,Akyu0a,손해는 경미합니다!
+Seirensen_RA,64,0,Korin0a,맞아 버렸는지?
+Shanghai,17,0,Shanghai0a,……
+Shinki,116,0,Shinki0a,말하는 대로 하면 좋지요!
+Shinki,117,0,Shinki0a,숨을 딱… 은 무리인 것 같구나
+Shinki_en,22,0,Shinki0e,나에게 할 수 있는 것을…
+Shizuha,43,0,Shizuha0a,적이 왔어요、굳어져!
+Shizuha,44,0,Shizuha0a,내가 있었기 때문에 좋았지만…
+Shizuha_en,19,0,Shizuha0a,설마、손을 댈 수 없다니
+Shizuha_en,67,6,Shizuha2a,…、는 우츠호기분 저항이야…!?
+Shizuha_en,84,0,Shizuha0a,가을의 힘을 거듭해요!
+Sho,217,0,Sho0a,이런 일로、뒷걸음질칠 수는 없습니다!
+Sho,218,0,Sho2a,비명은 주지 않습니다!
+Sho_en,81,0,Sho0a,무슨 편리한 도구입니까!
+Sho_H,219,0,Sho2a,와、이것도 틈을 엿보기 (위해)때문에이랍니다
+Sho_H,220,0,Sho0a,멈춰 설 수는 없습니다!
+Star,106,0,Star0a,치르노、어쩔 수 없기 때문에
+Star,107,0,Star0a,치르노、괜찮아?
+Star_en,36,2,Luna0a,에에. \n 빛의 3 요정의 힘을 과시합시다!
+Star_en,36,3,Star0a,평소의 구령、부탁해요
+Star_en,36,4,Sunny1a,맡겨 둬! \n ―! 오랴아─!
+Star_en,88,0,Star0a,두 사람 모두、도와줘
+Suika,180,0,Suika0a,피할 정도의 것도 아니지만 말야
+Suika,181,0,Suika0a,뭐야、무서워하지 않아도 괜찮아
+Suika,182,0,Suika0a,너무 지루해 졸려져 버린다
+Suika,185,0,Suika0a,그러면 맞아 줄 수 없다
+Suika,186,0,Suika0a,맞힌다면、철썩 맞혀 봐
+Suika_en,37,0,Suika0a,그러면 맞아 줄 수 없다
+Suika_en,103,0,Suika0a,영차!
+Suika_en,104,0,Suika0a,그 기개나 좋다!
+Sunny,84,0,Sunny1a,리더 동료이기 때문에!
+Sunny,85,0,Sunny1a,르나사 선배、돕습니다!
+Sunny_en,29,2,Luna1a,S… 슈퍼!
+Sunny_en,29,3,Star1a,F… 페어리!
+Sunny_en,78,0,Sunny0a,포메이션 어택을 걸어요!
+Suwako,156,0,Suwako2a,아야앗!
+Suwako,157,0,Suwako0a,나를 노렸던 것이 실수구나!
+Suwako,160,0,Suwako0a,혹시、사양하고 있는 거야?
+Suwako,161,0,Suwako0a,、맥 빠짐
+Suwako_en,29,0,Suwako0a,그런 것은 다발이 되어도 \n 나에게는 이길 수 없어!
+Suwako_en,90,0,Suwako0a,버릴 수는 없는 거네
+Tenshi,72,0,Tenshi0a,의구、나에 맞추세요!
+Tenshi,73,0,Tenshi0a,의구의 기질이 높아지고 있어…?
+Tenshi_en,60,0,Tenshi0a,바보취급 하고 있을까?
+Tensoku,68,1,Momiji1a,지금입니다、비상천칙!
+Tensoku,108,0,Shinki0a,여기는 기분을 귀신으로 햇…!
+Tensoku,108,1,Shinki0a,어머니의 신님 판치!
+Tewi,84,0,Tewi1a,공주님、둘이서 사람 돈을 벌고 하자!
+Tewi,85,0,Tewi1a,공주님、행운을 나누어 준다!
+Tewi_en,33,0,Tewi0a,일단、레이센이 상사이고~?
+Toyohime,117,0,Toyohime0a,제대로 노렸을까
+Toyohime,118,0,Toyohime0a,총알이 피해 가요
+Toyohime_en,58,0,Toyohime1a,그런 것일까?
+Toyohime_en,100,0,Toyohime0a,그 장소、바뀝시다
+Udonge,164,0,Udonge2b,어떻게 하면 좋은가 생각하지 않으면…!
+Udonge,165,0,Udonge2a,이대로는、\n 만회를 할 수 없는 것에…!
+Udonge,168,0,Udonge2a,파악되고 있다 라고 해!?
+Udonge,169,0,Udonge2b,섣부르게 너무 움직였다…!?
+Udonge_en,64,0,Udonge0a,손대어지고도 참는 것입니까!
+Udonge_en,128,0,Udonge1b,복수시켜 받아요!
+UsagiD_en,22,0,UsagiD0a,찧는 것은 거기가 아니야
+Usagi_en,20,0,Usagi0a,거북이같이 늦은 녀석!
+Utsuho,150,0,Utsuho0a,이런 건、곧바로 반격할 수 있다!
+Utsuho,151,0,Utsuho0a,이 정도、만사태평이야!
+Utsuho,152,0,Utsuho2a,이런 공격 정도로!
+UtsuhoB,101,0,Utsuho2a,나、그만두어―!
+UtsuhoB,102,0,Utsuho2a,이런 건、곧바로 반격할 수 있다!
+UtsuhoB,103,0,Utsuho2a,이 정도、만사태평이야!
+UtsuhoB_en,12,2,Utsuho0a,하이퍼 골드…\n 라그쥬아리후르오트마틱크…
+Utsuho_en,44,0,Utsuho0a,늦어요!
+Wriggle,47,0,Wriggle0a,나로 받아들여질까나
+Wriggle,48,0,Wriggle0a,방치할 수는 없다!
+Wriggle,49,0,Wriggle0a,지금중에 몸의 자세를 정돈해!
+Wriggle,50,0,Wriggle1a,적이 저쪽에 있었어!
+Wriggle_en,47,0,Wriggle0a,원、굉장히 편리하다!
+Wriggle_en,109,0,Wriggle0a,내가 보이지 않은 것 같다!
+Wriggle_en,110,0,Wriggle0a,벌레들이 가르쳐 준다!
+Wriggle_en,172,0,Wriggle2a,10배…\n 아니、2배정도 해 돌려준다!
+Yamame,93,0,Yamame0a,설마、너와 페어와는…
+Yamame,94,0,Yamame0a,같은 벌레의 요괴라도 분다면、\n 능숙하게 해!
+Yamame_en,54,0,Yamame0a,10년 빠르다!
+Yorihime,98,0,Yorihime0a,누님、탄막을 맞춥시다
+Yorihime,99,0,Yorihime0b,레이센、각오에는 응합시다
+Yorihime_en,27,0,Yorihime0a,좀 더 녀석들의 힘을 지켜볼까요
+Yorihime_en,74,0,Yorihime0a,신의 힘을 깨달으세요!
+Youmu,218,0,Youmu0a,환어음 없으면、이러합니다!
+Youmu,219,0,Youmu0a,귀찮은…
+Youmu,222,0,Youmu2a,、아직도오!
+Youmu,223,0,Youmu2a,쿳! 아직 갈 수 있습니다!
+Youmu_en,51,0,Youmu2a,역시 대단합니다、여러분…
+Youmu_en,156,0,Youmu1a,잘도 란씨를… 허락하지 않아요!
+Youmu_en,249,1,Youmu1a,단명검 『명상참』!
+Yugi,181,0,Yugi1a,좋다 、뜨거워져 왔다!
+Yugi,182,0,Yugi0a,그러면、나는 멈출 수 없어!
+Yugi_en,45,0,Yugi0a,그렇다、그렇지 않으면!
+Yuka,218,0,Yuka0a,적당 배우면 어때?
+Yuka,219,0,Yuka1a,이런 것이 있다 라는、\n 상상도 하지 않았을까?
+Yukachan,183,0,Yuka0a,내가 할 것도 없을까?
+Yukachan,184,0,Yuka0a,후후、설마 당신과 짠다고는
+Yukari,218,0,Yukari2a,구、놀이가 지났을까
+Yukari,219,0,Yukari2a,이 내가 보기 흉한 모습을…
+Yukari,222,0,Yukari2a,이 상대、보통 사람은 아니네요
+Yukari,223,0,Yukari2a,이 내가 몰리고 있어…?
+Yukari_en,40,0,Yukari0a,그렇지 않으면、\n 이쪽도 말해 보람이 없습니다
+Yukari_en,166,0,Yukari0a,맞히기 어려운 움직임을 하고 있는 \n 생각도 없지만
+Yuka_en,42,0,Yuka0a,뭔가 했을까?
+Yuka_en,152,0,Yuka0a,적중도 하지 않다니
+Yuka_en,203,2,Yuka0a,꽃… 새…
+Yuka_en,203,3,Yuka0a,꽃… 새… 바람…
+Yuka_en,203,4,Yuka0a,꽃… 새… 바람… 달…
+Yuka_en,203,5,Yuka0a,그것이、당신에게는 보이고 있어…?
+Yuka_en,301,0,Yuka0a,다음의 표적은 당신으로 결정했어요
+Yumeko,117,0,Yumeko0a,당신의 기백만은 사고 있어요
+Yumeko,118,0,Yumeko0a,아니꼽지만、나의 검을 맡겨요
+Yumeko_en,42,0,Yumeko0a,눈앞에서、신키님을…!
+Yuyuko,177,0,Yuyuko0a,그런 탄막은 통하지 않아요
+Yuyuko,178,0,Yuyuko0a,여기서 초조해 되어져서는 안 되네요
+Yuyuko,181,0,Yuyuko0a,움직임은 읽을 수 있어도、아슬아슬했지요…
+Yuyuko,182,0,Yuyuko0a,뭔가 뒤이기도 할까
+Yuyuko_en,21,0,Yuyuko0a,초조해 해서는 안 돼요
+Yuyuko_en,96,0,Yuyuko0a,좀 더 노력했으면 좋아요~
+Yuyuko_en,155,0,Yuyuko0a,눈을 떠 준다
+Zenki,3,0,Zenki0a,……
+Zenki_en,2,0,Zenki0a,……

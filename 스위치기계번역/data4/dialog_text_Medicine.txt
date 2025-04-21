@@ -1,0 +1,199 @@
+﻿ID,LineID,face,dialog
+0,0,Medicine0a,비근한 녀석으로부터 해치워 준다!
+1,0,Medicine0a,자、걸려 오세요!
+2,0,Medicine0a,나라면 할 수 있을 것이야!
+3,0,Medicine0a,이제 가까워지지 마!
+4,0,Medicine0a,은방울 꽃의 향기에 이끌린 거네
+5,0,Medicine0a,답례를 해요!
+6,0,Medicine0a,빨리 없어져 버려라!
+7,0,Medicine0a,독에 당하고 싶은 것일까!
+8,0,Medicine0a,나의 독으로 넘어지면 좋아요!
+9,0,Medicine0a,나에게 다가간다니 운이 나쁘네요!
+10,0,Medicine0a,해 보여요!
+11,0,Medicine0a,도와주어、스씨!
+12,0,Medicine0a,터무니없게 해 주어요!
+13,0,Medicine0a,슬슬 진심인 것이니까!
+14,0,Medicine0a,이렇게 되면 흥하든 망하든!
+15,0,Medicine0a,여기서 해치우면 승리니까!
+16,0,Medicine0a,어떻게든 해 저 녀석을 멈추지 않으면…!
+17,0,Medicine0a,독이 효과가 있다면 역전이래…!
+18,0,Medicine1a,키─의…!
+19,0,Medicine1a,나의 독을…!
+20,0,Medicine1a,그─것…!
+21,0,Medicine1a,있고 키─의…!
+22,0,Medicine0a,거기야!
+23,0,Medicine0a,독의 덩어리야!
+24,0,Medicine0a,맞아!
+25,0,Medicine0a,말해 줘!
+26,0,Medicine0a,봐 주세요~!
+26,1,Medicine1a,네 있고 、네 있고 、네 있고!
+26,2,Medicine0a,이것으로 끝이야
+27,0,Medicine0a,독으로 넘어져 버리면 좋아요!
+27,1,Medicine1a,네 있고 、네 있고 、네 있고!
+27,2,Medicine0a,잘 자요
+28,0,Medicine0a,독으로 채워 버려요!
+28,1,Medicine1a,그것、그것!
+28,2,Medicine0a,벌써 끝이군요
+29,0,Medicine1a,콘파로、콘파로…
+29,1,Medicine1a,독이야 모여라―!
+29,2,Medicine0a,움직이지 못하게 되어 버렸다
+30,0,Medicine1a,콘파로、콘파로…
+30,1,Medicine1a,독이야 튀어라―!
+30,2,Medicine0a,벌써 끝인 거네
+31,0,Medicine1a,콘파로、콘파로…
+31,1,Medicine1a,독으로 빠져라―!
+31,2,Medicine0a,이것으로 좋았을까
+32,0,Medicine0a,흥、구사일생했군요!
+33,0,Medicine0a,해치워 주기 때문에、기다려 주세요!
+34,0,Medicine2a,이런 건은 심해요!
+35,0,Medicine2a,그런 방식 하다니!
+36,0,Medicine2a,뭔가 손은 없는거야!?
+37,0,Medicine2a,、어디에 있어!?
+38,0,Medicine0a,당신은 살려 돌려주지 않는다고!
+39,0,Medicine0a,나의 차례는 여기로부터!
+40,0,Medicine0a,좋아、찬스가 왔어요!
+41,0,Medicine0a,결정타는 나야!
+42,0,Medicine0a,무엇으로 멍하니 하고 있는거야!
+43,0,Medicine0a,따로 지켜 주는 것이 아니에요!
+44,0,Medicine0a,너무 접근하면 넘어져요
+45,0,Medicine0a,손을 빌려주어요
+46,0,Medicine0a,내가 해치워 버리자!
+47,0,Medicine1a,지금은 말하는 일을 (들)물어요
+48,0,Medicine0a,그런 것 간단해요
+49,0,Medicine0a,이런 작전인 거네
+50,0,Medicine0a,어쩔 수 없네요、도와 준다!
+51,0,Medicine0a,스씨의 독을 사람을 위해서(때문에) 사용해요!
+52,0,Medicine0a,두 명이라면 굉장한 일이 생길 것 같다!
+53,0,Medicine0a,힘이 넘치고 있어요―
+54,0,Medicine0a,앨리스에게 뭐 하는거야!
+55,0,Medicine0a,앨리스、나라도 있는거야!
+56,0,Medicine0a,앨리스、결정타는 나야!
+57,0,Medicine0a,앨리스、위험해요!
+58,0,Medicine0a,앨리스、지켜 주어요!
+59,0,Medicine1a,앨리스의 방해를 한다면!
+60,0,Medicine0a,앨리스의 작전인 거네!
+61,0,Medicine0a,앨리스、함께 싸웁시다!
+62,0,Medicine0a,인형들의 움직임에 맞추어요!
+63,0,Medicine0a,앨리스、말하는 일을 (들)물어요!
+64,0,Medicine0a,앨리스、오늘의 스씨는 절호조야!
+65,0,Medicine0a,앨리스와라면、뭐든지 할 수 있어요!
+66,0,Medicine0a,앨리스를 위해서(때문에)、스씨의 독을 사용해요!
+67,0,Medicine0a,히나에게 뭐 하는거야!
+68,0,Medicine0a,추、사라도 있는거야!
+69,0,Medicine0a,히나、결정타는 나야!
+70,0,Medicine0a,히나、위험해요!
+71,0,Medicine0a,히나、지켜 주어요!
+72,0,Medicine1a,히나、함께 싸웁시다!
+73,0,Medicine1a,인형의 힘을 보여 줍시다
+74,0,Medicine1a,히나의 작전인 거네!
+75,0,Medicine1a,히나의 방해를 한다면!
+76,0,Medicine0a,히나、말하는 일을 (들)물어요!
+77,0,Medicine0a,히나와라면、뭐든지 할 수 있어요!
+78,0,Medicine0a,히나、오늘의 스씨는 절호조야!
+79,0,Medicine0a,히나를 위해서(때문에) 스씨의 독을 사용해요!
+80,0,Medicine0a,유카에게 뭐 하는거야!
+81,0,Medicine0a,유카、나라도 있는거야!
+82,0,Medicine0a,유카、결정타는 나야!
+83,0,Medicine0a,유카、위험해요!
+84,0,Medicine0a,유카、지켜 주어요!
+85,0,Medicine0a,유카의 작전인 거네!
+86,0,Medicine0a,유카의 방해를 한다면!
+87,0,Medicine0a,유카、함께 싸웁시다!
+88,0,Medicine0a,너무 가까워지면 꽃에 나쁠까
+89,0,Medicine0a,유카、말하는 일을 (들)물어요!
+90,0,Medicine0a,유카、오늘의 스씨는 절호조야!
+91,0,Medicine0a,유카와라면、뭐든지 할 수 있어요!
+92,0,Medicine0a,유카를 위해서(때문에) 스씨의 독을 사용해요!
+93,0,Medicine2a,에이린에게 뭐 하는거야!
+94,0,Medicine0a,에이린、결정타는 나야!
+95,0,Medicine0a,에이린、나라도 하는거야!
+96,0,Medicine0a,에이린、지켜 주어요!
+97,0,Medicine0a,에이린、위험해요!
+98,0,Medicine0a,약 이외라도 도울 수 있기 때문에!
+99,0,Medicine0a,에이린의 작전인 거네!
+100,0,Medicine0a,에이린의 방해를 한다면!
+101,0,Medicine0a,에이린、함께 싸웁시다!
+102,0,Medicine0a,에이린의 말하는 일을 (들)물어요!
+103,0,Medicine0a,에이린、오늘의 스씨는 절호조야!
+104,0,Medicine0a,에이린와라면、뭐든지 할 수 있어요!
+105,0,Medicine0a,에이린을 위해서(때문에) 스씨의 독을 사용해요!
+106,0,Medicine0a,신키에게 뭐 하는거야!
+107,0,Medicine0a,신키、결정타는 나야!
+108,0,Medicine0a,신키、나라도 하는거야!
+109,0,Medicine0a,신키、위험해요!
+110,0,Medicine0a,신키、지켜 주어요!
+111,0,Medicine0a,신키、저쪽에 갑시다!
+112,0,Medicine0a,신키의 방해를 한다면!
+113,0,Medicine0a,신키는 작전이라든지 생각하고 있어?
+114,0,Medicine0a,신키、함께 싸웁시다!
+115,0,Medicine0a,신키의 말하는 일을 (들)물어요!
+116,0,Medicine0a,신키、오늘의 스씨는 절호조야!
+117,0,Medicine0a,신키와라면、뭐든지 할 수 있어요!
+118,0,Medicine0a,신키를 위해서(때문에) 스씨의 독을 사용해요!
+119,0,Medicine0a,피하고 있는걸!
+120,0,Medicine0a,가볍게 보면 무섭기 때문에!
+121,0,Medicine0a,맞을 이유 없지요!
+122,0,Medicine0a,굉장한 상대가 아닌거네
+123,0,Medicine0a,방해 할 뿐(만큼)이라면、어딘가 가요
+124,0,Medicine0a,그러면、접근하면 넘어져 버려요
+125,0,Medicine0a,좀 더 진심을 보이세요!
+126,0,Medicine2a,、뭔가의 실수야…!
+127,0,Medicine2a,정말로 당해 버린다!
+128,0,Medicine2a,내가 져 버리다니…
+129,0,Medicine2a,、생각했던 것보다도 데미지가…!
+130,0,Medicine2a,침착해、침착하지 않으면…!
+131,0,Medicine2a,아、상대가 강하다…!?
+132,0,Medicine2a,개、다음은 없기 때문에!
+133,0,Medicine2a,어차피 억측의 주제에…!
+134,0,Medicine2a,몸을 능숙하게 움직일 수 있지 않아…?
+135,0,Medicine2a,거짓말! 맞아 버렸다!?
+136,0,Medicine2a,지지 않기 때문에!
+137,0,Medicine2a,아프지 않은 것、이제!
+138,0,Medicine2a,꽤 하지 않아!
+139,0,Medicine2a,와、이런 것 맞아도!
+140,0,Medicine0a,당신은 무엇을 하러 여기에 왔어?
+141,0,Medicine0a,피할 수 있었다!? 했다아!
+142,0,Medicine0a,이렇게 되는 것이 당연한 것이야
+143,0,Medicine0a,맞을 리가 없어요!
+144,0,Medicine0a,목적이 달콤해지고 있어요!
+145,0,Medicine0a,이제 독이 돌고 있는 것이 아니야?
+146,0,Medicine2a,이것은 주고 받지 못한다…!
+147,0,Medicine2a,원아、위험하다!
+148,0,Medicine0a,맞거나 하지 않아요!
+149,0,Medicine0a,좋은 몸 길들이가 되어요
+150,0,Medicine0a,역시 공격을 걸어 오는 거네?
+151,0,Medicine0a,이 정도 간단하구나!
+152,0,Medicine0a,그러면、접근하면 넘어져 버려요
+153,0,Medicine0a,스씨、그 상태야!
+154,0,Medicine0a,에잇!
+155,0,Medicine0a,독으로 독을 제지한다 라는、유카가 말했다
+156,0,Medicine0a,스씨、적은 여기군요!
+157,0,Medicine2a,좀 더 경험을 쌓지 않으면…
+158,0,Medicine2a,인가、신체가 움직이지 않는다…
+159,0,Medicine0a,아 이제、신체의 수복에 시간이 걸릴 것 같다
+160,0,Medicine0a,아직 진 적 따위 없기 때문에! \n 기억해 주세요!
+161,0,Medicine0a,에이린들에게 나쁜 일 하지 말아요!
+162,0,Medicine0a,영원정에 접근하다는、\n 독으로 쫓아버려 주어요!
+163,0,Medicine0a,이 녀석들、\n 비슷하지만 전혀 달라…?
+164,0,Medicine0a,이런 바람이 되는 일도 \n 있을 수 있었다는 것일까
+165,0,Medicine0a,유카、나의 탄막을 보여 준다!
+166,0,Medicine0a,유카、나의 독으로 몹시 놀라지 말아요!
+167,0,Medicine0a,찾아냈어요、나쁜 녀석!
+168,0,Medicine0a,그런 빛보다 \n 독무가 훨씬 예뻐요
+169,0,Medicine0a,많은 독을 사용하는 것 없네요…
+170,0,Medicine0a,우선은、\n 너를 해치우기로 했어요!
+171,0,Medicine0a,너가 나쁜 녀석인 거네!
+172,0,Medicine0a,나의 독으로、\n 너를 해치우지 않으면 안 되는거야!
+173,0,Medicine0a,우선은、\n 너를 해치우기로 했어요!
+174,0,Medicine0a,너가 나쁜 녀석인 거네!
+175,0,Medicine0a,나의 독으로、\n 너를 해치우지 않으면 안 되는거야!
+176,0,Medicine0a,유카、나도 노력해요!
+177,0,Medicine0a,유카、오늘도 지지 않아요!
+178,0,Medicine0a,메코、내가 도와 준다!
+179,0,Medicine0a,메코、내가 해치워 버려요!
+180,0,Medicine0a,메코、멍하니 너무 했어!
+181,0,Medicine0a,메코를 돕지 않으면!
+182,0,Medicine0a,마쿠라、내가 도와 준다!
+183,0,Medicine0a,마쿠라、내가 해치워 버려요!
+184,0,Medicine0a,마쿠라、멍하니 너무 했어!
+185,0,Medicine0a,마쿠라를 돕지 않으면!

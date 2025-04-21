@@ -1,0 +1,35 @@
+﻿ID,LineID,face,dialog
+0,0,HYousei0a,한꺼번에 덤비면、\n 아무리 상대가 주인공이라도!
+1,0,HYousei1a,한꺼번에 덤비면、\n 아무리 상대가 주인공이라도!
+2,0,HYousei1a,선제공격、간다!
+3,0,HYousei1a,찾았다、거기구나!
+4,0,HYousei0b,우으、이제 여유 안부릴거야
+5,0,HYousei1a,여기까지다!
+6,0,HYousei0a,요정이라도、\n 이 정도는 할 수 있어
+7,0,HYousei1a,으랴아-!!
+8,0,HYousei1b,으랴아-!
+9,0,HYousei0b,아무거나 맞아라-!!
+10,0,HYousei1a,날아가라-!
+11,0,HYousei0a,에-잇!
+12,0,HYousei1a,메롱이다、맞을까 보냐!
+13,0,HYousei1b,멀리서 그러는건 치사하지-!
+14,0,HYousei1b,그쪽만 공격하다니、\n 치사해!
+15,0,HYousei1a,나도 공격할거야!
+16,0,HYousei0a,반격-!
+17,0,HYousei1b,해치워라-!
+18,0,HYousei0a,돕자-!
+19,0,HYousei0a,지켜라-!
+20,0,HYousei2a,아우!
+21,0,HYousei2a,철푸덕!
+22,0,HYousei0b,아파!\n 언제나 언제나、우리들만...
+23,0,HYousei1b,아파!\n 요정을 괴롭히면、후환이 두려울걸...
+24,0,HYousei0a,어떠냐!
+25,0,HYousei1a,어-이、빗나갔잖아!
+26,0,HYousei0a,방금、나 피했지!?\n 봤어?
+27,0,HYousei1b,근성이다-!
+28,0,HYousei0b,버틸 수 있으려나、\n 무리겠지...
+29,0,HYousei1a,배리어-!
+30,0,HYousei2a,역시 이렇게 되는구나...
+31,0,HYousei1b,체엣、불공평해-
+32,0,HYousei2a,아쉽다、다음주에 봐...
+33,0,HYousei0a,None

@@ -1,0 +1,51 @@
+﻿ID,LineID,face,dialog
+0,0,ShitoneF0a,진리는 나와 함께 있다고 하는데…!
+1,0,ShitoneF0a,당신들의 꿈은 여기서 끝나는거야!
+2,0,ShitoneF0a,더 이상、소망을 말하게 하지 않는다!
+3,0,ShitoneF0a,적당、단념하세요!
+4,0,ShitoneF1a,사라지세요!
+5,0,ShitoneF1a,악몽이야、찢으세요!
+6,0,ShitoneF1a,도가 하지는 하지 않아요!
+7,0,ShitoneF1a,세계야、튀세요!
+8,0,ShitoneF1a,꿈과 사라지세요!
+9,0,ShitoneF1a,이상마다 바람에 날아가세요!
+10,0,ShitoneF1a,흘러넘치는 모든 꿈의 힘으로…!
+10,1,ShitoneF1a,삼켜、나의 것으로 한다!
+10,2,ShitoneF1a,보냈을 때…
+10,3,ShitoneF1a,여행한 장소…
+10,4,ShitoneF1a,모두 무릎 꿇으세요
+10,5,ShitoneF0a,그리고、끝납시다
+10,6,ShitoneF0a,모두、꿈의 끝에―
+11,0,ShitoneF1a,당신의 생각해、모든 꿈을…!
+11,1,ShitoneF1a,씻어 없애、삼켜 준다!
+11,2,ShitoneF1a,보냈을 때…
+11,3,ShitoneF1a,여행한 장소…
+11,4,ShitoneF1a,모두 나의 것이야
+11,5,ShitoneF0a,그리고、끝납시다
+11,6,ShitoneF0a,모두、꿈의 가장 외진 곳에서―
+12,0,ShitoneF0a,조금 상태를 볼까요
+13,0,ShitoneF0a,나에게 방심은 있을 수 없어요
+14,0,ShitoneF0a,시건방진 수를 사용해…
+15,0,ShitoneF0a,패배를 늦출 뿐(만큼)이라고 말하는데…
+16,0,ShitoneF0a,무념은 계승해요
+17,0,ShitoneF0a,나 스스로 결정타를 찌릅시다
+18,0,ShitoneF0a,여기서 떨어져서는 곤란한거야
+19,0,ShitoneF2a,어디에 이런 여력이…!?
+20,0,ShitoneF2a,꿈의 힘이 밀리고 있다…!?
+21,0,ShitoneF2a,아직 저항한다고는…!
+22,0,ShitoneF0a,아직 대항할 생각인 거네
+23,0,ShitoneF2a,구、꿈의 힘에 대항해…!
+24,0,ShitoneF2a,구、무겁다…!
+25,0,ShitoneF0a,후후후、두려움이 움직임에 나타나고 있어요
+26,0,ShitoneF0a,서로 한정하는 힘을 우츠호비 하세요
+27,0,ShitoneF0a,적중은 하지 않아요
+28,0,ShitoneF0a,서로 한정하는 힘을 우츠호비 하세요
+29,0,ShitoneF0a,무심코 웃어 버려요
+30,0,ShitoneF0a,여기는 이미 나의 세계인 것이야
+31,0,ShitoneF0a,아!
+32,0,ShitoneF0a,이 세계는 나의 지배하입니다
+33,0,ShitoneF0a,허를 찌르자 등과 무의미한 일
+34,0,ShitoneF2a,이 정도의 아픔 따위…
+35,0,ShitoneF2a,나에게 패배는 용서되지 않는다…!
+36,0,ShitoneF0a,None
+37,0,ShitoneF2a,우리의 꿈이… 끝난다…!

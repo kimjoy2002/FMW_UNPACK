@@ -1,0 +1,45 @@
+﻿ID,LineID,face,dialog
+0,0,KTenguA1a,재미있는 기사로 해 주어요!
+1,0,KTenguA0a,있는 일 없는 일、\n 즐거운 기사로 해 주어요!
+2,0,KTenguA0a,그런데、싸우는 김에 취재 취재…
+3,0,KTenguA1a,스쿠프 말한 만여!
+4,0,KTenguA0a,임펙트 제일! 찍임새(사진의)는 둘째야
+5,0,KTenguA1a,적당히 거기!
+6,0,KTenguA0b,붙어 올 수 있을까나? \n 아마 무리인가?
+7,0,KTenguA1a,스쿠프격촬영 크로스!
+8,0,KTenguA1a,보기 안좋은 모습을 보이세요!
+9,0,KTenguA1b,놓치지 않아요、거기!
+10,0,KTenguA0a,이봐요 이봐요 적당히!
+11,0,KTenguA1a,자、째 주어라!
+12,0,KTenguA1a,텐구 맹렬한 회오리!
+13,0,KTenguA1a,자、날아가 버려라!
+14,0,KTenguA0a,이런 분위기를 살리지 않는 곳은、\n 기사에서는 컷이니까!
+15,0,KTenguA1b,도망치지 말아 、\n 기사가 되지 않지요!
+16,0,KTenguA1b,동포가 당하면、아무리 나라도 말야
+17,0,KTenguA1a,스쿠프는 내가 받았어요!
+18,0,KTenguA0a,이것으로 빚 1개군요
+19,0,KTenguA2c,거짓말、맞았어!?
+20,0,KTenguA2b,방심 방심. 카메라는 무사… 와
+21,0,KTenguA2a,맞았는지、실패했어요
+22,0,KTenguA1b,건방지구나、스쿠프의 주제에!
+23,0,KTenguA2a,구、해요…
+24,0,KTenguA2a,、아직 좋은 사진이 찍히지 않았다!
+25,0,KTenguA1b,카、카메라가 고장나면 어떻게 하는거야!
+26,0,KTenguA2c,와、카메라는 지키지 않으면
+27,0,KTenguA1b,참는 것은 주의가 아니지만!
+28,0,KTenguA1a,맞지 않아요!
+29,0,KTenguA0a,네유감!
+30,0,KTenguA0b,그런 것일까?
+31,0,KTenguA0a,늦은 늦은 늦다!
+32,0,KTenguA0a,스쿠프격촬영 배리어─!
+33,0,KTenguA0a,네네、맞지 않는다!
+34,0,KTenguA0a,늦은 늦은 늦다!
+35,0,KTenguA2a,조금、나의 카메라가…!?
+36,0,KTenguA1b,이번은 절대 기사로 해 \n 하기 때문에!
+37,0,KTenguA2a,아 이제、스쿠프의 주제에!
+38,0,KTenguA0a,None
+39,0,KTenguA2c,조금、뭐야 이 녀석…!?
+40,0,KTenguA2a,조금、뭐야 이 녀석…!?
+41,0,KTenguA1b,아직、\n 전혀 좋은 사진이 찍히지 않았다!
+42,0,KTenguA0a,이상한 인간째、\n 격 찍어 해 주기 때문에!
+43,0,KTenguA1a,이봐요 이봐요 적당히!

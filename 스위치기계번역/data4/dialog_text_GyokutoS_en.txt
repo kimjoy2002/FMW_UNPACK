@@ -1,0 +1,35 @@
+﻿ID,LineID,face,dialog
+0,0,GyokutoS0a,침입자를 해치워야지
+1,0,GyokutoS0a,달의 무기를 쓰면...
+2,0,GyokutoS1b,요리히메님을 위하여-!
+3,0,GyokutoS1b,훈련한대로 해야지!
+4,0,GyokutoS1b,에잇!
+5,0,GyokutoS1b,하앗!
+6,0,GyokutoS1b,이얍!
+7,0,GyokutoS1b,맞을거야!
+8,0,GyokutoS0b,빔 병기를 사람에게 쏠 줄은!
+9,0,GyokutoS1a,쏴보겠어!
+10,0,GyokutoS1b,케이블을 이어서...
+11,0,GyokutoS1a,비장의 병기야!
+12,0,GyokutoS1a,이걸 실전에서 쏠 줄이야!
+13,0,GyokutoS0b,제、제법인데!
+14,0,GyokutoS0b,달의 병기가 닿지 않다니!
+15,0,GyokutoS0a,이런이런、내가 아니라 다행이야...
+16,0,GyokutoS0a,이런건 잘하거든!
+17,0,GyokutoS0b,여기서 움직이지 않으면 내 체면이...
+18,0,GyokutoS2a,아、아프잖아!
+19,0,GyokutoS0b,이、이렇게나 강한거야!?
+20,0,GyokutoS1b,분명 훈련했는데!
+21,0,GyokutoS2a,당해버려!?
+22,0,GyokutoS0b,처음엔 멀리 있었을텐데!
+23,0,GyokutoS0b,달의 무기가 두렵지 않은거야!?
+24,0,GyokutoS0a,훈련한 보람이 있네!
+25,0,GyokutoS1a,별 거 아니니까!
+26,0,GyokutoS0a,배리어-!
+27,0,GyokutoS1b,에잇!
+28,0,GyokutoS2a,요、요리히메 님-!
+29,0,GyokutoS2a,우、우아-!
+30,0,GyokutoS0a,None
+31,0,GyokutoS0b,이 토끼도、설마 탈영병...?
+32,0,GyokutoS1b,여길、통과시킬 순 없어!
+33,0,GyokutoS2a,이、이 움직임은...?!

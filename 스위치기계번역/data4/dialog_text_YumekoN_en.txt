@@ -1,0 +1,3 @@
+﻿ID,LineID,face,dialog
+0,0,YumekoN0a,……
+1,0,YumekoN0a,None

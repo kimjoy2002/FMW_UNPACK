@@ -1,0 +1,3 @@
+﻿ID,LineID,face,dialog
+0,0,SheepLN0a,……
+1,0,SheepLN0a,None

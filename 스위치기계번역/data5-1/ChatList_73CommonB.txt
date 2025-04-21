@@ -1,0 +1,1708 @@
+﻿〇Bルート第73話「Stray Dreamer」
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: first battle vs. Shitone
+ 3: first battle vs. Nightmare
+ 4: beat first Nightmare
+ 5: beat second Nightmare
+ 6: beat third Nightmare
+ 7: player ally
+ 8: first battle vs. Shitone (after player ally)
+ 9: Shitone HP < n%
+10: first battle vs. TensokuD
+11: after first battle vs. TensokuD
+12: clear
+13: ADVB
+14: lose (before player ally)
+15: lose (after player ally)
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown>
+
+Makura2a:「… 우, 우우…
+
+Makura1c:「… 나는 정신을 잃어…?
+
+Makura1b:「핫!
+ 시트네는 도대체 어디에…!
+
+Makura0e:「… 기색이 없습니다.
+ 게다가, 여기는 어디일까요.
+
+Makura1c:「이 느낌, 몽환 세계인 것 같습니다만…
+
+<BG=bg_talk_Village_Old.png,fade=1,color=1,title=*bg_Unknown>
+
+Makura1b:「…!
+
+Makura2a:「이 그리운 광경은, 어쩌면…」
+
+<BGM=bgm_talk_yuutsu1,0>
+
+Human0b:「하아, 개운치 않구나…」
+
+LadyA0b:「오빠나, 몹시 경기가 나쁜 것 같다」
+
+Human0b:「이 흉작은, 겨울을 넘을 수 있는지 모른다.
+ 걱정이어 잠 다하고가 나쁘고」
+
+LadyA0b:「그렇다면, 이 지폐를 주기 때문에
+ 잘 때에는 베개아래에 깔개.
+
+LadyA0b:「바쿠님이 악몽을 먹어 주어,
+ 립 무렵에 꿈자리가 좋아진다」
+
+Human0b:「그 녀석은 좋아,
+ 부인과 아이의 몫도 받을 수 있을까?」
+
+<single>
+
+Makura0g:「여기는, 한 때의 밖의 세계…?
+
+Makura1b:「게다가, 저 편에 있는 것은…」
+
+</single>
+
+MakuraP0a:「……」
+
+Makura1c:「… 저것은, 나.
+ 설마, 이것은 나의 과거인 것입니까.
+
+Makura2b:「맥 부적을 요구하는 인간들.
+ 그에 대해, 나는…」
+
+</single>
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Dream>
+
+Human0b:「……」
+
+Makura1c:「… 경치가 바뀌었다.
+ 이것은 방금전의 농부의 꿈이군요」
+
+Human0b:「… 우우, 제길…
+
+Human0b:「마지막 벼까지 시들어 버렸다.
+ 보리도, 조도…」
+
+MakuraP0h:「… 만약…」
+
+Human0b:「… 뭐야, 너」
+
+MakuraP0a:「초대 받았습니다 여행의 사람입니다.
+ 이름은 해와라고 합니다」
+
+Human0b:「해와야아?
+ 너 같은 미인을
+ 부른 기억은 없어」
+
+MakuraP3b:「그런 일은 없습니다.
+ 마음의 안녕을 요구한다
+ 당신이 소망이 이루어졌어요」
+
+Human0b:「… 뭔가 학이 있을 듯 하지만,
+ 무슨 말을 하고 있는지 전혀다.
+
+Human0b:「대개, 여기는
+ 그럴 곳이 아니야.
+
+Human0b:「먹는 것이 없어,
+ 내일이라도 마음대로 되지 않는다」
+
+MakuraP1a:「과연,
+ 그것이 당신의 불안하면…」
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_magic-chant2.ogg,wait=1>
+
+Human0b:「…!
+
+Human0b:「굉장하다!
+ 벼다, 대풍작이다!
+
+Human0b:「이런 일이 생기다니
+ 너신인가 뭔가 사!?」
+
+MakuraP3c:「당신은 성실하고 한결 같은 (분)편.
+ 태양은 그것을 알고 있습니다.
+
+MakuraP0h:「이대로 노력을 계속하면,
+ 현에서도 같은 모양을 볼 수 있겠지요」
+
+Human0b:「그런가, 이것을 목표로 해
+ 노력하지 않으면 안 되는구나!」
+
+<single>
+
+Makura1c:「… 그렇게, 한 때의 인간들은
+ 꿈의 세계를 하나 더의 세계라고 믿어
+ 순박하게 살고 있었습니다.
+
+Makura1a:「꿈의 길흉에 일희일비 해,
+ 길몽의 기쁨을, 현을 사는 도움으로 해…
+
+Makura1c:「… 나도 또,
+ 그런 인간들의 구제가 될 수 있으면 좋겠다고
+ 힘을 다했습니다.
+
+Makura0d:「꿈이 구제였던 시대.
+ 인간과 서로 요구하는, 행복한 무렵…」
+
+<BG=bg_talk_Factory.png,fade=0,color=1,title=*bg_Dream>
+
+Makura1c:「… 여기는, 또 장면이
+ 바뀐 것 같네요.
+
+Makura0g:「공장가운데인 것 같습니다.
+ 그러면, 요즘의 나는…」
+
+<single>
+
+Human0b:「… 아아, 어떻게 하지.
+ 비단의 생산이 늦는다.
+
+Human0b:「오늘 밤은 잠을 자지 않아, 납기 엄수다」
+
+</single>
+
+MakuraP0h:「……
+
+MakuraP1a:「코우죠우에, 기계.
+ 그 어지러운 장치는,
+ 정말로 사람에게 도움이 되는 것일까요.
+
+MakuraP3b:「그와 같은 근무하는 방법에서는,
+ 도저히 마음이 편안해지지 않을 것입니다」
+
+Human0b:「… 안된다, 조금 잔다」
+
+MakuraP0a:「……」
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Dream>
+
+Human0b:「… 서두를 수 있는 서둘러, 납기에 늦는다.
+
+Human0b:「기계에 지지 않고, 나도 일하지 않으면」
+
+MakuraP0h:「… 만약…」
+
+Human0b:「너는…?」
+
+MakuraP0a:「초대되지 않았는데,
+ 실례하겠습니다.
+
+MakuraP0h:「몸을 깎아지는 모양을 보건데 견디지 않고,
+ 방문했습니다」
+
+Human0b:「보는 것에 견디지 않고, 는…
+
+Human0b:「나는 바쁘다,
+ 잡담하고 있는 여유는 없어」
+
+MakuraP3c:「근면한 (분)편인 것이군요.
+ 기분은 압니다만,
+ 한번 편안해질 수 있어 주세요.
+
+MakuraP3b:「많은 비단이라면,
+ 내가 빠르게 준비하겠습니다」
+
+Human0b:「사실인가, 그렇게 능숙한 이야기…
+
+Human0b:「… 아니, 꿈인가」
+
+MakuraP1a:「에…?」
+
+Human0b:「앗, 꿈인가!
+ 그러면 의미 없어!」
+
+MakuraP2b:「의미 없다는, 그런…」
+
+Human0b:「꿈으로 비단이 생겨도,
+ 납품 할 수 없을 것이다.
+
+Human0b:「그것보다, 일찍 일어나
+ 공장을 돌리지 않으면」
+
+MakuraP1b:「기다려 주세요,
+ 적어도 꿈에서는 쉬어 갈 수 있지 않습니까?!
+
+MakuraP2a:「여기서 구제를 느끼면,
+ 내일에의 활력이 될 것입니다」
+
+Human0b:「뭐가 구제야,
+ 단순한 꿈이 아닌가.
+
+Human0b:「어차피라면, 꿈은 보지 않고
+ 푹 자고 싶은 것이다」
+
+MakuraP2b:「… 그런…」
+
+<single>
+
+Makura1c:「……
+
+Makura2b:「그렇습니다, 과학의 대두에 의해
+ 인간은 바뀌어 버렸다.
+
+Makura2a:「나날의 생활에 쫓겨
+  유형 무 형의 불안을 안아…
+
+Makura1c:「악몽을 없애도,
+ 마음에 평온을 가지지 않게 되었다.
+
+Makura2b:「그런데도 인간의 구제가 될 수 있으면 좋겠다고, 나는…
+
+Makura1c:「… 그리고,
+ 영원한 방황때를 보냈습니다…」
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Makura1b:「… 여기는…
+
+Makura1c:「근처의 모습이 다르다.
+ 이번은, 과거의 투영은 아닌 것 같습니다.
+
+Makura1b:「그러면, 메코들의
+ 기색을 찾아…
+
+<pause>
+
+Makura2b:「… 읏!
+
+Makura1c:「탐지를 할 수 없다.
+ 역시 시트네의 술중인 것이군요.
+
+Makura2a:「나를 가두어,
+ 과거를 보이는이라니.
+ 도대체 왜…」
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,496,160,1)>
+
+Shitone0a:「후훗, 당신에게
+ 그리워해 받으려고 생각해」
+
+</nomove>
+
+</hide>
+
+<pause>
+
+Makura1b:「… 나타났어요.
+ 메코나 모두는 어디입니까?」
+
+Shitone0c:「조속히 외야의 걱정이다 라고,
+ 무정하지 않아.
+
+Shitone0e:「저 녀석들이라면,
+ 조금 전의 우츠호 사이에 가두어
+ 티끌로 해 주었어요」
+
+Makura2a:「설마, 레이무씨들에 한해서…!」
+
+Shitone0c:「그런 일보다,
+ 그 무렵의 자신을 바라봐
+ 어땠을까.
+
+Shitone0a:「당시의 생각을, 조금은 생각해 냈어?」
+
+Makura1c:「… 이러한 장난으로,
+ 내가 과거로 되돌아온다고 생각했습니까.
+
+Makura1b:「어두운 기억 따위,
+ 몇번이고 다시 생각해 왔습니다」
+
+Shitone0f:「킥킥, 어떨까…
+
+Shitone0c:「그러면, 다음도 즐겨 줘」
+
+Makura2a:「다음…?」
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,288,320,1)>
+
+Human0a:「……」
+
+<Code=(cursor_jump,304,240,1)>
+
+Human0a:「……」
+
+</nomove>
+
+Makura1c:「저것은, 인간…?
+
+Makura1b:「환영 따위 현현해,
+ 도대체 무슨 생각입니다」
+
+Shitone0c:「무엇, 은…」
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,288,320,1)>
+
+Human0a:「…!」
+
+<Code=(cursor_jump,304,240,1)>
+
+Human0a:「우와아, 괴물!」
+
+</nomove>
+
+Makura2b:「이, 인간을 덮치게 해…!」
+
+Shitone0d:「어떻게, 이것이야말로 확실히
+ 악몽에 괴로워하는 인간이예요」
+
+Makura1b:「악취미인!
+ 이대로는, 그 사람들은…」
+
+<nomove>
+
+<Code=(cursor_jump,288,320,1)>
+
+Human0a:「오지마, 오지마앗!」
+
+</nomove>
+
+Makura2b:「… 읏!」
+
+Shitone1a:「이봐요, 큰 일.
+ 방치해도 좋은 것일까」
+
+Makura4a:「쿳, 아무리 환상이라도
+ 그와 같은 모습…!」
+
+Shitone0c:「그래요, 인간을 아주 좋아하는 당신이
+ 버림받을 리가 없다.
+
+Shitone0e:「자, 마음을 담아
+ 구해 주면 좋아요」
+
+<end>
+
+<ChatID:2>----------------------------------------
+//초전투:흑마쿠라
+
+Shitone0c:「아라, 나에게 상관하고 있을 여유 따위
+있을까.
+
+Shitone0e:「이봐요, 사랑스러운 인간들이 큰 일이어요」
+
+<end>
+
+<ChatID:3>----------------------------------------
+//초전투:악몽
+
+InsectCN0a:「……」
+
+<nomove>
+
+<Code=(cursor_jump,288,320,1)>
+
+Human0a:「우웃, 용서해 줘!」
+
+<Code=(cursor_jump,304,240,1)>
+
+Human0a:「클레임뿐으로,
+ 이제(벌써) 지긋지긋이다!」
+
+</nomove>
+
+Makura1c:「… 과연, 이 악몽은
+ 그들의 불안의 현현.
+
+Makura1a:「당신은 나에게,
+ 그것을 쫓아 보여라와」
+
+Shitone0f:「킥킥, 그래요.
+
+Shitone0c:「당신에게 인간들을 구할 수 있는지,
+ 확인해 갑시다」
+
+<end>
+
+<ChatID:4>----------------------------------------
+//악몽을 격파(1회째)
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「어, 어?
+ 괴물은 사라졌는지…?」
+
+</nomove>
+
+Makura0b:「… 위험한 곳이었습니다.
+ 상처는 없습니까?
+
+Makura3c:「악몽은 쫓았으므로,
+ 안심해 주세요」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「하아, 악몽…?
+
+Human0a:「… 이라는 것은, 꿈인가」
+
+</nomove>
+
+Makura2b:「에…?」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「매일 잔업으로 피곤한데,
+ 용서해 주었으면 한다.
+
+Human0a:「잠 고쳐, 내일에 대비할까」
+
+</nomove>
+
+<pause>
+
+Makura2b:「……」
+
+<Code=(icon_set_direction,Shitone_en,Makura,0)>
+
+Shitone0e:「킥킥, 유감.
+ 악몽을 지워도, 기뻐해 주지 않았지요」
+
+<Code=(icon_set_direction,Makura,Shitone_en,0)>
+
+Makura1b:「… 그까짓 일.
+ 비록 감사받지 않고도,
+ 그들의 마음을 구할 수 있었다면…」
+
+Shitone0b:「아라, 그 인간의 마음은
+ 조금도 구해지지 않았어요」
+
+Makura2a:「…!」
+
+Shitone0c:「그들에게 있어,
+ 꿈 같은거 결국은 꿈…
+
+Shitone0a:「꿈자리가 좋아져도,
+ 불안은 아무것도 변함없다.
+
+Shitone0e:「당신이 했던 것은,
+ 아무 의미도 없었던거야」
+
+Makura4a:「… 그런 일은…」
+
+Shitone0f:「킥킥, 모르면…」
+
+<pause>
+
+<Code=(icon_set_direction,Makura,Shitone_en,0)>
+
+Makura2a:「…!」
+
+Shitone1c:「생각해 내는 것을 도와 주어요」
+
+<pause>
+
+Shitone1b:「아하핫!
+ 가득 나왔군요!」
+
+Makura2a:「… 지금의 정경은…」
+
+Shitone0c:「그래, 당신의 과거.
+
+Shitone0b:「인간은 바뀌어 버려,
+ 꿈을 구제로 하지 않게 되었다…
+
+Shitone0e:「그리고는,
+ 영원하고 비참한 짝사랑이었네요」
+
+Makura2a:「……」
+
+Shitone0e:「그러니까, 감사는 필요하지 않다는
+  때문 궤하 하지도 좋은 곳.
+
+Shitone0c:「인간들에게 생각해지고 싶어서,
+ 심헤매어 보낸 주제에」
+
+Makura1b:「나는 별로, 생각해지고 싶은 등…」
+
+Shitone0e:「… 후후, 어때인가.
+
+Shitone0b:「뭐 좋아요, 당신과 이야기하는 시간은
+ 충분히 있다.
+
+Shitone1b:「조금씩, 마음을 알몸으로 해 주어요」
+
+<end>
+
+<ChatID:5>----------------------------------------
+//악몽을 격파(2회째)
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「아휴, 심한 꿈이었다…」
+
+</nomove>
+
+Makura1a:「… 에에, 이것은 나쁜 꿈.
+
+Makura0g:「사실이라면, 이대로 길몽을
+ 보여 주고 싶습니다만…」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「길몽…?」
+
+</nomove>
+
+Makura3b:「좋은 꿈을 꾸어, 경쾌한 기분으로
+ 나날을 살아 주세요」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「뭐 말하고 있다,
+ 꿈과 현실은 관계없을 것이다.
+
+Human0a:「꿈이라는 것은,
+ REM 수면중의 뇌의 활동이래
+ 훌륭한 과학자가 말한 것이다」
+
+</nomove>
+
+Makura1c:「과학…」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「후우, 이번이야말로
+ 푹 잘까」
+
+</nomove>
+
+Makura1b:「앗, 기다려…!」
+
+<pause>
+
+Makura2b:「……」
+
+<Code=(icon_set_direction,Shitone_en,Makura,0)>
+
+Shitone0c:「저기, (들)물었어?
+ 그들은 과학을 믿는대.
+
+Shitone0a:「꿈을 부정한다니,
+ 꺼림칙한 가치관이군요」
+
+<Code=(icon_set_direction,Makura,Shitone_en,0)>
+
+Makura1c:「… 확실히, 사물의 파악하는 방법은
+ 획일화되어 버렸습니다.
+
+Makura1a:「그것이 나 만이 아니고,
+ 많은 요괴의 석양이 되었던 것은
+ 틀림없습니다」
+
+Shitone0b:「시치미뗀 얼굴을 해,
+ 사실은 미워하고 있겠지요?」
+
+Makura1c:「… 사회가 바뀌는 것은, 불가피한 일.
+ 이제 와서 한탄할 생각은…」
+
+Shitone0g:「거짓말이야, 당신은 그런 일 생각하지 않았다」
+
+Makura2a:「…!」
+
+Shitone0c:「사랑스러운 인간들의 마음을,
+ 당신으로부터 빼앗아 버렸다.
+
+Shitone0e:「그런 과학이 꺼림칙한,
+ 부러워요」
+
+Makura1b:「아니오, 환상향에서 살기 (위해)때문에
+ 나는 그것도 받아들여…」
+
+Shitone1c:「그러면, 어째서 조금 전
+ 『기다려』이라니 매달렸어?」
+
+Makura2b:「그것은…」
+
+Shitone1a:「당신은 아직, 납득할 수 없는거야.
+
+Shitone0b:「과학의 탓으로 진흙을 훌쩍거려,
+  도 탄의 괴로움을 맛본 것이니까」
+
+Makura2a:「……」
+
+Shitone0f:「킥킥,
+ 점점 생각해 내 온 것 같구나.
+
+Shitone1b:「자, 노력해.
+ 구해야 할 인간은, 아직 있어요」
+
+<end>
+
+<ChatID:6>----------------------------------------
+//악몽을 격파(3회째)
+
+Makura4a:「하아, 하아…
+
+Makura1c:「… 악몽은 치웠습니다만,
+ 나의 역할은 여기까지지요」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「아니, 심한 꿈이었다」
+
+</nomove>
+
+Makura2a:「…!」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「나참, 최근에는
+ 잠 다하고가 나쁘고 안 되는구나」
+
+</nomove>
+
+Makura1a:「잠 다하고입니까,
+ 그렇다면 힘이 됩니다.
+
+Makura0h:「당신이 바란다면, 어떻게라도…」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「……」
+
+</nomove>
+
+Makura2b:「… 저…?」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「……」
+
+</nomove>
+
+Makura2b:「설마, 나의 일이
+ 보이지 않습니까…?」
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char4,0,0,1)>
+
+Human0a:「자, 잠 고칠까」
+
+</nomove>
+
+Makura1b:「기다려, 가지 말아 주세요!
+
+Makura1b:「꿈은 반드시, 여러분이
+ 사는 도움이 됩니다.
+
+Makura2b:「그러니까, 부디…」
+
+Human0a:「……」
+
+<pause>
+
+Makura2b:「… 그렇습니다, 이와 같이
+ 아무도 뒤돌아 봐 주지 않았다.
+
+Makura2a:「바꿀 수 없는 과거라면
+ 알고 있으면서, 나는…」
+
+<Code=(icon_set_direction,Shitone_en,Makura,0)>
+
+Shitone0f:「좋은 얼굴이 되었어요, 마쿠라」
+
+<Code=(icon_set_direction,Makura,Shitone_en,1)>
+
+Makura1c:「……」
+
+Shitone0b:「그 때 느낀 절망,
+ 확실히 생각해 낸 것 같구나.
+
+Shitone0c:「아무리 지키고 싶다고 생각해도,
+ 누구에게도 요구되지 않았다…
+
+Shitone0e:「그러니까 이번은, 사람의 마음을 묶어
+ 꿈의 포로에게 해야 하는 것이야」
+
+<Code=(icon_set_direction,Makura,Shitone_en,0)>
+
+Makura2a:「… 아니오, 그렇게는 생각하지 않습니다.
+
+Makura1b:「환상향의 인간들은,
+ 모든 것을 받아들인 다음
+ 조화의 잡힌 선택을…」
+
+Shitone0f:「후훗, 또 무리를 해」
+
+Makura1b:「무엇을…?」
+
+Shitone0c:「인간들에게 맡기자는,
+ 사실은 생각하지 않겠지요.
+
+Shitone0a:「그러니까, 꿈을 조종해
+ 이끌려고 했지 않아」
+
+Makura2a:「그것은 과거의 이야기.
+ 지금은 그들을 믿어 환상향에 맡기려고…」
+
+Shitone1c:「그러면, 어째서 아직도
+ 인간을 피하고 있는 거야?」
+
+Makura2b:「…!」
+
+Shitone0c:「속죄라든가 말하고 있지만,
+ 모습을 보이는 것이 무서운 것뿐.
+
+Shitone0b:「의심이 있기 때문에,
+ 가까워질 수가 없는거야」
+
+Makura1c:「……
+
+Makura1b:「그런데도 나는, 과거와의 결별을
+ 단념할 생각은 없습니다」
+
+Shitone0c:「무엇…?」
+
+Makura1b:「… 모두 환상향에서 사는 것이,
+ 메코와의 꿈인 것입니다.
+
+Makura2a:「그러니까, 당신에 굴할 수는…」
+
+Shitone0f:「후훗, 그 아가씨를 위해서(때문에)이라니
+ 시시해요!
+
+Shitone0c:「당신의 깊은 속까지,
+ 정말로 이해하고 있는 것은 나야.
+
+Shitone0d:「나를 믿어,
+ 나만을 요구해 주면 좋아요」
+
+Makura1b:「그러나…!」
+
+Shitone0c:「… 단념하지 못한거네.
+ 그러한 곳은 싫지 않지만…
+
+Shitone0f:「당신을 위해서(때문에)도,
+ 조금 교육 해 준다」
+
+<pause>
+
+<Code=(icon_set_direction,Makura,TensokuD_en,0)>
+
+Makura2b:「…!」
+
+Shitone0e:「어때?
+ 모든 것을 부순 과학의 악몽이야!
+
+Shitone0c:「당신의 마음을 쿡쿡 찌르려면,
+ 최고의 배우가 아닐까」
+
+Makura2a:「이것은 비상천칙, 아니오…」
+
+<SE=se_talk_monster01.ogg,wait=0>
+
+TensokuD0a:「……!」
+
+Makura4a:「우…!」
+
+Shitone1b:「아핫, 멋진 얼굴 생김새지요!
+
+Shitone1a:「당신이 무의식 중에 피하고 있던 어두운 기억도 사용해,
+ 특출의 악몽에 마무리해 보았어요」
+
+<Code=(icon_set_direction,Makura,Shitone_en,0)>
+
+Makura2a:「이번은 이런 것을 내, 당신은…」
+
+Shitone1c:「이 녀석에게 유린되어
+ 터무니없게 되면,
+ 강한척 하는 기력도 없어지겠지요.
+
+Shitone1b:「당신이 굽히는 곳,
+ 천천히 즐겁게 해 받아요」
+
+<Code=(icon_set_direction,Makura,TensokuD_en,0)>
+
+Makura2b:「맛이 없다.
+ 과연 나 혼자서는…」
+
+Shitone0c:「그렇구나」
+
+<pause>
+
+Makura2a:「쿳…!」
+
+Shitone0f:「이봐요 이봐요, 무슨 일이야?
+ 좀 더 저항해 줘!
+
+Shitone0c:「강한척 해 주지 않으면,
+ 여기도 재미있지 않아요」
+
+<pause>
+
+Makura1b:「…!」
+
+Shitone0f:「… 하아, 좋은 표정.
+
+Shitone0b:「이 녀석과 함께
+ 당신을 아프게 하면서,
+ 천천히 인정하게 해 준다.
+
+Shitone0a:「한 때의 이상만이,
+ 당신을 행복하게 해 주어.
+
+Shitone0e:「그러니까 빨리,
+나의 곳에 돌아와야 하구나」
+
+Makura4a:「쿳, 이대로는…
+
+Makura2a:「… 메코, 여러분…!」
+
+Shitone1b:「자, 데비르텐소크!
+ 부수지 않는 정도로 흠집이 있는 것으로 해 버리세요!」
+
+<SE=se_talk_monster01.ogg,wait=0>
+
+TensokuD0a:「……!」
+
+<pause>
+
+Shitone0c:「무엇…!?」
+
+<pause>
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,512,448,1)>
+
+Akyu1b:「전탄, 목표로 명중!」
+
+Murasa1b:「좋아, 이대로 전속전진!」
+
+</hide>
+
+</nomove>
+
+<Code=(icon_set_direction,Shitone_en,FD_RIGHT,0)>
+
+Shitone0c:「지금 것은, 공격…!?
+
+Shitone1c:「이 꿈의 세계에서 방해를 하다니
+ 설마…!」
+
+<nomove>
+
+<Code=(cursor_jump,512,448,1)>
+
+Meko1d:「그 설마야!」
+
+</nomove>
+
+<pause>
+
+Meko1f:「마쿠라님, 괜찮습니까!?」
+
+<Code=(icon_set_direction,Makura,Seirensen,0)>
+
+Makura1b:「메코, 거기에…!」
+
+Lyrica3d:「있고 있고, 작전 성공!」
+
+Byakuren3c:「힘을 합한 보람이 있었습니다!」
+
+Shitone0c:「환상향의 인 요들…!?
+
+Shitone0a:「어떻게 말하는 일일까.
+ 당신들은, 그 우츠호 사이에 처리했을 거야」
+
+Reimu0d:「그 정도의 결계,
+ 우리들이 깨지지 않는다고라도 생각했을까」
+
+Orin1e:「우리들결계의 프로들과
+ 파워 바보들이 있기 때문에」
+
+Marisa7a:「어이쿠, 거기는 전문가라고 불러 줘」
+
+Yugi3e:「핫핫하, 구타 보람이 있었다!」
+
+Shitone0b:「… 과연.
+ 힘껏 빠져 나오다니…」
+
+Parsee1b:「그 놀라움, 우리들의 움직임을
+ 걱정하지 않았던 것 같구나」
+
+Iku1a:「진짜의 마쿠라씨는,
+ 그러한 곳에도
+ 재치가 있던 것입니다만」
+
+Shitone0a:「뭐 좋아요.
+ 생명을 주웠다고 해서, 이 몽환 세계에서
+ 어떻게 여기를 밝혀냈을까.
+
+Shitone0c:「설마, 마쿠라가 잔재주를…」
+
+Cirno5b:「브브, 탈락!」
+
+Alice0c:「유감이지만,
+ 이쪽이 능숙했네요」
+
+Shitone0c:「무엇…?」
+
+Patchouli0c:「마쿠라의 요력을 탐지해,
+ 추적시켜 받았어요」
+
+Koakuma3b:「샘플이 있었으므로,
+ 금방 할 수 있었어요」
+
+Makura0g:「샘플, 이라고 하는 것은…」
+
+Ran6c:「너의 머리카락을 사용하게 해 받았어」
+
+Eirin0c:「당신은 메코에게,
+ 자주(잘) 머리카락을 빗어 받고 있던 것이지요.
+
+Eirin3c:「거기서, 메코가 가지고 있던 빗으로부터
+ 조금 빌렸어요」
+
+Yumeko3a:「당신들 두 명의 습관이,
+ 몸을 도왔군요」
+
+Makura0h:「여러분…」
+
+Nazrin3a:「희미하게라도 탐지 할 수 있으면,
+ 그리고는 이쪽의 것이다」
+
+Yukari1b:「경계를 만지작거리고서라도」
+
+Toyohime5c:「우츠호 사이를 연결하고서라도」
+
+Meko1d:「절대로 겨우 도착하기 때문에!」
+
+Shitone0c:「깜찍한 흉내를…
+
+Shitone0a:「뭐 좋아요, 그렇다면
+ 한번 더 쫓아버릴 뿐이야」
+
+<pause>
+
+Tewi2c:「와왓, 또 완고한 것이 나왔다!」
+
+Mima1c:「훌륭하다, 발로 차서 흩뜨려 준다」
+
+Akyu1b:「여러분, 악몽의 격퇴와
+ 마쿠라씨의 보호를 부탁합니다!」
+
+Korin1a:「총원, 제１종 탄막 배치!」
+
+<end>
+
+<ChatID:7>----------------------------------------
+//아군 증원 출격 후
+
+Makura3a:「여러분…」
+
+Sanae4b:「마쿠라씨, 이제 안심이에요!」
+
+Suwako1a:「자주(잘) 보면, 상당히 너덜너덜이잖아」
+
+Shinki5a:「도우러 오는 것이 늦어 버려
+ 미안해요」
+
+Makura0f:「터무니 없습니다.
+ 여러분이 없으면, 지금쯤…」
+
+Mokou3d:「저 녀석 상대에게 자주(잘) 참았다.
+나중의 일은 맡겨라!」
+
+Keine1a:「시트네라고 말했군.
+ 이제(벌써) 너가 좋을대로는 하지 않는다!」
+
+Shitone0e:「킥킥.
+ 소리를 거칠게 해, 시트네이라니…
+
+Shitone0a:「… 후후…」
+
+Tenshi5a:「뭐야, 웃어」
+
+Shitone0e:「이렇게 해 지명해 되는 것은,
+ 매우 좋은 기분이야.
+
+Shitone0b:「마쿠라, 당신도 그렇게 생각하지 않아?」
+
+Nitori2a:「마쿠라씨는…?
+ 저 녀석의 이름이 어떻게든 했어?」
+
+Makura1c:「… 아니요 다음에 이야기합니다」
+
+Shitone0c:「흥이 탔어요,
+ 약간 상대를 해 준다.
+
+Shitone0e:「그리고,
+ 이 세계의 지배자가 누구인 것인가
+ 알게 해 주어요」
+
+Shitone0a:(… 무슨, 이 녀석들 상대에게
+ 진지해져도 어쩔 수 없다)
+
+Shitone1a:(틈을 찾아내 마쿠라를 휩쓸어,
+ 더욱 안쪽까지 기어들어 버립시다)
+
+<end>
+
+<ChatID:8>----------------------------------------
+//초전투:흑마쿠라(아군 증원 후)
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu1a:「파악했어요, 시트네!」
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa1c:「파악했다구, 시트네!」
+
+</Cond>
+
+Shitone0f:「킥킥, 그쪽이야말로
+ 꿈의 세계에 잡히고 있는데.
+
+Shitone0b:「그렇지만, 나를 요구한 포상이야.
+ 약간 힘을 보여 주어요」
+
+<end>
+
+<ChatID:9>----------------------------------------
+//흑마쿠라의 HP가 일정치 이하, 또는 아군 증원 후 일정 턴 경과
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,==,0)>
+
+Shitone0a:「… 자주(잘) 해요」
+
+Marisa2b:「좋아, 어떤 것이다!」
+
+Meko1f:「이제(벌써) 두 번 다시, 마쿠라님을
+ 건네주거나 하지 않기 때문에!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,>, 0) && (LOCAL_ARR, ObjControl, WP_val, 0,<, 4)>
+
+Shitone0c:「헤에, 자주(잘) 해요」
+
+Marisa1c:「좋아, 효과가 있어 있어!」
+
+Meko1d:「이제(벌써) 두 번 다시, 마쿠라님을
+ 건네주거나 하지 않기 때문에!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,0,==,4)>
+
+Shitone0a:「후응, 하는 것 같네.
+
+Shitone0c:「싸움에도 익숙해져 있고,
+ 좀처럼 틈을 보이지 않는다…」
+
+Marisa2b:「흥, 지금쯤 깨달았는지!」
+
+Meko1f:「이제(벌써) 두 번 다시, 마쿠라님을
+ 건네주거나 하지 않기 때문에!」
+
+</Cond>
+
+Shitone0c:「확실히, 이대로 계속해도
+ 결말이 나지 않아요.
+
+Shitone0a:「이렇게 되면…」
+
+Flan1b:「우후후, 하는 거야?」
+
+Shitone0f:「유감이지만」
+
+<pause>
+
+<Code=(icon_set_direction,All,Shitone_en,0)>
+
+Kogasa2b:「저, 저런 곳에!」
+
+<Code=(icon_set_direction,Shitone_en,Seirensen,0)>
+
+Shitone0a:「당신들의 힘은 알았어요.
+ 그 벽을 깨었을만 하는 것 같네.
+
+Shitone0b:「한 번, 마쿠라의 일은 맡깁시다」
+
+Rumia1a:「빼앗긴 것 뿐인데
+ 큰 소리 쳐요―」
+
+Kanako1c:「우리에게 두려움을 이루어,
+ 도망치기 시작한다는 것인가」
+
+Shitone0c:「어차피 전 라면,
+ 좀 더 형편이 좋은 장소가 있는 것.
+
+Shitone0b:「초조해 하지 않아도, 당신들은
+ 여기로부터 나올 수 없다…
+
+Shitone0d:「게다가, 마쿠라의 안에
+ 확실히 자국은 남길 수 있었고」
+
+Meko1a:「자국…?」
+
+Shitone0c:「… 기억해 두세요, 마쿠라.
+ 당신은 이상을 버려지지 않는다.
+
+Shitone0a:「인간이 버릴 수 있었던 후,
+ 꿈과 이상에 매달리는 것으로
+ 자신을 지지하고 있던 것이니까」
+
+Makura1c:「……」
+
+Shitone0f:「키득, 킥킥 쿠스…」
+
+<pause>
+
+Luna4a:「… 가 버렸다」
+
+Kurumi4b:「내팽개침으로 좋았어―?」
+
+Keine1a:「이 장소를 빠지는 것이 앞이다.
+ 나머지의 적을 퇴치하고 해 줘!」
+
+<end>
+
+<ChatID:10>----------------------------------------
+//초전투:데빌 비상천칙
+
+<SE=se_talk_monster01.ogg,wait=0>
+
+TensokuD0a:「……!」
+
+Shizuha4a:「이 녀석은, 마쿠라가 만들었다
+ 악의 비상천칙…?!」
+
+Elliy1a:「닮고는 있지만,
+ 상판떼기가 흉악하구나―!」
+
+Yumeko5c:「그 때보다,
+ 강한 악의로 만들어지고 있는 것 같네」
+
+Hina1b:「굉장한 액이예요, 방심하지 말아줘」
+
+<end>
+
+<ChatID:11>----------------------------------------
+//데빌 비상천칙과의 초전투 후
+
+<SE=se_talk_monster01.ogg,wait=0>
+
+TensokuD0a:「……!」
+
+Momiji2a:「마, 만만치 않다!」
+
+Sanae1a:「원래, 비상천칙은
+ 신으로도 악마로도 될 수 있다
+ 로보트입니다…」
+
+Nitori2a:「확실히 이것은, 악마 모드다!」
+
+Wriggle5b:「잘 모르지만,
+ 그러한 설정인 것이구나」
+
+Kanako3b:「그러나, 다시 비상천칙을
+ 악의 손끝으로 된다고는…」
+
+<Cond=(GLOBAL_LIST_INDEX,u_code0,Tensoku,==,-1)>
+
+Mystia4a:「여기에 비상천칙이 있으면,
+ 다시해 주는데」
+
+Makura1c:「… 꿈의 여행하러 왔을 때에,
+ 현현하고 있으면 좋았던 것입니다만.
+
+Makura2a:「시트네의 지배하에 있다
+ 이 세계에서는, 이제(벌써)…」
+
+Star6b:「…!
+
+Star6a:「기다려 주세요, 이 기색은…」
+
+<nomove>
+
+<Code=(cursor_jump,512,144,1)>
+
+<hide=all>
+
+Tensoku0a:「……」
+
+</hide>
+
+</nomove>
+
+Akyu2b:「축의 방위보다,
+ 미확인 비행 물체 접근!」
+
+<Code=(icon_set_direction,All,FD_RIGHT,0)>
+
+Nue1c:「뭐야, 이런 때에!」
+
+Keine2b:「새인가!?」
+
+Kanako2a:「비행기인가!?」
+
+Sanae1c:「아니오…!」
+
+<pause>
+
+Tensoku0a:「……!」
+
+<Code=(icon_set_direction,All,Tensoku,0)>
+
+Kurumi3b:「비상천칙이닷!」
+
+Makura2a:「왜…!?
+ 나는 호출하지 않았는데…」
+
+Sanae3c:「반드시, 우리의 마음의 호소에
+ 응해 준 것입니다!」
+
+Marisa7c:「비상천칙, 너라는 녀석은!」
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:「……!」
+
+Nitori4d:「이것이라면 백 인력…
+ 아니, 백만 마력이다!」
+
+Korin1b:「배우는 모였다.
+ 모두, 전력으로 가겠어!」
+
+</Cond>
+
+<Cond=(GLOBAL_LIST_INDEX,u_code0,Tensoku,!=,-1)>
+
+Nitori1b:「그렇지만, 진정한 비상천칙은
+ 여기에 있다!」
+
+Remilia1e:「악몽 풍치가,
+ 악마를 자칭하자니
+ 주제넘어요!」
+
+Korin1a:「모두, 전력으로 가겠어!」
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:「……!」
+
+</Cond>
+
+<end>
+
+<ChatID:12>----------------------------------------
+//클리어
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,==,0)>
+
+Yumeko0b:「이것으로 전부군요」
+
+Kosuzu3b:「숨어있는 적도 없는 것 같습니다!」
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,>, 0)>
+
+Yumeko0b:「대장목은 잡았군요」
+
+Korin1b:「아아, 이대로 탈출하자!」
+
+</Cond>
+
+Hatate1b:「시트네는 놓쳐 버렸지만…」
+
+Kaguya2c:「우선,
+ 마쿠라를 되찾을 수 있었을 뿐이라도
+ 좋다로 합시다」
+
+Yukari1b:「조금의 사이에,
+ 여러 가지 일이 너무 일어났어요.
+
+Yukari0d:「한 번 모여,
+ 상황을 정리하고 싶네요」
+
+Akyu1a:「해치를 엽니다,
+ 여러분 귀함 해 주세요」
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Reimu0e:「후우, 다녀 왔습니다―」
+
+Korin0a:「모두, 수고 하셨습니다.
+ 마쿠라도 큰 상처는 없는 것 같다」
+
+Makura0h:「에에, 덕분 같아」
+
+Meko1f:「마쿠라님!
+
+<Code=(map_shake,1,30,1)>
+
+<SE=se_talk_hishi01.ogg,wait=1>
+
+Meko2c:「좋았던 것입니다.
+ 만약 만날 수 없게 되면는…」
+
+Makura3a:「메코…
+
+Makura3d:「… 걱정을 끼쳤습니다.
+ 여러분도 무사하고 최상입니다.
+
+Makura2b:「안전할 것이어야 할 여행으로, 이런 일에
+ 말려들게 해 버리다니…」
+
+Mokou1a:「우리들 백전 연마다.
+ 이 정도의 (분)편이
+ 씹는 맛이 있어 좋아」
+
+Koakuma1c:「그렇지만, 동료를 유괴하다니
+ 지금까지와는 사정이 다르네요」
+
+Patchouli0c:「저 녀석의 목적은,
+ 마쿠라에게 한 때의 사상을 되찾게 해
+ 다시 이변을 일으키게 하는 일.
+
+Patchouli0a:「그러니까 우리들을 방치해,
+ 마쿠라만을 휩쓴 것이지요」
+
+Remilia1d:「여기는 안중에 없음은,
+ 빨려진 거네」
+
+Yamame0d:「그런 식으로 대충 하기 때문에,
+ 틈을 찔리는 일이 되는 거야」
+
+Utsuho0e:「그렇지만, 우리가 없는 동안
+ 심한 일 되지 않았어?」
+
+Koishi6d:「팔을 비틀어지거나 든지,
+ 손톱을 한 장씩 벗겨지거나 든지…」
+
+Meko3b:「발상이 물소!」
+
+Tenshi5b:「라고 할까, 묘하게 구체적…」
+
+Makura1a:「괜찮습니다.
+ 이 대로, 어떻지도 않아요」
+
+Reimu0e:「라고 말하는 것 치고,
+ 안색은 최악같지만…」
+
+Satori0c:「신체 이상으로,
+ 마음을 공격받은 것 같네요」
+
+Sanae0g:「마음을…?」
+
+Makura1c:「… 네.
+ 과거의 기억을 바탕으로 한 정경으로,
+ 마음을 어지럽히려고 해 왔습니다.
+
+Makura2a:「나의 마음의 상처를 후벼파,
+ 한 때의 생각으로 되돌아오게 하려고…」
+
+Youmu3a:「과거의 기억, 입니까.
+ 그것은 어떠한…
+
+Youmu2b:「앗, 말하기 어려우면
+지금 것은 없었던 것에!」
+
+Makura0f:「비밀로 하는 일은,
+ 아무것도 없어요.
+
+Makura0h:「대개의 이야기는, 탄막전을 통해서
+ 여러분 아시는 바지요」
+
+Marisa0d:「확실히, 몽환 세계에서 싸웠을 때
+ 조금 (들)물었군」
+
+Komachi0a:「모처럼이고, 자세하게 이야기해 주어라.
+
+Komachi1c:「술을 마시지 않는 너로부터,
+ 자신 이야기를 (듣)묻는 좋을 기회다」
+
+Makura1a:「알았습니다, 그렇다면…
+
+Makura1c:「… 나는 원래 대륙에서 태어나
+ 이 나라에 건너 왔습니다.
+
+Makura0a:「당시의 나는,
+ 악몽을 길몽에 달리하는 것으로 신앙을 얻어,
+ 그것을 양식으로 살고 있던 것입니다」
+
+Keine0c:「성수, 바쿠의 전승이다.
+ 원래는 그러한 존재였다고 듣고 있다」
+
+Makura0d:「그 무렵의 인간들은, 꿈의 세계를
+ 하나 더의 세계라고 생각하고 있었습니다.
+
+Makura0a:「길몽을 보면 기쁨,
+ 악몽을 보면 슬픔…
+
+Makura0b:「꿈의 길흉에 일희일비 해,
+ 힘껏 사는 사람들의 순박함에
+ 나는 끌린 것입니다」
+
+Suika3c:「인간을 좋아하게 된,
+ 라고 말하는 일이구나」
+
+Makura0h:「… 네, 그리고는
+ 그들에게 다가붙어 흉몽을 꾸었을때 액막이를 해 재를 계속했습니다.
+
+Makura1a:「이윽고, 인간도 또 바쿠를 가까이에 느껴
+ 마음이나 들이마셔 신앙을 향하여 줘…
+
+Makura0b:「그것은 매우 편해,
+ 행복한 관계였습니다」
+
+Byakuren0b:「서로 마음 좋은 관계를 쌓아 올린다…
+ 가까운 신앙으로서는 이상적인 형태군요」
+
+Kanako0d:「당시는 아직,
+ 엄숙한 분위기를 보이는 (분)편이
+ 좋았을 것이지만」
+
+Alice0d:「누군가라고 있는 것이 행복하다 라고,
+ 인간 같은 곳이 있던 거네」
+
+Makura3a:「… 에에, 부정하지 않습니다.
+
+Makura0e:「그렇지만, 과학이 발전해
+ 사람들의 가치관이 바뀌자에 따라
+ 모두 바뀌어 버렸습니다」
+
+Elliy0b:「바뀐, 이라고 말하면…」
+
+Makura1c:「기계의 발달과 함께,
+ 인간들은 사로잡힌 것처럼
+  바쁘게 살게 되었습니다.
+
+Makura1a:「한 때의 순박함을 잃어,
+  유형 무 형의 불안을 안아…
+
+Makura2b:「악몽을 길몽으로 바꾸는 것 만으로는,
+ 마음에 평온을 가지지 않게 된 것입니다」
+
+Mystia4a:「흠흠…?」
+
+Reimu2b:「밖의 세계의 이야기는,
+ 이따금 핑 오지 않네요」
+
+Sanae3b:「나는 알아요.
+ 모두, 공부나 일에 쫓기고 있어…
+
+Sanae5b:「꿈을 꾸어도, 곧 현실에
+ 되돌려져 버립니다」
+
+Kosuzu4b:「즐거운 꿈이 기분 전환이 되거나
+ 하지 않습니까?」
+
+Sanae0d:「꿈은 꿈대로, 현실의 생활이란
+ 관계 없기 때문에.
+
+Sanae5d:「읏, 마쿠라씨를
+ 부정할 생각이 아닙니다만」
+
+Makura0h:「아니오, 확실히 그처럼해
+ 꿈은 구제는 아니게 되었습니다.
+
+Makura0a:「한층 더 추격을 걸치도록(듯이),
+ 꿈의 세계가 과학에 의해 부정되고…
+
+Makura0g:「꿈을, 나를 필요로 하는 인간은
+ 없어진 것입니다」
+
+Daiyosei3b:「… 그런…」
+
+Suwako4a:「그렇게 힘을 잃은 존재의
+ 말로는 슬픈 것이다」
+
+Byakuren5a:「떨어져 가는 인심을
+ 멈추는 수단은 없었던 것이군요…」
+
+Makura2b:「… 힘은 다한 것입니다만」
+
+Yuka2d:「(와)과 뭐, 그 일련의 경위를
+ 정중하게 재현 해 온 것.
+
+Yuka0a:「그 탓으로,
+ 기분도 옛날에 돌아왔을까」
+
+Makura2a:「앞으로 나아간다고 결정한 지금,
+ 굽힐 것은 없습니다.
+
+Makura2b:「다만…」
+
+Meko4c:「…?」
+
+Makura1c:「여러분이 도착하기 전,
+ 그녀에게 들은 말이
+ 신경이 쓰이고 있습니다.
+
+Makura0a:「나는 아직도, 과학을 싫어하고 있다.
+
+Makura2a:「그리고, 좋아하는 인간들을
+ 두려워하고 있다고 합니다」
+
+Eirin1c:「과연,…」
+
+Eiki1a:「그녀는 다만, 과거의 정경을 보이고
+ 마음을 흔들어 왔을 것은 아니다.
+
+Eiki4a:「당신의 사상을, 자신의 곁에
+ 끌어 들이려고 한 것이군요」
+
+Marisa0b:「과학에의 못한다는 의식에,
+ 인간과의 거리감인가…」
+
+Reimu0e:「너, 확실히
+ 그러한 곳 있네요」
+
+Makura1c:「… 네, 그런 내가 채워지려면
+ 다시 이변을 일으켜야 하는 것이라고 하는 논조였습니다.
+
+Makura2a:「당연, 그 결론은
+ 부정하지 않으면 안됩니다…」
+
+Yumeko4a:「그녀의 말의 모두를,
+ 베어 버려지지는 않는 것 같네」
+
+Mima1b:「많든 적든, 너의 마음에
+걸림을 남겼다는 것인가」
+
+Mokou0a:「시트네의 녀석도,
+ 단순한 배후 인물은 아닌 것 같다」
+
+Marisa1b:「그러고 보면 시트네로 생각해 냈지만,
+ 저 녀석, 묘한 곳에서 마쿠라에게 관련되고 있었구나.
+
+Marisa0d:「이름이 어떻게라든지 말했지만,
+ 뭔가 있는지?」
+
+Makura0g:「그 이야기가 아직이었지요.
+ 그녀가 자칭한 『해와』라고 하는 이름…
+
+Makura1c:「저것은 일찍이, 꿈의 세계에서
+ 내가 사용하고 있던 것입니다」
+
+Alice2b:「꿈의 세계에서…?」
+
+Shizuha0b:「가명 같은 것일까.
+ 어째서 그런 일을?」
+
+Makura1c:「당시의 인간들에게 있어,
+ 꿈과 현은 별개의 세계였습니다.
+
+Makura0g:「그러니까, 이름도 다른 (분)편이
+ 서로 마음 좋은 관계로 있을 수 있던 것입니다」
+
+Reimu0f:「흐음, 바쿠로서의 구애됨인 거네」
+
+Sunny0b:「그렇지만, 어째서 그 이름을
+ 저 녀석이 사용하겠지요」
+
+Reisen0e:「응, 짖궂음이라든지?」
+
+Luna1c:「위조품인것 같고, 이름도 빌렸다든가」
+
+Makura1c:「… 어떨까요…」
+
+Toyohime2d:「모르지만,
+ 일단 이 장소는 멀어집시다.
+
+Toyohime5c:「여기는 그녀의  영역내,
+ 머무는 것은 피하고 싶어요」
+
+Eirin1c:「마쿠라의 이야기의 계속도,
+ 진행되면서 들려줘」
+
+Makura1c:「네, 알았습니다」
+
+<end>
+
+<ChatID:14>----------------------------------------
+//전멸(아군 증원전)
+
+Makura2b:「쿳, 이런 곳에서…」
+
+Shitone0f:「킥킥, 악몽을 지불해
+ 줄 수 없었지요.
+
+Shitone0c:「인간을 구하려면,
+ 그대로의 당신은 안돼.
+
+Shitone0a:「본래 어떻게 있어야 할 것인가,
+ 하나하나 자상하게 가르쳐 주어요」
+
+<end>
+
+<ChatID:15>----------------------------------------
+//전멸(아군 증원 후)
+
+Shitone0e:「킥킥, 동료가 모였는데
+ 입정도로도 없다…
+
+Shitone0c:「그러면 재차,
+ 마쿠라와 두 명이 되게 해 받아요.
+
+Shitone0b:「이제(벌써) 두 번 다시,
+ 우리의 방해를 하지 않는 것이군요」
+
+<end>

@@ -1,0 +1,3 @@
+﻿ID,LineID,face,dialog
+0,0,GyokutoSN0a,......
+1,0,GyokutoSN0a,None

@@ -1,0 +1,212 @@
+﻿ID,LineID,face,dialog
+0,0,Yorihime0a,지상의 힘을 시험할 기회군요…
+1,0,Yorihime0a,머리를 늘어져 사과한다면、\n 아픔이 최소한으로 끝나요
+2,0,Yorihime0a,설마、도망칠 수 있다고 생각하고 있었을까
+3,0,Yorihime0a,도망치면 용서된다고 생각하고 있다면…
+4,0,Yorihime0a,이제 곧、\n 나에게 허가를 청하는 일이 된다고 하는데…
+5,0,Yorihime0a,당신들에게는、내가 처벌을 주어요
+6,0,Yorihime0a,신성한 달의 대지를 더럽힌 사람에게는…
+7,0,Yorihime0a,아고코로님의 이름을 사취한 보답을 받으세요!
+8,0,Yorihime0a,거리를 채워…
+8,1,Yorihime0a,하앗!
+9,0,Yorihime0a,이 틈…
+9,1,Yorihime0a,받았닷!
+10,0,Yorihime0a,도가 하지는 하지 않아요!
+10,1,Yorihime0a,거기야!
+11,0,Yorihime0a,목…
+11,1,Yorihime0a,목… 줘!
+12,0,Yorihime0a,이 정도의 거리라면…
+12,1,Yorihime0a,이 정도의 거리라면… 탓!
+13,0,Yorihime0a,그 번뇌마다…
+13,1,Yorihime0a,그 번뇌마다… 끊는닷!
+14,0,Yorihime0a,거기도 나의 틈이야!
+14,1,Yorihime0a,거기도 나의 틈이야!
+15,0,Yorihime0a,신의 염에 구워지고 하세요
+15,1,Yorihime0a,종의 신도…
+15,2,Yorihime0a,히노카그트치!
+15,3,Yorihime0a,구워 쫓아랏!
+16,0,Yorihime0a,신의 힘을 깨달으세요!
+16,1,Yorihime0a,화지가구토신이야…
+16,2,Yorihime0a,화지가구토신이야… 이 칼에!
+16,3,Yorihime0a,구워 쫓아랏!
+17,0,Yorihime0a,받아 보는 것이 좋아요!
+17,1,Yorihime0a,와라、염의 신…
+17,2,Yorihime0a,화지가구토신!
+17,3,Yorihime0a,구워 쫓아랏!
+18,0,Yorihime0a,깜박여 하는 동안도 주지는 않는다…
+18,1,Yorihime0a,다케미카즈라노 가미야、힘을!
+18,2,Yorihime0a,질풍… 심한 뇌전!
+18,3,Yorihime0a,하아아아아아앗!
+19,0,Yorihime0a,따라 올 수 있을 리가 없어요
+19,1,Yorihime0a,다케미카즈라노 가미… 초래
+19,2,Yorihime0a,한숨에… 잡는닷!
+19,3,Yorihime0a,일곡!
+20,0,Yorihime0a,하늘의 힘으로 억제합시다
+20,1,Yorihime0a,다케미카즈라노 가미야、이 칼에!
+20,2,Yorihime0a,필살、필중!
+20,3,Yorihime0a,하아아아아아앗!
+21,0,Yorihime0a,모든 어둠을 지워 없앱시다
+21,1,Yorihime0a,아마노이와토[天の岩戶]야…
+21,2,Yorihime0a,아마노이와토[天の岩戶]야… 열고―
+22,0,Yorihime0a,자、엎드리는 것이 좋아요
+22,1,Yorihime0a,커다란 자모의 광명이야…
+22,2,Yorihime0a,커다란 자모의 광명이야… 비추어라―
+23,0,Yorihime0a,와라、천조오미카
+23,1,Yorihime0a,빛이야、어둠을 쫓아라―
+23,2,Yorihime0a,빛이야、어둠을 쫓아라―
+24,0,Yorihime0a,와라、천조오미카─
+25,0,Yorihime0a,아마노이와토[天の岩戶]야、열고―
+26,0,Yorihime0a,빛이야、어둠을 쫓아라―
+27,0,Yorihime0a,좀 더 녀석들의 힘을 지켜볼까요
+28,0,Yorihime0a,겁먹은듯 하네
+29,0,Yorihime0a,지상의 백성이、너무 우쭐해졌어!
+30,0,Yorihime0a,그렇게、훈련 대로에 하면 되는거야
+31,0,Yorihime0a,의지를 내고 있도록(듯이)、좋은 경향이예요
+32,0,Yorihime0a,이것도 1군을 인솔하는 사람의 의무
+33,0,Yorihime0a,실전 경험 부족하구나…
+34,0,Yorihime2a,이 노출의 투쟁심…!
+35,0,Yorihime2a,아무리 힘을 다해도 쓸데없다고 말하는데…
+36,0,Yorihime2a,야만스러울 뿐(만큼)에 완력은 강한가…
+37,0,Yorihime0a,맞힌 것 뿐으로 기뻐하지 않는 것이군요
+38,0,Yorihime0a,우연은 몇번도 계속되지 않는다
+39,0,Yorihime2a,나의 틈을 찾아낸다고는…
+40,0,Yorihime2a,나의 진단보다 빨랐던 것 같구나
+41,0,Yorihime2a,손은 뽑지 않지만…
+42,0,Yorihime2a,싸워 익숙하고 있어…?
+43,0,Yorihime2a,아직 대항해 온다고 하는 거네…
+44,0,Yorihime2a,확실히 이것으로는、\n 옥토들에게는 너무 책임이 힘에 겨워요
+45,0,Yorihime0a,허술한 공격이예요
+46,0,Yorihime0a,바닥이 알려지는 공격이군요
+47,0,Yorihime0a,그 움직여、명확하게 안다
+48,0,Yorihime0a,더러워진 손으로 닿기를 원하지 않네요
+49,0,Yorihime0a,지상의 사람은 배운다고 하는 일을 \n 하지 않는 것일까
+50,0,Yorihime0a,너무 늦다!
+51,0,Yorihime0a,접하는 것조차 이길 수 없는 것 같네
+52,0,Yorihime0a,기선을 억제한다 따위 용이한 일
+53,0,Yorihime0a,미숙의 한 마디군요
+54,0,Yorihime0a,강신의 힘、아직 이런 것은 아니에요
+55,0,Yorihime0a,기운이 나져서는 의외이구나
+56,0,Yorihime0a,훌륭히라고 말해 둘까요
+57,0,Yorihime2a,이것이 지상의 백성의 힘이라고 말해…
+58,0,Yorihime0a,None
+59,0,Yorihime0a,정체의 모르는 상대일거라고…
+60,0,Yorihime0a,머리를 늘어져 사과한다면、\n 아픔이 최소한으로 끝나요
+61,0,Yorihime0a,이것도 저것도 모르는 채、\n 도가 하지는 하지 않아요!
+62,0,Yorihime0a,도망치면 용서된다고 생각하고 있다면…
+63,0,Yorihime0a,이제 곧、\n 나에게 허가를 청하는 일이 된다고 하는데…
+64,0,Yorihime0a,누구여도、내가 처벌을 주어요
+65,0,Yorihime0a,신성한 달의 대지를 더럽힌 사람에게는…
+66,0,Yorihime0a,거리를 채워…
+66,1,Yorihime0a,하앗!
+67,0,Yorihime0a,이 틈…
+67,1,Yorihime0a,받았닷!
+68,0,Yorihime0a,도가 하지는 하지 않아요!
+68,1,Yorihime0a,거기야!
+69,0,Yorihime0a,목…
+69,1,Yorihime0a,목… 줘!
+70,0,Yorihime0a,이 정도의 거리라면…
+70,1,Yorihime0a,이 정도의 거리라면… 탓!
+71,0,Yorihime0a,그 번뇌마다…
+71,1,Yorihime0a,그 번뇌마다… 끊는닷!
+72,0,Yorihime0a,거기도 나의 틈이야!
+72,1,Yorihime0a,거기도 나의 틈이야!
+73,0,Yorihime0a,신의 염에 구워지고 하세요
+73,1,Yorihime0a,종의 신도…
+73,2,Yorihime0a,히노카그트치!
+73,3,Yorihime0a,구워 쫓아랏!
+74,0,Yorihime0a,신의 힘을 깨달으세요!
+74,1,Yorihime0a,화지가구토신이야…
+74,2,Yorihime0a,화지가구토신이야… 이 칼에!
+74,3,Yorihime0a,구워 쫓아랏!
+75,0,Yorihime0a,받아 보는 것이 좋아요!
+75,1,Yorihime0a,와라、염의 신…
+75,2,Yorihime0a,화지가구토신!
+75,3,Yorihime0a,구워 쫓아랏!
+76,0,Yorihime0a,깜박여 하는 동안도 주지는 않는다…
+76,1,Yorihime0a,다케미카즈라노 가미야、힘을!
+76,2,Yorihime0a,질풍… 심한 뇌전!
+76,3,Yorihime0a,하아아아아아앗!
+77,0,Yorihime0a,따라 올 수 있을 리가 없어요
+77,1,Yorihime0a,다케미카즈라노 가미… 초래
+77,2,Yorihime0a,한숨에… 잡는닷!
+77,3,Yorihime0a,일곡!
+78,0,Yorihime0a,하늘의 힘으로 억제합시다
+78,1,Yorihime0a,다케미카즈라노 가미야、이 칼에!
+78,2,Yorihime0a,필살、필중!
+78,3,Yorihime0a,하아아아아아앗!
+79,0,Yorihime0a,모든 어둠을 지워 없앱시다
+79,1,Yorihime0a,아마노이와토[天の岩戶]야…
+79,2,Yorihime0a,아마노이와토[天の岩戶]야… 열고―
+80,0,Yorihime0a,자、엎드리는 것이 좋아요
+80,1,Yorihime0a,커다란 자모의 광명이야…
+80,2,Yorihime0a,커다란 자모의 광명이야… 비추어라―
+81,0,Yorihime0a,와라、천조오미카
+81,1,Yorihime0a,빛이야、어둠을 쫓아라―
+81,2,Yorihime0a,빛이야、어둠을 쫓아라―
+82,0,Yorihime0a,와라、천조오미카─
+83,0,Yorihime0a,아마노이와토[天の岩戶]야、열고―
+84,0,Yorihime0a,빛이야、어둠을 쫓아라―
+85,0,Yorihime0a,좀 더 녀석들의 힘을 지켜볼까요
+86,0,Yorihime0a,겁먹은듯 하네
+87,0,Yorihime0a,지상의 백성이、너무 우쭐해졌어!
+88,0,Yorihime0a,그렇게、훈련 대로에 하면 되는거야
+89,0,Yorihime0a,의지를 내고 있도록(듯이)、좋은 경향이예요
+90,0,Yorihime0a,이것도 1군을 인솔하는 사람의 의무
+91,0,Yorihime0a,실전 경험 부족하구나…
+92,0,Yorihime2a,이 노출의 투쟁심…!
+93,0,Yorihime2a,아무리 힘을 다해도 쓸데없다고 말하는데…
+94,0,Yorihime2a,내가 발을 멈출 수 있다고는…
+95,0,Yorihime0a,우연은 몇번도 계속되지 않는다
+96,0,Yorihime2a,나의 틈을 찾아낸다고는…
+97,0,Yorihime2a,나의 진단보다 빨랐던 것 같구나
+98,0,Yorihime2a,손은 뽑지 않지만…
+99,0,Yorihime2a,싸워 익숙하고 있어…?
+100,0,Yorihime2a,아직 대항해 온다고 하는 거네…
+101,0,Yorihime2a,확실히 이것으로는、\n 옥토들에게는 너무 책임이 힘에 겨워요
+102,0,Yorihime0a,허술한 공격이예요
+103,0,Yorihime0a,바닥이 알려지는 공격이군요
+104,0,Yorihime0a,그 움직여、명확하게 안다
+105,0,Yorihime0a,더러워진 손으로 닿기를 원하지 않네요
+106,0,Yorihime0a,지상의 사람은 배운다고 하는 일을 \n 하지 않는 것일까
+107,0,Yorihime0a,너무 늦다!
+108,0,Yorihime0a,접하는 것조차 이길 수 없는 것 같네
+109,0,Yorihime0a,기선을 억제한다 따위 용이한 일
+110,0,Yorihime0a,미숙의 한 마디군요
+111,0,Yorihime0a,강신의 힘、아직 이런 것은 아니에요
+112,0,Yorihime0a,기운이 나져서는 의외이구나
+113,0,Yorihime0a,훌륭히라고 말해 둘까요
+114,0,Yorihime2a,이것이 이계의 사람의 힘이라고 말해…
+115,0,Yorihime0a,None
+116,0,Yorihime0a,내가 결코 물러나지 않으면、\n 당신이 제일 알고 있겠지요
+117,0,Yorihime0a,당신을 넘는다 따위、당연한일…!
+118,0,Yorihime0a,이 행동거지、확실히 누님…
+119,0,Yorihime0a,누님이 상대이든지!
+120,0,Yorihime0a,그 움직임、레이센까지 있는 거네
+121,0,Yorihime0a,내가 아는 모습보다 성장하고 있어…?
+122,0,Yorihime0a,반드시 잡아 이야기를 듣지 않으면…
+123,0,Yorihime0a,비록 딴사람이어도、\n 당신을 놓칠 수는 없다!
+124,0,Yorihime0a,이 기색은 확실히…\n 아니、설마!
+125,0,Yorihime0a,비록 당신 상대라도、나는…!
+126,0,Yorihime0a,당신 같은 달의 병사는 몰라요
+127,0,Yorihime0a,나의 훈련 그대로의 움직임…\n 누구일까
+128,0,Yorihime0a,지상에도、이 정도 뜨거운 불길이 있는 거네…!
+129,0,Yorihime0a,하지만、악마가 신에 당해 낼 합당한 이유는 없다
+130,0,Yorihime0a,하지만、악마가 신에 당해 낼 합당한 이유는 없다
+130,1,Yorihime0a,와라、마를 쫓는 신의 염…!
+130,2,Yorihime0a,신도、히노카그트치!
+130,3,Yorihime0a,구워 쫓아랏!
+131,0,Yorihime0a,… 신무 『천우수미코토』
+132,0,Yorihime0a,밤은 태양에 이길 수 없으면、\n 슬슬 학습해 받을까
+133,0,Yorihime0a,여신의 무용으로、오미카는 만족되었다
+133,1,Yorihime0a,천조오미카─
+134,0,Yorihime0a,하도록(듯이)、이지만 이 정도…!
+135,0,Yorihime0a,하도록(듯이)、이지만 이 정도…!
+136,0,Yorihime0a,발을 멈출 수 있었어…?!
+137,0,Yorihime0a,발을 멈출 수 있었어…?!
+138,0,Yorihime0a,구、대응이 늦어…?!
+139,0,Yorihime0a,구、대응이 늦어…?!
+140,0,Yorihime0a,지상의 무녀、여기서…!
+141,0,Yorihime0a,각오!
+141,1,Yorihime0a,각오!
+142,0,Yorihime0a,이 힘은…?!
+143,0,Yorihime0a,이 힘은…?!

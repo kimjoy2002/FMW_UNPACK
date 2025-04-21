@@ -1,0 +1,210 @@
+﻿ID,LineID,face,dialog
+0,0,Minoriko0a,가을의 힘、보여 준다!
+1,0,Minoriko0a,싸움은 자신있지 않지만 말야!
+2,0,Minoriko0a,가을인데 가을에 이길 수 있다고 생각해!?
+3,0,Minoriko0a,신님에게 손을 들면 \n 공짜로는 끝나지 않아요!
+4,0,Minoriko0a,지금 사과해도、이미 늦어요!
+5,0,Minoriko0a,탄막에 도움이 되는 소득이라고는 말하면…
+6,0,Minoriko0a,싸움은 자신있지 않지만 말야!
+7,0,Minoriko0a,이것을 병문안 해 주어요!
+8,0,Minoriko0a,당겨는 있을 수 없다!
+9,0,Minoriko0a,움직임을 확실히 보고 있으면…
+10,0,Minoriko0a,가을의 힘、보여 준다!
+11,0,Minoriko0a,풍양의 신인걸、\n 수확없이는 돌려보내지 않는다!
+12,0,Minoriko0a,신님에게 손을 들면 \n 공짜로는 끝나지 않아요!
+13,0,Minoriko0a,나도、공짜는 당하지 않아요
+14,0,Minoriko0a,당신、이것은 분실물이야!
+15,0,Minoriko0a,이 틈은 놓치지 않아요
+16,0,Minoriko0a,지금 사과해도、이미 늦어요!
+17,0,Minoriko0a,가을의 신님이 좋은 곳 보여 버릴까!
+18,0,Minoriko0a,마음껏 가요!
+19,0,Minoriko0a,가을의 전력으로 상대를 해요!
+20,0,Minoriko1a,먹어랏!
+21,0,Minoriko1a,두고도 어택!
+22,0,Minoriko1a,에에이!
+23,0,Minoriko1a,이거 참 실마리!
+24,0,Minoriko1a,여물어라! 나의 탄막!
+25,0,Minoriko1a,맞지 않을 리가 없는거야!
+26,0,Minoriko1a,맞으면 아파요!
+27,0,Minoriko1a,고구마 먹어라!
+28,0,Minoriko1a,발해지고、커다란 가을의 힘!
+28,1,Minoriko0a,변변치 못했습니다!
+29,0,Minoriko1a,풍양의 힘… 부탁!
+29,1,Minoriko0a,변변치 못했습니다!
+30,0,Minoriko1a,이렇게 되면 소중히 간직함이야!
+30,1,Minoriko0a,야 사 아 아!!
+31,0,Minoriko1a,이런 것은 어떨까?
+31,1,Minoriko0a,정해졌다아─!!
+32,0,Minoriko0a,누나와 두 명이라면!
+32,1,Minoriko7a,누나、저것을 해요
+32,2,Shizuha6a,예、자주(잘)은요
+32,3,Minoriko1a,스팍!
+32,4,Shizuha1a,가을 자매!
+32,5,Minoriko1a,킥!!
+32,6,Shizuha5b,…、는 우츠호기분 저항이야…!?
+32,7,Minoriko1b,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+32,8,Minoriko1a,누나!!
+32,9,Minoriko1a,이것이라도…
+32,10,Shizuha1a,먹으세요!
+32,11,Minoriko1a,정해졌어요!
+33,0,Minoriko0a,누나、힘을 합하자!
+33,1,Shizuha1c,알았어요、미노리코
+33,2,Minoriko1b,이것이 우리들의 소중히 간직함이야!
+33,3,Minoriko1a,스팍!
+33,4,Shizuha1a,가을 자매!
+33,5,Minoriko1a,킥!!
+33,6,Shizuha5b,…、설마 \n 이 정도의 부하가 걸리다니…!
+33,7,Minoriko1b,、뭐 말하고 있는거야! \n 확실히 해 누나!
+33,8,Minoriko1a,누나!!
+33,9,Minoriko1a,키네…
+33,10,Shizuha0a,의!
+33,11,Minoriko0a,피니쉬!
+34,0,Minoriko7a,가을의 매력은 풍부한 임!
+34,1,Shizuha6a,가을의 매력은 덧없는 단풍!
+34,2,Minoriko2a,2개의 가을이 합쳐지면…!
+34,3,Minoriko1a,스팍!
+34,4,Shizuha1a,가을 자매!
+34,5,Minoriko1a,킥!!
+34,6,Shizuha0a,…、설마 \n 이 정도의 부하가 걸리다니…!
+34,7,Minoriko0a,、뭐 말하고 있는거야! \n 확실히 해 누나!
+34,8,Minoriko1a,누나!!
+34,9,Minoriko1a,키네…
+34,10,Shizuha0a,의!
+34,11,Minoriko0a,피니쉬!
+35,0,Minoriko0a,반격 같은거 할 때가 아니다!
+36,0,Minoriko0a,온전히 싸워 있을 수 있습니까!
+37,0,Minoriko2a,이거 참―、정정당당 싸우세요!
+38,0,Minoriko0a,―、저런 먼 곳까지는 \n 고구마를 던질 수 없네요
+39,0,Minoriko1a,당신의 죽음은 쓸데없게 하지 않는다!
+40,0,Minoriko0a,아직도、고구마는 많이 있어요
+41,0,Minoriko0a,걸음을 멈추어서는 안 돼요!
+42,0,Minoriko0a,한 그릇 더는 어떨까?
+43,0,Minoriko0a,이런 때 간과할 수 없는거야
+44,0,Minoriko0a,내가 진지하게 일해버리는 원이야!
+45,0,Minoriko0a,가을의 도움이 필요할까
+46,0,Minoriko2a,잘도 누나를―!
+47,0,Minoriko0a,자매의 정공격이야!
+48,0,Minoriko0a,우리의 콤비 네이션、\n 보여 버리자!
+49,0,Minoriko0a,누나는 내리고 있어!
+50,0,Minoriko0a,누나、위험하닷!
+51,0,Minoriko2a,맞았지만、그것만!
+52,0,Minoriko2a,이 정도의 더러운…\n 평소의 농사일에 비하면!
+53,0,Minoriko2a,어떻게 하면 좋은거야!? \n 이대로는 당한다…
+54,0,Minoriko2a,모두 불타、\n 군고구마가 될 때까지 주어요!
+55,0,Minoriko2a,끝까지 최선을 다할 수 밖에 없다…!
+56,0,Minoriko2a,도、이제 기합 정도 밖에 남지 않아요…
+57,0,Minoriko2a,먹었다―!
+58,0,Minoriko2a,조금、뭐 맞히고 있는거야!
+59,0,Minoriko2a,어!
+60,0,Minoriko2a,좋은 것 같게 당하고 있다니…!
+61,0,Minoriko2a,아、위험하다!
+62,0,Minoriko2a,소득의 힘이야、나를 지켜!
+63,0,Minoriko2a,이 고구마、무겁다…
+64,0,Minoriko2a,고구마로 방비에 사무쳐요!
+65,0,Minoriko2a,하지 않아!
+66,0,Minoriko2a,아직도!
+67,0,Minoriko2a,여기가 고비군요!
+68,0,Minoriko2a,곧바로 그렇게 공격해!
+69,0,Minoriko2a,밀리고 있습니다 라고…!?
+70,0,Minoriko0a,위험하지 않아!
+71,0,Minoriko0a,어머나、이런 것일까
+72,0,Minoriko0a,나라도 멍─하니 하고 있는 \n 것이 아니다!
+73,0,Minoriko0a,나라도 사지에 자신이 있어요!
+74,0,Minoriko0a,해냈다 해냈다、생각 했던 대로
+75,0,Minoriko0a,이런 경쾌한 것은、\n 누나 쪽이 자신있는 것이야
+76,0,Minoriko0a,인가、주고 받은… 과연 신!
+77,0,Minoriko0a,라고、멈추었군요…?
+78,0,Minoriko0a,무엇이다、보이고 만인 거네
+79,0,Minoriko0a,소득의 힘이야、나를 지켜!
+80,0,Minoriko0a,그런가、먼저 공격하면 좋은거네!
+81,0,Minoriko0a,공격의 자세도 농업에는 소중한 것이야!
+82,0,Minoriko0a,좋아 좋아、능숙하게 갔어요
+83,0,Minoriko0a,아직도!
+84,0,Minoriko2a,、미안해요… 누나…
+85,0,Minoriko2a,이제、기억해 주세요!
+86,0,Minoriko2a,당해 버리다는、\n 신님이나 부처도 없구나─!
+87,0,Minoriko2a,완전히、\n 좀 더 손대중 해 주세요군요!
+88,0,Minoriko0a,있고、길에 쓰러지기 전에…!
+89,0,Minoriko0a,힘을 쥐어짜…!
+90,0,Minoriko0a,하는 이상에는 가을의 저력을…!
+91,0,Minoriko1a,먹어랏!
+92,0,Minoriko1a,두고도 어택!
+93,0,Minoriko1a,에에이!
+94,0,Minoriko1a,이거 참 실마리!
+95,0,Minoriko1a,여물어라! 나의 탄막!
+96,0,Minoriko1a,맞지 않을 리가 없는거야!
+97,0,Minoriko1a,맞으면 아파요!
+98,0,Minoriko1a,고구마 먹어라!
+99,0,Minoriko1a,발해지고、커다란 가을의 힘!
+99,1,Minoriko0a,변변치 못했습니다!
+100,0,Minoriko1a,풍양의 힘… 부탁!
+100,1,Minoriko0a,변변치 못했습니다!
+101,0,Minoriko1a,이렇게 되면 소중히 간직함이야!
+101,1,Minoriko0a,야 사 아 아!!
+102,0,Minoriko1a,이런 것은 어떨까?
+102,1,Minoriko0a,정해졌다아─!!
+103,0,Minoriko0a,누나와 두 명이라면!
+103,1,Minoriko7a,누나、저것을 해요
+103,2,Shizuha6a,예、자주(잘)은요
+103,3,Minoriko1a,스팍!
+103,4,Shizuha1a,가을 자매!
+103,5,Minoriko1a,킥!!
+103,6,Shizuha5b,…、는 우츠호기분 저항이야…!?
+103,7,Minoriko1b,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+103,8,Minoriko1a,누나!!
+103,9,Minoriko1a,이것이라도…
+103,10,Shizuha1a,먹으세요!
+103,11,Minoriko1a,정해졌어요!
+104,0,Minoriko0a,누나、힘을 합하자!
+104,1,Shizuha1c,알았어요、미노리코
+104,2,Minoriko1b,이것이 우리들의 소중히 간직함이야!
+104,3,Minoriko1a,스팍!
+104,4,Shizuha1a,가을 자매!
+104,5,Minoriko1a,킥!!
+104,6,Shizuha5b,…、설마 \n 이 정도의 부하가 걸리다니…!
+104,7,Minoriko1b,、뭐 말하고 있는거야! \n 확실히 해 누나!
+104,8,Minoriko1a,누나!!
+104,9,Minoriko1a,키네…
+104,10,Shizuha0a,의!
+104,11,Minoriko0a,피니쉬!
+105,0,Minoriko7a,가을의 매력은 풍부한 임!
+105,1,Shizuha6a,가을의 매력은 덧없는 단풍!
+105,2,Minoriko2a,2개의 가을이 합쳐지면…!
+105,3,Minoriko1a,스팍!
+105,4,Shizuha1a,가을 자매!
+105,5,Minoriko1a,킥!!
+105,6,Shizuha0a,…、설마 \n 이 정도의 부하가 걸리다니…!
+105,7,Minoriko0a,、뭐 말하고 있는거야! \n 확실히 해 누나!
+105,8,Minoriko1a,누나!!
+105,9,Minoriko1a,키네…
+105,10,Shizuha0a,의!
+105,11,Minoriko0a,피니쉬!
+106,0,Minoriko0a,반격 같은거 할 때가 아니다!
+107,0,Minoriko0a,온전히 싸워 있을 수 있습니까!
+108,0,Minoriko2a,이거 참―、정정당당 싸우세요!
+109,0,Minoriko0a,―、저런 먼 곳까지는 \n 고구마를 던질 수 없네요
+110,0,Minoriko1a,당신의 죽음은 쓸데없게 하지 않는다!
+111,0,Minoriko0a,걸음을 멈추어서는 안 돼요!
+112,0,Minoriko0a,한 그릇 더는 어떨까?
+113,0,Minoriko0a,이런 때 간과할 수 없는거야
+114,0,Minoriko0a,내가 진지하게 일해버리는 원이야!
+115,0,Minoriko0a,가을의 도움이 필요할까
+116,0,Minoriko2a,잘도 누나를―!
+117,0,Minoriko0a,자매의 정공격이야!
+118,0,Minoriko0a,우리의 콤비 네이션、\n 보여 버리자!
+119,0,Minoriko0a,누나는 내리고 있어!
+120,0,Minoriko0a,누나、위험하닷!
+121,0,Minoriko2a,어!
+122,0,Minoriko2a,、아직 가을은 멸망하지 않아요…
+123,0,Minoriko2a,있을까 말까한 근성으로…!
+124,0,Minoriko2a,당할 뿐이지 않아…!
+125,0,Minoriko2a,가을의 불길은 아직…!
+126,0,Minoriko0a,어머나、이런 것일까
+127,0,Minoriko0a,사지는 쇠약해지지 않아요!
+128,0,Minoriko0a,아무리 몸이 불편해도!
+129,0,Minoriko0a,소득의 힘이야、나를 지켜!
+130,0,Minoriko0a,가을의 근성을 보여요!
+131,0,Minoriko2a,금년의 가을은 가게… 이…
+132,0,Minoriko0a,None
+133,0,Minoriko0a,메코、당신 따뜻한 것 같구나…
+134,0,Minoriko0a,아、양이 증가해 보인다…

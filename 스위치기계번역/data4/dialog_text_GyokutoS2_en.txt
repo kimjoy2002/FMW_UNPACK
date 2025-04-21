@@ -1,0 +1,27 @@
+﻿ID,LineID,face,dialog
+0,0,GyokutoS21b,여기 오지 마!
+1,0,GyokutoS0b,도망치는거 아니였어!?
+2,0,GyokutoS21b,몸을 지키는 것 정도는...!
+3,0,GyokutoS21b,쏴라아!
+4,0,GyokutoS21b,빔이다!
+5,0,GyokutoS20a,먹어라!
+6,0,GyokutoS21a,맞을거야!
+7,0,GyokutoS21b,재가 되어라-!
+8,0,GyokutoS21a,충전완료、지금이야!
+9,0,GyokutoS0b,제、제법인데!
+10,0,GyokutoS0b,나를 노리다니!
+11,0,GyokutoS20a,이런이런、내가 아니라 다행이야...
+12,0,GyokutoS21a,이쪽도 도와줄게!
+13,0,GyokutoS0b,여기서 움직이지 않으면 내 체면이...
+14,0,GyokutoS22a,아、아프잖아!
+15,0,GyokutoS0b,이、이렇게나 강한거야!?
+16,0,GyokutoS21b,당해버려!?
+17,0,GyokutoS21b,처음엔 멀리 있었을텐데!
+18,0,GyokutoS21b,달의 무기가 두렵지 않은거야!?
+19,0,GyokutoS20a,훈련한 보람이 있네!
+20,0,GyokutoS20a,별 거 아니니까!
+21,0,GyokutoS20a,배리어-!
+22,0,GyokutoS20a,에잇!
+23,0,GyokutoS22a,요、요리히메 님-!
+24,0,GyokutoS22a,우、우아-!
+25,0,GyokutoS20a,None

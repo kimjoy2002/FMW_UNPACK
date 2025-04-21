@@ -1,0 +1,44 @@
+﻿ID,LineID,face,dialog
+0,0,Onamazu0a,자、절망을 안다!
+1,0,Onamazu0a,~、어째서 할까
+2,0,Onamazu0a,조심성없는 위치에 있기 때문에 이렇게 된다!
+3,0,Onamazu1a,이봐요 이봐요 세계가 떨리겠어?
+4,0,Onamazu1a,그 몸에 받는 것이 좋아요!
+5,0,Onamazu1a,이 정도 시험이야!
+6,0,Onamazu1a,이봐요 이봐요 세계가 떨리겠어?
+7,0,Onamazu1a,전기의 힘에 무서워하고 전율해라!
+8,0,Onamazu1a,이것이 전화의 힘이야!
+9,0,Onamazu1a,나의 힘을 보여 주자
+9,1,Onamazu1a,이것이 액상 화현코끼리…
+9,2,Onamazu1a,대지가 진흙과 같지!
+10,0,Onamazu1a,나의 힘을 보여 주자
+10,1,Onamazu1a,대지가 진흙과 같이 요동하는 절망…
+10,2,Onamazu1a,그 몸에 새기는 것이 좋아요!
+11,0,Onamazu1a,종말의 모습을 보여 주자
+11,1,Onamazu1a,난폭하게 구는 대지…
+11,2,Onamazu1a,쏟아지는 불의 돌멩이!
+11,3,Onamazu1a,… 이것으로!
+11,4,Onamazu1a,… 이것으로! 속세도!
+11,5,Onamazu1a,… 이것으로! 속세도! \n 끝자!!!
+11,6,Onamazu1a,왓핫하!
+11,7,Onamazu1a,왓핫하! \n 왓핫핫핫하!!
+12,0,Onamazu0a,는은、너무 늦은
+13,0,Onamazu0a,꿰매는、너무나 시건방진!
+14,0,Onamazu1a,예 있고、허락해 언덕!
+15,0,Onamazu0a,어떤 것、도와 주자!
+16,0,Onamazu0a,어떤 것、도와 주자!
+17,0,Onamazu1a,나의 거체가 밀리고 있다…!
+18,0,Onamazu1a,우우、이것은…!
+19,0,Onamazu0a,이 정도、아무렇지도 않구먼!
+20,0,Onamazu0a,깜찍한 공격이야의
+21,0,Onamazu0a,흥、이 정도…!
+22,0,Onamazu0a,해 있어요…!
+23,0,Onamazu0a,맞히는 관심이 없는 것이 아닌가?
+24,0,Onamazu0a,는은、너무 늦은!
+25,0,Onamazu0a,듣지 않아요!
+26,0,Onamazu0a,
+27,0,Onamazu0a,위기 관리가 되지 않구나
+28,0,Onamazu1a,아직도 힘은 다하지 않았다!
+29,0,Onamazu1a,그렇다면 한층 더 절망을…!
+30,0,Onamazu1a,、설마 이 내가…!
+31,0,Onamazu0a,None

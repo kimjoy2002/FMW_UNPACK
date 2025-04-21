@@ -1,0 +1,68 @@
+﻿Kind,StateID,StateName,ShowType,Icon
+0,POW-_GOTHIT,피탄시 파워-<VAL>,0,Debuf
+0,USE_BUL_PRY,탄막전환(회피),0,Buf
+0,NO_ARMOR,장갑100%관통,1,Buf
+0,NO_MP,MP 탄수데미지,1,Buf
+0,MAXPOW,일시적파워최대,0,Power
+1,HIT-,명중률-<VAL>%,1,Debuf
+1,ALL_CRT,피탄시크리티컬,3,Debuf
+1,SLEEP,슬립,3,Debuf
+1,NOMOVE,이동불능,3,Debuf
+1,NO_SELECT,방어회피불능,3,Debuf
+1,NO_POWER,파워변동봉인,3,Debuf
+1,NO_PROB,확률발동봉인,3,Debuf
+1,DEF-,받는데미지+<VAL>%,3,Debuf
+1,DAM-,주는데미지-<VAL>%,3,Debuf
+1,PRY_HIT-,명중률회피율-<VAL>%,3,Debuf
+1,ARMOR-,장갑-<VAL>%,3,Debuf
+1,PRY-,회피율-<VAL>%,3,Debuf
+2,PRY_DEF+,회피방어업,0,Buf
+2,HIT_PRY+,회피율 명중률+<VAL>%,0,Buf
+2,DAM+,주는데미지+<VAL>%,1,Buf
+2,NO_CATK,반격무효화,0,Buf
+2,ALL+,전스테이터스업,0,Buf
+2,ETERNALCAGE,영원의감옥,2,Buf
+2,ALLGRAZE,확정그레이즈,2,Buf
+2,HIT+,명중률+<VAL>%,2,Buf
+3,MOV+,이동력+<VAL>,0,Move
+3,AUTOGUARD,피탄시가드,2,Guard
+3,SGUARD_HINA,대역 히나,2,Guard
+3,NIGHT_A,적응상승(밤),2,Buf
+3,HPMP+,HP MP<VAL>%회복,0,Cure
+3,MIKO+,무녀강화,2,Buf
+3,OVERHIT,명중한계돌파,1,Damage
+3,MP+,MP<VAL>%회복,0,Cure
+3,MUSOU,국사무쌍의약,1,Buf
+3,D_POWER,탄막은파워,1,Damage
+3,M_THRUSTER,명중 회피+,2,Dodge
+3,D_POWER_MAX,탄막은파워MAX,1,Damage
+3,MUGEN,사정무한,0,Hit
+3,REFLECTION,타겟무효,0,Dodge
+3,KENJA,현자의돌,0,Damage
+3,CARPET,지형(물),1,Buf
+3,MPOWER,사이즈+,1,Buf
+3,MPPOWER,사이즈++,1,Buf
+3,SUPERFAST,이동력+,0,Move
+3,BUL-_MOV_AYA,이동제한무시,0,Move
+3,JUSTICE,소비MP-50%,0,Buf
+3,FPM+,FPM강화,1,Damage
+3,SHICHO,즉사,1,Damage
+3,MUSOU,국사무쌍의약,0,Buf
+3,ALLGRAZE_IKU,확정그레이즈,2,Dodge
+3,ADD_STATE_MEDICINE1,장갑관통,1,Buf
+3,ADD_STATE_MEDICINE2,장갑관통+,1,Buf
+3,TRAUMA,상기+,1,Damage
+3,FULLFLAT,전탄발사,1,Damage
+3,FIX_DAM,고정데미지,1,Damage
+3,RENZOKU,연속행동,0,Move
+3,SP_GET,SP겟,1,Cure
+3,SLEEP_MAKURA,슬립(마쿠라),0,Cure
+3,OVERPOW,최대파워상승,0,Buf
+4,BATTLE_NOMOVE_YAMAME,이동불능,1,Give
+4,TILE,이동불능,1,Give
+4,SABBATH,방어 회피불능,1,Give
+4,SABI,파워변동봉인,1,Give
+4,ADD_STATE_LETTY,반격불능,1,Give
+4,BAD_FORTUNE,확률발동무효,1,Give
+4,YAKU_FLOW,피탄시크리티컬,1,Give
+3,ROUND_HIT,명중률반올림,2,Hit

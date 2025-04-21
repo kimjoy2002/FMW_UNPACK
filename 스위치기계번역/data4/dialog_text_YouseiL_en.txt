@@ -1,0 +1,24 @@
+﻿ID,LineID,face,dialog
+0,0,YouseiL1a,얕잡아 보지 말아요!
+1,0,YouseiL1a,레이저라면 맡겨!
+2,0,YouseiL1a,역관광으로 해 준다!
+3,0,YouseiL1a,맞아라―!
+4,0,YouseiL1a,이것이라면!
+5,0,YouseiL1a,맞지 않았지요!
+6,0,YouseiL1a,멀리서 간사한 녀석!
+7,0,YouseiL1a,반격이야!
+8,0,YouseiL1a,해치워 준다!
+9,0,YouseiL1a,원호해요!
+10,0,YouseiL0a,대신에 내가…
+11,0,YouseiL2b,아야아!
+12,0,YouseiL1a,뭐 하는거야!
+13,0,YouseiL2a,인내도 큰 일…!
+14,0,YouseiL1a,빗나갔군요!
+15,0,YouseiL0a,어디 노리고 있는거야?
+16,0,YouseiL2b,빠듯이!
+17,0,YouseiL1a,레이저가 오는 것은 알고 있었어!
+18,0,YouseiL0a,궁합이라는 것을 생각하는 거네
+19,0,YouseiL1a,베어버려!
+20,0,YouseiL2a,안되었던…
+21,0,YouseiL2b,네、1회 휴일―
+22,0,YouseiL0a,None

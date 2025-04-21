@@ -1,0 +1,3 @@
+﻿ID,LineID,face,dialog
+0,0,ParseeN0a,……
+1,0,ParseeN0a,None

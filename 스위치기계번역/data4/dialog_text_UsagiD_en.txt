@@ -1,0 +1,36 @@
+﻿ID,LineID,face,dialog
+0,0,UsagiD0a,이런 곳에 인간이 있어
+1,0,UsagiD0a,달이 나오고 있다!
+2,0,UsagiD0a,이 녀석들、\n 테위씨에게 보고하지 않으면!
+3,0,UsagiD0a,다시한다!
+4,0,UsagiD0a,떡치기다―!
+5,0,UsagiD1a,그것!
+6,0,UsagiD0a,인가 날릴 수 있는…
+6,1,UsagiD1a,인가 날릴 수 있는… 홈런!
+7,0,UsagiD0a,1개 찧어서는…
+7,1,UsagiD1a,그 사람을 위해―!
+8,0,UsagiD0a,어째서인가 모르지만…
+8,1,UsagiD1a,먹어서는 안된 떡이야!
+9,0,UsagiD0a,마음껏 가!
+9,1,UsagiD1a,오랴아!
+10,0,UsagiD0a,호프、스텝…
+10,1,UsagiD1a,스카이콩콩─!
+11,0,UsagiD0a,테위씨직전[直傳]…
+11,1,UsagiD1a,토끼씨·피용피용 메테오─!
+12,0,UsagiD0a,여기는 공격 할 수 없는거야?
+13,0,UsagiD0a,여기는 공격 할 수 없는거야?
+14,0,UsagiD2a,아픈、귀가 접혀 버린다!
+15,0,UsagiD2a,있었닷!
+16,0,UsagiD0a,해치워 준다!
+17,0,UsagiD1a,2번째 찧어!
+18,0,UsagiD1a,뭇매다―!
+19,0,UsagiD0a,위험해!
+20,0,UsagiD0a,토끼는 외로우면 죽어 버려
+21,0,UsagiD0a,거북이같이 늦은 녀석!
+22,0,UsagiD0a,찧는 것은 거기가 아니야
+23,0,UsagiD0a,맞지 않는다
+24,0,UsagiD0a,유감! 여기가 앞이야!
+25,0,UsagiD0a,배리어─!
+26,0,UsagiD2a,당해 버렸어~
+27,0,UsagiD2a,테위씨、미안해요
+28,0,UsagiD0a,None

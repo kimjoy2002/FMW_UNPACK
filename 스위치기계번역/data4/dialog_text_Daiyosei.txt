@@ -1,0 +1,362 @@
+﻿ID,LineID,face,dialog
+0,0,Daiyosei0a,나도 할 수 있을까?
+1,0,Daiyosei0a,가끔은 치료 말고도...
+2,0,Daiyosei1a,반격!
+3,0,Daiyosei1a,지지않아!
+4,0,Daiyosei0a,가능하다면 대화로 해결하고 싶지만...
+5,0,Daiyosei0a,지금이 찬스일지도...
+6,0,Daiyosei1a,나도 조금은...!
+7,0,Daiyosei1a,싸우는건 무서워...그렇지만!
+8,0,Daiyosei0a,이쪽을 신경쓰지 않아? 그렇다면!
+9,0,Daiyosei0a,힘낼게요!
+10,0,Daiyosei1a,저도 싸울게요!
+11,0,Daiyosei1a,앞으로 조금이니까!
+12,0,Daiyosei0a,한 끗 이라도...
+13,0,Daiyosei1a,이거라면 나도!
+14,0,Daiyosei1a,에잇!
+15,0,Daiyosei1a,가...갑니다!
+16,0,Daiyosei1a,피、피하지 말아줘!
+17,0,Daiyosei2a,에잇!
+18,0,Daiyosei1a,죄송해요!
+19,0,Daiyosei1a,이얍!
+20,0,Daiyosei2a,던집니다!
+21,0,Daiyosei2a,쏩니다!
+22,0,Daiyosei2a,부탁할게、맞아줘!
+23,0,Daiyosei0a,에잇、이거라면!
+24,0,Daiyosei1a,잔뜩 연습한 탄막이니까!
+25,0,Daiyosei1a,이건、맞으면 아플거야!
+26,0,Daiyosei1a,불타는 탄막이에요!
+27,0,Daiyosei1a,나라도!
+28,0,Daiyosei0a,치르노 짱、도와줘!
+28,1,Cirno0a,우리들의 힘으로\n 저 녀석을 해치우자!
+28,2,Daiyosei0a,치르노 짱과 함께라면\n 기운이 나!
+28,3,Cirno1a,받아라-!
+28,4,Daiyosei1a,에잇!
+29,0,Daiyosei0a,난 혼자가 아니야!
+29,1,Cirno0a,절대 놓치지 않을거야!
+29,2,Daiyosei0a,치르노 짱、힘내자!
+29,3,Cirno1a,무적의 요정 파워다!
+29,4,Daiyosei1a,나도!
+30,0,Daiyosei0a,치르노 짱、우리들도!
+30,1,Cirno0a,이 몸은 언제든 괜찮아!
+30,2,Daiyosei0a,잔뜩 연습했었으니까!
+30,3,Cirno1a,얼어라!
+30,4,Daiyosei1a,부、불타라!
+31,0,Daiyosei0a,다들、힘내자!
+31,1,Rumia0a,치르노-
+31,2,Cirno0a,다이짱!
+31,3,Daiyosei0a,리글 짱!
+31,4,Wriggle0a,미스티아!
+31,5,Mystia0a,돌아와、루미아!
+31,6,Cirno1a,우리들의 힘을、하나로!
+31,7,Daiyosei1a,모두에게、힘을...!
+31,8,Wriggle1a,오오오오오오오옷!
+31,9,Wriggle1a,부탁할게、얘들아!
+31,10,Mystia1b,응원가는 맡겨줘~
+31,11,Rumia0a,와-아
+31,12,Cirno1a,얼어라!
+31,13,Wriggle1a,거기닷!
+31,14,Mystia1b,가라♪ 가라♪
+31,15,Rumia0a,새까맣게-
+31,16,Cirno1a,굳히기다!
+31,17,Daiyosei2a,나도!
+31,18,Rumia0a,좋은 느낌-
+31,19,Wriggle0a,중요한건 마무리!
+31,20,Mystia0a,신나는데-
+31,21,Daiyosei0a,모두와 함께라면!
+31,22,Cirno0a,이걸로 끝이다...!
+31,23,Cirno1a,파이널 바콰르텟 스페셜!
+31,24,Cirno1a,가...
+31,25,Rumia0a,가...라아아아아아아!
+31,26,Mystia0a,가...라아아아아아아!
+31,27,Wriggle1a,가...라아아아아아아!
+32,0,Daiyosei0a,나도 모두와 함께라면!
+32,1,Rumia0a,치르노-
+32,2,Cirno0a,다이짱!
+32,3,Daiyosei0a,리글 짱!
+32,4,Wriggle0a,미스티아!
+32,5,Mystia0a,돌아와、루미아!
+32,6,Cirno1a,우리들의 힘을、하나로!
+32,7,Daiyosei1a,다들、힘내...!
+32,8,Mystia1b,텐션 오르는데!
+32,9,Wriggle1a,얘들아、가자!
+32,10,Mystia1b,이 기세를 노래로 해서~
+32,11,Rumia0a,엿-차
+32,12,Cirno1a,냉동빔!
+32,13,Wriggle1a,놓치지 마!
+32,14,Mystia1b,계속 가자-♪
+32,15,Rumia0a,어두워져라-
+32,16,Cirno1a,아직 남았어!
+32,17,Daiyosei2a,나도 도울게!
+32,18,Rumia0a,슬슬 끝낼때인가
+32,19,Wriggle0a,그럼 마무리다!
+32,20,Mystia0a,기분 최고조!
+32,21,Daiyosei0a,모두와 함께라면!
+32,22,Cirno0a,이걸로 끝이다...!
+32,23,Cirno1a,그레이셜 바이오 스페셜!
+32,24,Cirno1a,가...
+32,25,Rumia0a,가...라아아아아아아!
+32,26,Mystia0a,가...라아아아아아아!
+32,27,Wriggle1a,가...라아아아아아아!
+33,0,Daiyosei2a,미안해!
+34,0,Daiyosei0a,피하고만 있어선 안되겠지만...
+35,0,Daiyosei0a,지금은 이러고 있을 수밖에 없네
+36,0,Daiyosei0a,이래선 반격할 수가 없어
+37,0,Daiyosei0a,그렇게 멀리서、치사하네요
+38,0,Daiyosei0a,어떡하지、닿지 않아...
+39,0,Daiyosei0a,무섭지만、좀 더 가까이 가야해...
+40,0,Daiyosei3a,죄송해요、절 위해서...
+41,0,Daiyosei1a,도와드릴게요!
+42,0,Daiyosei1a,뒤에서 쏘겠습니다!
+43,0,Daiyosei1a,이어서 가겠습니다!
+44,0,Daiyosei1a,마무리에요!
+45,0,Daiyosei1a,앞으로 조금이야!
+46,0,Daiyosei1a,저도 같이 힘내겠습니다!
+47,0,Daiyosei1a,지지 말아주세요!
+48,0,Daiyosei1a,곧 도와주러 올거에요...!
+49,0,Daiyosei0a,저라도 도움이 된다면!
+50,0,Daiyosei0a,결코 포기하지 말아주세요!
+51,0,Daiyosei0a,뒤에서 갑니다!
+52,0,Daiyosei0a,저길 쏘면 되는거죠!
+53,0,Daiyosei0a,눈속임이 된다면...
+54,0,Daiyosei1a,제 힘도 써주세요!
+55,0,Daiyosei1a,저도 같이 갑니다!
+56,0,Daiyosei3a,미안、치르노 짱...
+57,0,Daiyosei0a,나도、\n 치르노 짱의 힘이 되고싶어!
+58,0,Daiyosei0a,치르노 짱、뒤는 맡겨줘!
+59,0,Daiyosei2a,치르노 짱、위험해!
+60,0,Daiyosei0a,치르노 짱、너무 앞서나갔어!
+61,0,Daiyosei0a,치르노 짱、\n 내가 뒤에 있어!
+62,0,Daiyosei0a,치르노 짱의 힘이 되려면...!
+63,0,Daiyosei0a,치르노 짱과 함께라면!
+64,0,Daiyosei0a,치르노 짱、조심해!
+65,0,Daiyosei0a,치르노 짱、나도 함께니까!
+66,0,Daiyosei0a,치르노 짱、내 힘을 써줘!
+67,0,Daiyosei3a,루미아 짱、미안해...
+68,0,Daiyosei0a,루미아 짱、다음은 내가!
+69,0,Daiyosei0a,나도、친구를 위해서라면!
+70,0,Daiyosei0a,루미아 짱、 제대로 앞을 봐!
+71,0,Daiyosei0a,루미아 짱...\n 주위가 제대로 보일려나
+72,0,Daiyosei0a,루미아 짱、함께 힘내자!
+73,0,Daiyosei0a,루미아 짱을 위해서...!
+74,0,Daiyosei0a,루미아 짱、조심해!
+75,0,Daiyosei0a,루미아 짱、\n 맞지 않도록 조심해!
+76,0,Daiyosei0a,루미아 짱、도와줄게!
+77,0,Daiyosei0a,루미아 짱、내 힘을 써줘!
+78,0,Daiyosei0a,루미아 짱、나도 함께니까!
+79,0,Daiyosei3a,레티 씨、죄송해요...
+80,0,Daiyosei0a,레티 씨、다음은 내가!
+81,0,Daiyosei0a,나도、친구를 위해서라면!
+82,0,Daiyosei2a,레티 씨、도망치세요!
+83,0,Daiyosei2a,레티 씨、위험해요!
+84,0,Daiyosei0a,레티 씨、저도 같이!
+85,0,Daiyosei0a,레티 씨、저쪽을 쏘는거군요!
+86,0,Daiyosei0a,레티 씨、조심하세요!
+87,0,Daiyosei0a,레티 씨、도와드릴게요!
+88,0,Daiyosei0a,레티 씨、제 힘을 써주세요!
+89,0,Daiyosei0a,레티 씨、저도 같이 갑니다!
+90,0,Daiyosei3a,첸 짱、미안해...
+91,0,Daiyosei0a,나도、친구를 위해서라면!
+92,0,Daiyosei0a,첸 짱、다음은 내가!
+93,0,Daiyosei2a,첸 짱、도망쳐!
+94,0,Daiyosei2a,첸 짱、위험해!
+95,0,Daiyosei0a,첸 짱、저기구나!
+96,0,Daiyosei0a,첸 짱과 함께라면!
+97,0,Daiyosei0a,첸 짱、조심해!
+98,0,Daiyosei0a,첸 짱、도와줄게!
+99,0,Daiyosei0a,첸 짱、내 힘을 써줘!
+100,0,Daiyosei0a,첸 짱、나도 함께니까!
+101,0,Daiyosei3a,리글 짱、미안해...
+102,0,Daiyosei0a,리글 짱、다음은 내가!
+103,0,Daiyosei0a,나도、친구를 위해서라면!
+104,0,Daiyosei2a,리글 짱、도망쳐!
+105,0,Daiyosei2a,리글 짱、위험해!
+106,0,Daiyosei0a,리글 짱、저기구나!
+107,0,Daiyosei0a,리글 짱과 함께라면!
+108,0,Daiyosei0a,리글 짱、조심해!
+109,0,Daiyosei0a,리글 짱、도와줄게!
+110,0,Daiyosei0a,리글 짱、내 힘을 써줘!
+111,0,Daiyosei0a,리글 짱、나도 함께니까!
+112,0,Daiyosei3a,미스티아 짱、미안해...
+113,0,Daiyosei0a,나도、친구를 위해서라면!
+114,0,Daiyosei0a,미스티아 짱、다음은 내가!
+115,0,Daiyosei2a,미스티아 짱、도망쳐!
+116,0,Daiyosei2a,미스티아 짱、위험해!
+117,0,Daiyosei0a,미스티아 짱、저기구나!
+118,0,Daiyosei0a,미스티아 짱과 함께라면!
+119,0,Daiyosei0a,미스티아 짱、조심해!
+120,0,Daiyosei0a,미스티아 짱、도와줄게!
+121,0,Daiyosei0a,미스티아 짱、내 힘을 써줘!
+122,0,Daiyosei0a,미스티아 짱、\n 나도 함께니까!
+123,0,Daiyosei3a,케이네 선생님、죄송해요...
+124,0,Daiyosei0a,케이네 선생님、도와드릴게요!
+125,0,Daiyosei0a,케이네 선생님、다음은 제가!
+126,0,Daiyosei2a,케이네 선생님、도망쳐요!
+127,0,Daiyosei2a,케이네 선생님、위험해요!
+128,0,Daiyosei0a,케이네 선생님、저도 같이!
+129,0,Daiyosei0a,케이네 선생님、저쪽을 쏘는거군요!
+130,0,Daiyosei0a,케이네 선생님、조심하세요!
+131,0,Daiyosei0a,케이네 선생님、도와드릴게요!
+132,0,Daiyosei0a,케이네 선생님、제 힘을 써주세요!
+133,0,Daiyosei0a,케이네 선생님、저도 같이 갑니다!
+134,0,Daiyosei3a,나즈린 짱、미안해...
+135,0,Daiyosei0a,나즈린 짱、도울게!
+136,0,Daiyosei0a,나즈린 짱、다음은 내가!
+137,0,Daiyosei2a,나즈린 짱、도망쳐!
+138,0,Daiyosei2a,나즈린 짱、위험해!
+139,0,Daiyosei0a,나즈린 짱、저기구나!
+140,0,Daiyosei0a,나즈린 짱、조심해!
+141,0,Daiyosei0a,나즈린 짱、도울게!
+142,0,Daiyosei0a,나즈린 짱、내 힘을 써줘!
+143,0,Daiyosei0a,나즈린 짱、나도 같이!
+144,0,Daiyosei3a,서니 짱、미안해...
+145,0,Daiyosei0a,나도、친구를 위해서라면!
+146,0,Daiyosei0a,서니 짱、다음은 내가!
+147,0,Daiyosei2a,서니 짱、도망쳐!
+148,0,Daiyosei2a,서니 짱、위험해!
+149,0,Daiyosei0a,서니 짱、저기구나!
+150,0,Daiyosei0a,서니 짱과 함께라면!
+151,0,Daiyosei0a,서니 짱、조심해!
+152,0,Daiyosei0a,서니 짱、도울게!
+153,0,Daiyosei0a,서니 짱、내 힘을 써줘!
+154,0,Daiyosei0a,서니 짱、내가 함께니까!
+155,0,Daiyosei3a,루나 짱、미안해...
+156,0,Daiyosei0a,나도、친구를 위해서라면!
+157,0,Daiyosei0a,루나 짱、다음은 내가!
+158,0,Daiyosei0a,루나 짱、도망쳐!
+159,0,Daiyosei0a,루나 짱、위험해!
+160,0,Daiyosei0a,루나 짱、저기구나!
+161,0,Daiyosei0a,루나 짱과 함께라면!
+162,0,Daiyosei0a,루나 짱、조심해!
+163,0,Daiyosei0a,루나 짱、도울게!
+164,0,Daiyosei0a,루나 짱、내 힘을 써줘!
+165,0,Daiyosei0a,루나 짱、내가 함께니까!
+166,0,Daiyosei3a,스타 짱、미안해...
+167,0,Daiyosei0a,나도、친구를 위해서라면!
+168,0,Daiyosei0a,스타 짱、다음은 내가!
+169,0,Daiyosei2a,스타 짱、도망쳐!
+170,0,Daiyosei2a,스타 짱、위험해!
+171,0,Daiyosei0a,스타 짱、저기구나!
+172,0,Daiyosei0a,스타 짱과 함께라면!
+173,0,Daiyosei0a,스타 짱、조심해!
+174,0,Daiyosei0a,스타 짱、도울게!
+175,0,Daiyosei0a,스타 짱、내 힘을 써줘!
+176,0,Daiyosei0a,스타 짱、내가 함께니까!
+177,0,Daiyosei3a,다들、미안...
+178,0,Daiyosei0a,나도、친구를 위해서라면!
+179,0,Daiyosei0a,다들、다음은 내가!
+180,0,Daiyosei2a,얘들아、위험해!
+181,0,Daiyosei0a,다들 한눈팔고 있는거야...?
+182,0,Daiyosei2a,마리사 씨、위험해야!
+183,0,Daiyosei0a,인형 씨가 그런 일을...
+184,0,Daiyosei1a,인형 씨를 괴롭히면 안 돼!
+185,0,Daiyosei0a,무언가 기척을 느꼈습니다!
+186,0,Daiyosei0a,나도 힘내야 해!
+187,0,Daiyosei0a,잘 감지한다면...!
+188,0,Daiyosei2a,괜찮아요、상처는 없습니다!
+189,0,Daiyosei2a,아직 괜찮아요!
+190,0,Daiyosei2a,이、이대로면 문제는 없겠어!
+191,0,Daiyosei3a,치、치르노 짱、도와줘!
+192,0,Daiyosei3a,더、더이상은 무리에요...
+193,0,Daiyosei3a,히익...훌쩍...
+194,0,Daiyosei2a,꺄악!
+195,0,Daiyosei2a,으앗!
+196,0,Daiyosei2a,꺄악、오지 마!
+197,0,Daiyosei2a,읏、역시 무리인가...
+198,0,Daiyosei2a,아、아파...
+199,0,Daiyosei2a,...으응、아직 괜찮아...
+200,0,Daiyosei2a,아직、이정도는!
+201,0,Daiyosei2a,아、아직 쓰러질 수는 없어요!
+202,0,Daiyosei2a,이 정도는 참아야만...!
+203,0,Daiyosei0a,비、빗나갔네...?
+204,0,Daiyosei0a,어딘가 숨을 곳을 찾아야겠어...
+205,0,Daiyosei1a,보여요!
+206,0,Daiyosei0a,헛、다행이다...
+207,0,Daiyosei0a,치르노 짱、나 피했어!
+208,0,Daiyosei0a,오늘은 컨디션이 좋은가...
+209,0,Daiyosei0a,조그만한게 도움이 됐을지도...
+210,0,Daiyosei0a,이것도 연습 덕분인걸까...
+211,0,Daiyosei2a,꺄악、아파라
+212,0,Daiyosei2a,하、한눈팔 수가 없네...
+213,0,Daiyosei0a,어떻게든 피했지만...
+214,0,Daiyosei0a,괜찮아、괜찮아...
+215,0,Daiyosei0a,조금 아찔했을지도
+216,0,Daiyosei0a,마、막아냈어...?
+217,0,Daiyosei0a,에잇!
+218,0,Daiyosei0a,가、가끔은 내가!
+219,0,Daiyosei0a,미안、당했어...
+220,0,Daiyosei2a,아앗! 얘、얘들아...
+221,0,Daiyosei2a,치르노 짱、미안해...
+222,0,Daiyosei0a,뒤는 부탁할게요!
+223,0,Daiyosei0a,일회 쉬기인가
+224,0,Daiyosei0a,죄송해요...\n 다들、지지 마!
+225,0,Daiyosei2a,치、치르노 짱...\n 꺄아아아아!
+226,0,Daiyosei2a,아앗! 얘、얘들아...
+227,0,Daiyosei2a,미안、당했어...
+228,0,Daiyosei0a,죄송해요...\n 다들、지지 마!
+229,0,Daiyosei2a,치、치르노 짱...\n 꺄아아아아!
+230,0,Daiyosei0a,날 먹어봤자、\n 맛없을 거야...?
+231,0,Daiyosei0a,무서워....아무나...!
+232,0,Daiyosei2a,싫어、오지 마!
+233,0,Daiyosei1a,부탁할게、거기서 비켜줘!
+234,0,Daiyosei2a,미안해、\n 거기서 비켜줘!
+235,0,Daiyosei0a,있잖아、왜 나를 습격하는거야?
+236,0,Daiyosei0a,얘들아 얘들아、착각하고 있는거야!
+237,0,Daiyosei2a,정말-、제대로 얘길 들어줘
+238,0,Daiyosei2a,치르노 짱、미안!
+239,0,Daiyosei2a,멈추지 않으면、\n 마리사 일행분들이 치르노 짱을...
+240,0,Daiyosei0a,커다란 낫...
+241,0,Daiyosei0a,키 크다...
+242,0,Daiyosei0a,이 사람、지키고싶은 사람이 있는거야...\n 나는 느껴져
+243,0,Daiyosei0a,메이드 씨의 옷은、\n 은근히 귀엽네요
+244,0,Daiyosei0a,어른스러운 분으로 보이는데...
+245,0,Daiyosei0a,이 애는 악마지만、\n 왠지 사이좋게 지낼 수 있을 것 같아...
+246,0,Daiyosei0a,메이드 씨다...
+247,0,Daiyosei0a,...어째서、\n 저렇게 날이 선걸까
+248,0,Daiyosei0a,이 사람은 이길 수 없어...\n 그런 느낌이 들어
+249,0,Daiyosei2a,...이 사람、무서워...
+250,0,Daiyosei1a,여기까지 왔으니까...\n 나라도!
+251,0,Daiyosei2a,부탁해、그렇게 무리하지 말아줘!
+252,0,Daiyosei0a,메이드 씨...괜찮을려나
+253,0,Daiyosei0a,역시、\n 친구니까 여기 있는걸려나?
+254,0,Daiyosei2a,무、무섭지만...\n 울지 않을거야!
+255,0,Daiyosei0a,저 문 너머엔...누가 있는거지?
+256,0,Daiyosei0a,무슨 이유로든 간에、\n 사람을 가두다니...
+257,0,Daiyosei2a,부탁해、우리들의 \n 얘길 들어줘!
+258,0,Daiyosei0a,이 애...계속 외톨이였던거야?
+259,0,Daiyosei0a,분명 좀 더、\n 즐거운 일이 생길테니...까?
+260,0,Daiyosei0a,계속 저런 방에 있었다면...\n 분명、나라도 외로웠을거야
+261,0,Daiyosei0a,왜 싸우고 있는 거지...\n 라는건 안 듣는게 좋겠네요
+262,0,Daiyosei0a,스이카 씨라면、두렵진 않아요!
+263,0,Daiyosei0a,항상 같이 연습했으니까!
+264,0,Daiyosei0a,나도 싸울거야!
+265,0,Daiyosei0a,오늘은 다 같이、뭘 하고 있었어?
+266,0,Daiyosei0a,항상 아큐 씨에게 \n 장난을 친다니까...
+267,0,Daiyosei2a,여기서 당하면、\n 계속 부끄러울 것 같아...
+268,0,Daiyosei2a,꺄악、아무리 친구라도\n 탄막은 전력이구나...
+269,0,Daiyosei0a,모두의 탄막은、\n 잘 알고있으니까!
+270,0,Daiyosei0a,어라、봐 준거야?
+271,0,Daiyosei0a,모두의 탄막을 이길 수 있으려나...
+272,0,Daiyosei0a,모두와 열심히 연습했었는걸!
+273,0,Daiyosei0a,나도 싸울거야!
+274,0,Daiyosei0a,나도、할 수 있는걸 해야해...!
+275,0,Daiyosei0a,우츠호 씨를 도와야 해!
+276,0,Daiyosei0a,오늘은 다 같이、뭘 하고 있었어?
+277,0,Daiyosei0a,항상 같이 연습했으니까!
+278,0,Daiyosei2a,여기서 당하면、\n 계속 부끄러울 것 같아...
+279,0,Daiyosei2a,꺄악、아무리 친구라도\n 탄막은 전력이구나...
+280,0,Daiyosei0a,모두의 탄막은、\n 잘 알고있으니까!
+281,0,Daiyosei0a,어라、봐 준거야?
+282,0,Daiyosei0a,처、처음뵙겠습니다...
+283,0,Daiyosei0a,애들이 새로 만난 친구같지만、\n 번개는 무서울지도...
+284,0,Daiyosei0a,모두와 함께라면 무서울건 없어!
+285,0,Daiyosei0a,우리들의 가짜가 나오다니...
+286,0,Daiyosei0a,메코 씨、\n 거기서 비켜주세요!
+287,0,Daiyosei0a,메코 씨의 괴로움이\n 저에게도 전해져요
+288,0,Daiyosei2a,그런 꼴이 되어서도 싸운다니...
+289,0,Daiyosei0a,저도、\n 마쿠라 씨와 싸우겠습니다!
+290,0,Daiyosei0a,이것이 마쿠라 씨의 힘...
+291,0,Daiyosei1a,저도 환상향의 모두와 \n 함께 싸우겠습니다!
+292,0,Daiyosei0a,저도、\n 시토네 씨와 싸우겠습니다!
+293,0,Daiyosei0a,이것이 시토네 씨의 힘...
+294,0,Daiyosei1a,저도 환상향의 모두와 \n 함께 싸우겠습니다!

@@ -1,0 +1,449 @@
+﻿ID,Title,BGM,Min,Max,Route,開放済みID,採用
+REIMU01,레이무 1,battle_Reimu,-1,-1,Reimu,YOKOKU_01Reimu,1
+MARISA01,魔理沙 1,battle_Marisa,-1,-1,Marisa,YOKOKU_01Marisa,1
+DAICHIRU01,大チル 1,battle_Cirno,7,-1,,YOKOKU_07Common,1
+KOAKUMA01,小悪魔 1,battle_Koakuma,12,-1,,YOKOKU_12Common,1
+KOAKUMA02,小悪魔 2,battle_Koakuma,23,-1,,YOKOKU_22Common,0
+KOAKUMA03,小悪魔 3,battle_Koakuma,23,-1,,KOAKUMA02,1
+PATCHOULI01,パチュリー 1,battle_Patchouli,10,21,,YOKOKU_10Common,1
+PATCHOULI02,パチュリー 2,battle_Patchouli,23,-1,,YOKOKU_22Common,1
+SAKUYA01,咲夜 1,battle_Sakuya2,3,15,,YOKOKU_03Common,1
+SAKUYA03,咲夜 2,battle_Sakuya,19,-1,,YOKOKU_19Common,1
+REMILIA01,レミリア 1,talk_unknown,3,6,,YOKOKU_03Common,1
+REMILIA02,レミリア 2,talk_unknown,3,6,,YOKOKU_03Common,1
+FLAN01,フラン 1,battle_Flan,15,43,,YOKOKU_15Common,1
+REMIFLA01,レミフラ 1,battle_Flan3,45,-1,,YOKOKU_45Common,0
+ALICE02,アリス 1,battle_Alice,3,-1,,YOKOKU_03Common,1
+LUNASA01,ルナサ 1,battle_Lunasa,30,-1,,YOKOKU_30Common,1
+MERLIN01,メルラン 1,battle_Merlin,30,-1,,YOKOKU_30Common,1
+LYRICA01,リリカ 1,battle_Lyrica,30,-1,,YOKOKU_30Common,1
+PRISM01,プリバ 1,battle_Prism,30,-1,,YOKOKU_30Common,1
+YOUMU01,妖夢 1,battle_Youmu,7,-1,,YOKOKU_06Common,1
+SUIKA01,萃香 1,battle_Suika,25,-1,,YOKOKU_24Common,1
+WRIGGLE01,リグル 1,battle_Wriggle,41,-1,,YOKOKU_41Common,1
+MYSTIA01,ミスティア 1,battle_Mystia,41,-1,,YOKOKU_41Common,1
+KEINE,慧音 1,battle_Keine,3,-1,,YOKOKU_03Common,1
+UDONGE01,鈴仙 1,battle_Udonge,36,43,,YOKOKU_36Common,1
+EIRIN01,永琳 1,battle_Eirin,46,-1,,YOKOKU_46Common,1
+EIRIN03,永琳 2,battle_Eirin,46,-1,,EIRIN02,1
+KAGUYA01,輝夜 1,battle_Kaguya,44,-1,,YOKOKU_43Common,1
+MOKOU01,妹紅 1,battle_Mokou,19,40,,YOKOKU_19Common,1
+KOMACHI01,小町 1,battle_Komachi,20,-1,,YOKOKU_19Common,0
+KOMACHI02,小町 1,battle_Komachi,20,-1,,YOKOKU_19Common,1
+EIKI01,映姫 1,battle_Eiki,62,-1,,YOKOKU_62Common,1
+MINORIKO01,穣子 1,battle_Minoriko,17,-1,,YOKOKU_17Common,1
+SHIZUHA01,静葉 1,battle_Shizuha,17,-1,,YOKOKU_17Common,1
+HINA01,にとひな 1,battle_Nitori,24,34,,YOKOKU_24Common,1
+AYA01,文 1,battle_Aya,7,-1,,YOKOKU_07Common,1
+AYA02,文 2,battle_Aya,16,-1,,YOKOKU_16Common,1
+CHUDAN04_ALL,早苗 1,battle_Sanae3,7,22,,YOKOKU_07Common,1
+KANAKO01,神奈子 1,battle_Kanako,41,-1,,YOKOKU_41Common,1
+SUWAKO01,諏訪子 1,battle_Suwako,24,36,,YOKOKU_23Common,1
+SUWAKO02,諏訪子 2,battle_Suwako,41,-1,,SUWAKO01,1
+IKU01,衣玖 1,battle_Iku,56,-1,,YOKOKU_56Common,1
+TENSHI01,天子 1,battle_Tenshi,57,-1,,YOKOKU_57Common,1
+IKUTEN01,いくてん 1,battle_Iku,58,-1,,YOKOKU_58Common,1
+PARSEE01,パルスィ 1,battle_Parsee,52,-1,,YOKOKU_52Common,1
+YUPAL01,勇パル 1,battle_Yugi,52,-1,,YOKOKU_52Common,1
+SATORI_MORNING,さとり 1,battle_Satori,65,-1,,YOKOKU_53Common,1
+SATORI_NOON,さとり 2,battle_Satori,65,-1,,YOKOKU_53Common,1
+SATORI_NIGHT,さとり 3,battle_Satori,65,-1,,YOKOKU_53Common,1
+SATORI_MIDNIGHT,さとり④,battle_Satori,65,-1,,YOKOKU_53Common,0
+ORIN01,お燐 1,battle_Orin,46,-1,,YOKOKU_46Common,1
+UTSUHOB01,うつほ 1,battle_UtsuhoB,46,49,,YOKOKU_46Common,1
+ORINKU01,おりんくう 1,battle_Orin,46,-1,,YOKOKU_46Common,1
+ORINKU02,おりんくう 2,battle_Orin,61,-1,,ORINKU01,1
+KOISHI01,こいし 1,battle_Koishi,65,-1,,YOKOKU_64Common,1
+NAZRIN01,ナズーリン 1,battle_Nazrin,30,-1,,YOKOKU_30Common,1
+KOGASA01,小傘 1,battle_Kogasa,61,-1,,YOKOKU_61Common,1
+ICHIRIN01,一輪 1,battle_Seirensen,35,-1,,YOKOKU_35Common,1
+ICHIRIN02,一輪 2,battle_Ichirin,56,-1,,ICHIRIN01,0
+UNZAN01,雲山 1,battle_Seirensen,35,-1,,YOKOKU_35Common,1
+UNZAN02,雲山 2,battle_Seirensen,36,-1,,UNZAN01,1
+MURASA01,村紗 1,battle_Seirensen,35,-1,,YOKOKU_35Common,1
+NUE01,ぬえ 1,battle_Nue,46,-1,,YOKOKU_46Common,1
+MIMA01,魅魔 1,battle_Mima2,41,-1,,YOKOKU_41Common,1
+SANYOSEI01,光の三妖精 1,battle_Faries,31,-1,,YOKOKU_30Common,1
+SANYOSEI02,光の三妖精 2,battle_Faries,31,-1,,SANYOSEI01,1
+AKYU01,阿求 1,battle_Akyu,36,-1,,YOKOKU_36Common,0
+KORIN01,霖之助 1,battle_Seirensen,56,-1,,YOKOKU_56Common,1
+TOFU01,人間B 1,talk_aoki,3,-1,,YOKOKU_03Common,0
+TOFU02,人間B 2,talk_aoki,56,-1,,YOKOKU_56Common,0
+MURABITO01,町人たち 1,talk_aoki,16,34,,YOKOKU_16Common,0
+MURABITO02,町人たち 2,talk_aoki,35,-1,,YOKOKU_35Common,0
+ROUBA01,老婆 1,talk_aoki,3,-1,,YOKOKU_03Common,0
+ROUBA02,老婆 2,talk_aoki,16,-1,,ROUBA01,0
+ROUBA03,老婆 3,talk_aoki,35,-1,,ROUBA02,0
+KEDAMA,毛玉 1,talk_unknown,-1,-1,,YOKOKU_03Common,1
+KTENGUA01,鴉天狗A 1,talk_gag,19,-1,Reimu,YOKOKU_18Reimu,1
+KTENGU01,鴉天狗 1,talk_aoki,19,-1,Reimu,YOKOKU_18Reimu,1
+HTENGUB01,白狼天狗B 1,talk_aoki,19,-1,Marisa,YOKOKU_18Marisa,1
+ONAMAZU01,大ナマズ 1,battle_Onamazu,73,-1,,YOKOKU_72Common,1
+ONAMAZU02,大ナマズ 2,battle_Onamazu,78,-1,,ONAMAZU01,1
+MEKO01,メーコ 1,battle_Meko,78,-1,,YOKOKU_78Common,1
+MEKO02,メーコ 2,battle_Meko,78,-1,,YOKOKU_78Common,1
+MAKURA01,まくら 1,battle_Makura,78,-1,,YOKOKU_78Common,1
+MAKURA02,まくら 2,battle_Makura,78,-1,,YOKOKU_78Common,1
+MAKURA03,まくら 3,battle_Makura,78,-1,,YOKOKU_78Common,1
+SANAMOMI01,監視対象,battle_Sanae3,7,14,,YOKOKU_07Common,1
+SANAMOMI02,椛が誘う,battle_Momiji,24,34,,SANAMOMI01,1
+SANAMOMI03,下の名前で,battle_Momiji,35,36,,SANAMOMI02,0
+SAKUKOMA01,謎の…,battle_Sakuya,20,-1,,YOKOKU_04Sakuya,0
+NOBIRU,フルアーマーの秘密,battle_Nitori_FA,23,-1,,YOKOKU_22Common,0
+AYAMOMI_FAKE,路線変更,battle_Aya,28,-1,,YOKOKU_27Common,0
+BODYCOM,袋とじ役,battle_Komachi,20,-1,,YOKOKU_19Common,0
+NAME_MINORIKO,あきみのりこ,battle_Minoriko,24,-1,,YOKOKU_24Common,0
+NAME_SHIZUHA,あきしずは,battle_Shizuha,24,-1,,YOKOKU_24Common,0
+BATTLESHIP,夢の戦艦,battle_Seirensen,35,-1,,YOKOKU_35Common,0
+SALARY,私のお給料,battle_Aya,36,-1,,YOKOKU_36Common,0
+REFINA,艦長は19歳,battle_Yuyuko2,41,-1,,YOKOKU_41Common,0
+DEVILPOWER,悪魔パワー,battle_Suika,41,-1,,YOKOKU_41Common,0
+KOA_MARI,いじわるの対岸,battle_Koakuma,26,-1,,YOKOKU_26Common,0
+KANAKO02,かなちゃん,battle_Kanako,41,-1,,YOKOKU_41Common,0
+INSECT01,蟲の集会,weapon_Wriggle_Kick,38,-1,Marisa,YOKOKU_37Marisa,0
+EIRIN02,八意XX様,battle_Eirin,42,45,,YOKOKU_42Common,0
+MAHOUSHOUJO,魔法少女,battle_Flan2,45,-1,,YOKOKU_45Common,0
+MIMARIN,ミマりん,battle_Mima2,47,-1,,YOKOKU_46Common,0
+AZAFUSE,字は伏せる,battle_Sho,50,-1,,YOKOKU_50Common,0
+SATOKOI01,おみやげセット,battle_Satori,51,54,,YOKOKU_50Common,0
+KATSU,レベルアップ,battle_ReimuR,56,-1,,YOKOKU_56Common,0
+TEKOIRE,テコ入れ,battle_Sanae,62,-1,,YOKOKU_61Common,0
+NAME,主人公の名前,battle_Reimu,4,-1,,YOKOKU_03Common,0
+MOMINITO,セーブ,battle_Momiji,7,-1,,YOKOKU_07Common,0
+RESTART,ゲームを再開してみたら,battle_Sunny,12,-1,,YOKOKU_12Common,0
+DAICHIRU,先回り,talk_aoki,3,5,,YOKOKU_03Common,0
+DAICHIRU02,かくれんぼ,battle_Cirno,7,-1,,YOKOKU_07Common,0
+DAICHIRU03,涼しいけれど…,battle_Daiyosei,7,15,,YOKOKU_07Common,0
+MAID,メイド,battle_Marisa,3,7,,YOKOKU_03Common,0
+ENGO,援護防御,battle_Daiyosei,7,-1,,YOKOKU_07Common,0
+KUSUHA,龍虎の王,battle_Meiling,8,-1,,YOKOKU_08Common,0
+TAIYAKI,鯛焼き,battle_Elliy,12,-1,,YOKOKU_12Common,0
+GAME,ゲームをやると,battle_Star,12,-1,,YOKOKU_12Common,0
+SUNNY_RUNA,一緒に寝たら？,battle_Luna,12,-1,,YOKOKU_12Common,0
+BOOK,攻略本,battle_Marisa,15,-1,,YOKOKU_15Common,0
+OIMO,オイモ～秋のかみ,battle_Minoriko,19,-1,,YOKOKU_19Common,0
+ENKAI_ALICE,宴会その後,battle_Alice,25,-1,,YOKOKU_24Common,0
+AYAMOMI01,国民的人気,battle_Aya,24,-1,,YOKOKU_24Common,0
+LUNA_AYA,事情通,battle_Aya,30,-1,,YOKOKU_30Common,0
+PRISM_MARKET,虹色マーケティング,battle_Prism,35,-1,,YOKOKU_34Common,0
+KENEMOKO_KAZOKU,団欒,battle_Keine,20,34,,YOKOKU_35Common,0
+HANGONCHO,我が世の…,battle_LilyW,34,34,,YOKOKU_35Common,0
+HARU,春ですか？,battle_LilyW,30,34,,YOKOKU_35Common,0
+NICHIJO01,紫と幽々子の日常,talk_yozakura,41,-1,,YOKOKU_35Common,0
+NITOHINA01,某のいうことを,battle_Hina,35,-1,,YOKOKU_35Common,0
+IWAKU,進化する中断メッセージ,battle_Kisume,30,34,Marisa,YOKOKU_35Common,0
+CHALLENGE,くるみちゃれんじ　～お料理編,battle_Kurumi,19,-1,,YOKOKU_35Common,0
+SELL_VEGIE,訪問販売,battle_Sakuya,35,-1,,YOKOKU_35Common,0
+AG,リアルタイムプレイヤー,battle_Nitori,35,-1,,YOKOKU_35Common,0
+SANA_ALI,Helloアリスさん,battle_Sanae,36,-1,,YOKOKU_36Common,0
+CIR_ALI,人形で,battle_Cirno,36,-1,,YOKOKU_36Common,0
+SAKUYA_DIET01,献立の秘密,battle_Komachi,35,-1,Marisa,YOKOKU_35Common,0
+PAIRNAME01,移動式大図書館,battle_Marisa,36,-1,,YOKOKU_36Common,0
+WAKAMONO,最近の若者は,battle_Hatate,36,-1,,YOKOKU_36Common,0
+MPLUS,ランチ13回,battle_Aya,36,-1,,YOKOKU_36Common,0
+CALL_COUNT,呼んでる回数,battle_Daiyosei,36,-1,,YOKOKU_36Common,0
+DORACHAN,ひみつ道具,battle_Yuyuko2,40,-1,,YOKOKU_36Common,0
+SNACK,我が家のおやつ,battle_Suwako,41,-1,,YOKOKU_41Common,0
+SUNFLOWER,太陽の花,battle_Yuka2,41,-1,,YOKOKU_41Common,0
+PAYMENT,秋払い,battle_Minoriko,41,49,,YOKOKU_41Common,0
+MADARA01,出張ヤコウチュウ,weapon_Wriggle_Kick,41,-1,,YOKOKU_41Common,0
+YUKACHAN,幽香→幽香ちゃん,battle_Yuka,41,-1,,YOKOKU_41Common,0
+SGUARD,引っ張りだこ,battle_Momiji,41,-1,Marisa,YOKOKU_41Common,0
+YUELI,幕間のスキンシップ,battle_Elliy,41,-1,,YOKOKU_41Common,0
+REISANA01,意趣返し,battle_Sanae,44,49,,YOKOKU_44Common,0
+FLOWERSHOP,お花屋さん,battle_Yuka,44,55,,YOKOKU_44Common,0
+PUNCH,特訓！　うつほパンチ,battle_UtsuhoB,46,49,,YOKOKU_45Common,0
+TRUTH,真実,battle_Eirin,46,-1,,YOKOKU_46Common,0
+TETSUDO,鉄の道,battle_Yuyuko2,47,-1,,YOKOKU_47Common,0
+ONSEN,おんせん,battle_Yuyuko2,50,-1,,TETSUDO,0
+SATSUKI01,燕雀安んぞ,battle_Yorihime,50,-1,,YOKOKU_49Common,1
+SATSUKI02,我が名は綿月依姫！,battle_Yorihime,50,-1,,YOKOKU_49Common,0
+GUNSWORD,剣と銃,battle_Youmu,50,-1,,YOKOKU_50Common,0
+GREEDY,湖の妖精,battle_Kurumi,50,-1,,YOKOKU_50Common,0
+HIME01,女の子は…,battle_Kaguya,50,-1,,YOKOKU_50Common,0
+NANDAI01,かぐもこ,battle_Mokou,52,-1,,YOKOKU_51Common,0
+KUCHO02,口調,battle_Momiji,50,-1,,YOKOKU_56Common,0
+MURAICHINUE01,動物に例えると,battle_Nue,46,-1,,YOKOKU_56Common,0
+MURANUE01,自分本位のWP,battle_Seirensen,46,58,,YOKOKU_56Common,0
+SONG01,明け放しのヒューマンケージ,weapon_Mystia_Sparrow,50,-1,,YOKOKU_56Common,0
+SONG02,バイバイ・チキンハート,weapon_Mystia_Mysterious,50,-1,,SONG01,0
+GAINER,鈴仙とレイセン,battle_Udonge,50,69,,YOKOKU_56Common,0
+CLOW,呆れるほどに,battle_Yorihime,50,69,,YOKOKU_56Common,0
+UDOMYON,支払い,battle_Udonge,50,-1,,YOKOKU_56Common,0
+CHEMLIGHT,光るアレ,weapon_Mystia_Master,56,-1,,YOKOKU_56Common,0
+NEKKETSU,熱血香霖堂,weapon_Marisa_Maspa,56,-1,,YOKOKU_56Common,0
+KOEBUTA,東○学園,battle_Hatate,57,-1,,YOKOKU_57Common,0
+EVILEYER01,外来種の今,battle_Kurumi,57,-1,,YOKOKU_57Common,0
+PAIRNAME_EIKI,ペア名の没案たち,battle_Eiki,62,-1,,YOKOKU_62Common,0
+DANRON02,イマジナリーフレンド,battle_Koishi,65,-1,,YOKOKU_65Common,0
+SHINKI01,お母さんの秘密,battle_Shinki,70,-1,,YOKOKU_70Common,0
+YUMEKO01,夢子の冷徹,battle_Yumeko,70,-1,,YOKOKU_70Common,0
+FEMTO,フェムト,battle_Toyohime,71,-1,,YOKOKU_71Common,0
+PHOTOS,昔の写真,battle_Eirin,71,-1,,YOKOKU_71Common,0
+YUBRAIN,ソウルは孤独？,battle_Tensoku,72,-1,,YOKOKU_72Common,0
+CHAINBAR,有意提言,battle_Yugi,73,-1,,YOKOKU_73Common,0
+ROPE,蜘蛛の糸,battle_Yamame,73,-1,,YOKOKU_73Common,0
+SIZE,サイズとは,battle_Medicine,73,-1,,YOKOKU_73Common,0
+MAKURA_MEKO,科学の道具,battle_Makura,78,-1,,MEKO02,0
+REIMU02,主人公 1,battle_Reimu,-1,-1,Reimu,REIMU01,0
+MARISA02,主人公 2,battle_Marisa,-1,-1,Marisa,MARISA01,0
+ELLIKURU01,自己紹介 1,battle_Elliy,9,-1,,YOKOKU_09Common,0
+ELLIKURU02,自己紹介 2,battle_Kurumi,13,-1,,ELLIKURU01,0
+OFURO_MEILING,お風呂 1,battle_Sakuya,16,-1,,YOKOKU_16Common,0
+OFURO_KOA,お風呂 2,battle_Patchouli,16,-1,,OFURO_MEILING,0
+MEFLA01,めーりんとあそぶ 1,battle_Flan,16,-1,,YOKOKU_16Common,0
+MEFLA02,めーりんとあそぶ 2,battle_Meiling,16,-1,,MEFLA01,0
+MEFLA03,めーりんとあそぶ 3,battle_Meiling,27,-1,,MEFLA02,0
+MESAKU01,紅魔合体,battle_Meiling,31,-1,,YOKOKU_30Common,0
+MESAKU02,紅魔合体～紅咲夜,battle_Sakuya,36,-1,,MESAKU01,0
+MESAKU03,紅魔合体～連携名,battle_Meiling,43,-1,,MESAKU02,0
+SHIRITORI01,秋縛りしりとり 1,battle_Shizuha,17,24,,YOKOKU_17Common,1
+SHIRITORI02,秋縛りしりとり 2,battle_Minoriko,35,44,,SHIRITORI01,1
+SHIRITORI03,秋縛りしりとり 3,battle_Minoriko,45,49,,SHIRITORI02,0
+SHIRITORI04,秋縛りしりとり 3,battle_Minoriko,57,-1,,SHIRITORI03,1
+YUALI01,散髪 1,battle_Alice,41,55,,YOKOKU_41Common,0
+YUALI02,散髪 2,battle_Alice,41,55,,YUALI01,0
+KEIYAKU01,悪魔の契約,battle_Koakuma,28,-1,,YOKOKU_27Common,0
+KEIYAKU03,悪魔の契約・そういうときは後衛で,battle_Koakuma,35,-1,,KEIYAKU01,0
+HEALING,悪魔の契約・セルフヒーリング,battle_Koakuma,40,-1,,KEIYAKU03,0
+SAND_2011,はさむ2011,battle_Minoriko,19,-1,,YOKOKU_19Common,0
+SAND_2012_01,はさむ2012 1,battle_Marisa,15,44,,YOKOKU_19Common,0
+SAND_2012_02,はさむ2012 2,battle_Chen,32,-1,,SAND_2012_01,0
+SAND_2012_03,はさむ2012 3,talk_yozakura,35,-1,,SAND_2012_02,0
+SAND2014_01,はさむ2014 1,battle_Minoriko,45,-1,,YOKOKU_45Common,0
+SAND2014_02,はさむ2014 2,battle_MarisaR,45,-1,,SAND2014_01,0
+SAND2014_03,はさむ2014 3,battle_Yukari3,46,49,,SAND2014_02,0
+KURUMI_MAHOU01,魔法少女くるみちゃん 1,battle_Kurumi,20,-1,,YOKOKU_19Common,0
+KURUMI_MAHOU02,魔法少女くるみちゃん 2,battle_Kurumi,24,-1,,KURUMI_MAHOU01,0
+KURUMI_MAHOU03,魔法少女くるみちゃん 3,battle_Kurumi,35,-1,,KURUMI_MAHOU02,0
+KURUMI_MAHOU04,魔法少女くるみちゃん④,battle_Kurumi,41,-1,,KURUMI_MAHOU03,0
+KURUMICHAN01,魔法少女くるみちゃん⑤,battle_Kurumi,50,-1,,KURUMI_MAHOU04,0
+KURUMICHAN_MOVIE,魔法少女くるみちゃんTHE MOVIE FINAL,battle_Kurumi,65,-1,,KURUMICHAN01,0
+TH48_YUYUKO,アイドルグループ 1,battle_Merlin,34,-1,,YOKOKU_35Common,0
+TH48_SANAE,アイドルグループ 2,battle_Sanae,24,-1,,TH48_YUYUKO,0
+TH48_DAIFLA01,アイドルグループ 3,battle_Daiyosei,16,43,,TH48_SANAE,0
+QUIZ01,幻想少女大戦クイズ 1,pp_pcomes,36,-1,,YOKOKU_36Common,0
+QUIZ02,幻想少女大戦クイズ 2,pp_pcomes,41,-1,,QUIZ01,0
+QUIZ03,幻想少女大戦クイズ 3,pp_pcomes,50,-1,,QUIZ02,0
+YOBIKATA01,呼び方 1,battle_Nue,46,54,,YOKOKU_46Common,0
+YOBIKATA02,呼び方 2,battle_Sho,30,-1,,YOBIKATA01,0
+YOBIKATA03,呼び方 3,battle_Nue,62,-1,,YOBIKATA02,0
+SHOUT01,叫べ！ 1,battle_MarisaR,41,-1,,YOKOKU_41Common,0
+SHOUT02,叫べ！ 2,battle_Patchouli,43,-1,,SHOUT01,0
+KANASUWA01,かなすわ編成 1,battle_Kanako,41,-1,,YOKOKU_41Common,0
+KANASUWA02,かなすわ編成 2,battle_Suwako,41,-1,,KANASUWA01,0
+YUALI03,火に負けない,battle_Yuka,41,-1,,YOKOKU_41Common,0
+YUALI04,水に負けない,battle_Yuka,41,-1,,YUALI03,0
+YUALI05,目に負けない,battle_Yuka,41,-1,,YUALI04,0
+BRAIN01,幻少はブレイン　～命中率編,talk_yokoku,41,-1,,YOKOKU_56Common,1
+BRAIN02,幻少はブレイン　～組み合わせ編,talk_yokoku,41,-1,,BRAIN01,1
+BRAIN03,幻少はブレイン　～支援攻撃編,talk_yokoku,41,-1,,BRAIN02,1
+BRAIN04,幻少はブレイン　～金髪編,talk_yokoku,41,-1,,BRAIN03,1
+BAKA01,バカルテットファイブ 1,battle_Cirno,41,-1,,YOKOKU_41Common,0
+BAKA02,バカルテットファイブ 2,battle_Cirno,51,-1,,BAKA01,0
+KARAKURI01,曲芸紅魔館 1,battle_Meiling,47,-1,,YOKOKU_47Common,0
+KARAKURI02,曲芸紅魔館 2,battle_Meiling,52,-1,,KARAKURI01,0
+MEZAME01,巫女の目覚め 1,battle_ReimuR,47,49,,YOKOKU_47Common,0
+MEZAME02,巫女の目覚め 2,battle_ReimuR,47,49,,MEZAME01,0
+MAIL01,メール 1,battle_Parsee,52,-1,,YOKOKU_52Common,0
+MAIL02,メール 2,battle_Parsee,52,-1,,MAIL01,0
+TORIAI01,取り合い 1,battle_Daiyosei,52,-1,,YOKOKU_52Common,0
+TORIAI02,取り合い 2,battle_Rumia,52,-1,,TORIAI01,0
+SISTERS01,お姉ちゃん会議 1,battle_Shizuha,50,-1,,YOKOKU_56Common,0
+SISTERS02,お姉ちゃん会議 2,battle_Lunasa,53,-1,,SISTERS01,0
+SISTERS03,お姉ちゃん会議 3,battle_Remilia,55,-1,,SISTERS02,0
+SISTERS04,お姉ちゃん会議④,battle_Lunasa,71,-1,,SISTERS03,0
+PRISM_NETA01,三人姉妹 1,battle_Prism,56,64,,YOKOKU_56Common,0
+PRISM_NETA02,三人姉妹 2,battle_Prism,65,-1,,PRISM_NETA01,0
+INDULGE01,甘え 1,battle_Yukari3,57,-1,,YOKOKU_57Common,0
+INDULGE02,甘え 2,battle_Chen,57,-1,,INDULGE01,0
+INDULGE03,甘え 3,battle_Kaguya,58,-1,,INDULGE02,0
+SEASON01,シーズン同盟拳 1,battle_Minoriko,56,-1,,YOKOKU_56Common,0
+SEASON02,シーズン同盟拳 2,battle_Shizuha,60,-1,,SEASON01,0
+SEASON03_01,シーズン同盟拳 3,battle_Letty,65,-1,,SEASON02,0
+SEASON03_02,シーズン同盟拳 3・改,battle_Letty2,70,-1,,SEASON03_01,0
+SEASON04,シーズン同盟拳④,battle_LilyW,75,-1,,SEASON03_02,0
+RADIO_REIMU,オールナイト幻少(레이무),battle_Reimu,3,-1,,YOKOKU_03Common,0
+RADIO_MARISA,オールナイト幻少(魔理沙),battle_Marisa,3,-1,,YOKOKU_03Common,0
+RADIO_ALICE,オールナイト幻少(アリス),battle_Alice,3,-1,,YOKOKU_03Common,0
+RADIO_KEINE,オールナイト幻少(慧音),battle_Keine,3,-1,,YOKOKU_03Common,0
+RADIO_NITORI01,オールナイト幻少(にとり) 1,battle_Nitori,7,-1,,YOKOKU_06Common,0
+RADIO_NITORI02,オールナイト幻少(にとり) 2,battle_Nitori,7,-1,,RADIO_NITORI01,0
+RADIO_DAICHAN01,オールナイト幻少(大妖精) 1,battle_Cirno,7,-1,,YOKOKU_07Common,0
+RADIO_DAICHAN02,オールナイト幻少(大妖精) 2,battle_Rumia,41,-1,,RADIO_DAICHAN01,0
+RADIO_DAICHAN03,オールナイト幻少(大妖精) 3,battle_Rumia,41,-1,,RADIO_DAICHAN02,0
+RADIO_MEILING,オールナイト幻少(美鈴),battle_Patchouli,12,-1,,YOKOKU_12Common,0
+RADIO_PACHE01,オールナイト幻少(パチュリー) 1,battle_Patchouli,12,-1,,YOKOKU_12Common,0
+RADIO_PACHE02,オールナイト幻少(パチュリー) 2,battle_Patchouli,22,-1,,RADIO_PACHE01,0
+RADIO_AKYU01,オールナイト幻少(阿求) 1,battle_Akyu,12,-1,,YOKOKU_15Common,0
+RADIO_AKYU02,オールナイト幻少(阿求) 2,battle_Akyu,35,-1,,RADIO_AKYU01,0
+RADIO_LETTY,オールナイト幻少(レティ),battle_Letty2,51,-1,,YOKOKU_50Common,0
+RADIO_ELLIKURU,オールナイト幻少(エリくる),battle_Elliy,56,-1,,RADIO_MUGEN_ALICE,0
+RADIO_KOGASANA,オールナイト幻少(早苗),battle_Kogasa,62,-1,,YOKOKU_61Common,0
+RADIO_AKI_KOA,秋姉妹らぢお 1,battle_Minoriko,18,24,,YOKOKU_17Common,0
+RADIO_AKI_DAIYOSEI01,秋姉妹らぢお 2,battle_Shizuha,18,-1,,RADIO_AKI_KOA,0
+RADIO_AKI_DAIYOSEI02,秋姉妹らぢお 3,pp_kasho,26,27,,RADIO_AKI_DAIYOSEI01,0
+RADIO_AKI01,秋姉妹らぢお④,battle_Shizuha,50,-1,,RADIO_AKI_DAIYOSEI02,0
+RADIO_AKI02,秋姉妹らぢお⑤,battle_Shizuha,57,-1,,RADIO_AKI01,0
+RADIO_DAIYOSEI_KOA,大妖精のヒーリング・アワー,battle_Daiyosei,28,-1,,RADIO_AKI_DAIYOSEI02,0
+RADIO_MUGEN,ときめき☆夢幻館ナイト 1,battle_Yuka,11,-1,,YOKOKU_11Common,0
+RADIO_MUGEN_ALICE,ときめき☆夢幻館ナイト 2,battle_Alice,25,-1,,RADIO_MUGEN,0
+HOKUTO1,さらば毛玉！,battle_Aya,3,-1,Reimu,YOKOKU_03Common,0
+HOKUTO2,湖上の妖精チルノ！,battle_Aya,7,-1,Reimu,HOKUTO1,0
+HOKUTO3,妖怪どもに墓標はいらぬ！,battle_Aya,8,-1,Reimu,HOKUTO2,0
+HOKUTO4,命乞いは遅すぎる！,battle_Aya,12,-1,Reimu,HOKUTO3,0
+HOKUTO5,風祝は忍び寄る！,battle_Aya,13,-1,Reimu,HOKUTO4,0
+GENSYO,新番組『幻想少女大戦』,battle_Marisa,3,-1,Marisa,YOKOKU_03Common,0
+ZZ_MASPA,「始動！　マスター・スパーク」,battle_Marisa,6,-1,Marisa,GENSYO,0
+ZZ_HIMAWARI,「向日葵畑の妖」,battle_Marisa,11,-1,Marisa,ZZ_MASPA,0
+ZZ_SHADOW,「レミリアの黒い影」,battle_Marisa,14,-1,Marisa,ZZ_HIMAWARI,0
+HIRAMEKI,「ボス戦には「ひらめき」」,battle_Marisa,9,-1,Marisa,ZZ_SHADOW,0
+ZZ_KYOUI,「白狼天狗の脅威」,battle_Marisa,19,-1,Marisa,HIRAMEKI,0
+ZZ_KANAKO,「神奈子、発進」,battle_Marisa,23,-1,Marisa,ZZ_KYOUI,0
+ZZ_TOUBOU,「鈴仙の逃亡」,battle_MarisaR,48,-1,Marisa,ZZ_KANAKO,0
+VGUN01,「雪女さんに会った日」,battle_Daiyosei,26,-1,,YOKOKU_26Common,0
+VGUN02,「ゴルゴンゾーラの反撃」,battle_Daiyosei,34,-1,,VGUN01,0
+VG_GYOKUTO,「鮮烈！　玉兎隊」,battle_Daiyosei,47,-1,,VGUN02,0
+GGUN_KANAKO,「『新必殺技！ 準備・サモンタケミナカタ』」,battle_Yamame,51,-1,,YOKOKU_51Common,0
+TEATIME,「ティータイム・ステディ」,battle_Alice,15,-1,,YOKOKU_15Common,0
+HOUSE,「あぶないマジックハウス」,battle_Alice,15,-1,,YOKOKU_15Common,0
+TOP01,「営業停止なんかになりたくない」,battle_Reimu,16,-1,,YOKOKU_16Common,0
+BOTTOMS_ATAI,「あたい」,talk_ningyo,21,-1,,YOKOKU_21Common,0
+SAZAE01,アキュウさん 1,battle_Akyu,3,-1,,YOKOKU_03Common,0
+SAZAE02,アキュウさん 2,battle_Akyu,17,-1,,SAZAE01,0
+SAZAE03,アキュウさん 3,battle_Keine,50,-1,,SAZAE02,0
+YUHAKU01,「死ねなくてオドロいた！」,battle_Mokou,19,-1,,YOKOKU_19Common,0
+YUHAKU02,「冥界の幽々子！　死への試練！」,battle_Mokou,33,-1,,YUHAKU01,0
+YUHAKU03,「熱き炎！　恋人の絆！」,battle_Mokou,34,-1,,YUHAKU02,0
+YUHAKU04,「妹紅復活！　死ねない運命！」,battle_Mokou,34,-1,,YUHAKU03,0
+YUHAKU05,「永琳の継承者トーナメント開始」,battle_Mokou,44,-1,,YUHAKU04,0
+YUHAKU06,「闇アイテム・月の羽衣」,battle_Mokou,48,-1,,YUHAKU05,0
+YUHAKU07,「鬼の四天王！　地底への挑戦！」,battle_Mokou,52,-1,,YUHAKU06,0
+YUHAKU08,「映姫・覚悟の悔悟棒！」,battle_Mokou,72,-1,,YUHAKU07,0
+YUHAKU09,「フォーエバー！　幻想少女大戦」,battle_Mokou,76,-1,,YUHAKU08,0
+TURNA_REIMU,「레이무さんの戦い」,battle_Sanae3,22,-1,,YOKOKU_22Common,0
+TURNA_YASAKA,「八坂様と洩矢様」,battle_Sanae3,22,-1,,TURNA_REIMU,0
+TURNA_SAIKAI,「二柱の再会」,battle_Sanae3,23,-1,,TURNA_YASAKA,0
+TURNA_SHUGHO,「現人神修行」,battle_Sanae,24,-1,,TURNA_SAIKAI,0
+TURNA_HANGONCHO,「反魂蝶」,battle_Sanae,33,-1,,TURNA_SHUGHO,0
+NAKIMUSHI,「泣き虫大妖精」,battle_Sanae,47,49,,TURNA_HANGONCHO,0
+NIA01,「ヒトっていったい何かしら」,battle_Koishi,46,49,,YOKOKU_45Common,0
+NIA02,「地上っていったい何かしら」,battle_Koishi,46,49,,NIA01,0
+NIA03,「お姉ちゃん、たーんと召し上がれ」,battle_Koishi,50,55,,NIA02,0
+NIA04,「お姉ちゃん、目を閉じて」,battle_Koishi,55,64,,NIA03,0
+NIA05,「私っていったい誰かしら」,battle_Koishi,55,64,,NIA04,0
+NIA06,「私たちは明日へ向かいます」,battle_Koishi,76,-1,,NIA05,0
+KEDAMA01,鉛色の血(ブラッド),pp_dendera,45,-1,,YOKOKU_45Common,0
+KEDAMA02,闇の中の背中(メモリー),pp_dendera,52,-1,,KEDAMA01,0
+KEDAMA03,心なき銃撃戦(バウト),pp_dendera,52,-1,,KEDAMA02,0
+M7_SYNC,「シンクロレベル」,battle_Reimu,41,-1,,YOKOKU_41Common,0
+M7_SISTER,「ルナティックシスター」,battle_Reimu,48,-1,,YOKOKU_48Common,0
+EVA01,「天子、来訪」,battle_Tenshi,58,58,,YOKOKU_58Common,0
+EVA02,「せめて、天人らしく」,battle_Tenshi,59,-1,,EVA01,0
+EVA03,「嘘と羽衣」,battle_Tenshi,62,-1,,EVA02,0
+EVA04,「揺れない、大地」,battle_Tenshi,67,-1,,EVA03,0
+EVA05,「マカイ・ダイバー」,battle_Tenshi,65,68,,EVA04,0
+EVA06,「夢の造りしもの」,battle_Tenshi,72,72,,EVA05,0
+YOKOKU_01Reimu,「楽園の素敵な巫女」,talk_yokoku,1,1,Reimu,,0
+YOKOKU_01Marisa,「門出」,talk_yokoku,1,1,Marisa,,0
+YOKOKU_02Reimu,「人里への来訪者」,talk_yokoku,2,2,Reimu,,0
+YOKOKU_02Marisa,「魔法使いたちと嘘」,talk_yokoku,2,2,Marisa,,0
+YOKOKU_03Common,「白銀の従者」,talk_yokoku,3,3,,,0
+YOKOKU_04Reimu,「霧中の戦い」,talk_yokoku,4,4,Reimu,,0
+YOKOKU_04Marisa,「魔砲！ マスタースパーク」,talk_yokoku,4,4,Marisa,,0
+YOKOKU_05Reimu,「疾風！ 旋風！ 射命丸」,talk_yokoku,5,5,Reimu,,0
+YOKOKU_05Marisa,「大妖精SOS」,talk_yokoku,5,5,Marisa,,0
+YOKOKU_06Common,「湖上の交錯(前編)」,talk_yokoku,6,6,,,0
+YOKOKU_07Common,「湖上の交錯(後編)」,talk_yokoku,7,7,,,0
+YOKOKU_08Common,「紅色の境」,talk_yokoku,8,8,,,0
+YOKOKU_09Common,「大図書館の罠」,talk_yokoku,9,9,,,0
+YOKOKU_10Common,「人と妖と」,talk_yokoku,10,10,,,0
+YOKOKU_11Common,「永遠に紅い幼き月」,talk_yokoku,11,11,,,0
+YOKOKU_12Common,「夏の別荘」,talk_yokoku,12,12,,,0
+YOKOKU_13Reimu,「鳴り響く、風神の鐘」,talk_yokoku,13,13,Reimu,,0
+YOKOKU_13Marisa,「シスター・オブ・スカーレット」,talk_yokoku,13,13,Marisa,,0
+YOKOKU_14Common,「封じられた闇の底へ」,talk_yokoku,14,14,,,0
+YOKOKU_15Common,「Scarlets」,talk_yokoku,15,15,,,0
+YOKOKU_16Common,「再訪」,talk_yokoku,16,16,,,0
+YOKOKU_17Common,「神の棲む山」,talk_yokoku,17,17,,,0
+YOKOKU_18Reimu,「その人間に手を出すな」,talk_yokoku,18,18,Reimu,,0
+YOKOKU_18Marisa,「紅の館に手を出すことは」,talk_yokoku,18,18,Marisa,,0
+YOKOKU_19Common,「突入！ 秋の霊山」,talk_yokoku,19,19,,,0
+YOKOKU_20Reimu,「厄神様の災難」,talk_yokoku,20,20,Reimu,,0
+YOKOKU_20Marisa,「友情の対岸」,talk_yokoku,20,20,Marisa,,0
+YOKOKU_21Common,「見える道行き」,talk_yokoku,21,21,,,0
+YOKOKU_22Common,「信仰は、はかなき人間のもとに」,talk_yokoku,22,22,,,0
+YOKOKU_23Common,「あゝ天地よ人よ　神湖の地に」,talk_yokoku,23,23,,,0
+YOKOKU_24Common,「弾幕戦イッキコール」,talk_yokoku,24,24,,,0
+YOKOKU_25Reimu,「少女たちの冬」,talk_yokoku,25,25,Reimu,,0
+YOKOKU_25Marisa,「雪踏みのビジター」,talk_yokoku,25,25,Marisa,,0
+YOKOKU_26Common,「春雪」,talk_yokoku,26,26,,,0
+YOKOKU_27Common,「昨日の敵と今日の敵」,talk_yokoku,27,27,,,0
+YOKOKU_28Reimu,「四季交々」,talk_yokoku,28,28,Reimu,,0
+YOKOKU_28Marisa,「幻想の風穴」,talk_yokoku,28,28,Marisa,,0
+YOKOKU_29Reimu,「エンカウンター」,talk_yokoku,29,29,Reimu,,0
+YOKOKU_29Marisa,「クローズド・ランナウェイ」,talk_yokoku,29,29,Marisa,,0
+YOKOKU_30Common,「雲の上の桜花結界(前編)」,talk_yokoku,30,30,,,0
+YOKOKU_31Common,「雲の上の桜花結界(後編)」,talk_yokoku,31,31,,,0
+YOKOKU_32Common,「白玉楼階段の死線」,talk_yokoku,32,32,,,0
+YOKOKU_33Common,「完全なる墨染の桜」,talk_yokoku,33,33,,,0
+YOKOKU_34Common,「散りゆく花に捧ぐ」,talk_yokoku,34,34,,,0
+YOKOKU_35Common,「浮上」,talk_yokoku,35,35,,,0
+YOKOKU_36Common,「逃亡者」,talk_yokoku,36,36,,,0
+YOKOKU_37Reimu,「夜闇に誘う歌声」,talk_yokoku,37,37,Reimu,,0
+YOKOKU_37Marisa,「夜空を舞う地上の星」,talk_yokoku,37,37,Marisa,,0
+YOKOKU_38Reimu,「UNDEFINED」,talk_yokoku,38,38,Reimu,,0
+YOKOKU_38Marisa,「地上の兎、月の兎」,talk_yokoku,38,38,Marisa,,0
+YOKOKU_39Reimu,「博麗の結界」,talk_yokoku,39,39,Reimu,,0
+YOKOKU_39Marisa,「霧雨の火炉」,talk_yokoku,39,39,Marisa,,0
+YOKOKU_40Reimu,「対決！ 레이무vs.魔理沙」,talk_yokoku,40,40,Reimu,,0
+YOKOKU_40Marisa,「対決！ 魔理沙vs.레이무」,talk_yokoku,40,40,Marisa,,0
+YOKOKU_41Common,「刻む人の歴史」,talk_yokoku,41,41,,,0
+YOKOKU_42Common,「姫を隠す永の檻」,talk_yokoku,42,42,,,0
+YOKOKU_43Common,「幻想を試す五つの難題」,talk_yokoku,43,43,,,0
+YOKOKU_44Common,「第44話」,talk_yokoku,44,44,,,0
+YOKOKU_45Common,「見上げた先の空」,talk_yokoku,45,45,,,0
+YOKOKU_46Common,「星の海への船出」,talk_yokoku,46,46,,,0
+YOKOKU_47Common,「幻想少女・オン・ザ・ムーン」,talk_yokoku,47,47,,,0
+YOKOKU_48Common,「綿月のスペルカード」,talk_yokoku,48,48,,,0
+YOKOKU_49Common,「無重力の巫女」,talk_yokoku,49,49,,,0
+YOKOKU_50Common,「地霊たちの起床」,talk_yokoku,50,50,,,0
+YOKOKU_51Common,「闇に沈む怨嗟の糸」,talk_yokoku,51,51,,,0
+YOKOKU_52Common,「地上への架け橋」,talk_yokoku,52,52,,,0
+YOKOKU_53Common,「すれ違いの地霊殿」,talk_yokoku,53,53,,,0
+YOKOKU_54Common,「地獄の人工太陽」,talk_yokoku,54,54,,,0
+YOKOKU_55Common,「歪められた明日」,talk_yokoku,55,55,,,0
+YOKOKU_56Common,「雪解けの神社」,talk_yokoku,56,56,,,0
+YOKOKU_57Common,「有頂天は止まらない」,talk_yokoku,57,57,,,0
+YOKOKU_58Common,「Dream of the Stray Dreamer」,talk_yokoku,58,58,,,0
+YOKOKU_59Common,「一度離した手」,talk_yokoku,59,59,,,0
+YOKOKU_60Common,「イノセント・ポイズン」,talk_yokoku,60,60,,,0
+YOKOKU_61Common,「びっくり？！ 弾幕三番勝負」,talk_yokoku,61,61,,,0
+YOKOKU_62Common,「楽園の審判」,talk_yokoku,62,62,,,0
+YOKOKU_63Common,「閉じた恋の瞳」,talk_yokoku,63,63,,,0
+YOKOKU_64Common,「心の対話を」,talk_yokoku,64,64,,,0
+YOKOKU_65Common,「ミスティック・ヴォヤージュ」,talk_yokoku,65,65,,,0
+YOKOKU_66Common,「Beyond the Seal」,talk_yokoku,66,66,,,0
+YOKOKU_67Common,「千年の時の楔(前編)」,talk_yokoku,67,67,,,0
+YOKOKU_68Common,「千年の時の楔(後編)」,talk_yokoku,68,68,,,0
+YOKOKU_69Common,「凶兆」,talk_yokoku,69,69,,,0
+YOKOKU_70Common,「夢顕」,talk_yokoku,70,70,,,0
+YOKOKU_71Common,「夢と幻の淵へ」,talk_yokoku,71,71,,,0
+YOKOKU_72Common,「第72話」,talk_yokoku,72,72,,,0
+YOKOKU_73Common,「幻想郷ナイトメア」,talk_yokoku,73,73,,,0
+YOKOKU_74Common,「Tribute」,talk_yokoku,74,74,,,0
+YOKOKU_75Common,「花は幻想のままに」,talk_yokoku,75,75,,,0
+YOKOKU_76Common,「羊の見る夢」,talk_yokoku,76,76,,,0
+YOKOKU_77Common,「夢の最果て」,talk_yokoku,77,77,,,0
+YOKOKU_01Sakuya,「月と太陽と従者」,talk_yokoku,1,1,Sakuya,,0
+YOKOKU_02Sakuya,「揺れる月時計」,talk_yokoku,2,2,Sakuya,,0
+YOKOKU_03Sakuya,「掌の上のナイフ」,talk_yokoku,3,3,Sakuya,,0
+YOKOKU_04Sakuya,「完全で瀟洒なメイド」,talk_yokoku,4,4,Sakuya,,0
+YOKOKU_78Common,「ドリーム・オン・ザ・ムーン」,talk_yokoku,78,78,,,0
+YOKOKU_79Common,「追憶のスペルカード」,talk_yokoku,79,79,,,0
+YOKOKU_80Common,「夢宙の幻想少女」,talk_yokoku,80,80,,,0
+YOKOKU_01Meko,「メーコの弾幕戦」,battle_Meko,1,1,Meko,,0
+YOKOKU_02Meko,「お茶会の午後に弾幕の雨」,battle_Meko,2,2,Meko,,0
+YOKOKU_03Meko,「紅白弾合戦」,battle_Meko,3,3,Meko,,0
+YOKOKU_04Meko,「夢見る仔羊」,battle_Meko,4,4,Meko,,0
+YOKOKU_05Meko,「果てより一歩」,battle_Meko,5,5,Meko,,0

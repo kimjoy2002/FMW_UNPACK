@@ -1,0 +1,96 @@
+﻿ID,LineID,face,dialog
+0,0,Byakuren0a,이 싸움도 또한 수행이겠지요
+1,0,Byakuren0a,탄막으로 대화를 나눕시다!
+2,0,Byakuren1a,단련의 성과를 보여드리죠!
+3,0,Byakuren0a,부처님의 가르침을 설파해드리겠습니다
+4,0,Byakuren1a,미혹 따윈 떨쳐내보겠습니다!
+5,0,Byakuren0a,갑니다!
+5,1,Byakuren1a,하앗!
+6,0,Byakuren0a,보였습니다!
+6,1,Byakuren1a,이얍!
+7,0,Byakuren0a,비루다카의 검...
+7,1,Byakuren1a,거깁니다!
+8,0,Byakuren0a,잡았습니다!
+8,1,Byakuren1a,하앗!
+9,0,Byakuren0a,품속으로 뛰어들어 보죠...
+9,1,Byakuren1a,얍、얍、으럇!
+10,0,Byakuren0a,거리를 좁히겠습니다...
+10,1,Byakuren1a,다 봤습니다!
+11,0,Byakuren0a,힘을 시험해보죠...
+11,1,Byakuren1a,빈틈!
+12,0,Byakuren0a,금강저를 쓰겠습니다!
+12,1,Byakuren1a,거기、거기、거기잇!
+13,0,Byakuren0a,발이 묶여있어...?
+14,0,Byakuren0a,깊이 추격하진 않겠습니다
+15,0,Byakuren0a,무리를 해선 안되겠지요
+16,0,Byakuren0a,어쩔 수 없는 일이군요...
+17,0,Byakuren0a,상대가 한 수 앞섰군요
+18,0,Byakuren0a,이것이 싸움이란 것이겠죠
+19,0,Byakuren2a,모든 것은 저의 부족함이 부른 일...
+20,0,Byakuren0a,공세를 지체시킬 수 없지요!
+21,0,Byakuren0a,아직 끝이 아닙니다!
+22,0,Byakuren0a,나쁘게 생각 마시길!
+23,0,Byakuren0a,동료의 방패가 되겠습니다!
+24,0,Byakuren0a,이 너머론 갈 수 없습니다!
+25,0,Byakuren0a,보고만 있을 순 없습니다!
+26,0,Byakuren0a,상처입히게 두진 않습니다!
+27,0,Byakuren2a,나즈린、제가 부족한지라...
+28,0,Byakuren0a,나즈린의 의지를 잇겠습니다!
+29,0,Byakuren0a,나즈린、호기를 만들어 주셨군요!
+30,0,Byakuren0a,나즈린의 방패가 되겠습니다!
+31,0,Byakuren0a,나즈린을 상처입히게 두진 않아요!
+32,0,Byakuren2a,이치린、제가 부족한지라...
+33,0,Byakuren0a,이치린의 의지를 잇겠습니다!
+34,0,Byakuren0a,이치린이 만든 호기를 살리겠습니다!
+35,0,Byakuren0a,이치린、뒤따라가겠습니다!
+36,0,Byakuren0a,이치린、방심은 안됩니다
+37,0,Byakuren0a,이치린을 상처입히게 두진 않아요!
+38,0,Byakuren2a,무라사、제가 부족한지라...
+39,0,Byakuren0a,무라사가 만든 호기를 살리겠습니다!
+40,0,Byakuren0a,무라사의 의지를 잇겠습니다!
+41,0,Byakuren0a,무라사、방심은 안됩니다
+42,0,Byakuren0a,무라사를 상처입히게 두진 않아요!
+43,0,Byakuren2a,쇼、제가 부족한지라...
+44,0,Byakuren0a,쇼의 의지를 잇겠습니다!
+45,0,Byakuren0a,쇼가 만든 호기를 살리겠습니다!
+46,0,Byakuren0a,쇼、방심은 안됩니다
+47,0,Byakuren0a,쇼를 상처입히게 두진 않아요!
+48,0,Byakuren2a,누에 씨、제가 부족한지라...
+49,0,Byakuren0a,누에 씨가 만든 호기를 살리겠습니다!
+50,0,Byakuren0a,누에 씨의 공세를 이어가겠습니다!
+51,0,Byakuren0a,누에 씨의 방패가 되겠습니다!
+52,0,Byakuren0a,누에 씨를 상처입히게 두진 않아요!
+53,0,Byakuren0a,그정도론 겁먹지 않습니다
+54,0,Byakuren0a,이 정도로 제 의지는 흔들리지 않아요!
+55,0,Byakuren0a,꽤 좋은 자극이 되는군요
+56,0,Byakuren2a,포기하지 않을겁니다!
+57,0,Byakuren2a,어떻게든 일어서야...
+58,0,Byakuren2a,아직 쓰러질 순 없습니다!
+59,0,Byakuren2a,이런 수를 쓰다니...
+60,0,Byakuren2a,뒤쳐지고 있군요
+61,0,Byakuren2a,떨쳐낼 수 없는건가요...
+62,0,Byakuren2a,이 정돈、상처도 아닙니다!
+63,0,Byakuren2a,심두멸각...
+64,0,Byakuren2a,이 정도의 아픔은...!
+65,0,Byakuren2a,후퇴할 순 없습니다...!
+66,0,Byakuren2a,이 이상 공격한다면...
+67,0,Byakuren0a,바람이 시원하군요
+68,0,Byakuren0a,인과를 통찰하면...!
+69,0,Byakuren0a,심안으로 느낄 수 있지요
+70,0,Byakuren0a,속도가 느려도 음직임을 간파한다면...
+71,0,Byakuren0a,움직임을 읽으면...
+72,0,Byakuren0a,다 보입니다
+73,0,Byakuren0a,힘 만으론、절 이기지 못합니다
+74,0,Byakuren0a,저에겐 통하지 않아요
+75,0,Byakuren0a,이것이 부처님의 가르침의 힘입니다
+76,0,Byakuren0a,고뇌 한 점 없는 공격따윈...
+77,0,Byakuren0a,이것이 자비호념...
+78,0,Byakuren0a,반야바라밀...
+79,0,Byakuren0a,전부 간파했습니다
+80,0,Byakuren0a,격류를 제압하는 것은 샘물...
+81,0,Byakuren0a,기선 제압입니다!
+82,0,Byakuren0a,유감이지만、포기하시길
+83,0,Byakuren0a,...훌륭합니다
+84,0,Byakuren0a,None
+85,0,Byakuren0a,메코 씨、마음의 준비는 되셨나요?
+86,0,Byakuren0a,저에게도 메코 씨의\n 탄막을 보여주시길

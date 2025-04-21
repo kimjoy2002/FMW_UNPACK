@@ -1,0 +1,463 @@
+﻿種別,ID,EF,NAME,Icon,最大LV,VAL1,VAL2,VAL3,COUNT,TARGET,Text,PP,PP_INCR
+-1,NONE,NONE,----,None,0,,,,,,스킬을 습득하고 있지 않습니다.,0,0
+0,HOROYOI,HOROYOI,술기운,Power,2,,,,,,출격시 파워가 레벨x5 만큼 상승한다.,60,120
+0,P_TURN,P_TURN,기분고양,Power,0,,,,,,턴 개시시 파워가 3 상승.,140,0
+0,HARITSUKI,HARITSUKI,달라붙기,Damage,2,,,,,,적 유닛과 인접했을때 사격무기로 주는 데미지가 최종보정 1.1배 (L2라면1.2배)가 된다.\n원호공격과 지원공격에 대해선 무효.,180,140
+0,HAWAY2,HAWAY2,히트&어웨이,Move,0,,,,,,이동하지 않고 공격했을 경우 공격후 이동할 수 있다.,350,0
+0,SATTACK,SATTACK,원호공격,Attack,4,,,,,,자신이 미행동 상태일때 인접 유닛에게 원호공격을 해줄 수 있다.,160,40
+0,SGUARD,SGUARD,원호방어,Guard,4,,,,,,인접유닛에게 원호방어를 한다.,160,80
+0,DAM+_SUBA,DAM+_SUBA,지원강화,Attack,2,,,,,,지원공격의 데미지가 상승한다.\n효과는 레벨에 의존.,150,150
+0,DAM+_SATTACK,DAM+_SATTACK,연계공격,Attack,0,,,,,,원호공격이 반드시 크리티컬이 된다.\n지원공격에 대해선 무효.,150,0
+0,KIAI,KIAI,기합회피,Dodge,9,,,,,,남은 HP에 따라서 명중률과 회피율에 보정.\n효과는 레벨에 의존.,50,15
+0,SOKO,SOKO,저력,Guard,9,,,,,,남은 HP에 따라서 방어력과 크리티컬 확률 보정.\n효과는 레벨에 의존.,50,15
+0,USO,USO,운빨회피,Dodge,2,,,,,,상대보다 기량이 낮을 때\n회피율이 레벨x10% 상승한다.,100,50
+0,GRAZE,GRAZE,긁기,Dodge,2,,,,,,그레이즈 데미지를 줄인다.\n받는 데미지가 L1은 1/2로 L2는 1/4로 줄어든다.,140,80
+0,COUNTER,COUNTER,패턴화,Light,3,,,,,,반격시 일정확률로 「카운터」가 발동한다.\n발동확률은 레벨과 상대와의 기량차에 의존.,160,40
+0,CUTBACK,CUTBACK,잘라내기,Dodge,2,,,,,,방어와 회피 관련 탄막 효과가 - 30%.\n(L2라면 - 50%),130,240
+0,BLOCKING,BLOCKING,블로킹,Guard,3,,,,,,무기를 갖고 있다면 「베어내기」가 방패를 갖고 있다면 「실드방어」가 발동한다.\n발동확률은 레벨과 상대와의 기량차에 의존.,180,90
+0,FAST,FAST,고속이동,Move,0,,,,,,고속 모드의 이동력 + 1.,180,0
+0,SLOW,SLOW,저속이동,Move,0,,,,,,저속 모드의 이동력 + 1.,180,0
+0,P_GOTHIT,P_GOTHIT,P회수(피탄),Power,0,,,,,,공격을 맞았을 때 파워가 2 상승한다.,60,0
+0,P_HIT,P_HIT,P회수(명중),Power,0,,,,,,공격을 명중시켰을 때 파워가 1 상승한다.,60,0
+0,P_EVADE,P_EVADE,P회수(회피),Power,0,,,,,,공격을 회피하거나 그레이즈 했을 때 파워가 1 상승한다.,90,0
+0,P_BEAT,P_BEAT,P회수(격파),Power,0,,,,,,아군 유닛이 적을 격추시켰을 때 파워가 1 상승한다.,80,0
+0,GUARD,GUARD,가드,Guard,2,,,,,,파워가 130 이상일 때 받는 데미지가 - 10%.\n(L2라면 20%),180,180
+0,MIKIRI,MIKIRI,간파,Dodge,2,,,,,,파워가 130 이상일 때 명중 회피 스테이터스가 + 20.\n(L2라면 + 35),140,180
+0,SHINNEN,SHINNEN,신념,Damage,2,,,,,,파워가 130 이상일 때 격투 사격 스테이터스가 + 10.\n또한 무기의 크리티컬 확률 + 10%.\n(L2라면 + 20과 + 15%),140,180
+0,PROB+,PROB+,극기,Light,2,,,,,,파워가 130 이상일 때 「베어내기」 「실드방어」\n 「카운터」 「분신」등의 발동확률 + 10%.(L2라면 + 15%),250,50
+0,EXTEND,EXTEND,익스텐드,Cure,2,,,,,,파워가 150이 되면 SP가 20%(최저 20)회복. L2라면 33%(최저 30) 회복한다.\n한 스테이지당 한번만 발동.,250,150
+0,NODIST,NODIST,거리보정무시,Ignore,0,,,,,,공격시 거리 6칸이상일때 발생하는 주는 데미지와 명중률 감소를 무효화.,140,0
+0,NOSIZE,NOSIZE,사이즈보정무시,Ignore,0,,,,,,사이즈 차에 의한 주는 데미지 감소를 무효화.,270,0
+0,MAXPOW+,MAXPOW+,파워한계돌파,Power,0,,,,,,파워의 최대치가 170이 된다.,240,0
+0,SAVE_MP,SAVE_MP,영력절약,Bullet,0,,,,,,소비 MP가 20% 감소.,190,0
+0,SAVE_BUL,SAVE_BUL,탄수절약,Bullet,0,,,,,,최대 탄수가 1.5배가 된다.(소수는 올림),190,0
+0,UP_SP,UP_SP,정신상승,Buf,9,,,,,,최대 SP가 레벨당 5 상승한다.,30,50
+1,MIKO,MIKO,무녀,Star,9,,,,,,레벨에 따라 명중률과 회피율에 보정.,0,0
+1,MAHOU,MAHOU,마법사,Star,9,,,,,,레벨에 따라 무기의 공격력과 명중률\n더해서 특수능력 「마법장벽」의 효과에 보정.,0,0
+1,ACCURATE,ACCURATE,정밀탄막,Star,0,,,,,,크리티컬시 주는 데미지 + 15%.,0,0
+1,SHOSYA,SHOSYA,소쇄,Star,0,,,,,,파워 130 이상일 때 적 유닛을 격추하면 SP를 10 회복한다.,0,0
+1,EICHI,EICHI,예지,Star,0,,,,,,파워 130 이상일 때\n명중률과 회피율 + 30% 크리티컬 확률 + 10%.,0,0
+1,KIWAMI,KIWAMI,극,Star,0,,,,,,파워 130 이상일 때\n명중률과 회피율 + 20% 받는 데미지 - 20%.,0,0
+1,GENIUS,GENIUS,천재,Star,0,,,,,,명중률과 크리티컬 확률 + 20%.,0,0
+1,LUCKY,LUCKY,강운,Star,0,,,,,,획득 점수 + 20%.,0,0
+1,DOUBLE,DOUBLE,2회행동,Star,0,,,,,,1턴에 2회 행동할 수 있다.,0,0
+1,TRIPLE,TRIPLE,3회행동,Star,0,,,,,,1턴에 3회 행동할 수 있다.,0,0
+1,CURE_SP,CURE_SP,SP회복,Star,0,,,,,,턴 개시시 SP가 10 회복한다.,0,0
+1,HORIKI,HORIKI,법력,Star,5,,,,,,파워 상승에 따라 방어력과 주는 데미지에 보정.\n또한 레벨에 따라 명중률에 보정.,0,0
+1,MUSICIAN,MUSICIAN,연주자,Star,0,,,,,,소비 MP를 - 20%.\n효과는 스킬 「영력절약」과 중첩된다.,0,0
+1,ORGE,ORGE,귀력,Star,0,,,,,,사이즈차에 의한 주는 데미지 감소와 받는 데미지 상승을 무효화.\n또한 파워 130 이상일 때 받는 데미지 - 10%.,0,0
+1,THIRDEYE,THIRDEYE,독심,Star,9,,,,,,턴 개시시에 정신커맨드 「번뜩임」이 걸린다.\n또한 레벨에 따라 명중률과 회피율에 보정.,0,0
+1,MAXPOW++,MAXPOW++,파워한계돌파+,Star,0,,,,,,파워의 최대치가 200이 된다.,0,0
+1,P_ALL,P_ALL,P회수(올),Star,0,,,,,,P회수 (명중) P회수 (회피) P회수 (피탄) \nP회수 (격파)의 효과.,0,0
+1,SOKO+,SOKO+,저력+,Star,9,,,,,,스킬 「저력」과 「기합회피」의 효과.,0,0
+1,CURE_SP+,CURE_SP+,SP회복+,Star,0,,,,,,턴 개시시에 SP가 30 회복된다.,0,0
+1,P_TURN+,P_TURN+,기분고양+,Star,0,,,,,,턴 개시시에 파워가 7 상승한다.,0,0
+1,UNKNOWN,UNKNOWN,???,Star,0,,,,,,???,0,0
+1,MUGEN_MAKURA,MUGEN_MAKURA,꿈의 결,Star,9,,,,,,파워 130 이상일 때 행동횟수 + 1 받는 데미지 - 20%.\n또한 레벨에 따라 정신커맨드 「꿈」의소비SP 경감.,0,0
+1,MUGEN_MAKURA2,MUGEN_MAKURA2,꿈의 결,Star,9,,,,,,레벨에 따라 정신커맨드 「꿈」의소비SP를 경감.,0,0
+1,AQN,AQN,미아레의 아이,Star,0,,,,,,라이브러리 달성률에 따라 모든 스테이터스에 보정.\n또한 주는 데미지가 상승한다.,0,0
+2,Y_BUSTER,Y_BUSTER,요괴 버스터,Damage,3,|10|15|20|,,,,,요괴에게 가하는 데미지 + <VAL1>% ,0,0
+2,N_KEKKAI,ADD_SPECIAL,이중결계,Guard,0,|N_KEKKAI|,|0|,,|0|,,특수능력 「이중결계」를 추가.\n모든 공격의 데미지를 500 경감한다.(소비MP 10),0,0
+2,INTUITION,INTUITION,감,Damage,0,|20|,|10|,,,,크리티컬 확률 + <VAL1>% 명중률 - <VAL2>%.,0,0
+2,N_KEKKAI+,SPECIAL_VAL1+,이중결계 강화,Guard,0,|BARRIER_ALL_DIS|,|500|,,,,특수능력 「이중결계」의 효과량 + <VAL2>.,0,0
+2,COMPAT+_REIMU,COMPAT+,하늘을나는이상한무녀,Light,0,|0|,|S|,,,,지형적응 「공중」이 S가 된다.,0,0
+2,SPELLCARD,SPELLCARD,명명결투법,Buf,0,,,,,, 「몽상천생」발동시에 정신커맨드 「각성」이 걸린다.,0,0
+2,D_POWER,D_POWER,탄막은 파워,Damage,3,|30|65|100|,|15|25|40|,,|3|2|1|,SELF_PLAYER,다음 공격의 소비MP를 <VAL1>%늘리고 \n주는 최종 데미지 + <VAL2>%.(<COUNT>회 사용가능),0,0
+2,H_WORKER,EXP+,노력가,Light,0,|20|,|0|,,|0|,,획득경험치가 + <VAL1>%.\n효과는 정신커맨드 「노력」등과 중첩된다.,0,0
+2,M_THRUSTER,M_THRUSTER,매직쓰러스터,Move,2,|10|20|,|20|30|,,|3|3|,SELF_PLAYER,MP를 <VAL1>소비하여 1턴 동안 명중률과 회피율 + <VAL2>%.\n(<COUNT>회 사용가능),0,0
+2,S_STAR,S_STAR,스피드스타,Move,0,|15|,|,,|0|,,이동력 + 1 고속모드의 회피율 + <VAL1>%.,0,0
+2,D_POWER_MAX,D_POWER_MAX,탄막은 파워 맥시멈,Damage,0,|0|,|0|,,|1|,SELF_PLAYER,남은 MP를 전부 소비하여 주는 최종데미지를 상승시킨다.\n효과량은 소비MP 에 의존.(<COUNT>회 사용가능),0,0
+2,TEACHER,TEACHER,선생,ZOC,2,|8|8|,|15|20|,,|0|0|,GRID8_PLAYER,주위 <VAL1>칸에 있는 아군유닛이 전투로 획득하는 경험치 + <VAL2>%.\n효과는 정신커맨드 「노력」등과 중첩되고 페어 상대에도 유효.,0,0
+2,TOSSHIN,MOV+,돌진력,Move,2,|0|0|,|1|2|,,,,저속모드의 이동력 + <VAL2>.,0,0
+2,PAIRTO_MOKOU,PAIR+,보호자,Light,3,|Mokou/|Mokou/|Mokou/|,|1|2|3|,,,,모코우와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,HAKUTAKU+,SPECIAL_VAL1+,월력증폭,Light,0,|ADD_COMMAND2|,|-20|,,,,고유커맨드 「백택화」의 필요파워를 110으로 한다.,0,0
+2,SP_COST-_KEINE,SP_COST-,열혈교사,Damage,0,|열혈|,|30|,,,,정신커맨드 「<VAL1>」의소비SP가 <VAL2>이 된다.,0,0
+2,WEP+_KEINE,WEP+_RANGE,강철의 브레인,Damage,0,|400|,|2|,,,,무기 「박치기」 「초 박치기」의 공격력 + <VAL1> 사정 + <VAL2>.,0,0
+2,D_BRAIN,CRT_DAM+,탄막은 브레인,Damage,3,|10|15|20|,,,,,크리티컬시 주는 데미지 + <VAL1>%.,0,0
+2,MARIONETTE,MARIONETTE,인형술사,Light,3,|1|2|3|,|8|8|8|,,|,RANGE_PLAYER,거리 <VAL1>칸이내에 인형이 있을 경우 \n명중률과 회피율 + <VAL2>%.인형에게도 같은효과.,0,0
+2,DOLL_NUM+,NUMUC+,인형사,Light,0,|DOLL_CREATE_HOURAI|,|3|,,,,고유커맨드 「인형생성」의 사용가능횟수를 2배로 한다.,0,0
+2,DOLL_SHANGHAI,ADD_SPECIAL,상하이 인형,Light,0,|DOLL_CREATE_SHANGHAI|,|0|,,|,|,특수능력 「인형생성(상하이)」을 추가.\nMP를 40소비하여 유닛 「상하이 인형」을 생성한다.,0,0
+2,FREEZE,WEPSP_REPLACE,프리즈,Debuf,0,|ADD_STATE/PRY-/25|,|회피율25%다운|,|1|,,,무기 「냉동광선」의 추가효과를 「<VAL2>」로 바꾼다.,0,0
+2,PAIR_DAICHIRU,PAIR+,한쌍의 요정,Light,3,|Daiyosei/|Daiyosei/|Daiyosei/|,|1|2|3|,,,,대요정과 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,I_BARRIER+,BARRIER_ADD_DIS,얼음파워,Guard,3,|BARRIER_NOL|BARRIER_NOL|BARRIER_NOL|,|1500|1700|2000|,,,,특수능력 「아이스배리어」의 성능이 변화.\n효과는 레벨에 의존.,0,0
+2,NOSIZE_CIRNO,POW_FDAM+,뜨거운 얼음요정,Damage,0,|130|,|10|,,,,파워가 <VAL1> 이상일 때 주는 최종데미지가 1.1배가 된다.,0,0
+2,ATAI,SPIRIT_MARK,최강의 탄막,Damage,0,|YUKI|,|180|,,,,정신커맨드 「용기」를 사용했을때의 데미지배율이 1.8배가 된다.,0,0
+2,KENAGE,KENAGE,기특함,Cure,6,|||||더해서 대상을 페어전체로 확대한다.|더해서 대상을 페어전체로 확대한다.|더해서 대상을 페어전체로 확대하고 사정+1.|,|10|15|20|30|35|40|50|,,,, 「치유」의소비MP를 5로 하고 회복량 + <VAL2>%.\n <VAL1>,0,0
+2,IYASHI,SPIRIT+,치유계,Cure,0,|신뢰|,|0|,,,,정신커맨드 「<VAL1>」의효과대상이 페어전체가 된다.,0,0
+2,PAIRTO_CIRNO,PAIR+,명조수,Light,3,|Cirno/|Cirno/|Cirno/|,|1|2|3|,,,,치르노와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,GANBARIYA,UP_ALL,노력가,Light,4,|5|15|25|40|,,,,,모든 스테이터스 + <VAL1>.,0,0
+2,CURE_SP_BEAT,CURE_SP_BEAT,전장의 눈물,Cure,0,|5|,|10|,,,,아군이 적유닛을 <VAL1>체 격추할때마다 SP가 <VAL2>회복된다.,0,0
+2,YAMI+,SPECIAL_VAL1+,어둠강화,Guard,3,|BARRIER_L_DIS|BARRIER_L_DIS|BARRIER_L_DIS|,|500|1000|1500|,,,,특수능력 「어둠」의 효과량 + <VAL2>.,0,0
+2,DARKNESS,WEPSP_REPLACE,암흑,Debuf,0,|ADD_STATE/HIT-/30|,|명중률30%다운|,|2|,,,무기 「나이트버드」의추가효과가 「<VAL2>」로 변화.,0,0
+2,ZOC_NIGHT,ZOC_NIGHT,밤의 어둠,ZOC,3,|1|2|3|,|1|1|1|,,|0|0|0|,RANGE_ALL,거리 <VAL1>칸 이내의 아군유닛의 지형이 「밤」이 된다.\n페어상대에게도 유효.,0,0
+2,WEP+_GEN_BAKA,WEP+_GEN,바콰르텟강화,Light,0,|200|,|baka/fbaka|,,,,무기 「바콰르텟 스페셜」의공격력 + <VAL1>.\n파워가 140 이상이 되면 같은 스킬을 세트한\n유닛 전원의 효과를 받아 보정이 중첩된다.,0,0
+2,YAMI++,REPLACE_SPECIAL,밤보다어두운어둠,Guard,0,|BARRIER_L_DIS|,|YAMI+|,,,,특수능력 「어둠」이 「어둠 + 」로 변화.\n모든 공격의 데미지를 1500 경감한다.(소비MP 10),0,0
+2,EXRUMIA,SPIRIT_CHANGE,EX파워,Light,0,|「탈력」이「각성」|,|75|,,,,정신커맨드 <VAL1>이 된다.\n(소비SP는 <VAL2>이 된다.),0,0
+2,P_SQUARE+,PROB+_PSQUARE,루나다이얼,Dodge,4,|10|15|20|25|,,,,,특수능력 「프라이빗 스퀘어」의 발동확률 + <VAL1>%.,0,0
+2,KNIFE_COLLECT,KNIFE_COLLECT,나이프회수,Light,0,,,,,,소비MP를 늘리는 대신에 탄수를 소비하지 않는다.,0,0
+2,MEIDOCHO,PROB+_COUNTER_POW,메이드장,Light,3,|130|130|130|,|30|40|50|,,,,파워가 <VAL1>이상일때 카운터발동확률 + <VAL2>%.\n스킬 「패턴화」가 없을 경우에도 유효.,0,0
+2,REATTACK_SAKUYA,REATTACK_POW,타임 패러독스,Light,0,|130|,,,,,파워가 <VAL1> 이상일 때 자신에게 원호공격을 한다.,0,0
+2,SAKUYA,SAKUYA,완벽하고소쇄한메이드,Light,0,,,,,,정신커맨드 「연격」이 1턴에 몇번이든 사용가능하게 된다.,0,0
+2,HAISUI,HAISUI,배수의 진,Guard,0,|166|133|,|170|170|,,,,남은 HP에따라 방어 스테이터스에 보정.,0,0
+2,KOUKIKOU,ADD_SHIELD,경기공,Guard,2,|1|2|,,,,,피탄당할때 일정확률로 방어한다.\n발동확률은 스킬 「블로킹L <VAL1>」과 같다.,0,0
+2,SHUKIHOU,ADD_SPECIAL,집기법,Cure,0,|CURE_HP_S|,|0|,,,,특수능력 「HP회복(소)」추가.,0,0
+2,SHINKYAKU,COMPAT+,진각,Light,0,|1|,|S|,,,,지형적응 「땅」이 S가 된다.,0,0
+2,SUBGUARD_MEILING,SUBGUARD,홍마의 용,Guard,2,,,,|3|4|,PASSIVE,아군페이즈에 원호방어를 할수있다.(<COUNT>회 사용가능),0,0
+2,MUGEN,RANGE+_WEP,무간의 길,Light,0,|100|,,,|2|,SELF_PLAYER,한번만 최대사정이 3이상인 공격의 사정을 무한으로 한다.\n단 이동후의 공격엔 사용할수 없다.(<COUNT>회 사용가능),0,0
+2,TAKURAKU,TAKURAKU,척락실로,Cure,0,|CURE_HP_M|,|20|,,,,특수능력 「HP회복(중)」이 추가되지만 출격시 파워 - <VAL2>.,0,0
+2,POINT+_KOMACHI,POINT+,뱃삯 징수,Get,0,|10|,,,,,획득 점수 + <VAL1>%.,0,0
+2,WEP_P+_KOMACHI,WEP_P+,이혼의 낫,Light,0,|2|,|0|,,|0|,,무기 「저승행 체험판」가 이동후 사용가능이 된다.,0,0
+2,KYAN,KYAN,깡!,Power,0,|30|,|2|,,,,에이키가 맵상에 있을 경 출격시의파워 + <VAL1> \n각 턴 개시시에 파워가 <VAL2>상승한다.,0,0
+2,KISHIKAISEI,KISHIKAISEI,기사회생,Cure,0,|20|,|100|,,,,HP MP SP가 전부 <VAL1>%이하가 됐을때 \nHP MP SP가 최대치까지 회복된다.\n고유커맨드 「리저렉션」의 발동횟수는 0이 된다.,0,0
+2,KAMARI,KAMARI,스테가마리,Damage,0,|10|,,,,,특수능력 「HP회복(중)」이 사라지는 대신에 주는 데미지 + <VAL1>%.,0,0
+2,R_PLUS,R_PLUS,R플러스,Light,3,|2|3|4|,,,,,고유커맨드 「리저렉션」의 발동횟수가 <VAL1>이 된다.,0,0
+2,R_PHOENIX,R_PHOENIX,R피닉스,Light,0,|2|,|20|,,,,고유커맨드 「리저렉션」이 발동할때의 HP회복량 + <VAL2>%.\n또한 「리저렉션」의 발동횟수가 <VAL1>이 된다.,0,0
+2,R_VOLCANO,R_VOLCANO,R볼케이노,Light,0,|1|,,,,,고유커맨드 「리저렉션」이 발동했을때 \n 「열혈」 「불굴」 「필중」 「기백」이 걸린다.,0,0
+2,R_IMPERISH,R_IMPERISH,R임페리셔블,Light,0,|2|,|25|,,,,고유커맨드 「리저렉션」이 발동했을때 MP SP가 <VAL2>%회복된다.\n또한 「리저렉션」의 발동횟수가 <VAL1>이 된다.,0,0
+2,PERDITION,CRT+_DIST,퍼디션,Damage,0,|100|,,,,,적유닛에 인접하고 있을 때 반드시 크리티컬이 발생.,0,0
+2,TILE,BATTLE_NOMOVE,마루탄막,Debuf,0,|0|,|NOMOVE|,,|3|,SELF_ENEMY,1턴 동안 자신의공격에 「1턴이동불능」의 추가효과를 부여.\n(<COUNT>회 사용가능),0,0
+2,SP_COST-_ELLIY,SP_COST-,꺾이지않는 마음,Cure,0,|근성|,|15|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,SPIRIT_POW_TURN_ELLIY,SPIRIT_POW_TURN,불굴의 엘리 짱,Light,0,|130|,|「불굴」|,,,,파워가 <VAL1> 이상일 때 턴 개시시에 정신커맨드 <VAL2>이 걸린다.,0,0
+2,SABBATH,BATTLE_NOSELECT,브레이크 더 사바스,Debuf,0,|0|,|NO_SELECT|,,|3|,SELF_ENEMY,다음 공격에 「1턴방어와 회피불능」의 추가효과를 부여.(<COUNT>회 사용가능),0,0
+2,NIGHT_DEMON,NIGHT_DEMON,밤의 권속,Light,0,|20|,,,,,지형 「밤」에 있을 때 명중률과 회피율 + <VAL1>%.,0,0
+2,HIT+_NOCATK_KURUMI,HIT+_NOCATK,안지안정,Hit,0,|100|,,,,,적의 반격을 받지 않을때 명중률이 100%가 된다.\n원호공격 과 지원공격엔 항상 효과가 발생.,0,0
+2,CONTRACT_KURUMI,CONTRACT_KURUMI,악마와 계약,Buf,0,|50|,,,|2|,UNIT_PLAYER,지정한 아군유닛의MP를 <VAL1>소비하여 \n정신커맨드 「번뜩임」 「필중」의효과를 부여.(<COUNT>회 사용가능),0,0
+2,SP_COST-_KURUMI,SP_COST-,타력본원,Light,0,|기대|,|65|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,SUN_FAIRY,SPECIAL_VAL1+_NOON,햇빛의 요정,Cure,0,|CURE_HP|,|30|,,,,낮 맵에서 HP회복량 + <VAL2>%.,0,0
+2,THREE_FAIRIES_SUNNY,PAIR+,빛의 삼요정,Light,4,|Luna/Star/|Luna/Star/|Luna/Star/|Luna/Star/|,|1|2|3|4|,,,,루나나 스타와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,REFLECTION,REFLECTION,리플렉션,ZOC,0,|4|,|1|,,|3|,SELF_PLAYER,1턴 동안 거리 <VAL2>칸의 아군유닛과 자신의 페어가 적유닛의 공격대상이 되지 않는다.\n자신이 공격할때엔 반격을 받는다.(<COUNT>회 사용가능),0,0
+2,S_BARRIER+,SPECIAL_VAL1+,서니배리어 강화,Guard,3,|BARRIER_L|BARRIER_L|BARRIER_L|,|500|1000|1500|,,|0|0|0|,,특수능력 「서니배리어」의효과량 + <VAL2>.,0,0
+2,SPIRIT_CHANGE_SUNNY,SPIRIT_CHANGE,반짝이는햇빛,Light,0,|「열혈」이「용기」|,|70|,,,,정신커맨드 <VAL1>가 된다.\n(소비SP는 <VAL2>이 된다.),0,0
+2,LUNA_FAIRY,SPECIAL_VAL1+_NIGHT,달의 요정,Cure,0,|CURE_HP|,|30|,,,,밤 맵에서 HP회복량 + <VAL2>%.,0,0
+2,THREE_FAIRIES_LUNA,PAIR+,빛의 삼요정,Light,4,|Star/Sunny/|Star/Sunny/|Star/Sunny/|Star/Sunny/|,|1|2|3|4|,,,,스타나 서니와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,SILENCE,SILENCE,사일런스,Hit,3,|8|8|8|,|15|20|25|,,|0|0|0|,GRID8_PLAYER,주위 <VAL1>칸에있는 아군유닛의명중률 + <VAL2>%.\n페어상대에도 유효.,0,0
+2,SPIRIT_CHANGE_LUNA,SPIRIT_CHANGE,조용한달빛,Light,0,|「기합」이「기백」|,|45|,,,,정신커맨드 <VAL1>이 된다.\n(소비SP는 <VAL2>이 된다.),0,0
+2,STAR_FAIRY,SPECIAL_VAL1+,별의 요정,Cure,0,|CURE_HP|,|20|,,,,낮 밤에 상관없이 HP회복량 + <VAL2>%.,0,0
+2,THREE_FAIRIES_STAR,PAIR+,빛의 삼요정,Light,4,|Sunny/Luna/|Sunny/Luna/|Sunny/Luna/|Sunny/Luna/|,|1|2|3|4|,,,,서니나 루나와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,RADER,RADER,레이더,Dodge,3,|8|8|8|,|8|12|16|,,|0|0|0|,GRID8_PLAYER,주위 <VAL1>칸에 있는 아군유닛의회피율 + <VAL2>%.\n페어상대에도 유효.,0,0
+2,SPIRIT_CHANGE_STAR,SPIRIT_CHANGE,쏟아지는별빛,Light,0,|「정찰」이「기습」|,|50|,,,,정신커맨드 <VAL1>이 된다.\n(소비SP는 <VAL2>이 된다.),0,0
+2,ENCHANT_AGNI,WEP_P+,인첸트(화부),Light,0,|1|,,,,,무기 「이그니션」이 이동후 사용가능이 된다.,0,0
+2,LIBRARY,LIBRARY,움직이지않는대도서관,Light,0,|1|,|300|,,,,이동하지 않고 턴을 종료하면 소비MP 가 경감하고 \n다음 턴의 사격공격의 사정 + <VAL1> 특수능력 「마법장벽(파체)」의효과량 + <VAL2>.,0,0
+2,M_SHIELD+_PATCHE,M_SHIELD+_PATCHE,장벽강화(파체),Guard,4,|450|600|750|900|,|10|10|10|10|,,,,특수능력 「마법장벽(파체)」의\n소비MP를 <VAL2>늘리고 효과량 + <VAL1>.,0,0
+2,CURE_MP_PATCHE,CURE_MP_PATCHE,마력순환기구,Cure,0,|20|,,,,,특수능력 「마법장벽(파체)」이\n공격을 무효화하면 MP가 <VAL1>회복된다.,0,0
+2,KENJA,KENJA,현자의 돌,Damage,0,|1000/1000/800/600/500/400/400/400/|,,,|1|,SELF_PLAYER,모든 무기의 공격력이 한번만 400~1000상승한다.\n효과량은 무기에 의존.(<COUNT>회 사용가능),0,0
+2,K_BOOSTER,K_BOOSTER,소악부스터,Cure,0,|0|,|0|,,|0|,,이동후에도 「보급」을 사용할 수 있게된다.,0,0
+2,CONTRACT_KOA,CONTRACT_KOA,악마와의 계약,Buf,0,|10|,|10|,,|2|,UNIT_PLAYER,지정한 유닛의파워를 <VAL1>소비하여 \n 「매턴MP <VAL2>%회복」의효과를 부여.(<COUNT>회 사용가능),0,0
+2,POW+_CURE_MP_KOA,POW+_CURE_MP,에너지 보급,Cure,0,|10|,,,,, 「보급」을 사용하면 자신의 파워가 <VAL1>상승한다.,0,0
+2,K_FIGHTER,K_FIGHTER,소악파이터,Damage,0,|200|,,,,,무기 「링탄」이 이동후에도 사용가능해지고 \n모든 무기의 공격력 + <VAL1>.,0,0
+2,SP_COST-_KOA,SP_COST-,모시겠습니다~,Light,0,|보급|,|50|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,N_ARM+,SPECIAL_VAL1+,늘~어나는 팔+,Light,0,|RANGE+_ITEM|,|1|,,|0|,,특수능력 「늘~어나는 팔」의 사정 + <VAL2>.,0,0
+2,SP_COST-_NITORI,SP_COST-,맹우의 연,Light,0,|우정|,|30|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,SATTACK_HIT+,SATTACK_HIT+,서포트 어택,Hit,2,|30|50|,,,,,원호공격 과 지원공격의명중률 + <VAL1>%.,0,0
+2,OPTICAL,SPECIAL_VAL1+,O 카모플라쥬,Dodge,0,|O_CAMO|,|25|,,,,특수능력 「O 카모플라쥬」의 발동확률 + <VAL2>%.\n니토리(FA)일때도 유효.,0,0
+2,CARPET,CARPET,워터카펫,ZOC,0,|1|,|1|,,|2|,SELF_PLAYER,1턴 동안 거리 <VAL1>칸의유닛과 자신페어의지형이 「물」로 판정된다.\n명중률과 데미지에만 영향을 주며 실제로 있는 지형엔 영향이 없다.\n(<COUNT>회 사용가능),0,0
+2,NITORI,NITORI,환상향의 메카닉,Light,0,,|50|,,,,소비아이템의효과량 과 장비로인한 스테이터스상승치가 1.5배가 된다.\n(후자는 HP MP 운동성 장갑 이동력이 적용됨),0,0
+2,CROP,BONUS_ITEM,수확,Get,0,|CURE_SP_IMO|,|99|,,,,스테이지 클리어시에 아이템을 입수할 수 있다.\n(입수 아이템은 계절에 따라 달라진다.),0,0
+2,BONUS_LVUP_AKI,BONUS_LVUP,결실,Get,0,|3000|,|10|,,,,레벨업시에 보너스 점수 <VAL1>와 보너스 PP <VAL2>를 획득한다.\n(보급으로인한 레벨업도 포함),0,0
+2,IMO+,IMO+,황금의 맛,Cure,0,,,,,,미노리코가 출격하고 있으면 아이템 「군고구마」등의효과가 업.,0,0
+2,PAIR+_MINORIKO,PAIR+,두 가을,Light,3,|Shizuha/|Shizuha/|Shizuha/|,|1|2|3|,,,,시즈하와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,AKI_MINORIKO,AKI2,자매합체,Light,0,,,,,,시즈하와 페어일때 \n시즈하가 대상인 효과와 자신의 정신커맨드가 페어전체에 작용한다.\n효과는 출격후에발동.,0,0
+2,SABI,NO_POWER,풍취,Debuf,0,|1|,|NO_POWER|,,|3|,SELF_ENEMY,다음 공격에 「전투로인한 파워변동을 1턴봉인」의\n추가효과를 부여.(<COUNT>회 사용가능),0,0
+2,SUP+_SHIZUHA,SUP+,좋은언니,Hit,0,|25|,|,,,,원호공격 과 지원공격의주는 데미지 + <VAL1>%.\n스킬 「지원강화」등과 효과는 중첩된다.,0,0
+2,POW+_SATTACK_SHIZUHA,POW+_SATTACK,황금의 가을,Power,0,|10|,,,,,원호공격을 할때마다 자신의파워가 <VAL1>상승한다.,0,0
+2,PAIR+_SHIZUHA,PAIR+,두 가을,Light,3,|Minoriko/|Minoriko/|Minoriko/|,|1|2|3|,,,,미노리코와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,AKI_SHIZUHA,AKI2,자매합체,Light,0,,,,,,미노리코와 페어일때 \n시즈하가 대상인 효과와 자신의 정신커맨드가 페어전체에 작용한다.\n효과는 출격후에발동.,0,0
+2,BAD_FORTUNE,NO_PROB,배드포츈,Debuf,0,|1|,|NO_PROB|,,|3|,SELF_ENEMY,다음 공격에 「확률발동효과를1턴봉인」의 추가효과를 부여.\n 「카운터」이외의 발동을 봉인한다.(<COUNT>회 사용가능),0,0
+2,SPIN,SPIN,회전가속,Light,2,|30|50|,|3|5|,,,,이동거리에 따라 운동성과 무기의공격력과 크리티컬 확률 보정.,0,0
+2,YAKU_FLOW,ALL_CRT,액 흘리기,Debuf,0,|1|,|ALL_CRT|,,|2|,SELF_ENEMY,다음 공격에 「피탄시크리티컬」의 추가효과를 부여.(<COUNT>회 사용가능),0,0
+2,SGUARD_HINA,SGUARD_HINA,대역 히나,Buf,0,,,,|2|,UNIT_PLAYER,현재 위치나 스킬 「원호방어」의유무에 상관없이 지정한 유닛의 원호방어에 들어간다.\n발동시 히나는 전위일 필요가 있다.(<COUNT>회 사용가능),0,0
+2,FUKOU,DAM+_SPIRIT_SUB,비신흘리기 히나,Damage,0,|SUTEMI|,|250|,,,,정신커맨드 「몸버리기」를 사용했을때의 데미지배율이 2.5배가 된다.,0,0
+2,SANAE,SANAE,현인신,Light,3,|1|1.5|2|,|2|3|4|,,,,전투등으로 얻는 신앙 게이지 상승량 + <VAL1>.,0,0
+2,SP_COST-_SANAE,SP_COST-,기적의 소녀,Light,0,|기적|,|80|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,MAX_GOD,MAX_GOD,맥스갓,Light,0,,,,,,신앙 게이지가 MAX에 도달하면 추가 보정이 발생하고 \n신앙 게이지가 감소하지 않는다.,0,0
+2,PAIRFROM+_SANAE,PAIR+,천지여 사람이여,Light,3,|Kanako/Suwako/|Kanako/Suwako/|Kanako/Suwako/|,|1|2|3|,,,,카나코나 스와코와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정. 효과는 레벨에 의존.\n또한 카나코와 스와코의 행동으로도 신앙 게이지가 변화한다.,0,0
+2,FINALMAXGOD,FINALMAXGOD,파이널 맥스갓,Light,0,,,,,,신앙 게이지의 최대치가 200이 되고 MAX에 도달하면\n스킬 「맥스갓」이상의 보정이 발생한다.,0,0
+2,SANAESAN,SANAESAN,기적의 현인신,Light,0,,,,,,출격시의 신앙 게이지가 MAX가 된다.,0,0
+2,MPOWER,SIZE+,미싱 파워,Damage,0,|LL|,,,|3|,SELF_PLAYER,1턴 동안 사이즈가 <VAL1>이 된다.(<COUNT>회 사용가능)\n효과중 공격력 사정 장갑이 상승한다.,0,0
+2,SHUCHU,NUMUC+,술벌레,Light,0,|COMMAND_SUIKA|,|1|,,,,고유커맨드 「이부키효」를 사용 가능한 횟수 + 1.,0,0
+2,WEP+_ETC_SUIKA,WEP+_ETC,빽빽함의 힘,Hit,0,|30|,|0|,,,,모든 무기의 명중률과크리티컬 확률 + <VAL1>%.,0,0
+2,WEP+_ALL_SUIKA,WEP+_ALL,성김의 힘,Damage,0,|150|,|1|,,,,모든 무기의 공격력 + <VAL1> 사정 + <VAL2>.,0,0
+2,MPPOWER,SIZE+,미싱 퍼플 파워,Damage,0,|3L|,,,|2|,SELF_PLAYER,1턴 동안 사이즈가 <VAL1>이 된다.(<COUNT>회 사용가능)\n효과중 공격력 사정 장갑이상승한다.,0,0
+2,KANPA,PRY-,한파,ZOC,3,|6|6|6|,|10|20|30|,,,RANGE_ENEMY,거리 <VAL1>칸의적유닛의회피율 - <VAL2>%.,0,0
+2,DAIKANPA,DAIKANPA,대한파,Debuf,2,|20|30|,|PRY-|PRY-|,,|1|3|,SELF_PLAYER,모든 적유닛에 「회피율 - <VAL1>%」의효과를 부여.(<COUNT>회 사용가능),0,0
+2,BUTOU,BUTOU,눈의 무도,Light,0,|45|,|1|,,,,운동성 + <VAL1> 모든 무기의 사정 + <VAL2>.,0,0
+2,ADD_STATE_LETTY,ADD_STATE,크리스탈 라이즈,Light,0,|0|,|NO_CATK|,,|3|,SELF_PLAYER,1턴 동안 적유닛에게 반격을 받지 않는다.\n 「카운터」발동시 적유닛의 반격을 무효화한다.(<COUNT>회 사용가능)\n특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,FUJIN,FUJIN,풍신소녀,Dodge,2,|15|15|,|1|2|,,|,,파워 120 이상일 때 이동력 + <VAL2> 회피율 + <VAL1>%.,0,0
+2,OIKAZE,ADD_SPIRIT,쫓는바람,Buf,0,|가속|,|0|,,|2|,UNIT_PLAYER,지정한 아군유닛에 정신커맨드 「<VAL1>」의효과.(<COUNT>회 사용가능),0,0
+2,SUPERFAST,SUPERFAST,초곡싱동,Move,0,|5|,|0|,,|1|,SELF_PLAYER,한번만 이동력 + <VAL1>.\n효과는 정신커맨드 「가속」과 중첩된다.(<COUNT>회 사용가능),0,0
+2,BUL-_MOV_AYA,BUL-_MOV_AYA,탄막돌파,Move,0,,,,|2|,SELF_PLAYER,한번만 탄막으로인한 이동감소효과를 받지않는다.(<COUNT>회 사용가능),0,0
+2,WEP+_AYA,WEP+_COMPAT,무쌍풍신,Damage,0,|400|,|3|,,,,무기 「환상풍미」의 지형적응 「공중」이 S가 되고 공격력 + <VAL1>.\n아야(기자)일땐 무효.,0,0
+2,SHIELD+_MOMIJI,SHIELD+,벽랑,Guard,4,|120|120|120|120|,|15|25|35|50|,,,,파워가 <VAL1> 이상일 때 「실드방어」의 발동확률 + <VAL2>%.,0,0
+2,SENRI,SENRI,천리안,Hit,0,|105|,|1|,,,,파워가 <VAL1> 이상일 때 최대사정1의 무기와 맵공격을 제외한\n자신페어의 사정 + <VAL2>.,0,0
+2,SPIRIT_POW_TURN_MOMIJI,SPIRIT_POW_TURN,텔레그노시스,Light,0,|120|,|「저격」|,,,,파워가 <VAL1> 이상일 때 턴 개시시에정신커맨드 <VAL2>이 걸린다.,0,0
+2,SHINGEKI,SHINGEKI,진격의 방패,Guard,0,|50|,|100|,,,,전위일때 주는 데미지가 반감되지만\n 「실드방어」의 발동확률이 100%가 된다.,0,0
+2,SUPNUM+_MOMIJI,SUPNUM+,초계텐구,Light,0,|1|,|1|,,,,원호공격 원호방어의 발동횟수 + <VAL1>.\n스킬 「원호공격」등이 없는 경우에도 유효.,0,0
+2,WEP+_MOMIJI,WEP+_RANGE,늑대의 송곳니,Damage,0,|400|,|2|,,,,무기 「레이비즈 바이트」의공격력 + <VAL1> 사정 + <VAL2>.,0,0
+2,IBUKI,IBUKI,생명의 숨결,ZOC,2,|8|8|,|10|15|,,,GRID8_PLAYER,턴 개시시 주위 <VAL1>칸에있는 아군의HP가 <VAL2>%회복.\n페어상대에도 유효.,0,0
+2,HARUKAZE,WEP_P+,봄바람의 알림,Attack,0,|3|,,,,,무기 「봄이에요~ 」가 이동후 사용가능이 된다.,0,0
+2,SP_COST-_LILYW,SP_COST-,천사의 축복,Light,0,|축복|,|40|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,ADD_SPIRIT_ALL_LILYW,ADD_SPIRIT_ALL,천사의 복음,Light,0,|축복|,|KOUN|,,|1|,SELF_PLAYER,모든 아군유닛에 정신커맨드 「<VAL1>」의효과.(<COUNT>회 사용가능),0,0
+2,LILYB,LILYB,타천사기분,Hit,0,|6|,,,,,모든 무기의 사정이 1~ <VAL1>이 된다.\n아이템 등으로 인한 사정이 늘어나는 효과와 중첩되지 않는다.\n또한 릴리 화이트일땐 무효.,0,0
+2,NEZUMI,WEP_ADD_STATE,갉아먹는 쥐,Debuf,0,|받는 데미지+10%|,|1|,|ADD_STATE/DEF-/10|,,,무기 「나즈린 펜듈럼」에\n 「<VAL1>」의특수효과를 부여.,0,0
+2,SP_COST-_NAZRIN,SP_COST-,현장,Light,0,|집중|,|10|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,ISHIELD_NAZRIN,ISHIELD,펜듈럼 가드,Guard,0,|4|,|2000|,,|4|,PASSIVE,고유커맨드 「펜듈럼 가드」を추가.\n피탄시 데미지를 <VAL2> 경감한다.(발동횟수 <VAL1>회),0,0
+2,WEP+_NAZRIN,WEP+,아메리칸드림,Damage,0,|300|,|3|,,,,무기 「골드 러시」의공격력 + <VAL1> 사정 + 1.,0,0
+2,ADD_SPIRIT_ALL_NAZRIN,ADD_SPIRIT_ALL,다우저인 자그마한 대장,Light,0,|정찰|,|TEISATSU|,,|1|,|SELF_PLAYER|,모든적유닛에 정신커맨드 「<VAL1>」의효과.(<COUNT>회 사용가능),0,0
+2,POINT+_SHO,POINT+,황금의 진현,Get,0,|15|,,,,,획득 점수 + <VAL1>%.,0,0
+2,POW_DAM+_SHO,POW_DAM+,비사문천의 가호,Damage,0,|120|,|10|,,,,파워가 <VAL1> 이상일 때 주는 데미지 + <VAL2>%.,0,0
+2,WEP+_SHO,WEP+,창(연속)강화,Damage,0,|250|,|2|,,,,무기 「창(연속)」의공격력 + <VAL1> 사정 + 1.,0,0
+2,JUSTICE,JUSTICE,정의의 권,Light,0,|0|,|50|,,|2|,SELF_PLAYER,1턴 동안 무기의소비MP を반감する.(<COUNT>회 사용가능),0,0
+2,SP_COST-_SHO,SP_COST-,골든브레이버,Light,0,|용기|,|65|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,BLOCK+_YOUMU,BLOCK+,칼싸움,Light,0,|130|,|100|,,,,파워가 <VAL1> 이상일 때 반드시 베어내기가 발동한다.,0,0
+2,BUNSHIN_YOUMU,ADD_SPECIAL,유명의 고륜,Dodge,0,|BUNSHIN_YOUMU|,|25|,,,,특수능력 「분신(요우무)」을 추가.\n파워 130 이상일 때 25%의확률로 공격을 회피한다.,0,0
+2,KEKKA,KEKKA,결가부참,Damage,0,|0|,|10|,,,,저속모드시 주는 데미지 + <VAL2>%.,0,0
+2,PRY+_DIST_YOUMU,PRY+_DIST,콘파쿠의 간격,Dodge,0,|30|,,,,,적유닛에 인접하고 있을 때 명중률과 회피율 + <VAL1>%.,0,0
+2,SHO_ZAMA,DAM+_SPIRIT_SUB,콘파쿠의 극의 ,Damage,0,|TAMASHI|,|225|,,,,정신커맨드 「혼」을 사용했을때의 데미지배율이 2.25배가 된다.,0,0
+2,MOV+_LAND_CHEN,MOV+_LAND,뛰어가기,Move,2,|2|3|,|Ground|Ground|,,,,지형 「땅」에 있을 때 이동력 + <VAL1>.,0,0
+2,POW_DAM+_CHEN,POW_DAM+,야생화,Damage,0,|120|,|10|,,,,파워가 <VAL1> 이상일 때 주는 데미지 + <VAL2>%.,0,0
+2,SHIKI+_CHEN,SHIKI+,식신강화(첸),Light,0,|6|,|10|,,,,특수능력 「식신(첸)」으로인한 명중률의 상승치와 MP회복량 + <VAL2>%.,0,0
+2,NEKO+_CHEN,NEKO+,요괴고양이강화,Light,0,|50|,|300|,,,,특수능력 「식신(첸)」이 사라지는 대신에\n 「분신(첸)」의 발동확률이 <VAL1>%가 된다.\n또한 무기 「요괴고양이 「첸」」의공격력 + <VAL2>.,0,0
+2,KAKUSEI_CHEN,SPIRIT_ACT_POW,귀문둔갑,Light,0,|130|,|「각성」|,,|1|,PASSIVE,파워가 <VAL1>이상이 됐을때\n한번만 정신커맨드 <VAL2>이 걸린다.,0,0
+2,REVIVE_RAN,REVIVE,식신재생(란),Light,0,|Chen_en|,,,|1|,TILE_BLANK,한번만 「첸」을 부활시킬수 있다.,0,0
+2,KYUBI,KYUBI,백면금모,Light,2,|1.5|2|,|50|100|,,,,스킬 「간파」 「신념」 「가드」 「극기」의효과가 <VAL1>배가 된다.,0,0
+2,SHIKI+_RAN,SHIKI+,식신강화(란),Light,0,|6|,|10|,,,,특수능력 「식신(란)」으로인한 명중률 상승치와 MP회복량 + <VAL2>%.,0,0
+2,BUDDHIST,WEP_P+,만의 인장,Attack,0,|2|,,,,,무기 「얼티메이트 부디스트」가 이동후 사용가능이 된다.,0,0
+2,CREATE_RAN,CREATE_RAN,젠키와 고키의 수호,Light,0,|50|,,,|1|,TILE_BLANK,MP를 <VAL1>소비하여 유닛 「젠키」 「고키」를\n페어유닛으로 생성한다.(<COUNT>회 사용가능),0,0
+2,SUP+_RAN,SUP+,최강의 식,Damage,0,|30|,,,,,원호공격과 지원공격으로 주는 데미지 + <VAL1>%.\n스킬 「지원강화」등과의 효과는 중첩된다.,0,0
+2,REVIVE_YUKARI,REVIVE,식신재생(유카리),Light,0,|Ran_en|,,,|1|,TILE_BLANK,한번만 「란」을 부활시킬수 있다.,0,0
+2,SUKIMA_MOVE,SUKIMA_MOVE,행방불명,Light,0,,,,|2|,UNIT_PLAYER,지정한 아군유닛을 인접칸까지 끌어당긴다.\n착함중인 유닛에겐 무효.(<COUNT>회 사용가능),0,0
+2,SUKIMA_ITEM,SUKIMA_ITEM,유카리의 전달,Light,0,,,,|2|,LIST_PLAYER,출격한 아군유닛이 장비한 아이템을 \n지정한 아군유닛에게 사용할 수 있다.(<COUNT>회 사용가능),0,0
+2,SP_COST-_RATE_YUKARI,SP_COST-_RATE,꿈과현실의 경계,Damage,0,|25|,|0|,,,,정신커맨드 「꿈」으로인한 소비SP를 <VAL1>% 경감한다.,0,0
+2,SUKIMA_LOAD,SUKIMA_LOAD,탑재스키마,Light,0,,,,|2|,UNIT_PLAYER,지정한 아군유닛을 성련선에 「탑재」한다.(<COUNT>회 사용가능)\n또한 유카리가 있는 칸에 이동해도 「착함」이 가능.,0,0
+2,SUKIMA_DREAM2,SUKIMA_DREAM2,꿈과인연의 경계,Damage,0,,,,|3|,SELF_PLAYER,모든 아군 페어가 FPM으로 주는 데미지가 1.2배가 된다.(<COUNT>회 사용가능),0,0
+2,MAI,MAI,유접의 춤+,Dodge,0,|100|,,,,, 「실드방어」발동시 회피한다.,0,0
+2,YOMI,YOMI,황천되돌리기,Cure,0,|50|,,,,,아군유닛이 격추되었을때\n그 유닛의 남은 SP의 <VAL1>%를 자신이 돌려받는다.,0,0
+2,SHICHO,SHICHO,사접,Damage,2,,,,|2|3|,SELF_PLAYER,잡졸 유닛을 일격에 격추한다.(<COUNT>회 사용가능)\n특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,ITEM+_YUYUKO,ITEM+,센스오브엘레강스,Cure,0,|2|,|100|,,,,회복아이템의 효과량이 <VAL1>배가 된다.,0,0
+2,SP_GET_YUYUKO,SP_GET,고스트스팟,Cure,0,|10|,|,,,,적 유닛을 격추했을때 자신페어의SP가 <VAL1> 회복된다.\n(효과를 얻기 위해선 유유코가 전위에 있어야 한다.),0,0
+2,GOD_AIR,GOD_AIR,건신,Move,0,|1|,|S|,,,,지형적응 「공중」이 S가 되고 이동력 + <VAL1>.,0,0
+2,WEP+_ALL_KANAKO,WEP+_ALL,군신,Damage,0,|150|,|1|,,,,모든 무기의 공격력 + <VAL1> 사정 + <VAL2>.,0,0
+2,FAITH_KANAKO,FAITH,모리야의 신님,Light,0,|,|,,,,사나에의 신앙 게이지에 따라 공격력 장갑 명중률 사정이 변동한다.,0,0
+2,SHINTOKU,SHINTOKU,풍신님의 신덕,ZOC,0,|3|,|15|,,,RANGE_PLAYER,거리 <VAL1>칸이내의 아군유닛의명중률과 회피율 + <VAL2>%.\n페어상대에도 유효.,0,0
+2,ADD_SPIRIT_ALL_KANAKO,ADD_SPIRIT_ALL,역풍의 진격,Buf,0,|가속|,|돌격|,,|1|,|SELF_PLAYER|,모든 아군유닛에 정신커맨드 「<VAL1>」의효과. 파워가 120이상일때 사용하면\n전위에게 「<VAL2>」의효과도 추가.(<COUNT>회 사용가능),0,0
+2,GOD_WATER,GOD_WATER,곤신,Light,0,|2|,,,,,지형효과로 인한 플러스 보정이 <VAL1>배가 된다.\n또한 지형적응이 S 이상일 때의 보정치도 <VAL1>배가 된다.,0,0
+2,WEP_ADD_STATE_SUWAKO,WEP_ADD_STATE,재앙신,Debuf,0,|명중률과 회피율10%다운|,|4|,|ADD_STATE/PRY_HIT-/10|,,,무기 「미샤구지님」을 제외한 모든 무기에\n 「<VAL1>」의 추가효과를 부여.,0,0
+2,FAITH_SUWAKO,FAITH,모리야의 신님,Light,0,|,|,,,,사나에의 신앙 게이지에따라 공격력 운동성 명중률 이동력이 변동한다.,0,0
+2,SPIRIT+_SUWAKO,SPIRIT+,고대의 비취,Light,0,|집중|,|0|,,,,정신커맨드 「<VAL1>」의효과대상이 페어전체가 된다.,0,0
+2,ADD_SPIRIT_ALL_SUWAKO,ADD_SPIRIT_ALL,토착의 정점,Buf,0,|순응|,|회심|,,|1|,|SELF_PLAYER|,모든 아군유닛에 정신커맨드 「<VAL1>」의 효과.\n파워가 120이상일때 사용하면 「<VAL2>」의 효과도 추가.(<COUNT>회 사용가능),0,0
+2,POW_DAM+_YUKA,POW_DAM+,광소,Damage,0,|150|,|20|,,,,파워가 <VAL1> 이상일 때 주는 데미지 + <VAL2>%.,0,0
+2,REVENGE_YUKA,REVENGE,반화,Damage,0,|15|,,,,,반격시 주는 데미지 + <VAL1>%.,0,0
+2,KOKKI+_YUKA,KOKKI+,고고,Light,0,|100|,,,,,스킬 「극기」의효과가 2배가 된다.,0,0
+2,ADD_SPIRIT_ALL_YUKA,ADD_SPIRIT_ALL,전율,Debuf,0,|위압|,|IATSU|,,|1|,|SELF_PLAYER|,모든 적유닛에 정신커맨드 「<VAL1>」의효과.(<COUNT>회 사용가능)\n특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,YUKACHAN+,YUKACHAN+,개화,Cure,0,|50|,,,,,고유커맨드 「개화선언」을 사용했을때 SP가 <VAL1>%회복된다.,0,0
+2,SHIELD+_COUNT_YUKA,SHIELD+_COUNT,단하나의 시들지않는꽃,Guard,0,|130|130|130|130|,|100|100|100|100|,,|0|1|2|4|,PASSIVE,파워가 <VAL1> 이상일 때 반드시 「실드방어」가 발동한다.\n(매 턴 <COUNT>회까지 발동),0,0
+2,CURE_MP_MIMA,ADD_SPECIAL,매직차지,Cure,0,|CURE_MP_S|,,,,,특수능력 「MP회복(소)」을 추가.,0,0
+2,BARRIER_MP-_MIMA,SPECIAL_VAL2+,카오틱 베놈,Light,0,|BARRIER_ALL|,|-10|,,,,특수능력 「절대마법벽」의소비MP를 0으로 한다.,0,0
+2,MAHOU+_MIMA,MAHOU+,금주개방,Light,0,|100|,,,,,스킬 「마법사」의 효과가 2배가 된다.,0,0
+2,UTSU,POW-_HIT,우울한 음,Debuf,0,|2|,,,,,공격이 명중했을때 적의 파워 - <VAL1>.,0,0
+2,GIKOU,CHAR+,초절기교,Light,0,|0/0/20/0/0/0/|,|20|,,,,기량 스테이터스 + <VAL2>.,0,0
+2,LEADER,LEADER,악단의 리더,Light,3,|10|15|20|,,,,,특수능력 「싱크로나이즈」발동중 \n모든스테이터스 + <VAL1>.,0,0
+2,PAIR+_LUNASA,PAIR+,유령악단,Light,3,|Merlin/Lyrica/|Merlin/Lyrica/|Merlin/Lyrica/|,|1|2|3|,,,,메를랑이나 리리카와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,PRISM+,PRISM+,소령합장,Light,0,|5|,,,,,합체시 자신의정신커맨드의 소비SP가 - <VAL1>.,0,0
+2,SHOWER,ZOC_POW+,해피샤워,Power,0,|8|,|2|,,,GRID8_PLAYER,턴 개시시 주위 <VAL1>칸에있는 아군유닛의파워가 <VAL2>상승한다.,0,0
+2,TENSION,POW+_BATTLE,하이텐션,Power,0,|1|,,,,,전투시의 파워상승량 + <VAL1>.,0,0
+2,GOHAPPY,POW+_INI,소울 고 해피,Power,0,|20|,,,,,출격시의파워 + <VAL1>.,0,0
+2,PAIR+_MERLIN,PAIR+,유령악단,Light,3,|Lyrica/Lunasa/|Lyrica/Lunasa/|Lyrica/Lunasa/|,|1|2|3|,,,,리리카나 루나사와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,CHAR+_MERLIN,CHAR+,마력폭주,Attack,0,|0/20/-20/20/-20/0/|,|20|,,,,회피 기량 스테이터스 - <VAL2> \n사격 방어 스테이터스 + <VAL2>.,0,0
+2,LYRICA,LYRICA,해치워버리자!,Attack,0,,,,,,스킬 「원호공격」의 유무에 상관없이\n임의의 인접유닛의 원호공격에 들어간다.\n원호횟수는 소모하지 않는다.,0,0
+2,PAIR+_LYRICA,PAIR+,유령악단,Light,3,|Lunasa/Merlin/|Lunasa/Merlin/|Lunasa/Merlin/|,|1|2|3|,,,,루나사나 메를랑과 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,CHAR+_LYRICA,CHAR+,진주의 손끝,Dodge,0,|0/0/0/0/20/20/|,|20|,,,,명중 회피 스테이터스 + <VAL2>.,0,0
+2,SPIRIT+_LYRICA,SPIRIT+,의존적,Light,0,|기대|,|0|,,,,정신커맨드 「<VAL1>」의효과대상이 페어전체가 된다.\n(SP회복량은 30이 된다),0,0
+2,ISHIELD_WRIGGLE,NUMUC+,장갑충+,Guard,0,|ISHIELD_S|,|3|,,,,고유커맨드 「장갑충」의 발동횟수 + <VAL2>.,0,0
+2,WEP+_WRIGGLE,WEP+,리글킥 강화,Damage,0,|300|,|3|,,,,무기 「필살! 리글 킥」의공격력 + <VAL1> 사정 + 1.,0,0
+2,ADD_STATE_WRIGGLE,ADD_STATE,벌레의 알림서비스,Buf,0,|0|,|AUTOGUARD|,,|2|,UNIT_PLAYER,지정한 아군유닛에 「피탄시 가드」의효과를 부여.(<COUNT>회 사용가능),0,0
+2,SP_COST-_WRIGGLE,SP_COST-,급습,Light,0,|기습|,|50|,,,,정신커맨드 「기습」의 소비SP가 <VAL2>이 된다.,0,0
+2,SPIRIT_CHANGE_WRIGGLE,SPIRIT_CHANGE,파이어플라이소울,Damage,0,|「교란」이「혼」|,|60|,,,,정신커맨드 <VAL1>이 된다.\n(소비SP는 <VAL2>이 된다.),0,0
+2,WEP+_MYSTIA,WEP+,버드스트라이크,Light,0,|300|,|1|,,,,무기 「일스타드 다이브」의공격력 + <VAL1> 사정 + 1.,0,0
+2,SONG+_SPARROW,SONG+,활짝열린휴먼케이지,Light,0,|1|,|2|,,,,무기 「요스즈메의 노래」의 사정 + <VAL1>.\n맵공격에도 효과있음.,0,0
+2,SONG+_MYSTERIOUS,SONG+,바이바이와치킨하트,Light,0,|1|,|4|,,,,무기 「미스테리어스 송」의 사정 + <VAL1>.\n맵공격에도 효과있음.,0,0
+2,SONG+_OWL,SONG+,분노의 안티그릴드,Light,0,|1|,|6|,,,,무기 「수리부엉이의 포효」의 사정 + <VAL1>.\n맵공격에도 효과있음.,0,0
+2,SONG+_MASTER,SONG+,문명개화와 사랑의 맛,Light,0,|1|,|8|,,,,무기 「한밤중의 코러스 마스터」의 사정 + <VAL1>.\n맵공격에도 효과있음.,0,0
+2,SP_COST-_TEWI,SP_COST-,행운의 흰토끼,Light,0,|행운|,|20|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,POINT+_TEWI,ZOC_POINT+,굉장한 운,Get,2,|8|8|,|15|30|,,,GRID8_PLAYER,주위 <VAL1>칸에있는 아군유닛의 획득 점수 + <VAL2>%.\n효과는 정신커맨드 「행운」등과 중첩되며 페어상대에도 유효.,0,0
+2,TEWI,TEWI,해치워라 우사,Guard,0,,,,|4|,PASSIVE,스킬 「원호방어」의 유무에 관계없이\n임의의 인접유닛에게 원호방어를 받는다.\n원호횟수는 소비하지 않는다.(발동횟수 <COUNT>회),0,0
+2,DAM+_SPIRIT_TEWI,DAM+_SPIRIT,럭키히트,Damage,0,|KOUN|,|30|,,,,정신커맨드 「행운」의 효과중 주는 데미지 + <VAL2>%.,0,0
+2,INIPOW+_REMILIA,INIPOW+,홍의 카리스마,Power,0,|20|,|Patchouli/Koakuma/Meiling/Sakuya/Flan/|,,,,홍마관 멤버의 출격시의 파워 + <VAL1>.(자신은 제외),0,0
+2,VAMPIRE+,SPECIAL_VAL1+,밤의 왕,Cure,0,|VAMPIRE|,|10|,,,,특수능력 「흡혈귀」으로인한 HP MP의회복량 + <VAL2>%.,0,0
+2,MOV+_REMILIA,MOV+,데빌 윙,Move,0,|2|,|0|,,,,이동력 + <VAL1>.,0,0
+2,ADD_SPECIAL_REMILIA,ADD_SPECIAL,데빌가드,Guard,0,|D_BLOCK|,|0|,,,,특수능력 「데빌가드」를 추가.\n모든 공격의 데미지를 1000 경감한다.(소비MP 10),0,0
+2,SPIRIT+_REMILIA,SPIRIT+,운명의 사슬,Light,0,|직감|,|0|,,,,정신커맨드 「<VAL1>」의효과대상이 페어전체가 된다.,0,0
+2,SCARLET,SCARLET,영원히어린붉은달,Light,0,|5|,|Patchouli/Koakuma/Meiling/Sakuya/Flan/|,,,,홍마관 멤버의 출격수에 따라 \n자신의명중률 회피율 공격력 방어력이 상승한다.\n(대상 유닛이 격추되어도 효과는 지속된다),0,0
+2,ISHIELD_KAGUYA,ISHIELD,굴하지않는의지,Guard,4,|4|6|8|10|,|1000000|1000000|1000000|1000000|,,|3|,PASSIVE, <VAL1>회까지 피탄된 공격을 무효화한다.,0,0
+2,HINEZUMI+,SPECIAL_VAL1+,불쥐의 털옷,Guard,0,|BARRIER_ALL_DIS|,|300|,,,,특수능력 「샐러맨더 실드」의 효과량 + <VAL2>.,0,0
+2,WEP+_ALL_KAGUYA,WEP+_ALL,용의 목의 구슬,Damage,0,|200|,|0|,,,,모든 무기의 공격력 + <VAL1>.,0,0
+2,ADD_SPIRIT_ALL_KAGUYA,ADD_SPIRIT_ALL,부처의 석발,Buf,0,|불굴|,|FUKUTSU|,,|1|,|SELF_PLAYER|,모든 아군유닛의 전위에게 정신커맨드 「<VAL1>」의효과.(<COUNT>회 사용가능),0,0
+2,CUREALL_HP_KAGUYA,CUREALL,제비의 자안패,Buf,0,|3000|,|0|,,|1|,SELF_PLAYER,모든 아군유닛의 HP <VAL1>회복.(<COUNT>회 사용가능),0,0
+2,CUREALL_MP_KAGUYA,CUREALL,봉래의 옥의 가지,Buf,0,|70|,|1|,,|1|,SELF_PLAYER,모든 아군유닛의 MP <VAL1>회복.(<COUNT>회 사용가능),0,0
+2,SP_COST-_KAGUYA,SP_COST-,영야되돌리기,Light,0,|재동|,|80|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,EIRIN,EIRIN,달의 약학,Cure,0,|100|,|100|,,|,, 「치유」한 상대의 HP를 최대치까지 회복하고\n 「보급」한 상대의 MP와 탄수를 최대치까지 회복한다.,0,0
+2,SP_COST-_EIRIN,SP_COST-,야고코로소생술,Light,0,|부활|,|80|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,ADD_STATE_EIRIN,ADD_STATE,영원의 감옥,Guard,0,|0|,|ETERNALCAGE|,,|1|,UNIT_PLAYER,지정한 아군페어에 「1턴무적」의 효과를 부여.\n받는 데미지가 0이 되지만 행동불능. 스킬등으로 이동불가.\n전투로 인한 파워변동 없음.이 된다.(<COUNT>회 사용가능),0,0
+2,POWERPILL,ADD_STATE,선향옥토,Power,0,|0|,|MAXPOW|,,|1|,UNIT_PLAYER,지정한 아군페어의 파워를 최대로 한다.\n단 턴종료시 파워가 100이 된다.(<COUNT>회 사용가능),0,0
+2,DAM+_DIST2_EIRIN,DAM+_DIST2,천망지망포접의 법,Damage,0,|3|,,,,,공격대상과의 거리가 멀수록 주는 데미지가 상승한다.,0,0
+2,WEP_B+_UDONGE,WEP_B+,붉은광기의 눈동자,Attack,0,|6|,|1|,,,,무기 「붉은 광기의 눈동자」의 공격력 + 150 사정 + 1 탄수 + <VAL1>.,0,0
+2,SPIRIT_CHANGE_UDONGE,SPIRIT_CHANGE,특공토끼M팀,Light,0,|「저격」이「돌격」|,|0|,,,,정신커맨드 <VAL1>이 된다.,0,0
+2,WEP_RMIN_UDONGE,WEP_RMIN,올 스펙트럼,Attack,0,|1|,,,,,모든 무기의 최소 사정이 <VAL1>이 된다.,0,0
+2,BUNSHIN_UDONGE,SPECIAL_VAL1+,환시조율,Dodge,0,|BUNSHIN|,|20|,,,,특수능력 「분신(레이센)」의 발동확률 + <VAL2>%.,0,0
+2,DAM+_SPIRIT_UDONGE,DAM+_SPIRIT,스나이퍼,Damage,0,|SOGEKI|,|20|,,,,정신커맨드 「저격」의 효과중 주는 데미지 + <VAL2>%.,0,0
+2,MUSOU,MUSOU,국사무쌍의 약,Light,0,|10|,,,|4|,SELF_PLAYER,사용할때마다 모든 스테이터스 + <VAL1>.\4회 복용하면…?(<COUNT>회 사용가능),0,0
+2,ADD_STATE_HATATE,ADD_STATE,은자의 자색,Debuf,0,|10|,|DEF-|,,|2|,UNIT_ENEMY,지정한 적유닛에게 「1턴 동안 받는 데미지 + <VAL1>%」효과를 부여.\n(<COUNT>회 사용가능),0,0
+2,BAKUHA,BAKUHA,염류폭파,Debuf,0,|3000|,|,,|2|,UNIT_ENEMY,지정한 적유닛에게 <VAL1> 데미지를 준다.\n격추는 안되고 특수능력 「특수내성」을 가진 적유닛에겐 무효.(<COUNT>회 사용가능),0,0
+2,GUIDE,GUIDE,하타테의 염사가이드,Dodge,0,|10|,|1|,,,,파워 120 이상일 때 자신페어의 회피율 + <VAL1>% \n저속모드의 이동력 + <VAL2>.,0,0
+2,SHUTTER,SHUTTER,슬로우 셔터,Damage,0,|7|,|13|,,,,저속모드일때 주는 데미지 + <VAL1>% 회피율 + <VAL2>%.,0,0
+2,SAVE_MP+_HATATE,SAVE_MP+,요즘시대의 염사기자,Light,0,|40|,,,,,소비MP - <VAL1>%.\n효과는 스킬 「영력절약」과 중첩된다.,0,0
+2,POW_DAM+_FLAN,POW_DAM+,재앙의 가지,Damage,0,|170|,|30|,,,,파워가 <VAL1> 이상일 때 주는 데미지 + <VAL2>%.,0,0
+2,ADD_MAHOU_FLAN,ADD_MAHOU,마법소녀,Light,3,|2|4|6|,,,,,스킬 「마법사L <VAL1>」의효과를 얻는다.\n레벨에 따라 무기의 공격력 명중률에 보정.,0,0
+2,PAIRFROM+_FLAN,PAIR+,언니와 함께,Light,3,|Remilia/|Remilia/|Remilia/|,|1|2|3|,,,,레밀리아와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,CONTRACT_FLAN,CONTRACT_FLAN,악마의 계약,Buf,0,|40|,,,|2|,UNIT_PLAYER,지정한 아군유닛의SP를 <VAL1>소비하여\n정신커맨드 「열혈」의효과를 부여.(<COUNT>회 사용가능),0,0
+2,BATTLE_NOMOVE_YAMAME,BATTLE_NOMOVE,스파이더 네트,Debuf,0,|0|,|NOMOVE|,,|3|,SELF_ENEMY,1턴 동안 자신의공격에 「1턴이동불능」의 추가효과를 부여.\n(<COUNT>회 사용가능),0,0
+2,ZOC_DAM_YAMAME,ZOC_DAM,미아즈마 필드,ZOC,2,|8|8|,|500|1000|,,|,GRID8_ENEMY,적턴 개시시 주위 8칸의 적유닛에 <VAL2>데미지.\n격추는 안되고 특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,ROPE+,SPECIAL_VAL2+,헬 스트링,Light,3,|ADD_COMMAND|ADD_COMMAND|ADD_COMMAND|,|1|2|3|,,,,고유커맨드 「거미줄」의 사정 + <VAL2>.,0,0
+2,WEP+_YAMAME,WEP+,슬며시다가오는공포의 기운,Damage,0,|400|,|2|,,,,무기 「칸다타 로프」의공격력 + <VAL1> 사정 + 1.,0,0
+2,OKE+,OKE+,강화통,Guard,2,|150|300|,|100|200|,,|,,장갑 + <VAL1> 모든 무기의 공격력 + <VAL2>.,0,0
+2,PROB+_SHIELD_KISUME,PROB+_SHIELD,경계심,Guard,0,|15|,,,,, 「실드방어」의 발동확률 + <VAL1>%.,0,0
+2,SPIRIT+_KISUME,SPIRIT+,풀 메탈 버킷,Light,0,|철벽|,|0|,,,,정신커맨드 「<VAL1>」의효과대상이 페어전체가 된다.,0,0
+2,SUPNUM+_KISUME,SUPNUM+,반석의 단단함,Guard,0,|0|,|3|,,,,원호방어의 발동횟수 + <VAL2>.\n스킬 「원호방어」가 없을 경우에도 유효.,0,0
+2,PARSEE,PARSEE,인자한자를향한질투,Damage,0,,,,,,상대가 습득한 스킬의 개수에 따라 주는 데미지가 상승한다.,0,0
+2,REVENGE_PARSEE,REVENGE,사무친 원한갚기,Damage,0,|15|,,,,,반격시 주는 데미지 + <VAL1>%.,0,0
+2,YU_PAR,YU_PAR,집착의 질투아가씨,Light,0,|「가속」「기합」|,|1|,,|2|,SELF_PLAYER,자신페어에 정신커맨드 「가속」 「기합」의효과.(<COUNT>회 사용가능),0,0
+2,JEALOUSY,SP_COST-,녹안의 젤러시,Light,0,|위압|,|30|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,YUGI,SPIRIT_POW_TURN,싸움의 우위,Light,0,|130|,|「직격」|,,,,파워가 <VAL1> 이상일 때 턴 개시시에 정신커맨드 <VAL2>이 걸린다.,0,0
+2,WEP+_ALL_YUGI,WEP+_ALL,일귀당천,Attack,0,|200|,|10|,,,,격투무기의 공격력 + <VAL1> 크리티컬 확률 + <VAL2>%.,0,0
+2,DAM+_DIST_YUGI,DAM+_DIST,인파이트,Damage,0,|10|,|3|,,,,거리 <VAL2>칸이내의 전투에서 주는 데미지 + <VAL1>% 받는 데미지 - <VAL1>%.,0,0
+2,HP_ARMOR+_YUGI,HP_ARMOR+,귀신장갑,Guard,0,|1200|,|200|,,,,최대HP + <VAL1> 장갑 + <VAL2>.,0,0
+2,WEP+_YUGI,WEP+,괴력난신,Damage,0,|600|,|2|,,,,무기 「삼보필살」의공격력 + <VAL1> 사정 + 1.,0,0
+2,SPIRIT+_ORIN,SPIRIT+,능숙한 돌보기,Light,0,|헌신|,|0|,,,,정신커맨드 「<VAL1>」의 효과대상이 페어전체가 된다.,0,0
+2,PAIR+_ORIN,PAIR+,지저의 짐승들,Light,3,|Utsuho/UtsuhoB/|Utsuho/UtsuhoB/|Utsuho/UtsuhoB/|,|1|2|3|,,,,우츠호와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,NEKO+_ORIN,NEKO+_ORIN,고양이 질주,Attack,0,|1|,|15|,,,,오린(고양이)상태일때 운동성 + <VAL2> \n무기 「캣츠 워크」의 사정 + <VAL1>.,0,0
+2,SPIRIT_CHANGE_ORIN,SPIRIT_CHANGE,유골 복구,Light,0,|「헌신」이「부활」|,|90|,,,,정신커맨드 <VAL1>이 된다.(소비SP는 <VAL2>이 된다.)\n또한 부활한 유닛은 파워가 최대가 된다.,0,0
+2,SPIRIT_POW_TURN_ORIN,SPIRIT_POW_TURN,지옥의 교통사고,Light,0,|130|,|「연격」|,,,,오린(고양이)상태고 파워가 <VAL1> 이상일 때 \n턴 개시시에 정신커맨드 <VAL2>이 걸린다.,0,0
+2,HIT+_POW_UTSUHO,HIT+_POW,야타가라스가이드,Hit,0,|130|,|60|,,,,파워가 <VAL1> 이상일 때 명중률 + <VAL2>%.,0,0
+2,YATA,YATA,침식,Light,4,|1|1|1|2|,|25|40|55|70|,,,,파워 150 이상일 때 행동횟수 + <VAL1> 명중률 + <VAL2>%.,0,0
+2,UTSUHOH,UTSUHOH,생명의 화로,Light,4,|80|100|150|200|,|400|500|750|1000|,,,, 「HP회복」을 잃고 「저력 + 」의효과가 약해지지만 \n최대파워가 <VAL2>이 된다..\n또한 HP가 일정 수치 감소할때 마다 파워가 <VAL1>상승한다.,0,0
+2,HIT+_POW_UTSUHO2,HIT+_POW,야타가라스가이드,Hit,0,|130|,|40|,,,,파워가 <VAL1> 이상일 때 명중률 + <VAL2>%.,0,0
+2,UTSUHOH2,UTSUHOH2,태양의 화로,Cure,0,|20|,|CURE_HP_M|,,,,리미터 해제시 주는 데미지 + <VAL1>%.\n또한 특수능력 「HP회복(중)」을 추가한다.,0,0
+2,PAIR+_UTSUHO,PAIR+,지저의 짐승들,Light,3,|Orin/OrinC/|Orin/OrinC/|Orin/OrinC/|,|1|2|3|,,,,오린과 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,ZZ,MAP_CHANGE_SHAPE,하이기가캐논,Hit,0,|4|,|giga3|,|9|,,,맵공격 「기가플레어」의 공격범위가 확대된다.,0,0
+2,RADIATOR,RADIATOR,대형라디에이터,Light,0,|110/15/25/|,,,,,열량 게이지의 상승량을 줄인다.,0,0
+2,CURE+_SHIP_MURASA,CURE+_SHIP,선상의 비너스,Cure,0,|2|,|1|,,,,성련선의 함장일 경우\n 「착함」한 유닛의 HP MP회복량이 <VAL1>배가 된다.,0,0
+2,MOV+_MURASA,MOV+,전속전진,Move,0,|1|,|1|,,,,고속모드와 저속모드의 이동력 + <VAL1>.,0,0
+2,MGR+_MURASA,CHAR+,함대전 준비,Attack,0,|0/20/0/0/0/0/|,|20|,,,,사격 스테이터스 + <VAL2>.,0,0
+2,WEP_B+_MURASA,WEP_B+_MURASA,예비 앵커,Attack,0,|3|,|2|,,,,무기 「격침 앵커」의 공격력 + 150 사정 + 1 탄수 + <VAL1>.,0,0
+2,VENUS,VENUS,물밑의 비너스,Damage,3,|20|30|40|,|20|30|40|,,,,지형 「물」에 있는 적에게 주는 데미지 + <VAL1>%.\n또한 자신이 지형 「물」에 있을 때 회피율 + <VAL2>%.,0,0
+2,PAIR+_MURASA,PAIR+,요괴 삼인조,Light,3,|Ichirin/Nue/|Ichirin/Nue/|Ichirin/Nue/|,|1|2|3|,,,,이치린이나 누에와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,ADD_SPECIAL_ICHIRIN,ADD_SPECIAL,뉴도 블록,Guard,0,|U_BLOCK|,|0|,,,,특수능력 「뉴도 블록」을 추가.\n모든 공격의 데미지를 700 경감한다.(소비MP 10),0,0
+2,WEP+_ICHIRIN,WEP+,뉴도 러쉬,Damage,0,|200|,|2|,,,,무기 「천상천하 연속 훅」의공격력 + <VAL1> 사정 + 1.,0,0
+2,MAXSP+_ICHIRIN,MAXSP+,힘내는 아저씨,Light,3,|20|35|50|,|Unzan/|Unzan/|Unzan/|,,,,운잔의 최대SP + <VAL1>.,0,0
+2,SPIRIT_CHANGE_ICHIRIN,SPIRIT_CHANGE,발랄한 아가씨,Light,0,|「집중」이「기합+」|,|30|,,,,정신커맨드 <VAL1>가 된다.\n(소비SP는 <VAL2>이 된다.),0,0
+2,PAIR+_ICHIRIN,PAIR+,요괴 삼인조,Light,3,|Nue/Murasa/|Nue/Murasa/|Nue/Murasa/|,|1|2|3|,,,,무라사나 누에와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,SP_COST-_NUE,SP_COST-,헤이안의 대요괴,Light,0,|교란|,|50|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,CLOUD,CLOUD,다크 클라우드,Cure,2,|120|120|,|10|20|,,,,파워가 <VAL1> 이상일 때 자신의 지형이 「밤」이 되고\n턴 개시시에 MP가 <VAL2>%회복된다.,0,0
+2,NUE,NUE,미확인비행소녀,Dodge,2,|15|30|,|5|5|,,,,출격후 <VAL2>턴째까지 명중률과 회피율 + <VAL1>%.,0,0
+2,PAIR+_NUE,PAIR+,요괴 삼인조,Light,3,|Murasa/Ichirin/|Murasa/Ichirin/|Murasa/Ichirin/|,|1|2|3|,,,,무라사나 이치린과 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.,0,0
+2,SUP_RANGE+_IKU,SUP_RANGE+,위험감지,Light,2,|2|3|,|,,,,거리 <VAL1>칸이내의 아군유닛에게 원호를 할수있다.,0,0
+2,ECO+_IKU,ECO+,자가발전,Attack,0,|30|,|2|,,,,무기 「광룡의 한숨」의 소비MP 가 <VAL1>이 되고 사정 + 1.,0,0
+2,ALLGRAZE_IKU,ADD_STATE,깃옷은물과같이,Dodge,0,|0|,|ALLGRAZE|,,|2|,SELF_PLAYER,1턴 동안 저속모드 고속모드 어느쪽이든\n반드시 공격을 회피하지만 그레이즈 데미지를 받는다.\n단 방어를 선택했을땐 발생하지 않는다.(<COUNT>회 사용가능),0,0
+2,WEP+_IKU,WEP+,용신의 일격,Damage,0,|400|,|3|,,,,무기 「용어 드릴」의공격력 + <VAL1> 사정 + 1.,0,0
+2,SP_COST-_TENSHI,SP_COST-,철벽소녀,Light,0,|철벽|,|15|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,CRT+_COMPAT_TENSHI,CRT+_COMPAT,기염만장의 검,Attack,0,|S|,|1000|,,,,상대가 있는 지형에 대한 무기의 지형적응이 <VAL1> 이상일 때 \n공격이 반드시 크리티컬이 된다.,0,0
+2,ADD_SPIRIT_TENSHI,ADD_SPIRIT,저돌맹진의 선도,Light,0,|「돌격」|,|0|,,|2|,SELF_PLAYER,자신에 <VAL1>의효과.(<COUNT>회 사용가능),0,0
+2,WEP+_TENSHI,WEP+,하늘의 소녀.땅의 신.인간의 마음.,Damage,0,|400|,|5|,,,,무기 「전인요의 비상천」의공격력 + <VAL1> 사정 + 1.,0,0
+2,CURE+_SHIP_KORIN,CURE+_SHIP,선장대리,Light,0,|2|,|1|,,,, 「착함」한 유닛의HP MP회복량이 <VAL1>배가 된다.,0,0
+2,HIT+_DEF+_KORIN,HIT+_DEF+,안전운전,Light,2,|15|20|,|5|10|,,,,명중률 + <VAL1>% 받는 데미지 - <VAL2>%.,0,0
+2,ITEM+_PAIR_KORIN,ITEM+_PAIR,천객만래,Light,3,|1|2|3|,,,,,거리 <VAL1>칸이내의 아군유닛에게 아이템을 쓸수있다.\n또한 효과대상을 페어 전체와 합체유닛 전체로 확대한다.,0,0
+2,ZAIKO,ZAIKO,재고이용,Light,0,,,,|2|,PASSIVE,아무도 장비하고있지 않은 아이템을 선택해 자신에게 사용한다.\n각 아이템당 1회까지 사용가능.(<COUNT>회 사용가능),0,0
+2,KOGASA01,ADD_KOGASA,새디즘!?,Light,0,|CHOHATSU|,|4|,,|2|,SELF_PLAYER,무기 「원망스러워 - 」에 정신커맨드 「도발」의효과.(<COUNT>회 사용가능)\n특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,KOGASA02,ADD_KOGASA,때릴거야!?,Light,0,|TEKAGEN|,|4|,,|3|,SELF_PLAYER,무기 「원망스러워 - 」에 정신커맨드 「봐주기」의효과.(<COUNT>회 사용가능),0,0
+2,TATARA,DAM+_DEF+_PAIR,골풀무 밟기,Light,0,|10|,|10|,,,,자신페어의 주는 데미지 + <VAL1>% 받는 데미지 - <VAL2>%.,0,0
+2,SHARE_SPIRIT_KOGASA,SHARE_SPIRIT,아이아이가사,Light,0,,,,|1|,SELF_PLAYER,전위와 후위가 적용중인 정신커맨드를 공유한다.(<COUNT>회 사용가능),0,0
+2,ADD_STATE_MEDICINE1,ADD_STATE,신경독,Debuf,0,|0|,|NO_ARMOR|,,|2|,SELF_PLAYER,다음 공격에 「장갑100%관통」의 추가효과를 부여.(<COUNT>회 사용가능),0,0
+2,ADD_STATE_MEDICINE2,ADD_STATE,우울의 독,Debuf,0,|0|,|NO_MP|,,|2|,SELF_PLAYER,다음 공격에 「MP와 탄수데미지」의 추가효과를 부여.\n피탄당한 상대의 MP와 탄수를 0으로 한다.(<COUNT>회 사용가능)\n특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,SP_COST-_MEDICINE,SP_COST-,영란의 꽃,Light,0,|회심|,|20|,,,,정신커맨드 「<VAL1>」의소비SP가 <VAL2>이 된다.,0,0
+2,ADD_SPIRIT_ALL_MEDICINE,ADD_SPIRIT_ALL,은방울꽃의 기도,Light,0,|기도|,|INORI|,,|1|,SELF_PLAYER,모든 아군유닛에 정신커맨드 「<VAL1>」의 효과.(<COUNT>회 사용가능),0,0
+2,EIKI,EIKI,낙원의 심판,Hit,0,|50|,,,,,명중률이 <VAL1>%이상일 경우 100% <VAL1>% 미만일 경우 0%이 된다.\n효과는 자신과 공격상대 양쪽에 적용.,0,0
+2,INIPOW+_EIKI,INIPOW+,갈!,Power,0,|10|,|All|,,,,모든 아군유닛의 출격파워 + <VAL1>.(자신은 제외),0,0
+2,SP_COST-_EIKI,SP_COST-,염마의 역린,Light,0,|격노|,|60|,,,,정신커맨드 「<VAL1>」의 소비SP가 <VAL2>이 된다.,0,0
+2,MUISHIKI,NO_TARGET,무의식,Light,0,|2|,|1|,,|0|,RANGE_PLAYER,거리 <VAL1>칸이내의 아군유닛이 공격대상이 되지않는다.,0,0
+2,SENSE2,SENSE2,초반응 센스,Light,4,|120|120|120|120|,|30|60|80|100|,,,,파워가 <VAL1> 이상일 때 정신커맨드 「번뜩임」을 무효화.\n또한 「카운터」의 발동확률 + <VAL2>%.,0,0
+2,SENSE3,SENSE3,닫힌사랑의 눈동자,Light,0,,,,,,정신커맨드 「번뜩임」을 무효화.\n또한 L속성의 공격의 데미지를 무효화.,0,0
+2,SENSE,SENSE,초반응 센스,Light,0,|50|,,,,,후위에 있을 때 턴 종료시에 전위로 교대한다.\n또한 「카운터」의 발동확률 + <VAL1>%.,0,0
+2,ZERO,SPIRIT_ACT_RANDOM,센스오브제로,Light,0,,,,,,턴 개시시 자신을 대상으로 정신커맨드가 무작위로 걸린다.,0,0
+2,PAIR+_KOISHI,PAIR+,눈동자를 볼순 없어도,Light,3,|Satori/|Satori/|Satori/|,|1|2|3|,,,,사토리와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.\n또한 무기 「코메이지 하트 브레이커」의 사정 + 1.,0,0
+2,MUISHIKI2,SPIRIT_ACT_TURN,무의식,Light,3,,|「은신」|「은신」|「은신」|,,|2|3|4|,PASSIVE,출격후 <COUNT>턴째까지 턴 개시시에 정신커맨드 <VAL2>이 걸린다.,0,0
+2,DAM+_WEP_SATORI,DAM+_WEP,공포최면술,Dodge,0,|20|,|1/2/|,,,,무기 「상기」로 주는 데미지 + <VAL1>%.,0,0
+2,TRAUMA,TRAUMA,살아나는 트라우마,Dodge,0,|50|,,,|2|,SELF_PLAYER,다음 공격시 무기 「상기」로 주는 데미지 + <VAL1>%.(<COUNT>회 사용가능),0,0
+2,PAIR+_SATORI,PAIR+,마음을 읽진 못해도,Light,3,|Koishi/|Koishi/|Koishi/|,|1|2|3|,,,,코이시와 인접 또는 페어일때 \n서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.\n또한 무기 「코메이지 하트 브레이커」의공격력 + 300.,0,0
+2,SPIRIT+_SATORI,SPIRIT+,정신 감응파,Light,0,|감응|,|0|,,,,정신커맨드 「<VAL1>」의 효과대상이 페어전체가 된다.,0,0
+2,REATTACK_POW,REATTACK_POW,재공격,Attack,4,|130|120|110|105|,|,,,,파워가 <VAL1> 이상일 때 자신에게 원호공격을 한다.,0,0
+2,MAID_YUMEKO,DAM+_DEF+_PAIR,탠덤 어썰트,Attack,0,|10|,|10|,,,,자신페어의 주는 데미지 + <VAL1>% 받는 데미지 - <VAL2>%.,0,0
+2,SPIRIT_ACT_BEAT_YUMEKO,SPIRIT_ACT_BEAT,리제너레이션,Cure,0,,|「근성」|,,|2|,PASSIVE,적유닛을 격추했을때 자신에게 정신커맨드 <VAL2>이 걸린다.\n1턴당 <COUNT>회까지 발동.,0,0
+2,FDAM+_CRT_YUMEKO,FDAM+_CRT,데몬 슬레이어,Damage,0,|1000|,,,,,크리티컬 발생시 주는 최종데미지 + <VAL1>.\n페어 전체에 효과있음.,0,0
+2,SPIRIT_ACT_INI_YUMEKO,SPIRIT_ACT_INI,카미카제 메이드,Light,0,|「가속」「회심」「기합」「돌격」「저격」|,,,,,출격시 자신페어에 <VAL1>의효과.,0,0
+2,REATTACK_POW_YUMEKO,REATTACK_POW,재공격,Attack,0,|130|,|,,,,파워가 <VAL1> 이상일 때 자신에게 원호공격을 한다.,0,0
+2,IKOU,SPIRIT_POW_TURN,마계신의 위광,Light,0,|120|,|「필중」「봐주기」|,,,,파워가 <VAL1> 이상일 때 \n턴 개시시에 <VAL2>가 걸린다.,0,0
+2,CURE_SP_TURN_SHINKI,CURE_SP_TURN,평안한 마음,Cure,0,|15|,,,,,스킬 「SP회복」의 회복량 + <VAL1>.,0,0
+2,ZOC_BARRIER,ZOC_BARRIER,기도의 커튼,Light,0,|5|,|500|,,,RANGE_PLAYER,거리 <VAL1>칸이내의아군유닛에 「광역 배리어」의 효과.\n피탄시의 데미지를 <VAL2> 경감한다.,0,0
+2,HUG,HUG,신의 포옹,Attack,0,|20|,,,,,자신과의 전투후 HP가 <VAL1>%이하가 된 적유닛을 후퇴시킨다.\n경험치등은 획득할 수 있지만 영격과 맵공격으로 조건 달성시는 제외.\n특수능력 「특수내성」을 가진 적유닛에겐 무효.,0,0
+2,BABUMI,BABUMI,어머니와 함께,Cure,0,|25|,,,,,턴 개시시 페어상대의 HP과MP가 <VAL1>%회복된다.,0,0
+2,MAXPOW+2_BYAKUREN,MAXPOW+2,감정의 마천루,Power,0,|30|,,,,,최대파워 + <VAL1>.,0,0
+2,INIPOW+_BYAKUREN,INIPOW+,부처의 가르침,Power,0,|20|,|Nazrin/Ichirin/Murasa/Sho/|,,,,스킬 「법력」을 소유한 유닛의 출격시의 파워 + <VAL1>.(자신은 제외),0,0
+2,DBZ,MOV_RANGE+_UNIT,가루다의 날개,Move,0,|1|,|2|,|ByakurenH|,,, 「뱌쿠렌(초인)」상태의 이동력 + <VAL1> 사정 + <VAL2>.,0,0
+2,OKUNINUSHI,OKUNINUSHI,오오쿠니누시,Cure,0,|3|,|25|,,|1|,SELF_PLAYER, <VAL1>턴 동안 「HP과MP <VAL2>%회복」의 상태가 되어\n턴 개시시에 회복된다.(<COUNT>회 사용가능),0,0
+2,AMENOUZUME,AMENOUZUME,아메노우즈메,Dodge,0,|3|,|2|,,|1|,SELF_PLAYER, <VAL1>턴 동안 「무녀강화」의 상태가 되어 스킬 「무녀」의효과가 2배.\n모든 무기의 사정 + <VAL2>.(<COUNT>회 사용가능),0,0
+2,TAKEMIKAZUCHI,TAKEMIKAZUCHI,타케미카즈치,Damage,0,,,,|1|,SELF_PLAYER,한번만 「명중한계돌파」의 상태가 되어\n100%를 넘은 만큼의 명중률만큼 주는 데미지가 늘어난다.,0,0
+2,OMIKAMI,ADD_WEAPON,아마테라스오미카미,Attack,0,,,,,,맵공격 「아마테라스오미카미」를 추가한다.,0,0
+2,IDEONGUN,IDEONGUN,파동 부채,Attack,0,,,,,,맵공격 「파동 부채」의 사정이 무한이 된다.\n단 효과 범위가 변화한다.,0,0
+2,UMIYAMA,UMIYAMA,바다와산을잇는능력,Light,0,|7|,,,|1|,TILE_BLANK_LONG,거리 <VAL1>칸이내의 두 지점을 선택하여 유닛을 이동시킨다.\n피아를 구분하지 않고 특수능력 「특수내성」을 가진 적유닛에겐 무효.\n(<COUNT>회 사용가능),0,0
+2,PEACH,PEACH,달의 선도복숭아,Cure,3,|50|75|100|,,,|1|1|1|,SELF_PLAYER,자신과 페어의SP가 <VAL1> 회복된다.(<COUNT>회 사용가능),0,0
+2,FULLFLAT,FULLFLAT,전탄발사,Damage,0,,,,|2|,SELF_PLAYER,탄수를 모두 소비하여 주는 데미지를 상승시킨다.\n효과량은 선택한 무기와 잔탄수에 의존.(<COUNT>회 사용가능),0,0
+2,PENETRATE_REISEN,PENETRATE,철갑탄,Buf,0,|-1|,,,,,모든 무기에 「배리어관통」의특수효과를 부여.,0,0
+2,RANGE+_ALL_REISEN,RANGE+_ALL,라이플탄,Hit,2,|1|2|,,,,,모든 무기의 사정 + <VAL1>.,0,0
+2,BULLETCHARGE,CURE_SELF_MPBL,탄약보급,Cure,0,,,,|2|,SELF_PLAYER,MP와 탄수를 최대까지 회복시킨다.(<COUNT>회 사용가능),0,0
+2,POW_DAM+_TENSOKU,POW_DAM+,머신파워,Damage,0,|130|,|15|,,,,파워가 <VAL1> 이상일 때 주는 데미지 + <VAL2>%.,0,0
+2,HP_ARMOR+_TENSOKU,HP_ARMOR+,초합금그레이트,Guard,0,|2000|,|250|,,,,최대HP + <VAL1> 장갑 + <VAL2>.,0,0
+2,ADD_SPECIAL_TENSOKU,ADD_SPECIAL,핵융합에네르기,Cure,0,|CURE_MP_S|,|0|,,,,최대MP + 100.\n또한 특수능력 「MP회복(소)」추가.,0,0
+2,MOV+_TENSOKU,GOD_AIR,마하스크랜더,Move,0,|1|,|S|,,,,지형적응 「공중」이 S가 되고 이동력 + <VAL1>.,0,0
+2,ISHIELD_KAGUYAN,ISHIELD,굴하지않는의지,Guard,4,|2|4|6|8|,|1000000|1000000|1000000|1000000|,,|2|4|4|5|,PASSIVE,피탄된 공격을 무효화한다.(발동횟수 <COUNT>회),0,0
+2,USE_SPIRIT_NUE,USE_SPIRIT,누에의 한밤의 울음소리,Light,4,|120|120|120|120|,|교란|교란|교란|교란|,,|4|3|3|2|,,파워가 <VAL1> 이상일 때 \n <COUNT>턴에 한번 정신커맨드 「<VAL2>」을 사용한다.,0,0
+2,USE_SPIRIT_ICHIRINN,USE_SPIRIT,분노의 대운괴,Light,4,|120|120|120|120|,|격노|격노|격노|격노|,,|4|3|3|2|,,파워가 <VAL1> 이상일 때 \n <COUNT>턴에 한번 정신커맨드 「<VAL2>」를 사용한다.,0,0
+2,MUGEN_MEKO,MUGEN_MEKO,꿈의 결,Light,6,|1|1|1|1|1|2|,|「번뜩임」|「필중」「번뜩임」||||「직격」「필중」「번뜩임」|,,,,파워 130 이상일 때 행동횟수 + <VAL1> 받는 데미지를 - 20%.\n또한 스킬발동중엔 턴 개시시에\n정신커맨드 <VAL2>을 사용.,0,0
+2,STRAYDREAM,STRAYDREAM,방황하는꿈,Light,4,|1|2|3|4|,|,,,,파워 130 이상일 때 \n턴 개시시에정신커맨드 「꿈」을 사용한다.\n매 턴 <VAL1>번 임의의 정신커맨드를 발동.,0,0
+2,MAXPOW+3_MAKURAF,MAXPOW+3,이 손에 꿈을,Light,4,|230|250|300|400|,,,,,최대파워가 <VAL1>이 된다.,0,0
+2,REATTACK_POW_YORIHIMED,REATTACK_POW,재공격,Attack,4,|150|130|120|110|,|,,,,파워가 <VAL1> 이상일 때 자신에게 원호공격을 한다.,0,0
+2,M_SHIELD+,M_SHIELD+,장벽강화(파체),Light,4,|300|550|800|1000|,,,,,특수능력 「마법장벽」을 「마법장벽 + 」로 강화하고\n배리어의효과량 + <VAL1>.,0,0
+2,G_KEEPER,DAM-_SGUARD,문지기,Light,4,|15|20|25|30|,,,,,원호방어시 받는 데미지 - <VAL1>%.,0,0
+2,SUCK_HP,CURE_HP_ATTACK,흡혈,Light,4,|15|20|25|30|,,,,BATTLE_PLAYER,주는 데미지의 <VAL1>% 만큼 HP가 회복된다.,0,0
+2,MEKO,MEKO,양치기,Light,6,|1|2|3|4|5|10|,,,,,스테이지 개시시의 양 카운트 + <VAL1>.,0,0
+2,MEKOCHAN,MEKOCHAN,활기찬 메코,Light,3,|0.5|1|1.5|,|5|10|15|,,,,적유닛격파시의 양 카운트 상승량 + <VAL1>.,0,0
+2,MOKOMOKO,SPECIAL_VAL1+,복슬복슬 양모,Guard,3,|BARRIER_ALL_DIS|BARRIER_ALL_DIS|BARRIER_ALL_DIS|,|300|450|600|,,,,특수능력 「양모 가드」의효과량 + <VAL2>.,0,0
+2,RAMUCHAN,WEP+,우주제일의 전격,Damage,0,|400|,|1|,,,,무기 「썬더 램」의공격력 + <VAL1> 사정 + 1.,0,0
+2,PAIR+_MEKO,PAIR+,끝에서의 한걸음,Light,3,|Makura/|Makura/|Makura/|,|1|2|3|,|5|5|5|,,,마쿠라와 인접 또는 페어일때 서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.\n또한 마쿠라와 페어일때 턴 개시시에 마쿠라의 SP <VAL3>회복.,0,0
+2,SP_COST-_RATE_MEKO,SP_COST-_RATE,꿈을보는 요괴양,Light,0,|25|,|0|,,,,정신커맨드 「꿈」으로인한 소비SP <VAL1>% 경감.,0,0
+2,STRAY+,SPECIAL_VAL1+,스트레이 드리머,Light,3,|ADD_COMMAND|ADD_COMMAND|ADD_COMMAND|,|1|2|3|,,,,고유커맨드 「꿈 건너기」의 사용가능횟수 + <VAL2>.,0,0
+2,KABIGON,KABIGON,잠자기,Cure,0,|2|,,,|1|,,HP MP SP가 전부회복되지만 <VAL1>턴 행동불능이 된다.\n각성시 자신에게 정신커맨드 「각성」의효과.\n(<COUNT>회 사용가능),0,0
+2,ADD_STATE_MAKURA,ADD_STATE,꿈먹기,Cure,2,|0|0|,|SP_GET|SP_GET|,,|1|2|,SELF_PLAYER,자신 페어의 다음 공격에 「SP겟」의효과를 부여.\n적을 격추하면 자신의SP가 10 회복된다.\n(<COUNT>회 사용가능),0,0
+2,CURE_FPM,CURE_FPM,드림 어게인,Cure,0,,,,|1|,SELF_PLAYER,아군전체의 FPM 사용가능횟수가 회복된다.\n(<COUNT>회 사용가능),0,0
+2,PAIR+_MAKURA,PAIR+,끝에서의 한걸음,Light,3,|Meko/|Meko/|Meko/|,|1|2|3|,|0.5|0.5|0.5|,,,메코와 인접 또는 페어일때 서로의 명중률 회피율 등에 보정.효과는 레벨에 의존.\n또한 메코와 페어일때 메코의 양 카운트 상승량 + <VAL3>.,0,0
+2,SUP+_SA_MAKURA,SUP+_SA,가디언,Attack,3,|25|30|40|,,,,,원호공격의 주는 데미지 + <VAL1>%.,0,0
+2,SPIRIT+_AKYU,SPIRIT+,9대째 사방,Light,0,|번뜩임|,,,,,정신커맨드 「<VAL1>」의 효과대상이 페어전체가 된다.,0,0
+2,Y_DOCTOR,Y_DOCTOR,요괴박사,Damage,2,|30|50|,|30|50|,,,,종족 「요괴」에게 주는 데미지 + <VAL1>%.\n또한 종족 「요괴」와 전투할때 명중률 회피율 + <VAL2>%.,0,0
+2,GUMONJI,SPIRIT_EFF+,구문지,Light,0,|정찰|,|TEISATSU|,,,,정신커맨드 「<VAL1>」의 효과가 배가 된다.,0,0
+2,WEP+_AKYU,WEP+_RANGE,붓은 검보다 강하다,Damage,0,|1000|,|5|,,,,무기 「붓」의공격력 + <VAL1> 사정 + <VAL2>.,0,0
+2,MEKO_BOOST,MEKO_COMMAND,대쉬,Light,0,|2|,|MOV+|,|2|,,SELF_PLAYER,한번만 이동력 + <VAL1>.\n효과는 정신커맨드 「가속」과 중첩된다.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_NEKKETSU,SPIRIT_ACT,파이팅,Light,0,|「열혈」|,,|4|,,SELF_PLAYER,자신에게 <VAL1>의 효과.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_SLEEP,ADD_STATE_MEKO,슬립,Light,0,|5|,|SLEEP|,|6|,,TILE_BLANK_MEKO,거리 <VAL1>이내의 적유닛에 「슬립」의 효과를 부여.\n특수능력 「특수내성」을 가진 적유닛에겐 무효.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_KOU,MEKO_COMMAND,스칼렛,Light,0,|20|,|DAM+|,|3|,,SELF_PLAYER,1턴 동안 자신에게 「주는 데미지 + <VAL1>%」의 효과.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_YOU,MEKO_COMMAND,미스틱,Light,0,|20|,,|4|,,SELF_PLAYER,SP가 최대치의 <VAL1>% 만큼 회복된다.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_EI,SPIRIT_ACT,이터널,Light,0,|연격|,,|4|,,SELF_PLAYER,자신에게 「<VAL1>」의 효과. 1턴에 몇번이든 사용가능.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_YUME,MEKO_COMMAND,드림,Light,0,,|SLEEP|,|10|,,SELF_PLAYER,모든 적유닛에게 「슬립」효과를 부여.\n특수능력 「특수내성」을 가진 적유닛에겐 무효.\n양 카운트를 <VAL3>소비.,0,0
+2,MEKO_NONE,MEKO_COMMAND,?????,Light,0,,,,,SELF_PLAYER,미습득한 고유커맨드입니다.,0,0
+2,SHITONE,SHITONE,버려진 꿈,Light,0,|2|3|4|5|,,,,,턴 개시시 상대턴에 사용되지 않은 정신커맨드를 사용한다.\n(최대 <VAL1>회),0,0
+2,RANGE+_COLLECT_KORIN,RANGE+_COLLECT,회수 앵커,Light,3,|5|6|7|,,,,, 「회수」커맨드의 사정 + <VAL1>.,0,0
+2,DANZAI2,DANZAI2,흑백의 단죄,Damage,3,|120|120|120|,|3000|4000|5000|,,,,파워가 <VAL1> 이상일 때 공격력이 제일 높은 무기의 공격력을 <VAL2>으로 한다.\n페어 상대에게도 효과가 있고 해당 무기의 공격력이 <VAL2>이상이라면 무효.,0,0
+2,EIKI2,EIKI2,낙원의 심판,Buf,0,|50|,,,|2|,SELF_PLAYER,모든 아군 페어에 「명중률반올림」의 효과를 부여.\n1턴 동안 명중률이 <VAL1>%이상일 경우엔 100% 미만일 경우엔 0%가 된다.\n효과는 적 아군 양쪽에게 적용.(<COUNT>회 사용가능),0,0

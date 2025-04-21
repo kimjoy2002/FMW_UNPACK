@@ -1,0 +1,98 @@
+﻿//OP
+
+<ChatID:0>------------------------------
+//OP
+
+<BG=bg_talk_Road_Night.png,fade=0,color=1,title=bg_Mountain,bgm=bgm_talk_rain02>
+
+<SE=se_talk_lightening01.ogg,wait=0>
+
+<Code=(demo_wait,90)>
+
+KTengu0a:현재, 북상한 부대가 대상을 포위하여 탄막을 전개...
+
+KTengu1a:앗, 좌현의 부대가 격추당했습니다!
+
+KTengu0b:안되겠습니다, 버틸수가 없습니다. 시급히 증원을 요청합니다!
+
+<update>
+
+KTengu2a:뭐라고요? 단 한 명을 상대로, 얼마나 고전하고 있다는 건가요!
+
+KTengu1a:사실은 사실입니다. 이쪽에서 다수가 
+공격하는데도 불구하고, 마치 놀고 있는 듯한-
+
+</update>
+
+KTengu2b:아무튼 대텐구님에게 전해주세요! 이대론 당합니다!
+
+<update>
+
+KTengu2a:알겠습니다. 그 외에도 손이 빈 사람이 있으면
+신속히 그쪽으로 보내도록 하겠습니다.
+
+</update>
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Momiji0a:좋아, 캇파들은 다들 말한 대로 피난한 모양이네.
+
+Momiji2b:남은 건 저쪽 마을뿐이다. 빨리 순찰을 마쳐야 해.
+
+</single>
+
+KTengu2b:그쪽의 백랑텐구, 이런 곳에서 뭘 하고있는 겁니까.
+당신들은 전선에 있어야 할 터인데요!
+
+Momiji5a:다른 임무에요. 캇파들이 돌아다니고 있는지
+확인하라고 대텐구님에게 명령을 받았습니다.
+
+KTengu2a:이런 폭풍이 부는 밤에 돌아다니는 캇파라니,
+있을 리가 없을 텐데요.
+
+Momiji0a:그건 그렇지만, 무모한 사람이 없을 거라곤 할 수 없으니까요.
+
+KTengu1a:알겠습니다. 그렇다면 일이 끝나는 대로 원호를 해주십시오.
+전력은 조금이라도 많은 게 좋습니다!
+
+Momiji5a:그럴 생각입니다. 바로 향하겠습니다.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Momiji7c:뭐어, 걱정할 필욘 없겠지. 지금은 긴급사태야.
+아무튼 임무에 집중하자.
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Nitori1c:후우, 지나쳤나.
+
+Nitori3c:미안해. 뭔가 소란스러운 거 같지만, 어떻게 해서든 가야만 해.
+
+<Code=(map_flash,1,30,c_white)>
+
+<Code=(demo_wait,30)>
+
+Nitori2a:우왓, 굉장한 번개다. 얼른 산을 내려가자.
+
+<Code=(transition_out,c_black,120,1)>
+
+<end>
+
+<ChatID:1>------------------------------
+//テロップ
+
+-그날 밤, 환상향은 붉은 안개로 뒤덮였다.
+
+<end>

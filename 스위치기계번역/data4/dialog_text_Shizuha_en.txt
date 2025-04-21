@@ -1,0 +1,282 @@
+﻿ID,LineID,face,dialog
+0,0,Shizuha0a,섣부르게 산에 가까워지면 \n 대단한 꼴을 당해요
+1,0,Shizuha0a,일단、\n 친절해 경고하고 있는 것이지만…
+2,0,Shizuha0a,당신들에게는、\n 가을의 정적이 필요한 것 같구나!
+3,0,Shizuha0a,춤추어 지는 낙엽이、나의 탄막이야
+4,0,Shizuha0a,낙엽에서도 봐、마음을 가라앉히세요
+5,0,Shizuha0a,가끔 씩은 활약하지 않으면
+6,0,Shizuha0a,여기서 결정해 둘까요
+7,0,Shizuha0a,자、저것을 할까!
+8,0,Shizuha1a,이것은 미노리코의 몫!
+9,0,Shizuha1a,흐트러지고 나세요!
+10,0,Shizuha0a,바람으로 흩날리세요…
+11,0,Shizuha0a,가요…
+11,1,Shizuha1a,포린브라스트!
+12,0,Shizuha0a,이 거리라면 닿을 것…
+12,1,Shizuha1a,그것!
+13,0,Shizuha1d,추풍이야…
+13,1,Shizuha3a,바람에 날아가게 했다!
+14,0,Shizuha0a,미노리코와 두 명이라면…!
+14,1,Minoriko7a,누나、저것을 해요
+14,2,Shizuha6a,예、자주(잘)은요
+14,3,Minoriko1a,스팍!
+14,4,Shizuha1a,가을 자매!
+14,5,Minoriko1a,킥!!
+14,6,Shizuha5b,…、는 우츠호기분 저항이야…!?
+14,7,Minoriko0a,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+14,8,Minoriko1a,누나!!
+14,9,Shizuha1a,이것이라면…
+14,10,Minoriko1a,어떨까!
+14,11,Shizuha1a,정해졌군요!
+15,0,Shizuha0a,가을의 매력은 덧없는 단풍!
+15,1,Minoriko0a,가을의 매력은 풍부한 임!
+15,2,Shizuha0a,2개의 가을을 거듭하면…!
+15,3,Minoriko1a,스팍!
+15,4,Shizuha1a,가을 자매!
+15,5,Minoriko1a,킥!!
+15,6,Shizuha5b,이것은…\n 연습 때보다 부하가 커…?!
+15,7,Minoriko0a,그렇지 않아요! \n 연습 대로조차 하면…
+15,8,Minoriko1a,는、누나!!
+15,9,Shizuha1a,키네…
+15,10,Minoriko0a,놋!
+15,11,Shizuha0a,피니쉬야!
+16,0,Shizuha0a,지나친 추적은 하지 않기로 합시다
+17,0,Shizuha0a,주고 받은 것이고、뭐 좋은가
+18,0,Shizuha0a,저것은 공격 할 수 없어요…
+19,0,Shizuha0a,설마、손을 댈 수 없다니
+20,0,Shizuha0a,이 은혜에는 반드시 보답해요
+21,0,Shizuha0a,심부름은 자신있는 것이야
+22,0,Shizuha0a,다짐… 이라는 곳일까
+23,0,Shizuha0a,위험하다!
+24,0,Shizuha0a,내가 있었기 때문에 좋았지만…
+25,0,Shizuha0a,미노리코의 적수―!
+26,0,Shizuha0a,계속되어요、미노리코!
+27,0,Shizuha2a,꺄、아프다!
+28,0,Shizuha2a,맞아 버렸어요―
+29,0,Shizuha2a,이제、여기는 신님인 것이야!
+30,0,Shizuha2a,무슨 난폭한 녀석들!
+31,0,Shizuha2a,조금은 유지하지 않으면…
+32,0,Shizuha2a,에、도망칠 수 없다!
+33,0,Shizuha2a,어쨌든 유지하지 않으면…!
+34,0,Shizuha0a,위험하네요
+35,0,Shizuha0a,그런 공격、맞지 않는다!
+36,0,Shizuha0a,조금은 몸의 가벼움에 \n 자신이 있는거야
+37,0,Shizuha0a,어머나、위험하네요
+38,0,Shizuha0a,좋아、능숙하게 말했군요
+39,0,Shizuha0a,그런 공격、추풍이 바람에 날아가게 해요
+40,0,Shizuha0a,단풍 배리어─!
+41,0,Shizuha0a,지금이 찬스같구나
+42,0,Shizuha0a,총격당하기 전에 공격하지 않으면!
+43,0,Shizuha2a,、미안해요… 미노리코…
+44,0,Shizuha2a,None
+45,0,Shizuha0a,원망하지 말고、이것도 싸움인 것이야
+46,0,Shizuha0a,이것도 탄막전이라면!
+47,0,Shizuha0a,후퇴할 때에는 틈이 생긴다…
+48,0,Shizuha0a,단풍에 넋을 잃고 보면 다쳐요!
+49,0,Shizuha0a,낙엽에서도 봐、마음을 가라앉히세요
+50,0,Shizuha0a,당신들에게는、\n 가을의 정적이 필요한 것 같구나!
+51,0,Shizuha0a,쇠퇴는 모든 물건에 방문하는 숙명…
+52,0,Shizuha0a,춤추어 지는 낙엽이、나의 탄막이야!
+53,0,Shizuha0a,단풍과 함께 지세요…
+54,0,Shizuha0a,가끔 씩은 활약하지 않으면!
+55,0,Shizuha0a,가을의 빛을 보여 주어요!
+56,0,Shizuha0a,여기서 결정해 둘까요
+57,0,Shizuha0a,자、저것을 할까!
+58,0,Shizuha1a,기세 좋게…
+59,0,Shizuha1a,흐트러지고 나세요!
+60,0,Shizuha1a,인가 원 다툴 리가 없어요!
+61,0,Shizuha0a,바람으로 흩날리세요…
+62,0,Shizuha0a,가요…
+62,1,Shizuha1a,포린브라스트!
+63,0,Shizuha0a,이 거리라면 닿을 것…
+63,1,Shizuha1a,그것!
+64,0,Shizuha0a,포린브라스트…
+64,1,Shizuha1a,맞아!
+65,0,Shizuha0a,추풍이야…
+65,1,Shizuha1a,바람에 날아가게 했다!
+66,0,Shizuha0a,미노리코、평소의 녀석을 합시다!
+66,1,Minoriko0a,알았어요、누나!
+66,2,Shizuha0a,그것!
+66,3,Minoriko1a,스팍!
+66,4,Shizuha1a,가을 자매!
+66,5,Minoriko1a,킥!!
+66,6,Shizuha2a,… 안 되는、너무 힘이 들어갔다…!?
+66,7,Minoriko0a,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+66,8,Minoriko1a,누나!!
+66,9,Shizuha1a,이것으로…
+66,10,Minoriko1a,결정타야!
+66,11,Shizuha1a,정해졌군요!
+67,0,Shizuha0a,미노리코와 두 명이라면…!
+67,1,Minoriko0a,누나、저것을 해요
+67,2,Shizuha0a,예、자주(잘)은요
+67,3,Minoriko1a,스팍!
+67,4,Shizuha1a,가을 자매!
+67,5,Minoriko1a,킥!!
+67,6,Shizuha2a,…、는 우츠호기분 저항이야…!?
+67,7,Minoriko0a,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+67,8,Minoriko1a,누나!!
+67,9,Shizuha1a,이것이라면…
+67,10,Minoriko1a,어떨까!
+67,11,Shizuha1a,정해졌군요!
+68,0,Shizuha0a,미노리코、힘을 합합시다!
+68,1,Minoriko0a,응、누나!
+68,2,Shizuha0a,이것이 자매의 필살기…
+68,3,Minoriko1a,스팍!
+68,4,Shizuha1a,가을 자매!
+68,5,Minoriko1a,킥!!
+68,6,Shizuha2a,이것은…\n 연습 때보다 부하가 커…?!
+68,7,Minoriko0a,그렇지 않아요! \n 연습 대로조차 하면…
+68,8,Minoriko1a,는、누나!!
+68,9,Shizuha1a,이것이 가을의…
+68,10,Minoriko0a,힘이야!
+68,11,Shizuha0a,그리고 정적이 방문한다…
+69,0,Shizuha0a,가을의 매력은 덧없는 단풍!
+69,1,Minoriko0a,가을의 매력은 풍부한 임!
+69,2,Shizuha0a,2개의 가을을 거듭하면…!
+69,3,Minoriko1a,스팍!
+69,4,Shizuha1a,가을 자매!
+69,5,Minoriko1a,킥!!
+69,6,Shizuha2a,이것은…\n 연습 때보다 부하가 커…?!
+69,7,Minoriko0a,그렇지 않아요! \n 연습 대로조차 하면…
+69,8,Minoriko1a,는、누나!!
+69,9,Shizuha1a,키네…
+69,10,Minoriko0a,놋!
+69,11,Shizuha0a,피니쉬야!
+70,0,Shizuha0a,지나친 추적은 하지 않기로 합시다
+71,0,Shizuha0a,주고 받은 것이고、뭐 좋은가
+72,0,Shizuha0a,저것은 공격 할 수 없어요…
+73,0,Shizuha0a,설마、손을 댈 수 없다니…
+74,0,Shizuha0a,그 꽃이 질려는 찰나、결코 쓸데없게 하지 않아요
+75,0,Shizuha0a,나도 함께 공격해요!
+76,0,Shizuha0a,나라도 있기 때문에!
+77,0,Shizuha0a,심부름은 자신있는 것이야
+78,0,Shizuha0a,다짐… 이라는 곳일까
+79,0,Shizuha0a,적이 왔어요、굳어져!
+80,0,Shizuha0a,내가 있었기 때문에 좋았지만…
+81,0,Shizuha0a,미노리코의 적수―!
+82,0,Shizuha0a,미노리코만 싸우게 하거나 하지 않아요
+83,0,Shizuha0a,미노리코、도울까요?
+84,0,Shizuha0a,가을의 힘을 거듭해요!
+85,0,Shizuha0a,미노리코、위험하다!
+86,0,Shizuha0a,미노리코、너무 뜨거워 지지 말아줘!
+87,0,Shizuha0a,어머나、뭔가의 농담?
+88,0,Shizuha0a,맞았다… 지만、그것 뿐!
+89,0,Shizuha0a,그것은 손대중 해 주고 있는 거야?
+90,0,Shizuha2a,누군가、원호해 줘!
+91,0,Shizuha2a,나쁜 예감이 하고 있던거야…
+92,0,Shizuha2a,마지막 한 장의 잎이 떨어질 것 같다…
+93,0,Shizuha2a,도、이제 더 이상은…
+94,0,Shizuha2a,맞아 버렸어요―
+95,0,Shizuha2a,구、이쪽의 움직임이 \n 읽혀지고 있는 거야…?
+96,0,Shizuha2a,도망치고 싶어져 버려요…
+97,0,Shizuha2a,에、도망칠 수 없다!
+98,0,Shizuha2a,조금은 유지하지 않으면…
+99,0,Shizuha2a,생각하고 있던 이상으로 강해요…
+100,0,Shizuha2a,이제、여기는 신님인 것이야!
+101,0,Shizuha0a,좋아、능숙하게 말했군요
+102,0,Shizuha0a,자주(잘) 보고 있으면、이 정도!
+103,0,Shizuha0a,낙엽의 스텝이라면、\n 다 도망칠 수 있어요
+104,0,Shizuha0a,조금은 몸의 가벼움에 \n 자신이 있는거야
+105,0,Shizuha0a,위험하네요
+106,0,Shizuha0a,그런 공격、추풍이 바람에 날아가게 해요
+107,0,Shizuha0a,단풍 배리어─!
+108,0,Shizuha0a,이 찬스에 어떻게든 하지 않으면!
+109,0,Shizuha0a,곧 공격하지 않으면、시간이 없어요!
+110,0,Shizuha0a,총격당하기 전에 공격하지 않으면!
+111,0,Shizuha2a,역시、나는 무리였던 것이군요…
+112,0,Shizuha2a,、마지막 한 장이 떨어졌다…
+113,0,Shizuha0a,당신들 진심 지나는거야…\n 뒤는 내려 낙엽에서도 가라앉히고 있어요
+114,0,Shizuha0a,일으켜져 버려 딱하구나
+115,0,Shizuha0a,오래간만이지만 건강한 것 같구나
+116,0,Shizuha0a,아、바람이 차갑다…
+117,0,Shizuha0a,탄막이라면 이제 사람 분발함…
+118,0,Shizuha0a,마지막 잎새의 빛을…!
+119,0,Shizuha1a,기세 좋게…
+120,0,Shizuha1a,흐트러지고 나세요!
+121,0,Shizuha1a,인가 원 다툴 리가 없어요!
+122,0,Shizuha0a,바람으로 흩날리세요…
+123,0,Shizuha0a,가요…
+123,1,Shizuha1a,포린브라스트!
+124,0,Shizuha0a,이 거리라면 닿을 것…
+124,1,Shizuha1a,그것!
+125,0,Shizuha0a,포린브라스트…
+125,1,Shizuha1a,맞아!
+126,0,Shizuha0a,추풍이야…
+126,1,Shizuha1a,바람에 날아가게 했다!
+127,0,Shizuha0a,미노리코、평소의 녀석을 합시다!
+127,1,Minoriko0a,알았어요、누나!
+127,2,Shizuha0a,그것!
+127,3,Minoriko1a,스팍!
+127,4,Shizuha1a,가을 자매!
+127,5,Minoriko1a,킥!!
+127,6,Shizuha2a,… 안 되는、너무 힘이 들어갔다…!?
+127,7,Minoriko0a,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+127,8,Minoriko1a,누나!!
+127,9,Shizuha1a,이것으로…
+127,10,Minoriko1a,결정타야!
+127,11,Shizuha1a,정해졌군요!
+128,0,Shizuha0a,미노리코와 두 명이라면…!
+128,1,Minoriko0a,누나、저것을 해요
+128,2,Shizuha0a,예、자주(잘)은요
+128,3,Minoriko1a,스팍!
+128,4,Shizuha1a,가을 자매!
+128,5,Minoriko1a,킥!!
+128,6,Shizuha2a,…、는 우츠호기분 저항이야…!?
+128,7,Minoriko0a,누나…? \n 손을 떼어 놓아서는 안돼、누나!
+128,8,Minoriko1a,누나!!
+128,9,Shizuha1a,이것이라면…
+128,10,Minoriko1a,어떨까!
+128,11,Shizuha1a,정해졌군요!
+129,0,Shizuha0a,미노리코、힘을 합합시다!
+129,1,Minoriko0a,응、누나!
+129,2,Shizuha0a,이것이 자매의 필살기…
+129,3,Minoriko1a,스팍!
+129,4,Shizuha1a,가을 자매!
+129,5,Minoriko1a,킥!!
+129,6,Shizuha2a,이것은…\n 연습 때보다 부하가 커…?!
+129,7,Minoriko0a,그렇지 않아요! \n 연습 대로조차 하면…
+129,8,Minoriko1a,는、누나!!
+129,9,Shizuha1a,이것이 가을의…
+129,10,Minoriko0a,힘이야!
+129,11,Shizuha0a,그리고 정적이 방문한다…
+130,0,Shizuha0a,가을의 매력은 덧없는 단풍!
+130,1,Minoriko0a,가을의 매력은 풍부한 임!
+130,2,Shizuha0a,2개의 가을을 거듭하면…!
+130,3,Minoriko1a,스팍!
+130,4,Shizuha1a,가을 자매!
+130,5,Minoriko1a,킥!!
+130,6,Shizuha2a,이것은…\n 연습 때보다 부하가 커…?!
+130,7,Minoriko0a,그렇지 않아요! \n 연습 대로조차 하면…
+130,8,Minoriko1a,는、누나!!
+130,9,Shizuha1a,키네…
+130,10,Minoriko0a,놋!
+130,11,Shizuha0a,피니쉬야!
+131,0,Shizuha0a,지나친 추적은 하지 않기로 합시다
+132,0,Shizuha0a,주고 받은 것이고、뭐 좋은가
+133,0,Shizuha0a,저것은 공격 할 수 없어요…
+134,0,Shizuha0a,설마、손을 댈 수 없다니…
+135,0,Shizuha0a,그 꽃이 질려는 찰나、결코 쓸데없게 하지 않아요
+136,0,Shizuha0a,나도 함께 공격해요!
+137,0,Shizuha0a,나라도 있기 때문에!
+138,0,Shizuha0a,심부름은 자신있는 것이야
+139,0,Shizuha0a,다짐… 이라는 곳일까
+140,0,Shizuha0a,적이 왔어요、굳어져!
+141,0,Shizuha0a,내가 있었기 때문에 좋았지만…
+142,0,Shizuha0a,미노리코의 적수―!
+143,0,Shizuha0a,미노리코만 싸우게 하거나 하지 않아요
+144,0,Shizuha0a,미노리코、도울까요?
+145,0,Shizuha0a,가을의 힘을 거듭해요!
+146,0,Shizuha0a,미노리코、위험하다!
+147,0,Shizuha0a,미노리코、너무 뜨거워 지지 말아줘!
+148,0,Shizuha2a,아、몸이 차가워져 왔어요…
+149,0,Shizuha2a,스텝에 평소의 이성을 잃고가…
+150,0,Shizuha2a,여기는 약해지고 있다 라고 하는데…
+151,0,Shizuha0a,위험하네요
+152,0,Shizuha0a,좋아、능숙하게 말했군요
+153,0,Shizuha2a,맞으면 넘어져 버릴 것 같다…
+154,0,Shizuha0a,단풍 배리어─!
+155,0,Shizuha0a,총격당하기 전에 공격하지 않으면!
+156,0,Shizuha2a,、마지막 한 장이 빠짐……
+157,0,Shizuha0a,None
+158,0,Shizuha0a,메코? \n 당신은 건강한 것 같구나…
+159,0,Shizuha0a,이쪽이 약해지고 있어도 \n 사양은 필요하지 않아요…

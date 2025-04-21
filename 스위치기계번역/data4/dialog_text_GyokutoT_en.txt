@@ -1,0 +1,45 @@
+﻿ID,LineID,face,dialog
+0,0,GyokutoT0c,침입자라니-
+1,0,GyokutoT0c,이런거 못들었는데...
+2,0,GyokutoT0b,분명 이기겠지?
+3,0,GyokutoT0a,훈련한 대로만 움직인다면...
+4,0,GyokutoT1c,에-잇!
+5,0,GyokutoT1b,영-차!
+6,0,GyokutoT1b,이-얍!
+7,0,GyokutoT0a,분명 이렇게 하면...
+7,1,GyokutoT0c,꺄악!
+8,0,GyokutoT0a,제대로 맞힐 수 있을까...
+8,1,GyokutoT2a,꺄악!
+9,0,GyokutoT0a,간다-
+9,1,GyokutoT1a,이렇게 하면...
+9,2,GyokutoT1b,이거다!
+10,0,GyokutoT0b,시험해보자
+10,1,GyokutoT1a,이렇게 하면...
+10,2,GyokutoT1b,이거다!
+11,0,GyokutoT1b,연습한 싸움 방식이야!
+11,1,GyokutoT1a,이렇게 하면...
+11,2,GyokutoT1c,이거다!
+12,0,GyokutoT0b,취급 주의、인가...
+12,1,GyokutoT0a,도망치자!
+13,0,GyokutoT0a,은근히 써보고 싶었어!
+13,1,GyokutoT0b,도망치자!
+14,0,GyokutoT1b,위력이 있으니까!
+14,1,GyokutoT0a,도망쳐!
+15,0,GyokutoT2a,도、도와줘-!
+16,0,GyokutoT0c,적이 안보여-!
+17,0,GyokutoT0c,이런이런、내가 아니라 다행이다...
+18,0,GyokutoT1a,서포트 해버려!
+19,0,GyokutoT0c,여기서 움직이지 않으면 내 체면이...
+20,0,GyokutoT2a,아、아파!
+21,0,GyokutoT0c,이、이런 일이...
+22,0,GyokutoT2a,봐주면 안될까!?
+23,0,GyokutoT0c,당해버려!?
+24,0,GyokutoT0c,이렇게 앞까지 나왔는데...
+25,0,GyokutoT0c,달의 무기가 무섭지 않은거야!?
+26,0,GyokutoT1a,훈련한 보람이 있네!
+27,0,GyokutoT1b,별 거 아니니까!
+28,0,GyokutoT0a,배리어-!
+29,0,GyokutoT1b,에잇!
+30,0,GyokutoT2a,다、당했다-!
+31,0,GyokutoT2a,이、이럴수가...
+32,0,GyokutoT0a,None

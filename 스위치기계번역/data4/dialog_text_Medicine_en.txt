@@ -1,0 +1,78 @@
+﻿ID,LineID,face,dialog
+0,0,Medicine0a,나라면 할 수 있을 것이야!
+1,0,Medicine0a,은방울 꽃의 향기에 이끌린 거네
+2,0,Medicine0a,이제 가까워지지 마!
+3,0,Medicine0a,은방울 꽃밭에서 자세요!
+4,0,Medicine0a,지금이야말로、\n 인형 해방에 향하여 일어설 때!
+5,0,Medicine0a,나의 독으로 넘어지면 좋아요!
+6,0,Medicine0a,독에 당하고 싶은 것일까!
+7,0,Medicine0a,나의 기분은 몰라요!
+8,0,Medicine1a,거기야!
+9,0,Medicine1a,맞아!
+10,0,Medicine1a,맞아 줘!
+11,0,Medicine1a,독의 덩어리야!
+12,0,Medicine0a,봐 주세요~!
+12,1,Medicine1a,네 있고 、네 있고 、네 있고!
+12,2,Medicine0a,이것으로 끝이야
+13,0,Medicine0a,봐 주세요~!
+13,1,Medicine1a,그것、그것!
+13,2,Medicine0a,벌써 끝이군요
+14,0,Medicine0a,독으로 넘어져 버리면 좋아요!
+14,1,Medicine1a,네 있고 、네 있고 、네 있고!
+14,2,Medicine0a,잘 자요
+15,0,Medicine1a,콘파로、콘파로…
+15,1,Medicine1a,독이야 모여라―!
+15,2,Medicine0a,움직이지 못하게 되어 버렸다
+16,0,Medicine1a,콘파로、콘파로…
+16,1,Medicine1a,독으로 빠져라―!
+16,2,Medicine0a,이것으로 좋았던 것이군요
+17,0,Medicine1a,콘파로、콘파로…
+17,1,Medicine1a,독이야 튀어라―!
+17,2,Medicine0a,벌써 끝인 거네
+18,0,Medicine0a,흥、구사일생했군요!
+19,0,Medicine0a,해치워 주기 때문에、기다려 주세요!
+20,0,Medicine0a,이런 건은 심해요!
+21,0,Medicine0a,뭔가 손은 없는거야!?
+22,0,Medicine0a,、어디에 있어!?
+23,0,Medicine0a,당신은 살려 돌려주지 않는다고!
+24,0,Medicine0a,나의 차례는 여기로부터!
+25,0,Medicine0a,결정타는 나야!
+26,0,Medicine0a,무엇으로 멍하니 하고 있는거야!
+27,0,Medicine0a,따로 지켜 주는 것이 아니에요!
+28,0,Medicine0a,이것이라면、해방의 날은 가까워요!
+29,0,Medicine0a,굉장한 상대가 아닌거네
+30,0,Medicine0a,그러면、접근하면 넘어져 버려요
+31,0,Medicine0a,、뭔가의 실수야…!
+32,0,Medicine0a,정말로 당해 버린다!
+33,0,Medicine0a,내가 져 버리다니…
+34,0,Medicine0a,침착해、침착하지 않으면…!
+35,0,Medicine0a,아、상대가 강하다…!?
+36,0,Medicine0a,개、다음은 없기 때문에!
+37,0,Medicine0a,몸을 능숙하게 움직일 수 있지 않아…?
+38,0,Medicine0a,거짓말! 맞아 버렸다!?
+39,0,Medicine0a,지지 않기 때문에!
+40,0,Medicine0a,아프지 않은 것、이제!
+41,0,Medicine0a,꽤 하지 않아!
+42,0,Medicine0a,와、이런 것 맞아도!
+43,0,Medicine0a,이렇게 되는 것이 당연한 것이야
+44,0,Medicine0a,맞을 리가 없어요!
+45,0,Medicine0a,목적이 달콤해지고 있어요!
+46,0,Medicine0a,이제 독이 돌고 있는 것이 아니야?
+47,0,Medicine0a,맞거나 하지 않아요!
+48,0,Medicine0a,좋은 몸 길들이가 되어요
+49,0,Medicine0a,역시 공격을 걸어 오는 거네?
+50,0,Medicine0a,이 정도 간단하구나!
+51,0,Medicine0a,그러면、접근하면 넘어져 버려요
+52,0,Medicine0a,스씨、그 상태야!
+53,0,Medicine0a,에잇!
+54,0,Medicine0a,독으로 독을 제지한다 라는、유카가 말했다
+55,0,Medicine0a,스씨、적은 여기군요!
+56,0,Medicine0a,、아직도!
+57,0,Medicine0a,인가、신체가 움직이지 않는다…
+58,0,Medicine0a,None
+59,0,Medicine0a,너로부터 노예를 해방해요
+60,0,Medicine0a,인형을 혹사하다니!
+61,0,Medicine0a,독 같은 힘을 사용하는 것 같구나
+62,0,Medicine0a,혹시、너도 인형이야?
+63,0,Medicine0a,뭔가 독을 닮은 냄새가 나요…
+64,0,Medicine0a,무엇을 빤히 보고 있는거야!

@@ -1,0 +1,671 @@
+﻿ID,JP
+ACTIVE,강기
+air,공중
+ATP,격투
+barrier_guard,실드방어
+barrier_MT,투명의 무녀
+barrier_wide,광역배리어
+barrier_Yukari,간접공격 무효
+battle_damage_info,데미지계산
+battle_damage_info_base,기본보정
+battle_damage_rate,합계데미지배율
+battle_hit_size,사이즈차보정
+battle_hit_slow,battle_hit_slow
+battle_info_noarmor,장갑관통
+battle_map_weapon,맵공격
+battle_map_weapon_NA,스펠진행후 무효
+battle_sel_guard,방어
+battle_sel_dodge,회피
+battle_sel_nocattack,반격없음
+battle_options_sub,지원
+battle_options_support,원호
+battle_points,얻은 점수
+battle_sel_cattack,반격선택
+battle_sel_FPM_front,(전위)
+battle_sel_FPM_rear,(후위)
+battle_sel_sub,지원공격
+battle_sel_weapon,공격선택
+bg_Abaraya,죽림의 오두막
+bg_Alice,마가트로이드의 집
+bg_AndThen,그리고-
+bg_Bamboo,미혹의 죽림
+bg_Bansho,만상전 회장
+bg_Bazaar,바자회
+bg_Burned,불타버린 지상
+bg_C68B,다시 환상향-
+bg_Cave,수상한 동굴
+bg_Cave_Entrance,동굴입구
+bg_Chireiden,지령전
+bg_Chitei,지저
+bg_Dream,꿈
+bg_Earth,그 무렵 지상-
+bg_Eientei,영원정
+bg_Eientei_Entrance,영원정 문앞
+bg_Eientei_Hallway,영원정 회랑
+bg_Fewdayslater,수일후-
+bg_Flower,꽃밭
+bg_Forest,마법의 숲
+bg_Genbu,현무의 늪
+bg_Hakugyoku,백옥루
+bg_Hieda,히에다 저택
+bg_Hokkai,법계
+bg_Horror,호러 하우스?
+bg_Imo,감자밭
+bg_Jail,유폐소
+bg_Kaiso,회상
+bg_Kakunoko,성련선격납고
+bg_Korindo,향림당
+bg_Koumakan,홍마관
+bg_Koumakan_Dining,홍마관식당
+bg_Koumakan_Gate,홍마관정문앞
+bg_Koumakan_imushitsu,홍마관 의무실
+bg_Koumakan_Int,홍마관
+bg_Koumakan_Kitchen,홍마관 부엌
+bg_Koumakan_Library,대도서관
+bg_Koumakan_Remilia,레밀리아의 방
+bg_Lake,안개의호수
+bg_Lake_sky,안개의호수 상공
+bg_Makai,마계
+bg_Marisa,마리사의 집
+bg_Meikai,명계
+bg_Mokou,모코우의 집
+bg_MoonCapital,달의도시
+bg_Moriya,모리야 신사
+bg_Mountain,요괴의 산
+bg_Mountain_Entrance,요괴의 산 입구
+bg_Mountain_Jukai,요괴의 수해
+bg_Mountain_Kappa,캇파의 계곡
+bg_Mountain_River,요괴의 산
+bg_Mugen,몽환세계
+bg_Mugen_Deep,몽환세계최심부
+bg_Mugenkan,몽환관
+bg_Nedoko,비밀 잠자리
+bg_NextMorning,다음날 아침 홍마관-
+bg_Night,그날 밤-
+bg_Party,파티 회장
+bg_Pond,늪지
+bg_Recollection,회상
+bg_Road,오솔길
+bg_RoadtoShrine,신사로이어지는 작은길
+bg_Rose,장미 정원
+bg_Saigyo,사이교우아야카시
+bg_Seirensen_Bridge,성련선함교
+bg_Seirensen_Deck,성련선갑판
+bg_Seirensen_Dining,성련선식당
+bg_Seirensen_Hall,성련선담화실
+bg_ShallowDream,꿈의 여울
+bg_Shizuka,고요의 바다
+bg_Shrine,하쿠레이신사
+bg_Shrine_Back,하쿠레이신사 뒷편
+bg_Space,우주공간
+bg_Suzunaan,영나암
+bg_Suzuran,은방울꽃밭
+bg_ThatNight,그날 밤-
+bg_Unkai,운해
+bg_Unknown,???
+bg_Village,인간 마을
+bg_Waterside,물가
+bg_Winter,겨울-
+bg_Yukari,???
+bomb,영격
+bonus_acquired,보너스 획득함
+bonus_failed,보너스 획득에 실패하였습니다.
+bonus_skill_item,스킬「{}」의 효과로 아이템「{}」을 얻었다!
+bonus_skill_point,스킬「{}」의효과로 보너스 점수{}보너스 PP{}를 얻었다!
+BOSS,보스
+BRAVE,초강기
+bul_both,「양측」
+bul_enemy,「적군」
+bul_player,「아군」
+bullet,탄막
+can_support,지원가능
+CAREFUL,신중
+catk_dodge,회피한다
+catk_guard,방어한다
+catk_none,반격불능
+change_now,현재 장비
+change_options,장비타입
+chap_default,제 {} 화
+chap_ei,영의 장
+chap_EX,막간
+chap_final,최종장
+chap_format,{}／{} 「{}」
+chap_format_IM,{}／{}
+chap_kou,홍의 장
+chap_meko,메코의 장
+chap_ost,드림 어게인
+chap_sakuya,사쿠야의 장
+chap_you,요의 장
+chap_yume,최종장
+clear_beat,격추수
+clear_beat_tot,합계격추수
+clear_beaten,피 격추수
+clear_beaten_tot,합계 피 격추수
+clear_EX,보너스조건
+clear_EX_tot,보너스조건 달성률
+clear_level,난이도
+clear_lose,전멸횟수
+clear_lose_tot,합계전멸횟수
+clear_point,획득점수
+clear_point_tot,합계획득점수
+clear_save,세이브횟수
+clear_save_tot,합계세이브횟수
+clear_spell,획득 스펠수
+clear_spell_tot,스펠획득률
+clear_time,클리어시간
+clear_time_tot,합계클리어시간
+clear_turn,클리어 턴
+clear_turn_tot,합계클리어 턴
+CLEVER,교활
+comma,
+compat,적응
+conf_edit_clear,출격 예정인 유닛을 다시 선택합니다. 괜찮습니까?
+conf_edit_random,현재 편성을 해제하고 랜덤으로 선택합니다. 괜찮습니까?
+conf_turn_end,턴을 종료하시겠습니까?
+conf_turn_end2,미행동 유닛이 {}개 있습니다.\n턴을 종료하시겠습니까?
+conf_edit_remove,{}를 대기시킵니다. 괜찮습니까?
+COOL,냉정
+CRT,기량
+DEF,방어
+dict_ability,능력
+dict_appear,등장작품
+dict_title,이명
+diff_normal,시뮬레이션 RPG 경험자거나\n적당한 고난을 원하시는 분에게. \n(난이도는 나중에 변경할 수 있습니다.)
+diff_lunatic,어떤 불합리든 와 봐라. 무슨일이 있든 두렵지 않다.\n기특하신 분에게. \n(난이도는 나중에 변경할 수 있습니다.)
+diff_hard,시뮬레이션 RPG를 정말 좋아하고.\n어려운게 좋으신 분에게. \n(난이도는 나중에 변경할 수 있습니다.)
+diff_easy,시뮬레이션 RPG를 처음 플레이하시는 분이나\n척척 게임을 진행하고싶은 분에게. \n(난이도는 나중에 변경할 수 있습니다.)
+EXP,경험치
+format_battle_info_land,상대지형적응({})
+format_battle_info_land2,무기지형적응({})
+format_gen,「{}」
+format_load_start,출격메뉴
+format_load_turn,{}턴째
+format_pairname,{}/{}조
+format_title,「{}」
+geki,격추수
+gen_counter,카운터
+gen_cure,회복
+gen_cure_SP,SP회복
+gen_none,없음
+gen_on,있음
+gen_sattack,원호공격
+gen_select_target,대상선택
+gen_sguard,원호방어
+gen_spirit,정신
+ground,땅
+help_ascending,오름차순
+help_back,돌아간다
+help_back_menu,메뉴로돌아간다
+help_background,배경
+help_backlog,백로그
+help_bench_end,마지막 유닛 빼기
+help_body,전신 그래픽
+help_celebrate,축하한다
+help_choose_list,목록에서 선택
+help_choose_mark,마크
+help_close,닫기
+help_cursor,커서 가속
+help_decending,내림차순
+help_detach,벗기
+help_detail,상세
+help_dict_sort_A,작품순
+help_dict_sort_B,오십음순
+help_edit_bench,대기로 돌리기
+help_edit_global,전체메뉴
+help_edit_grab,위치변경
+help_edit_release,위치결정
+help_edit_tune,강화메뉴
+help_enter,결정
+help_exchange,교환
+help_face,얼굴 그래픽
+help_fastforward,빠르게
+help_go,출격!
+help_jump,점프
+help_jump_en,적으로 점프
+help_jump_pl,아군에게 점프
+help_marker,마커 배치
+help_next,다음으로
+help_open,열기
+help_pause,일시정지
+help_play,재생
+help_play_open,재생해서 열기
+help_previous,앞에
+help_select,선택
+help_skip,스킵
+help_sort,정렬
+help_status,스테이터스
+help_switch,표시전환
+help_switch_face,표정을 바꾼다
+help_tune_bonus,풀강화보너스를 선택한다.
+help_tune_tune,강화한다
+help_tune_wbonus,MAX Ex보너스를 선택한다.
+help_undo,되돌린다
+help_unit_air,지형을 「공중」 으로 합니다. 유닛의 지형적응 「공중」이 S이상이라면 명중률과 회피율과 방어력이 오릅니다.
+help_unit_apart,합체유닛을 원래 유닛으로 분리합니다. 분리후의 HP와 MP는 합체했을때와 같은 비율이 됩니다.
+help_unit_attack,무기를 선택하여 공격합니다.
+help_unit_bomb,영격을 하나 소비하여 자기 주변의 탄막을 지웁니다. 또한 적 유닛에게 2500데미지를 줍니다.
+help_unit_change,유닛 성능을 변화시킵니다. 잔탄수 등은 「변화」 후 인계됩니다.
+help_unit_change2,유닛 성능을 변화시킵니다. 잔탄수 등은 「변화」 후 인계됩니다.
+help_unit_collect,인접한 아군유닛을 「착함」 시킵니다. 성련선은 행동종료가 되지만 「착함」한 유닛은 행동종료가 되지 않습니다.
+help_unit_combine,특정 유닛들이 합체하여 합체유닛이 됩니다.
+help_unit_cure_HP,아군유닛의 HP를 회복시킵니다. 자신의 레벨이 높을수록 더 많이 회복됩니다.
+help_unit_cure_MP,아군유닛의 MP와 잔탄을 최대치의 반 만큼 회복시킵니다.
+help_unit_end,행동을 종료합니다.
+help_unit_fast,「고속」모드가 됩니다. 이동력은 높지만 탄막 안에선 회피율과 방어력과 이동력이 저하됩니다.
+help_unit_FPM,전위와 후위에서 원하는 무기를 선택해서 동시에 공격합니다. 각 스테이지마다 한번씩만 쓸 수 있습니다.
+help_unit_ground,지형을 「땅」 으로 합니다. 유닛의 지형적응 「땅」이 S이상이라면 명중률과 회피율과 방어력이 오릅니다.
+help_unit_item,장비중인 아이템을 사용합니다. 사용한 아이템은 장비칸에서 사라지지만 다음 스테이지에서 부활합니다.
+help_unit_load,성련선에 착함합니다. 착함중엔 HP MP 탄수가 회복하고 성련선과 함께 이동할 수 있습니다.
+help_unit_move,유닛을 이동시킵니다.
+help_unit_pursuade,적유닛과 이야기를 합니다.
+help_unit_slow,「저속」모드가 됩니다. 이동력은 낮고 회피시 그레이즈가 발생하지만 특수효과를 제외한 탄막의 효과를 무효화합니다.
+help_unit_spirit,SP를 소비하여 정신 커맨드를 사용합니다 SP는 매 턴 조금씩 회복됩니다.
+help_unit_status,유닛의 스테이터스를 표시합니다
+help_unit_switch,전위와 후위를 교대합니다. 후위는 지원공격이나 원호방어를 통해 전투에 참가합니다.
+help_unit_uground,지형을 「지중」 으로 합니다. 지형이나 지형이나 탄막의 영향을 받지않고 이동할 수 있지만 공격등의 커맨드를 사용할 수 없습니다.
+help_unit_unique,유닛의 고유 커맨드를 사용합니다.
+help_unit_unload,성련선에 착함중인 아군유닛을 출격시킵니다. 일부 커맨드는 사용할 수 없습니다.
+help_unit_water,지형을 「물」 으로 합니다. 유닛의 지형적응 「물」이 S이상이라면 명중률과 회피율과 방어력이 오릅니다.
+help_use_all,한꺼번에 사용
+help_zoom,줌
+HIT,명중
+im_change,전환
+im_change_msg_in,{}이 편성 화면으로 복귀합니다. 괜찮습니까?
+im_change_msg_out,{}이 편성 화면에서 제외됩니다. 괜찮습니까?
+im_change_msg_switch,{}가 편성 화면으로 복귀하고 {}가 제외됩니다. 괜찮습니까?
+im_clear,출격 유닛 비우기
+im_equip,장비
+im_help_Ace,격추수가 50 이상인 캐릭터를 축하합니다
+im_help_change,유닛의 환장타입을 선택합니다.
+im_help_edit,다음 스테이지의 출격 유닛을 편성합니다
+im_help_equip,유닛의 장비를 교환합니다
+im_help_library,라이브러리를 봅니다.
+im_help_list,유닛성능 일람을 정렬하여 표시합니다.
+im_help_load,데이터의 로드를 합니다.
+im_help_NewGame,메코나 마쿠라와 이야기합니다.
+im_help_Meko,메코와 마쿠라가 직전의 맵을 되돌아봅니다.
+im_help_newgame,획득점이나 Ex-P를 이어가며 1화부터 플레이합니다.
+im_help_nextmap,다음 맵으로 넘어갑니다.
+im_help_save,데이터 세이브를 합니다.
+im_help_saveload,데이터의 세이브나 로드를 합니다.
+im_help_tune,유닛 강화나 스킬 습득을 합니다.
+im_help_tune_skill,특수 스킬을 기억하게 합니다.
+im_help_tune_unit,유닛의 성능을 강화합니다.
+im_help_yome,유닛의 Ex레벨을 상승시킵니다.
+im_pairname,페어 명 변경
+im_random,랜덤 편성
+im_skill,스킬 습득
+im_skill_acquire,{}을 습득합니다. 괜찮습니까?
+im_skill_msg_conf,PP를 스테이터스를 강화합니다.괜찮습니까?
+im_skill_msg_error,PP가 부족합니다.
+im_skill_replace,{}를 빼고 {}를 습득합니다. 괜찮습니까?
+im_skill_reset,{}를 재습득합니다. 괜찮습니까?
+im_skill_tune,{}의 레벨을 1 상승시킵니다. 괜찮습니까?
+im_skill_unset,{}를 일시적으로 제거합니다. 괜찮습니까?
+im_sort_bench,대기유닛 정렬
+im_status,유닛 능력
+im_text_skill,PP를 소비하여 스킬을 습득합니다.한번 습득한 스킬은 언제든지 탈부착이 가능합니다.
+im_text_status,PP를 소비하여 스테이터스를 강화합니다.높게 올릴수록 대량의 PP가 필요합니다.
+im_title_Ace,에이스를 축하한다
+im_title_chat,회담실
+im_title_edit,편성
+im_title_library,라이브러리
+im_title_list,유닛 일람
+im_title_load,로드
+im_title_Meko,메코와 이야기한다
+im_title_newgame,주회 플레이
+im_title_nextmap,다음 맵으로
+im_title_save,세이브
+im_title_saveload,세이브 / 로드
+im_title_tune,강화
+im_tune,유닛강화
+im_tune_conf,{}를강화합니다. 괜찮습니까?
+im_tune_status,스테이터스 강화
+im_yome,Ex강화
+im_yome_conf,{} 의Ex레벨을 {} 으로 올립니다. 괜찮습니까?
+im_yome_done,Ex레벨이 {} 로 올랐다!
+item_num,소유수
+item_text_NA,미습득 아이템입니다.
+item_text_none,아무것도 장비하고 있지 않습니다.
+item_title_bonus,보너스
+item_title_get,획득UP
+item_title_HP,HP/장갑
+item_title_special,특수
+land_air,공중
+land_ground,땅
+land_night,밤
+land_water,물
+landscape,지형
+learning,심상
+lib_chart0,시나리오 타이틀
+lib_chart1,최소클리어턴
+lib_chart2,?????
+library_title0,환상향연기
+library_title1,환소대 음악실
+library_title2,스펠카드 취득표
+library_title3,시나리오 차트
+library_title4,중단 메세지
+library_title5,용어집
+list_display,|페어|페어/상세|단일|
+loading,세이브데이터 확인중...({}/{})
+max_tune_conf,풀강화보너스를 선택합니다. 괜찮습니까?
+max_tune_suspend,풀강화보너스의 선택을 유보합니다.(강화화면에서 다시 선택할 수 있습니다.)
+max_tune_title,풀강화보너스
+max_yome_conf,MAX Ex보너스를 선택합니다. 괜찮습니까?
+max_yome_text,MAX Ex보너스의 선택을 유보합니다.(강화화면에서 다시 선택할 수 있습니다.)
+max_yome_title,MAX Ex보너스
+menu_map_help_list,아군 또는 적유닛의 일람을 표시합니다.
+menu_map_help_load,각 턴개시시의 상태를 로드합니다. (최대99턴째까지)
+menu_map_help_purpose,승리조건/패배조건/보너스조건을 확인합니다.
+menu_map_help_save,현재 상태를 세이브합니다.
+menu_map_help_search,아군이 소유한 정신 커맨드를 검색합니다.
+menu_map_help_turn,아군 조작을 종료되고 적이 행동을 시작합니다.
+menu_map_list,부대표
+menu_map_purpose,작전목적
+menu_map_search,정신커맨드 검색
+menu_map_turn,턴 종료
+menu_map_save,중단 세이브
+menu_unit_air,공중
+menu_unit_apart,분리
+menu_unit_attack,공격
+menu_unit_bomb,영격
+menu_unit_change,변화
+menu_unit_change2,전환
+menu_unit_collect,회수
+menu_unit_combine,합체
+menu_unit_cure_HP,치료
+menu_unit_cure_MP,보급
+menu_unit_end,대기
+menu_unit_fast,고속
+menu_unit_FPM,풀파워모드
+menu_unit_ground,지상
+menu_unit_item,아이템
+menu_unit_load,착함
+menu_unit_move,이동
+menu_unit_pursuade,설득
+menu_unit_slow,저속
+menu_unit_spirit,정신커맨드
+menu_unit_status,스테이터스
+menu_unit_switch,교대
+menu_unit_uground,지중
+menu_unit_unique,고유커맨드
+menu_unit_unload,출격
+menu_unit_water,수중
+MGR,사격
+MOV,이동
+msg_add_change,{}에게 환장타입 {}가 추가되었다!
+msg_add_item,아이템 {}을 입수했다!
+msg_add_skill,{}가 고유스킬「{}」을 습득했다!
+msg_add_special,{}에게 특수능력「{}」가 추가되었다!
+msg_add_spirit,{}가 정신 커맨드「{}」을 습득했다!
+msg_add_units,{}가 동료로 들어왔다!
+msg_add_weapon,{}에게 무기「{}」가 추가되었다!
+msg_battle_block,베어내기
+msg_battle_combi,합체공격
+msg_battle_crit,크리티컬
+msg_battle_graze,그레이즈
+msg_battle_guard,실드방어
+msg_battle_spellbreak,스펠 브레이크
+msg_bonus,보너스 조건을 클리어했다!(보너스 점수 10000 획득)
+msg_bonus_fail,보너스 획득 실패!
+msg_bonus_get_WP,Ex-P을 입수했다!
+msg_bonus_NA,전멸 후엔 보너스를 습득할 수 없습니다.
+msg_conf_bomb,영격을 사용합니까?
+msg_conf_specials,{}을 플레이합니다. 괜찮습니까?
+msg_DBZ,초인화해제
+msg_gameover,게임오버!
+msg_load_conf1,{}턴 개시시의 데이터를 로드합니다. 괜찮습니까?
+msg_load_conf2,출격직전의 데이터를 로드합니다. 괜찮습니까?
+msg_no,아니오
+msg_play_Meko,주회 플레이는 특별편 「메코의 장」클리어후 해금됩니다. 스타트 화면의 「SPECIALS」에서 플레이해주세요!
+msg_skill_acquire,고유스킬「{}」을 습득했다!
+msg_skill_detach,스킬을 해제합니다.재습득시 PP는 소모되지 않습니다.
+msg_song_buf,스테이터스상승
+msg_spell_fail,스펠카드획득실패!
+msg_spell_got,스펠카드획득!
+msg_stageclear,스테이지 클리어!
+msg_wait_for_update,주회 플레이는 이후 업데이트로 해방됩니다.잠시만 기다려주세요!
+msg_yes,네
+music_arranged_by,어레인지
+music_composed_by,작곡
+music_orig_song,원곡
+name_slow,(저속)
+newgame_conf,이 멤버로 괜찮습니까?
+night,밤
+nosize,사이즈차보정무시
+OPT,낙천가
+options_comp_ratio,총합달성률                          %
+options_from,출신작
+order_edit,편성순
+order_slot,슬롯수
+order_touhou,작품순
+order_tune,강화율
+PASSIVE,약기
+penetrate,배리어 관통
+point_remaining,남은 점수
+point_required,필요 점수
+power,파워
+PRY,회피
+range,사정
+remaining,남음
+remaining_bul,잔탄
+result_item,획득 아이템
+risk_title,위험도
+save_conf,세이브를 합니다.괜찮습니까?
+save_conf_SLG,세이브를 해도 괜찮습니까?(현재 데이터는 덮어씁니다.)
+save_create,신규 데이터를 작성합니다. 괜찮습니까?
+save_done,세이브가 완료되었습니다.
+save_done_SLG,세이브를 했습니다. 게임을 중단합니까?
+save_level,난이도
+save_load,이 데이터를 로드합니다. 괜찮습니까?
+save_nodata,데이터가 없습니다.
+save_overwrite,\이 데이터를 덮어씁니다. 괜찮습니까?
+save_overwrite_clear,주회 플레이에는 본 클리어 데이터가 필요합니다!정말로 덮어써도 괜찮겠습니까?
+save_point,점
+save_quit,세이브를 종료해도 괜찮습니까?
+save_time,플레이시간
+select_end,출격
+select_help_edit,출격유닛을 편성합니다.
+select_help_end,출격하여 전투를 시작합니다
+select_help_map,맵을 열람합니다.
+select_help_save,데이터의 세이브를 합니다.
+select_map,맵 확인
+shortcut_fast,고속
+shortcut_slow,저속
+shortcut_swap,교대
+skill,스킬
+SOKO_BUL,저력 (탄막)
+souki_NA,선택할 수 없습니다.
+souki_title,트라우마 선택
+specials_text_Meko,꿈 이변이 끝나고 얼마간의 세월이 흘렀다.\n과거 이변의 흑막인 메코와 마쿠라도\n환상향의 어느 구석에서 조용히 살고있었으나\n메코에겐 조금 신경쓰이는 일이 있었다.\n그때 만난 사나에 일행들로부터어떤 이야기를 듣는데...?(전5화)
+specials_text_OST,꿈 이변이 끝나고 몇주후.\n각자 갈 길을 가며 헤어지고\n우연한 만남 뒤의 외로움을 느끼면서도\n다들 평온한 일상을 보내고 있었다.\n그러던 중 신사의 연회에서 무언가가 화제가 되는데...?(전3화)
+specials_text_Sakuya,플랑드르와의 싸움 이후 어느정도 뒤.\n도서관의 벽을 수리하고 있는 홍마관의 일원들이었으나\n사쿠야는 어딘가 어두운 표정을 짓고 있었다.\n아무래도 수일 전\n유카에게서 어떤 이야기를 들은 것 같은데...?(전4화)
+spell_turns,턴
+spirit,정신
+spirit_cat0,HP회복
+spirit_cat1,MP SP회복
+spirit_cat2,획득 업
+spirit_cat3,파워상승
+spirit_cat4,데미지상승
+spirit_cat5,명중 회피 방어
+spirit_cat6,특수
+spirit_cat7,적성능 다운
+spirit_cat8,이동 행동
+spirit_cat9,복합효과
+spirit_NA,습득한 유닛이 없습니다.
+spirit_tar,효과대상
+spirit_tar_depends,커맨드 의존
+spirit_tar_enemy_all,적전체
+spirit_tar_enemy_single,적선택
+spirit_tar_neighbors,인접유닛
+spirit_tar_self,자신({})
+spirit_tar_unit_all,아군전체
+spirit_tar_unit,아군선택({})
+spirit_tar_single,단일
+spirit_tar_pair,페어
+start_conf_level,난이도 {} 로 괜찮습니까?
+start_conf_route,주인공 {} 로 괜찮습니까?
+start_route_Marisa,환상향에 사는 지극히 평범한 마법사.\n기동력과 폭발력이 우수하여 「탄막은 파워」란 말 그대로\n고화력과 긴 사정거리의 공격으로 적을 압도한다.
+start_route_Reimu,하쿠레이의 무녀 씨.\n수행부족이지만 타고난 재능을 활용하여\n「피하고 맞춘다」를 해내는 올라운더.
+start_title_Marisa,보통의 마법사
+start_title_Reimu,낙원의 멋진 무녀
+status,스테이터스
+status_armor,장갑
+status_cost,코스트
+status_mobility,운동성
+status_move,이동력
+status_move_all,이동(저속)
+status_size,사이즈
+status_skill_active,특수스킬 발동
+status_special,특수능력
+status_special_active,특수능력 발동
+status_weapon,무기
+support_NA,원호없음
+suspend,보류한다
+suspended,보류중
+tbonus0,HP +3000
+tbonus1,MP +150
+tbonus2,운동성 +20
+tbonus3,장갑 +500
+tbonus4,무기공격력 +300
+tbonus5,고속 저속이동력 +1
+tbonus6,무기사정 +1
+tbonus7,명중률 +20%
+tbonus8,지형적응 공중 땅 물 -> S
+tbonus9,배리어계의 소비MP없음
+temper,기질
+text_ATP,격투 성능에 영향을 준다. 수치가 높을수록 검 마크가 붙은 공격의 데미지가 상승한다.
+text_CRT,명중 성능에 영향을 준다. 상대와 차이가 클수록 크리티컬이나 카운터 등의 발동확률이 오른다.
+text_DEF,방어 성능에 영향을 준다. 수치가 높을수록 피탄시의 데미지가 감소한다.
+text_HIT,명중 성능에 영향을 준다. 수치가 높을수록 공격을 명중시키기가 쉬워진다.
+text_MGR,사격 성능에 영향을 준다. 수치가 높을수록 사격 마크가 붙은 공격의 데미지가 상승한다.
+text_PRY,회피 성능에 영향을 준다. 수치가 높을수록 적의 공격을 회피하기 쉬워진다.
+text0143,...유감입니다.
+text0144,동방프로젝트의 세계에서 사용되는 용어와\n환소대의 독자설정을 내가 알기쉽게 설명해주지.
+text0145,게임을 중단했을때의 메시지를 제가 녹음해놨습니다.
+text0146,게임중 이런저런 일들의 설명을 제가 쉽게  설명해드릴게요.
+text0147,타이틀로 돌아갑니다.  \n...조금만 더 저와 느긋하게 있어주시지 않겠습니까?
+text0150,지금까지 얻은 스펠카드의 표를 볼 수 있습니다. \n포기하지 말고 힘내주세요.
+text0151,지금까지 등장한 캐릭터의 사전을 볼 수 있습니다.\n환상향연기를 편찬한건 저라구요.
+text0152,지금까지 들어본 음악을 들을 수 있습니다. \n한손엔 홍차를 들어주세요.
+text0156,환상소녀대전 제일의 메카닉 카와시로 니토리가 설정할게.
+text0159,나와 함께 환상소녀대전의 역사를 복습하자.\n졸면 벌이라구.
+text0174,「환상소녀대전」은\n상하이앨리스환악단의 저작물인\n「동방 프로젝트」의 팬 게임 입니다.
+text0199,코이시「분명...」
+text0200,코이시「나의 마음을...」
+text0201,코이시「분명...?」
+text0202,코이시「어디야 언니?」
+text0203,코이시「어두워서 무서워.」
+text0204,코이시 (언니 찾았다.)
+text0211,사토리「...이 안에 있는 코이시가 느껴져...」
+text0212,사토리「나도야. 그래도...」
+text0213,사토리「꼭 믿고 앞으로 나아가봐.」
+text0214,사토리「여기야 코이시. 조금 더 앞에.」
+text0215,사토리「여러가지가 마음을 받쳐줄거야.」
+text0216,사토리 (...이 세계는 불완전하고 잔혹해.\n상처받지 않고 살아간다는건 불가능해.)
+text0217,사토리 (...그래도 마음을 강하게 먹으면\n불안에 지지않고 살아갈수 있다고 생각해.)
+text0218,사토리 (...나는 약해서 항상 불안에 견딜수가 없었어...)
+text0219,사토리 (너와 함께 진심으로 마음을 담아 웃고싶어. \n그러니까...)
+text0220,사토리 (그래도 강해지고싶어. \n힘든 순간에도 소망을 품고 살아갈수 있도록...)
+text0221,사토리 (불안도 분명 사라지지는 않아. \n어떡하면 좋을지에 대한 답은 분명 없어...)
+text0222,사토리 (느껴줘 코이시.)
+text0223,사토리 (어둠속에서도 빛을 찾아서 나아갈수 있단다.)
+text0247,마쿠라「...훌륭하다...!」
+text0248,마쿠라「부서져가...! 나의 꿈과 이상이!」
+text0263,앨리스「여기는 환상향과 마계의 경계야.\n공간이 불안정해져있어.
+text0264,앨리스「날아가버리면 어디로 갈지 모르니까 조심해」
+gen_spellcard,스펠카드
+text0502,이치린「무라사. 출구가 보이기 시작했어.」
+text0503,이치린「안돼! 피할 수가 없어!」
+text0672,큰양「...오오...」
+text0673,큰양「...오오...!」
+text0674,큰양「...오오오오오오옷...!」
+text0720,유카「...후후후후후! 즐거웠단다!」
+text0721,유카「...결국 거짓말이구나...」
+text0722,유카「...아름답네...」
+text0723,유카「이것이 너의 대답...」
+text0724,유카「정교하며 진실같은 거짓...」
+text0855,무라사「알겠어! 다들 무언가를 붙잡아!」
+text0856,무라사「왼쪽으로 뱃머리를 돌린다!」
+text1104,아큐「...게이트에 진입성공. 계기판은 전부 엉망진창입니다!」
+text1106,아큐「꺄아아아아악!!」
+text1144,마리사「젠장! 나는 이런곳에서...!」
+text1145,마리사「무슨...!? 어째서 당신이 여기에...?!」
+text1171,??「이 녀석이 나의 마법이다!」
+text1172,??「이런이런. 너가 생각하는 나의 마법은 이런거냐.」
+text1173,??「못난 제자를 가진 스승은 고생한다는 거지!」
+text1174,??「잊었다면 보여주지...」
+text1175,??「사라져라! 환상이여!」
+gen_text_omit,~
+think,생각한다
+TOTAL,합계
+total,합계
+tune_bonus,강화보너스
+unit,유닛
+unknown,??
+UNKNOWN,??
+gen_uskill,고유스킬
+gen_skill,범용스킬
+warn_cost_over1,출격코스트를 넘기고 있습니다.
+warn_cost_over2,출격코스트를 넘습니다.
+water,물
+wbonus_cure,턴개시시에 MP와 탄수가 최대치의 50%만큼 회복한다.
+wbonus_cure_SP,턴개시시에 SP가 최대치의 20%만큼 회복한다.
+wbonus_damage,주는 최종 데미지가 1.1배.(효과는 다른 보정과 중복)
+wbonus_fix,고정 보너스
+wbonus_range,최대사정이 1인 무기를 포함해 전 무기 사정+2더해서 고속이동력에 +2 저속이동력에+1.
+wbonus_select,선택 보너스x2
+wbonus_slot,장비슬롯수를 1 늘립니다.(고유스킬등의 보정을포함해 최대4개까지)
+wbonus0,행동횟수+1
+wbonus1,획득경험치PP점수 1.5배
+wbonus2,최대SP+100
+wbonus3,최대파워+30
+wbonus4,장비슬롯+1
+wbonus5,최종데미지1.1배
+wbonus6,사정+2이동력+2
+wbonus7,매턴MP탄수50%회복
+wbonus8,매턴SP20%회복
+weapon_buf,다운
+weapon_compat,지형적응
+weapon_damage,공격력
+weapon_MP,소비MP(현재)
+weapon_MP2,소비MP
+weapon_name,무기명
+weapon_partner,필요유닛
+weapon_pow,필요파워(현재)
+weapon_souki,상기
+weapon_special,공격특성
+weapon_type,형
+weapon_type,종류
+weapon_type0,이동후사용가능
+weapon_type1,레이저속성
+weapon_type2,실탄속성
+weapon_type3,맵공격
+weapon_type4,합체공격
+window_beaten,피 격추
+window_bonus,보너스
+window_spell,스펠
+WP_remaining,남은Ex-P
+WP_required,필요Ex-P
+yome_bonus,Ex보너스
+yome_lv,Ex-Lv
+dialog_Tensoku,비상천칙「
+battle_info_damage,공격효과
+msg_42Common,「풀 파워 모드」가 해방되었다!
+msg_02Meko,레밀리아에게 우산을 돌려주었다!
+msg_68Common,뱌쿠렌의 무장이 강화되었다!
+msg_config_BGM,BGM 설정을 변경했습니다.
+msg_config_gen,설정을 변경했습니다.
+spirit_type,지속타입
+battle_info_damage_net,최종보정
+battle_sel_demo,전투데모
+battle_sel_start,전투개시
+msg_warn_no_newgame,특별편에선 주회 플레이를 할 수 없습니다.
+gen_bullet_effect,탄막효과
+msg_conf_change_NazSho,{}의 환장 타입은 해제됩니다. 괜찮습니까?
+gen_infty,∞
+final_result_title,총합전적
+msg_conf_save_ED,엔딩 전에 세이브를 합니까? 세이브 화면을 닫거나 데이터를 로드하면 엔딩으로 이행됩니다.
+ED_credit_all,제작 산본당 한패 Published by Phoenixx Inc.
+msg_bonus_PP,모든 유닛이 PP를 {} 만큼 얻었다!
+msg_bonus_geki,모든 유닛의 격추수가 {}만큼 늘었다!

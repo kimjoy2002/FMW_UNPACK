@@ -1,0 +1,195 @@
+﻿ID,LineID,face,dialog
+0,0,Patchouli0a,더 이상、\n 나의 도서관에서 날뛰게 하지 않는다
+1,0,Patchouli4e,… 적당、나가 받아요
+2,0,Patchouli0a,… 뭐、실험도 겸해
+3,0,Patchouli0a,쥐 잡아 정도、\n 스스로 하지 않으면
+4,0,Patchouli0c,네─와、\n 눈앞의 적을 효율적으로 넘어뜨리는 방법은…
+5,0,Patchouli4c,… 뭐、이것도 교제중이군요
+6,0,Patchouli0a,여기라면 물건이 망가질 걱정은 없네요
+7,0,Patchouli1d,당신들에게 상관하고 있을 여유는 없어요
+8,0,Patchouli1d,이대로라면、\n 프랑이 밖에 나와 버리는거야!
+9,0,Patchouli4f,레미도 참、하필이면 \n 이 녀석들을 기 비비는걸!
+10,0,Patchouli0a,외부인은 떠나세요
+11,0,Patchouli0a,환상향의 인간은 \n 어떤 마법을 사용할 수 있을까
+12,0,Patchouli0c,인간의 마법사、\n 어떤 솜씨인가 보여 받아요
+13,0,Patchouli0a,같은 마법사로서 \n 간단하게 뒤쳐질 수 없어요
+14,0,Patchouli0c,이 마법사、방심할 수 없네요
+15,0,Patchouli0a,갓빠라고 하는 것은 재미있는 것을 만드는 거네
+16,0,Patchouli0a,이상한 도구…\n 저것이 과학이라는 것이군요
+17,0,Patchouli4c,같은 인간이 사쿠야를 내린다고는
+18,0,Patchouli0a,이 마법사의 \n 화력에는 조심해야 하는 것
+19,0,Patchouli1d,이 마법사에게는 틈을 보여지지 않는다
+20,0,Patchouli0c,그 인형、어떤 마법인 것일까
+21,0,Patchouli0a,어떤 도구를 가지고 있을까. \n 아직 예상이 붙지 않아요
+22,0,Patchouli0a,도구로부터 한 눈을 팔지 않게 하지 않으면
+23,0,Patchouli1d,마리사、\n 이 건에까지 머리를 들이밀지 마
+24,0,Patchouli1d,마리사、당신들은 외부인이지요
+25,0,Patchouli1d,앨리스、이것이 차선의 방법인 것이야
+26,0,Patchouli1d,앨리스、당신들은 외부인이지요
+27,0,Patchouli1d,니토리、딴 곳의 일에 \n 말참견을 해야 할 것은 아니에요
+28,0,Patchouli1d,니토리、당신들은 외부인이지요
+29,0,Patchouli0a,불길이야
+30,0,Patchouli0c,불의 정령이야、타고
+31,0,Patchouli0a,… 책에 불타고 옮기지 않는 정도로
+32,0,Patchouli0a,유도성의 체크도 겸해… 와
+33,0,Patchouli1a,도망갈 장소는 없어요
+34,0,Patchouli1c,전방위 레이저、발사
+35,0,Patchouli1a,이 레이저는、\n 당신을 놓치지 않는다
+36,0,Patchouli0a,등방적인 것에 \n 방향은 존재하지 않는… 즉、논디레크쇼날
+37,0,Patchouli0c,청정한 물의 힘으로、\n 조금은 얌전해지세요
+38,0,Patchouli0c,… 당신은 조금 시끄럽다
+39,0,Patchouli1d,물의 정령이야、정화해
+40,0,Patchouli0a,조금、조용하게 해 받아요
+41,0,Patchouli1a,수부 『프린세스운디네』
+42,0,Patchouli0a,나무의 정령이야、불을 도와라
+42,1,Patchouli1a,화＆목부 『포레스트 블레이즈』
+43,0,Patchouli0a,당신은 피할 수 없어요
+43,1,Patchouli1d,불과 나무의 정령이야、\n 다 구우세요
+44,0,Patchouli0a,자、불타 빛나고…
+44,1,Patchouli1a,화＆목부 『포레스트 블레이즈』
+45,0,Patchouli0a,… 달에 대신해
+45,1,Patchouli1a,월부 『사이렌트세레나』!
+46,0,Patchouli0a,… 소중히 간직함의 마법을 \n 보여 주어요
+46,1,Patchouli1c,월부 『사이렌트세레나』!
+47,0,Patchouli0a,월부 『사이렌트세레나』
+47,1,Patchouli1b,정화되세요!
+48,0,Patchouli0a,가차 없이 배제해요
+48,1,Patchouli1a,월부 『사이렌트세레나』!
+49,0,Patchouli1c,일부 『로열 플레어』
+50,0,Patchouli1b,… 하늘에 자리 해、생을급 있고 해 일륜이야…
+51,0,Patchouli0c,빗나감
+52,0,Patchouli0a,… 나보다 멀리서이라니、\n 자주(잘) 해요
+53,0,Patchouli0a,… 당신은 자주(잘) 했어요
+54,0,Patchouli0a,원호해요
+55,0,Patchouli0a,원호해요
+56,0,Patchouli4e,… 아직 뭔가 방법이 있을 것이야
+57,0,Patchouli2a,… 눌러 잘라지기 전에、\n 눌러 자르지 않으면 안 된다
+58,0,Patchouli4e,… 눌러 잘라지기 전에、\n 눌러 자르지 않으면 안 된다
+59,0,Patchouli4c,간단하지는 않네요
+60,0,Patchouli1b,책을 손상시키면 공짜로는 끝내지 않아요
+61,0,Patchouli2a,저 녀석들을 \n 넘어뜨린 것 뿐의 일은 있다
+62,0,Patchouli4a,조금 전의 피로가 빠지지 않아요
+63,0,Patchouli0c,… 그러면 효과가 없네요
+64,0,Patchouli1d,방해를 하지 말아 줘!
+65,0,Patchouli1d,어째서 당신들이 방해 하는거야
+66,0,Patchouli4a,참는 일도 필요、는
+67,0,Patchouli4e,… 나에게 주고 받아지다는、\n 집중력이 부족하다
+68,0,Patchouli4e,의지가 느껴지지 않아요
+69,0,Patchouli4f,이야기도 안 돼요
+70,0,Patchouli0c,… 그 정도의 공격에서는、\n 나에게 닿지 않는다
+71,0,Patchouli4f,베어버려는、\n 할 수 있을 이유 없지요
+72,0,Patchouli0a,선수는 받아요
+73,0,Patchouli0c,… 아직도 지금부터
+74,0,Patchouli2a,… 이 근처가 물러나 때일까
+75,0,Patchouli4c,오늘의 상태라면、\n 뭐 이런 것이군요
+76,0,Patchouli1d,당신들、\n 이것으로 어떻게 될까 알고 있는 거야?
+77,0,Patchouli4c,이런 것、향하지 않아요
+78,0,Patchouli0b,귀찮고、이것으로 좋네요
+79,0,Patchouli0c,모퉁이에서 두드리면 아플 것이야
+80,0,Patchouli0b,시간은 들이고 싶지 않아요
+81,0,Patchouli0b,답례를 받읍시다
+82,0,Patchouli0c,이대로는 끝내지 않아요
+83,0,Patchouli0b,나의 마법을 보여 준다
+84,0,Patchouli0c,네─와、\n 눈앞의 상대를 효율적으로 넘어뜨리는 방법은…
+85,0,Patchouli0b,이것이 마법사의 마법이야
+86,0,Patchouli0b,수다를 할 생각은 없어요
+87,0,Patchouli0c,상대를 얕잡아 보지 않는 것이 좋네요
+88,0,Patchouli0c,소악마、도와 받아요
+89,0,Patchouli0b,소악마、여기에 오세요
+90,0,Patchouli0b,… 책이 손상되지만
+91,0,Patchouli4c,… 뭐、이 책은 얼룩이 있었고
+92,0,Patchouli0c,라고―
+93,0,Patchouli1a,불길이야
+94,0,Patchouli1c,불의 정령이야、타고
+95,0,Patchouli1c,… 책에 불타고 옮기지 않는 정도로
+96,0,Patchouli1a,유도성의 체크도 겸해… 와
+97,0,Patchouli1a,도망갈 장소는 없어요
+98,0,Patchouli1c,전방위 레이저、발사
+99,0,Patchouli1a,이 레이저는 당신을 놓치지 않는다
+100,0,Patchouli1c,등방적인 것에 \n 방향은 존재하지 않는…\n 즉、논디레크쇼날
+101,0,Patchouli1c,… 당신은 조금 시끄럽다
+102,0,Patchouli1a,물의 정령이야、정화해
+103,0,Patchouli1c,조금、조용하게 해 받아요
+104,0,Patchouli1a,나무의 정령이야、불을 도와라
+104,1,Patchouli1c,화＆목부 『포레스트 블레이즈』
+105,0,Patchouli1a,당신은 피할 수 없어요
+105,1,Patchouli1c,불과 나무의 정령이야、\n 다 구우세요
+106,0,Patchouli1a,자、불타 빛나고…
+106,1,Patchouli1c,화＆목부 『포레스트 블레이즈』
+107,0,Patchouli0b,소중히 간직함의 마법을 \n 보여 주어요
+107,1,Patchouli0c,할 수 있어요、소악마
+107,2,Koakuma1a,네、파츄리님!
+107,3,Koakuma1a,영력을 증폭하는 마법장을 전개…
+107,4,Patchouli0c,달의 마력을 개방해요
+107,5,Patchouli1c,월부 『사이렌트세레나』!
+108,0,Patchouli0b,이것을 받으면 \n 공짜로는 끝나지 않는다
+108,1,Patchouli0c,소악마、해요
+108,2,Koakuma1a,서포트는 맡겨 주세요!
+108,3,Koakuma1c,이 날을 위해서(때문에) 기억한 마법으로…
+108,4,Patchouli0c,모두를 고요하게 돌려보내는 달의 마법…
+108,5,Patchouli1c,월부 『사이렌트세레나』!
+109,0,Patchouli0b,원거리 포격으로 섬멸해요
+109,1,Patchouli0c,소악마、저것이야
+109,2,Koakuma3d,네、저것이군요!
+109,3,Koakuma3a,파츄리님과 하나가 되면…!
+109,4,Patchouli4e,… 혼잡한 틈을 노려 \n 무슨 말을 하고 있는 거야?
+109,5,Patchouli0c,『사이렌트세레나』… 리리브!
+110,0,Patchouli0b,여기는 관망으로 합시다
+111,0,Patchouli4a,손을 댈 수 없네요
+112,0,Patchouli4c,내가 공격 할 수 없다는…
+113,0,Patchouli4e,… 나보다 멀리서이라니、\n 자주(잘) 해요
+114,0,Patchouli4d,… 당신은 자주(잘) 했어요
+115,0,Patchouli0b,내려、추격을 걸쳐요
+116,0,Patchouli0b,이렇게 해 자신들의 페이스에 \n 가지고 가는거야
+117,0,Patchouli0d,이런 것은 자신있어요
+118,0,Patchouli4c,너무 기대하지 않으면 좋아요
+119,0,Patchouli4e,이것으로 만족할까
+120,0,Patchouli4e,… 어쩔 수 없네요
+121,0,Patchouli4b,너무 열심히 된 것이야…
+122,0,Patchouli0c,자신있지 않기 때문에、\n 나머지 무리는 너무 하지 않는 것
+123,0,Patchouli0b,소악마、자주(잘) 눈을 끌어 주었어요
+124,0,Patchouli4c,주객이 전도하고 있어요
+125,0,Patchouli4e,… 무엇을 정신나가고 있는거야
+126,0,Patchouli4e,주인도 아닌 상대를 감싸다는、\n 완전히 고지식한 것이니까…
+127,0,Patchouli0b,미스즈、자주(잘) 틈을 만들었군요
+128,0,Patchouli0c,미스즈、그대로 상대를 움직이지 마
+129,0,Patchouli0c,비싸게 들기 때문에、기억해 두도록(듯이)
+130,0,Patchouli4c,어째서 내가 당신을 \n 지키지 않으면 안 되는 것일까
+131,0,Patchouli4d,이래서야 레미에 \n 라고 말해질까…
+132,0,Patchouli0b,사쿠야、뒤는 맡겨 두세요
+133,0,Patchouli0b,사쿠야、능숙하게 몰아넣어 주었어요
+134,0,Patchouli0c,사쿠야、무엇을 방심하고 있는 거야?
+135,0,Patchouli0c,사쿠야답지 않네요
+136,0,Patchouli4b,… 좀 더 제멋대로로 되어야 하는 것
+137,0,Patchouli0c,마리사、자신있는 화력도 \n 조금 부족했던 것 같구나
+138,0,Patchouli0c,마리사、내가 추격해요
+139,0,Patchouli0b,마리사、마법사라면 \n 자신의 위기에는 민감하지 않으면
+140,0,Patchouli4f,전만 보고 있기 때문
+141,0,Patchouli5a,내가 밀리고 있어…?
+142,0,Patchouli4a,… 아직 뭔가 방법이 있을 것이야
+143,0,Patchouli2a,… 눌러 잘라지기 전에、\n 눌러 자르지 않으면 안 된다
+144,0,Patchouli4f,마치 성질의 나쁜 농담이예요
+145,0,Patchouli4c,형세는 유리하다고는 말할 수 없네요…
+146,0,Patchouli2a,움직임에 유혹해져서는 안 되지만…
+147,0,Patchouli2a,간단하지는 않네요
+148,0,Patchouli4c,인내는 싫지만…
+149,0,Patchouli0b,참는 일도 필요、는
+150,0,Patchouli4e,시간이 걸리고 있을 수 없지만
+151,0,Patchouli4c,… 높게 붙어요
+152,0,Patchouli1c,… 기억해 있으세요
+153,0,Patchouli1b,책에 상처가 나면 \n 허락하지 않아요
+154,0,Patchouli4f,… 나에게 주고 받아지다는、\n 집중력이 부족하다
+155,0,Patchouli4e,의지가 느껴지지 않아요
+156,0,Patchouli4e,이야기도 안 돼요
+157,0,Patchouli0b,어떻게든 계속 참고 싶네요
+158,0,Patchouli0d,어머나、능숙하게 말했군요
+159,0,Patchouli0c,… 그러면 효과가 없네요
+160,0,Patchouli0c,그러면 통할 리가 없어요
+161,0,Patchoulia,상정 대로에 일하고 있는 것 같네
+162,0,Patchouli1a,나의 마법 장벽은 완벽해요
+163,0,Patchouli1c,… 그 정도의 공격에서는、\n 나에게 닿지 않는다
+164,0,Patchouli4f,베어버려는、\n 할 수 있을 이유 없지요
+165,0,Patchouli0b,이대로 발이 묶임[足止め] 할 수 있으면 좋은데
+166,0,Patchouli0b,선수는 받아요
+167,0,Patchouli4e,… 이 근처가 물러나 때일까
+168,0,Patchouli4f,패배를 인정해요、\n 그 배로 쉬게 해 줘

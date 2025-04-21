@@ -1,0 +1,171 @@
+﻿ID,LineID,face,dialog
+0,0,Toyohime0b,오물은 소독… 이라고 해 버려
+1,0,Toyohime0a,지루함은 시키지 않으면 좋은 거네
+2,0,Toyohime0a,반보성의 원리는 알고 있어?
+3,0,Toyohime0a,받은 것은、돌려주지 않으면
+4,0,Toyohime0a,그러면、답례해요
+5,0,Toyohime0a,공짜로는 끝내지 않아요
+6,0,Toyohime0a,나라도 탄막은 할 수 있는거야
+7,0,Toyohime0a,달의 사자의 리더로서 부끄러워하지 않게…
+8,0,Toyohime0a,아고코로님에게 좋은 곳을 보이지 않으면
+9,0,Toyohime0a,받으세요
+10,0,Toyohime0a,보이고 있어요
+11,0,Toyohime0a,그러면…
+12,0,Toyohime0a,피해서는 안 돼요
+13,0,Toyohime0a,이것은 비장의 꼰 끈의 1개…
+13,1,Toyohime0a,결코 끊어지지 않는 인연인 것이야
+13,2,Toyohime0a,그렇게、영원히 말야
+14,0,Toyohime0a,펨트파이바를 사용해요
+14,1,Toyohime0a,받으세요
+14,2,Toyohime0b,이봐요、튼튼하겠지요?
+15,0,Toyohime0a,확실히、이 근처에…
+15,1,Toyohime0a,그것!
+15,2,Toyohime0a,이것이 펨트스케이르야
+16,0,Toyohime0a,펨트라고는 알기 쉽게 말하면 잠시 동안…
+16,1,Toyohime0b,… 생략!
+16,2,Toyohime0a,즉、이런 일이군요
+17,0,Toyohime0a,이 땅에서 사용하고 싶지는 않지만…
+17,1,Toyohime0a,이 땅에서 사용하고 싶지는 않지만…
+17,2,Toyohime0a,조심해 받으세요
+17,3,Toyohime2b,곧바로 그전대로로 해 두지 않으면…
+18,0,Toyohime0a,이것도 숙명이다면…
+18,1,Toyohime0a,이것도 숙명이다면…
+18,2,Toyohime0a,최대한、아름답고…
+18,3,Toyohime0a,정화의 경치는 어울리지 않네요
+19,0,Toyohime0a,무기와는 이렇게 사용하는거야
+20,0,Toyohime0a,이것이 달의 병기의 힘이야
+21,0,Toyohime0b,정말로 사용해도 좋은거네?
+22,0,Toyohime0b,우쭐거려 있으세요
+23,0,Toyohime1a,건방지구나
+24,0,Toyohime0a,복수 하는 의리는 있어
+25,0,Toyohime0a,불려 왔어요
+26,0,Toyohime0a,예쁘게 하는 것은 맡겨 둬
+27,0,Toyohime0a,우의하、이것을 받읍시다
+28,0,Toyohime0a,한눈 팔기는 금물이야
+29,0,Toyohime0a,그 장소、바뀝시다
+30,0,Toyohime1a,둘이서 힘을 합합시다
+31,0,Toyohime1a,능숙하게 해 주세요
+32,0,Toyohime1a,심부름을 하면 좋은거네
+33,0,Toyohime1a,여기로부터라도 닿아요
+34,0,Toyohime1a,솜씨를 배견 해요
+35,0,Toyohime0a,뒤에 남아 있으면 좋지만
+36,0,Toyohime0a,이것이 지상의 법식의 진수인 거네
+37,0,Toyohime0a,잘못해도 말려 들어가지 않도록요
+38,0,Toyohime0a,여기에、산과 바다가 사귀고 있어요
+39,0,Toyohime0a,레이센、훌륭한 기능이군요
+40,0,Toyohime0b,레이센、나머지를 예쁘게 해 버려요
+41,0,Toyohime0b,레이센、뒤는 맡겨 둬
+42,0,Toyohime0a,위축 하지 않아도 상관없어요
+43,0,Toyohime0a,애완동물을 지키는 것도 소양이군요
+44,0,Toyohime1a,확실히 하세요、레이센
+45,0,Toyohime1a,레이센、도와 주어요
+46,0,Toyohime1a,전위 맡겼어요、레이센
+47,0,Toyohime1a,당신이라면 능숙하게 하겠지요
+48,0,Toyohime1a,레이센、능숙하게 해 줘
+49,0,Toyohime0a,레이센、지상의 법식을 가까이서 보고 싶어요
+50,0,Toyohime0a,레이센、월의 위광을 나타내는거야
+51,0,Toyohime2a,카구야님에게 이러한 일을…!
+52,0,Toyohime0a,카구야님、조력 하겠습니다
+53,0,Toyohime0a,카구야님、뒤는 맡겨 주세요
+54,0,Toyohime0a,카구야님、조심해 주세요
+55,0,Toyohime0a,카구야님의 위기를 간과할 수는…
+56,0,Toyohime0a,카구야님、돕게 해 주세요
+57,0,Toyohime0a,카구야님、지상의 법식을 배우게 해 주세요
+58,0,Toyohime0a,지상의 보물을 보여 주세요
+59,0,Toyohime0a,카구야님、뒤에 앞두고 있습니다
+60,0,Toyohime0a,카구야님、힘을 합합시다
+61,0,Toyohime0a,월경품도 카구야님의 보물에 뒤떨어지지 않습니다
+62,0,Toyohime0a,카구야님、조금이라도 달을 느껴 주세요
+63,0,Toyohime0a,카구야님、탄막을 맞추게 해 주세요
+64,0,Toyohime2a,아고코로님에게 무슨 일을…!
+65,0,Toyohime0a,아고코로님、조력 하는 것을 허락해 주세요
+66,0,Toyohime0a,아고코로님、후의 시말은 맡겨 주세요
+67,0,Toyohime2a,아고코로님에게 상처를 입힌다 따위…
+68,0,Toyohime0a,아고코로님、삼가하고 있습니다
+69,0,Toyohime0a,아고코로님의 보조자를 합니다
+70,0,Toyohime0a,소망이라면、바로 앞과 다릅니다
+71,0,Toyohime0a,아고코로님의 손을 번거롭게 할 수 있기 전에…
+72,0,Toyohime0a,아고코로님、지상의 법식을 배우게 해 주세요
+73,0,Toyohime0a,아고코로님、함께 시켜 주세요
+74,0,Toyohime0a,아고코로님、조금이라도 달을 느껴 받을 수 있으면…
+75,0,Toyohime0a,아고코로님、부디 탄막을 맞추어 주세요
+76,0,Toyohime0a,아고코로님、나의 지금을 봐 주세요
+77,0,Toyohime2a,요리히메、당치 않음을 너무 했어…
+78,0,Toyohime0a,요리히메、당신은 다음의 상대를 보고 있으세요
+79,0,Toyohime0a,요리히메、뒤는 나에게 맡겨 둬
+80,0,Toyohime0a,요리히메、장소를 바뀝시다
+81,0,Toyohime0a,요리히메、방심했을까?
+82,0,Toyohime0a,이 한때를 소중히 하고 싶네요
+83,0,Toyohime0a,요리히메、뒤로 보고 있어요
+84,0,Toyohime1a,요리히메、힘을 합합시다
+85,0,Toyohime1a,요리히메、지상의 법식에 따릅시다
+86,0,Toyohime1a,요리히메、너무 하지 않도록요
+87,0,Toyohime0a,요리히메、월의 위광을 나타내는거야
+88,0,Toyohime0a,자、면월의 지금을 보일 때
+89,0,Toyohime0a,요리히메、\n 부끄럽지 않은 싸우는 모습을 합시다
+90,0,Toyohime0a,레이센、훌륭한 기능이군요
+91,0,Toyohime0b,레이센、나머지를 예쁘게 해 버려요
+92,0,Toyohime0b,레이센、뒤는 맡겨 둬
+93,0,Toyohime0a,위축 하지 않아도 상관없어요
+94,0,Toyohime0a,애완동물을 지키는 것도 소양이군요
+95,0,Toyohime1a,확실히 하세요、레이센
+96,0,Toyohime1a,전위 확실히、레이센
+97,0,Toyohime1a,실패해도 화내거나 하지 않아요
+98,0,Toyohime1a,레이센、도와 주어요
+99,0,Toyohime1a,레이센、능숙하게 해 줘
+100,0,Toyohime0a,레이센、\n 부끄럽지 않은 싸우는 모습을 합시다
+101,0,Toyohime0a,레이센、월의 병기의 진가를 보입시다
+102,0,Toyohime0a,레이센、월의 위광을 나타내는거야
+103,0,Toyohime0a,읽기를 효과가 있게 하면 간단해요
+104,0,Toyohime0a,지금은 좋은 곳을 보여 주고 싶은 것
+105,0,Toyohime0a,이 공격은 더러워질 것 같으니까…
+106,0,Toyohime1a,더러워져 버렸어요、누군가씨의 탓으로
+107,0,Toyohime0a,추접하네요
+108,0,Toyohime0a,접하지 않아 주셔?
+109,0,Toyohime2b,상황은 좋지 않네요
+110,0,Toyohime2a,이것은 승복 할 수 없는 흐름이군요
+111,0,Toyohime2a,… 화나게 하고 싶은 것일까?
+112,0,Toyohime0a,아―、있던 말하고 싶다
+113,0,Toyohime0b,좋은 공격이었던 원이군요、\n 지금의만 허락해 줍시다
+114,0,Toyohime2b,추한 곳 보였군요
+115,0,Toyohime0a,짖는 것 만이 아닌 것 같네
+116,0,Toyohime0a,추접하네요
+117,0,Toyohime0a,이것은 여러가지 입다물지 않아요
+118,0,Toyohime2c,어이쿠…
+119,0,Toyohime0a,맞지 않네요
+120,0,Toyohime0a,제대로 노렸을까
+121,0,Toyohime0a,총알이 피해 가요
+122,0,Toyohime1a,더러워져 버렸어요、누군가씨의 탓으로
+123,0,Toyohime0a,추접하네요
+124,0,Toyohime0a,안 되는、조금 더러워졌을까
+125,0,Toyohime0a,이제 한번 밀기[一押し]이야、노력해
+126,0,Toyohime1a,그런 것일까?
+127,0,Toyohime0b,그 필사적임、매우 지상인것 같아요
+128,0,Toyohime0a,쓸데없는 일을 해요
+129,0,Toyohime0a,방해군요
+130,0,Toyohime0a,결과가 같으면、빠른 것이 좋을 것입니다?
+131,0,Toyohime0a,입장을 바꿔 넣는다니 간단해요
+132,0,Toyohime2b,아、아고코로님의 앞에서…
+133,0,Toyohime2a,이것은 서투르구나…
+134,0,Toyohime0a,좋은 운동이 되었어요、\n 뒤는 모두에게 맡겨요
+135,0,Toyohime0a,여기까지、\n 뒤는 복숭아에서도 먹고 있을까요
+136,0,Toyohime2a,아고코로님에게로의 무례、\n 용서되는 일은 없다고 아세요
+137,0,Toyohime0a,지상의 요괴의 \n 분을 가르쳐 주어요
+138,0,Toyohime0a,모습이 비슷해도、\n 완전히 다른 거네
+139,0,Toyohime0a,유사품이라고는 말해라、\n 꺼려지지만…
+140,0,Toyohime0a,카구야님、무례를 허락해 주세요
+141,0,Toyohime0a,달의 병기의 진가를 \n 모사할 수 있는 것은 아니에요
+142,0,Toyohime0a,이런 야만스러운 여동생이 아니고 좋았어요
+143,0,Toyohime0a,마쿠라 원까지 \n 안내했으면 좋아요
+144,0,Toyohime0a,그런 식으로 불완전하게 사용해 좋은 \n 능력은 아닌거야
+145,0,Toyohime0a,그렇게、단념하지 못할거네
+146,0,Toyohime0a,꿈을 조종하는 힘은、\n 경계해 마땅하구나
+147,0,Toyohime0a,유감스럽지만、\n 당신의 꿈은 여기까지
+148,0,Toyohime0a,모두를 소립자에 돌아가、\n 꿈을 끝냅시다
+149,0,Toyohime0a,꿈을 조종하는 힘은、\n 경계해 마땅하구나
+150,0,Toyohime0a,유감스럽지만、\n 당신의 꿈은 여기까지
+151,0,Toyohime0a,모두를 소립자에 돌아가、\n 꿈을 끝냅시다
+152,0,Toyohime0a,응원하고 있어요、요리히메
+153,0,Toyohime0a,잘 노력하고 있어요
+154,0,Toyohime0a,그것을 동료에게 향하여 총격당하는 것은 조금…
+155,0,Toyohime0a,달의 병기끼리의 싸움이군요

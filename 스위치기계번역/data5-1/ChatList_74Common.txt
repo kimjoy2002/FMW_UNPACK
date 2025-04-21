@@ -1,0 +1,3121 @@
+﻿○共通第七十四話「Tribute」
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: 3PP
+ 5: first battle before the event
+ 6: 5 PP-1(SLG-1)
+ 7: 5 PP-2(ADV)
+ 8: 5 PP-3(SLG-2)
+ 9: first battle after the event
+10: after first battle vs. SheepL
+11: beat SheepL (clear)
+12: lose (Prism beaten)
+13: lose (Seirensen beaten)
+14: ADVB
+15: beat Onamazu (any moment)
+16: after battle vs. SheepL (before event 10)
+17: extra
+18-36: battle (after the event)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=18,FROM=メルヘン世界,TO=夢幻世界3,name=夢幻世界,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_potion>
+
+Toyohime0b:「… 네, 이것으로 준비 OK야」
+
+Koishi6c:「오─, 먼 곳까지 보이게 되었다」
+
+Korin1b:「굉장하구나, 렌즈를 교환한 것 뿐으로
+ 여기까지 모니터의 성능이 오르는 것인가」
+
+Eirin0a:「펨트테크노로지의 응용이군요.
+ 이것이 있으면, 조금 전과 같은 적습도 짐작 할 수 있어요」
+
+Kosuzu6a:「도구라고 말하는 것은
+ 굉장한 것이군요」
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+LilyW0a:「여러분, 수고 하셨습니다!」
+
+Reisen0c:「따뜻한 것, 아무쪼록」
+
+Suwako3a:「옷, 센스가 있지 않아.
+ 정확히 목이 마르고 있던 것이다」
+
+Shinki0b:「… 아라, 이것은 매화의 꽃?」
+
+LilyW4d:「적중입니다, 토끼씨와 나의 합작이에요!」
+
+Reisen0d:「지상에서는 봄인 것으로,
+ 계절감이 있을까나라고 생각해서」
+
+Kaguya3e:「달의 이나바가 계절이라니,
+ 지상의 백성과 같은 것을 말하는 거네」
+
+Reisen0a:「뭐, 릴리의 도용입니다만」
+
+LilyW4b:「토끼씨도,
+ 룰루랄라였지 않습니까」
+
+Toyohime2c:「정말로 사이가 좋네요.
+ 지상에 친구가 있다고는 (들)물었지만…
+
+Toyohime0c:「하필이면,
+ 달속에 있다는 궁전에서 기피 되는 요정이었다니」
+
+Reisen0c:「알고 있습니다만,
+ 지금은 지상에 있는 것이고」
+
+Toyohime0b:「확실히 그렇구나,
+ 우리도 아고코로님을 만나고 있는걸.
+
+Toyohime0c:「조사동안 정도,
+ 황홀한 기분으로 있게 해 받읍시다」
+
+Reisen0d:「몽환 세계에 있고, 문자 대로군요」
+
+Korin2c:「그러나, 조사라고 해도
+ 다음은 어디에 향하는 것이 좋겠지.
+
+Korin0b:「악몽의 핵이라는 것을 찾아내는 것이,
+ 지금의 목표이지만…」
+
+Akyu4a:「몽환 세계에 오고 나서 여기,
+ 예상하지 않은 것 뿐입니다.
+
+Akyu3e:「어디에 가면 무엇이 있는지,
+ 상상도 할 수 없네요」
+
+Satori0b:「모두는 인간의 꿈나름,
+ 그렇다고 하는 곳입니까」
+
+Koishi3a:「꿈이군요─, 응…
+
+Koishi1a:「원래, 꿈은 뭘까?」
+
+LilyW0d:「헷…?」
+
+Korin0a:「어떤 의미야?
+ 요괴에서도 꿈은 본다고 생각하지만…」
+
+Koishi2b:「그런 것일까.
+ 알고 있는 것 같아 잘 모른다는」
+
+Eirin0a:「대답은 여러가지이지만,
+ 환상향의 인간에게 있어서는 마음을 나타내는 것…
+
+Eirin1d:「단적으로 말하면,
+ 가장 가까운 이세계라고 말할 수 있어요」
+
+Reisen0b:「이세계는…?」
+
+Akyu0a:「꿈과 현실의 구별이 되지 않는다…
+ 라든지 말합니다만, 우리 인간에게 있어
+ 꿈은 요행도 없는 하나 더의 현실입니다.
+
+Akyu3a:「그러니까, 꿈으로 좋은 일이 있으면 기쁘며
+ 나쁜 일이 있으면 낙담하거나 합니다」
+
+Koishi2b:「그러면, 이변으로 인간들이 가고 있는 것도…」
+
+Korin2c:「꿈이라고 하는 하나 더의 현실로,
+ 공포를 심어지고 있기 때문이구나」
+
+Suwako0b:「밖의 세계에서는,
+ 꿈은 뇌의 작용이라고 결론짓고 있기 때문에
+ 그렇게는 안 되겠지만…」
+
+Satori0c:「환상향의 인간은, 꿈의 세계를 믿고 있는 분
+ 영향이 클 것입니다」
+
+Shinki0c:「… 거기에, 감도는 꿈 속에
+ 많은 사람의 생각을 느껴요.
+
+Shinki0a:「반드시 이것은,
+ 환상향으로부터 모아진 사람들의 꿈인 거네」
+
+Toyohime0a:「어쨌든, 무엇이 일어나도 좋도록
+ 마음가짐만은 해 둡시다.
+
+Toyohime0b:「메기나 로보트가 나온 정도이고,
+ 이번은 마왕에서도 나올지도 모릅니다」
+
+Koishi0b:「마왕인가―, 조금 즐거운 듯 같다…
+
+Koishi0a:「… 응?」
+
+Satori0a:「어떻게든 한, 코이시?」
+
+Koishi6c:「그 안개의 곳,
+ 사람 같은 것이 떠 있다―」
+
+Reisen0b:「사, 사람은…?」
+
+Kosuzu0a:「그런 이유 없어요,
+ 조금 전의 교환한 도구에 쓰레기라도 붙어…
+
+Kosuzu1a:「읏, 사실이다―!
+ 나보다 작은 아이예요!」
+
+Korin1c:「이런 곳에,
+ 어린아이의 연령의 정도도 가지 않은 소녀가 감돌고 있다니…」
+
+Shinki5a:「큰 일, 미아일지도 몰라요!」
+
+Reisen0b:「분명하게 이상해요,
+ 조금은 의심해 주세요!」
+
+Suwako1c:「그렇지만, 특별한 힘은 느끼지 않고
+ 정신을 잃고 있는 것 같다.
+
+Suwako0a:「방치할 수도 없고,
+ 우선 보호할까」
+
+Eirin1d:「에에, 의무실의 준비를 부탁」
+
+<BG=bg_talk_Seirensen_Hall.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_ningyo>
+
+Lunasa1b:「최후는 presto… 힘차게」
+
+Merlin1c:「짜잔… 와」
+
+<SE=se_talk_clap01.ogg,wait=1>
+
+Yuyuko1c:「멋져요~, 모두」
+
+Komachi1c:「변함 없이 떠들썩하다.
+ 기분 전환에는 딱 좋아」
+
+Murasa3b:「분위기 타기가 좋아서, 유체에 직접 영향을 주네요」
+
+Merlin1a:「고마워요~! 그렇지만…」
+
+Lyrica1b:「어떻게 생각하는, 누나?」
+
+Lunasa0b:「… 아무것도 잡을 수 없다. 재시도야」
+
+Mima2a:「너희들, 아직 계속하는지?
+ 전의 출격으로부터 훨씬이 아닌가」
+
+Youmu0b:「신경이 쓰이는 일이 있는 것 같습니다만…
+ 연주는 언제나 대로 굉장해요」
+
+Merlin2a:「그렇구나,
+ 우리의 기분의 문제일까…」
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+Reimu0f:「소란스럽다고 생각하면,
+ 역시 너희들이었던 것이군요」
+
+Sanae4a:「연주가 들렸으므로,
+ 구경꾼에게 와 버렸습니다」
+
+Marisa0d:「모두 모여, 연습에서도 하고 있는지?」
+
+Murasa0d:「아, 모두…」
+
+Youmu4b:「르나사씨들이,
+ 확인하고 싶은 것이 있다 라고 말하므로,
+ 모두가 연습에 교제하고 있던 것입니다」
+
+Alice0a:「확인해?」
+
+Merlin0b:「에에, 우리들의 지주…」
+
+Lunasa0b:「즉, 존재 의의를 찾고 있었다」
+
+Reimu0e:「하아, 존재 의의는…」
+
+Marisa0e:「이것 또 엉뚱하구나.
+ 도대체 어떻게 한 것이야?」
+
+Lunasa0a:「… 조금 전의 탄막전에서는,
+ 모두는 자신의 삶의 방법에 확신이 있었기 때문에
+ 악몽을 깰 수가 있던 것이지요.
+
+Lunasa0b:「하지만, 우리들은 그렇지 않아」
+
+Lyrica4a:「쭉 연주대 하고 있지만,
+ 언제, 무엇을 위해서 시작했는지 기억하지 않네요」
+
+Sanae0g:「무엇을 위해서, 입니까…」
+
+Marisa0d:「소령인 것이고,
+ 그러한 것이라는 것은 안 되는 것인가?」
+
+Mima0c:「그렇게 말하면 그걸로 끝이지만,
+ 우리들, 육체를 가지지 않는 유령에 있어
+ 존재하는 이유는 무엇보다 중요한 것이야.
+
+Mima2a:「그 녀석을 잃으면, 같은 영혼에서도
+ 헤매거나 폭주하거나 한다」
+
+Sanae1a:「그렇게 말하면,
+ 미마씨의 가짜가 그런 느낌이었지요」
+
+Komachi4a:「시키에이키님도, 너희들에 대해
+ 비슷한 일이 걱정되고 있었어.
+
+Komachi0a:「자신의 지주를 찾는 것은,
+ 반드시 너희들을 위해서(때문에)도 될 것이다」
+
+Alice2c:「그런 일이라면,
+ 우리도 협력하지만…
+ 뭔가 단서는 없는거야?
+
+Alice0d:「확실히, 당신들의 집은
+ 역사가 있을 것 같은 건물이었네요」
+
+Merlin0a:「그렇지만,
+ 저기에 살고 있는 것도 왠지 모르게이고」
+
+Murasa0d:「유유코씨는 교제해 길지요.
+ 뭔가 모릅니까?」
+
+Yuyuko1d:「그렇구나,
+ 옛부터 자주(잘) 명계에 와 주고 있었다고 생각하지만…
+
+Yuyuko2a:「아무것도 기억하지 않아, 미안해요」
+
+Lunasa0a:「아니오, 유유코씨가 사과하는 것이 아니다」
+
+Lyrica0b:「그렇지만, 우선
+ 옛부터 명계에 다녔었던 것은 확실하다―…
+
+Lyrica4a:「읏, 원래 처음은
+ 어째서 명계에 간 것이던가―?」
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Satori0a:「… 그럼,
+ 다음은 여기의 사람들에게 (들)물어 봅시다」
+
+Shinki0b:「만약 알고 있는 사람이 있으면,
+ 누나들에게 가르쳐」
+
+<hide=all>
+
+Layla0a:「… 응…」
+
+</hide>
+
+Lunasa0a:「…?」
+
+Marisa0d:「무엇이다, 또 구경꾼인가?」
+
+Alice1b:「어머니, 그 아이는…」
+
+Shinki5a:「돌연 미안해요~. 근처에서 미아가 되어 있었기 때문에,
+ 성련선에 실어 주는 일이 되었어」
+
+Lyrica1b:「미아는─?
+ 이런 곳에 있다니 도대체…」
+
+<hide=name>
+
+Layla0a:「……」
+
+</hide>
+
+Merlin2a:「…?」
+
+Lunasa0a:「… 그 아이는…」
+
+Youmu2b:「여러분, 알고 있습니까?」
+
+Lunasa0b:「… 아니오.
+ 조금 여동생들을 닮아 있다고 생각한 것 뿐」
+
+Reimu0e:「말해져 보면, 조금 모습이 있어요」
+
+<hide=name>
+
+Layla0a:「……」
+
+</hide>
+
+Satori0b:「여러분도 모릅니까.
+ 실은, 신원이 알지 않기 때문에 물어보고 다니고 있습니다.
+
+Satori0c:「이유는 불명합니다만,
+ 기억의 대부분이 빠져 있는 것 같네요」
+
+Lyrica1b:「기억이?」
+
+Shinki5a:「에에,
+ 가족의 이름도 생각해 낼 수 없는 것 같아서…
+
+Shinki5a:「다만, 누나가
+ 세 명 있다는 것만은 기억하고 있는 것 같다」
+
+Merlin1a:「세 명이네~.
+ 우리도 3 자매이니까, 조금 공감해 버린다」
+
+Lunasa1b:「그럼, 그 누나들은…」
+
+<hide=name>
+
+Layla0a:「… 누나…
+
+Layla1a:「… 어디엔가 말해 버렸다.
+ 그러니까, 찾고 있어…」
+
+</hide>
+
+Lyrica4a:「… 그런가, 놓쳐 버린 것이구나―」
+
+Mima0c:「그렇다 치더라도, 몽환 세계에 있다니 묘하다.
+ 어떻게 헤맨 거야?」
+
+<hide=name>
+
+Layla0a:「… 모른다. 무언가에 끌려갔어.
+
+Layla0a:「어딘가로부터, 굉장히 큰 힘으로…」
+
+</hide>
+
+Reimu0f:「큰 힘이군요.
+ 그것뿐으로는 막연히 하고 있지만…」
+
+Sanae3b:「어느 쪽으로부터 와 있다든가,
+ 뭔가 모를까요」
+
+<hide=name>
+
+Layla1a:「… 큰 힘…
+
+Layla0a:「… 저쪽의 (분)편」
+
+</hide>
+
+Komachi0c:「저쪽, 인가.
+ 우리들에게는 모르는 뭔가를,
+ 이 아이는 느끼고 있는 것 같다」
+
+Alice0a:「어쩌면,
+ 대메기가 말하고 있었던 악몽의 핵일지도 몰라요」
+
+Satori0a:「현시점에서는 유일한 단서입니다.
+ 향해 볼 가치는 있습니다」
+
+Marisa0a:「그러면, 브릿지로 안내해 받자구.
+ 리리카들도 함께 와라」
+
+Lyrica5a:「우, 우리?」
+
+Merlin0b:「돌연이군요, 어째서…」
+
+Alice0d:「이 아이도 자매답고,
+ 교제하기 쉽고 좋은 것이 아닐까」
+
+Satori0c:「확실히,
+ 이상하게 낯가림하고 있지 않는 것 같습니다」
+
+Lyrica4d:「그런 일 말해져도,
+ 세상이야기는…」
+
+<hide=name>
+
+Layla0a:「… 리리카 누나…」
+
+</hide>
+
+Lyrica2a:「우…!」
+
+Shinki0b:「아라아라, 사랑받아 버렸군요」
+
+Marisa0a:「누이동생뻘 되는 사람 이라는 것인가.
+ 좋았다, 막내의 너가 누나 흔들리겠어」
+
+Lyrica5a:「그, 그럴지도 모르지만,
+ 갑자기 의지해져도…!」
+
+Merlin2b:「지금만 4 자매라는 느낌이군요!
+ 나는 좋아요~」
+
+Lunasa0a:「그런데,
+ 그 아이의 이름을 아직 (듣)묻지 않았었다」
+
+<hide=name>
+
+Layla0a:「… 나의 이름…」
+
+</hide>
+
+Yuyuko3a:「… 혹시, 그것도 잊어 버렸을까?」
+
+<hide=name>
+
+Layla0a:「… 우응, 기억하고 있다.
+
+</hide>
+
+Layla1a:「나는, 레이라…」
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1 PP(출격전)
+
+Lunasa0a:「… 그럼,
+ 큰 힘은 여기로부터 느끼는 거네」
+
+Layla1a:「응, 좀 더 앞…」
+
+Sunny5b:「이런 곳에서,
+ 길안내가 발견되어서 좋았던 것이군요」
+
+Tewi4b:「낯선 인간 같은 것 믿어,
+ 정말로 괜찮아?」
+
+Ran0a:「이상한 움직임은 없는 것 같다,
+ 걱정은 필요하지 않을 것이다」
+
+Yuyuko2a:「그렇지만, 결국 신원은 모르고
+ 기억도 돌아오지 않는 것 같구나」
+
+Layla0a:「……」
+
+Merlin2b:「아이참─, 기분은 알지만
+ 그렇게 어두운 얼굴 하고 있으면 안 돼요.
+
+Merlin1a:「웃는 문에는 후쿠라이.
+ 해피의 비결은 웃는 얼굴인 것이니까!」
+
+Lyrica0a:「자신의 이름은 기억하고 있던 것이고,
+ 누나들의 일도 생각해 낸다고」
+
+Layla0a:「… 고마워요, 누나.
+
+Layla1a:「그렇지만, 어쩌면
+ 나의 누나들은…」
+
+Sanae3b:「… 행방불명의 누나들의 일,
+ 걱정같네요」
+
+Alice0d:「지금은 일손을 놓을 수가 없지만,
+ 조사가 끝나면 함께 찾아 줍시다」
+
+Shinki0b:「그것까지는,
+ 리리카짱들도 사이좋게 지내 줘」
+
+Lyrica3c:「응, 누이동생뻘 되는 사람 같은거 익숙해지지 않지만…」
+
+Layla0a:「…!」
+
+Youmu0b:「어떻게 했습니다, 레이라씨?」
+
+Layla0a:「… 싫은 느낌, 큰 힘…
+
+Layla1a:「온다…!」
+
+<pause>
+
+Reimu2a:「…! 이 힘은…!」
+
+Akyu2a:「레이더, 기능하지 않습니다.
+ 현격한 차이의 요력입니다!」
+
+<pause>
+
+Marisa2b:「…!」
+
+Kogasa2b:「뭐야 저것, 매우 큰 양─!?」
+
+Ichirin1a:「성련선에 비할바가 아니다…!
+ 작은 섬 정도 있어요!」
+
+Satori0a:「게다가, 그 요괴의 가지는 기색은…
+
+Satori5c:「쿳…!」
+
+Orin1b:「사토리님…!?」
+
+Utsuho1a:「괜찮습니까!?
+굉장한 파워라면, 나도 느낍니다만…」
+
+Koishi3b:「… 그것뿐이 아니야.
+ 무엇인가, 싫은 느낌이 든다」
+
+Hina2a:「그 양으로부터는, 어둡고 깊은 액이 흘러넘치고 있어요」
+
+Keine2a:「여기까지의 힘이 있다고 하는 일은,
+ 그 거대한 양이…」
+
+<nomove>
+
+<hide=face>
+
+<Code=(cursor_jump,272,224,1)>
+
+Onamazu0a:「폿폿폭!
+ 악몽의 힘, 느끼고 있도록(듯이)는!」
+
+</nomove>
+
+</hide>
+
+<pause>
+
+Onamazu1a:「인간놈들, 의외로 빨리 도착했군」
+
+Meiling1a:「대메기, 역시 살아 있었습니까!」
+
+Onamazu0a:「말했을 것이다,
+ 악몽의 핵이 있는 한 나는 불멸이라면.
+
+Onamazu0a:「이 대양에 저축해 힘, 확실히 무진장해요」
+
+Youmu1a:「대양…
+ 그럼, 그 거대 요괴가 악몽의 핵인 것이군요」
+
+Sanae1a:「그것을 넘어뜨려,
+ 마을의 사람들을 악몽으로부터 구해 보입니다!」
+
+Onamazu1a:「폿폿폭!
+ 의욕에 넘치는 것은 좋지만, 과연 할 수 있을까나?
+
+Onamazu1a:「이자식의 신체는, 마쿠라의 방법에 의해
+ 환상향안의 악몽과 연결되고 있다.
+
+Onamazu1a:「그 힘,
+ 이것까지의 악몽모두와는 비교할 수가 없구먼!」
+
+Reimu1a:「말해 주세요.
+ 너도 정리해 퇴치하고 해 주어요!」
+
+Marisa1a:「너희들, 가겠어!」
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1 PP(출격 후)
+
+Korin2c:「이 이상한 안개, 접해도 괜찮은 것인가?」
+
+Yumeko4b:「마계의 장독이란 뭔가가 달라요…」
+
+Satori5b:「… 이 안개로부터는,
+ 마음의 웅성거림과 같은 것을 느낍니다.
+
+Satori5b:「우려나 불안, 슬픔으로 가득 차 있어…」
+
+Eirin1c:「혹시, 이 모두가 대양의 힘일까」
+
+Onamazu0a:「폿폿폭!
+ 총명한 녀석은 깨달은 듯은이, 이미 늦구먼.
+
+Onamazu0a:「악몽의 안개에 휩싸여진 이상,
+ 이자식의 뱃속에 있는 것도 같은 것…
+
+Onamazu1a:「누시등의 패배는,
+ 이 순간으로 결정했던 것이다!」
+
+Remilia1b:「변함 없이, 입만은 크네요.
+ 곧바로 울상을 거를 수 있어…」
+
+Onamazu1a:「보여 주는 것이 좋은, 대양!」
+
+SheepL0a:「……!」
+
+<pause>
+
+Sakuya2a:「…!」
+
+Momiji2a:「이, 이것은…!?」
+
+Marisa2a:「히, 힘이 들어가지 않아…」
+
+Byakuren2a:「… 어쩌면, 이 안개로부터 직접
+ 악몽의 힘을 보내고 있는 것이군요」
+
+Mokou2a:「저 편의 뱃속이라는 것은, 이런 의미인가」
+
+Onamazu1a:「어떻게는, 깨달았는지!
+ 여기에 있는 한, 누시등이 피할 방법 따위는 없다.
+
+Onamazu1a:「이대로 마음을 침식해,
+ 불안과 절망의 바닥에 떨어뜨려 주자구」
+
+Yorihime1b:「절망이라니…
+ 그런 것에 굴한다고 생각하지 않는 것이군요!」
+
+Utsuho1b:「응, 불안한 응이나 해치워…」
+
+Onamazu1a:「그 강경세, 언제까지 가질까나!?」
+
+<pause>
+
+Yorihime2a:「쿳…!」
+
+Keine2a:「하지만, 이 정도…!」
+
+Onamazu1a:「그러면, 더욱 자!!」
+
+<pause>
+
+Reimu2a:「구…!」
+
+Kanako2a:「다짐이란, 시건방진 흉내를…!」
+
+Onamazu1a:「어떻게는! 뭣하면
+ 이제(벌써) 백회라도 천회라도 해줄까!
+
+Onamazu1a:「대양의 힘은 무진장!
+ 저항한 곳에서 쓸데없는 것이다!」
+
+Akyu2a:「이대로는 위험합니다.
+ 한 번 퇴피해, 몸의 자세의 재건을…!」
+
+Korin1c:「아니오, 키가 듣지 않는다.
+ 시스템 부분을 당했는가!?」
+
+Lunasa1b:「성련선을 움직일 수 없으면, 우리들이 방비에 붙는다.
+ 그 사이에 퇴로를…」
+
+Onamazu1a:「있을 리가 없을 것이다!
+ 누시등의 운명도 여기서 다했군!
+
+Onamazu1a:「자, 연회의 시작 자!」
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Yamame2a:「… 설마,
+ 악몽의 핵에 여기까지의 힘이 있다고는」
+
+Ran2a:「저 편에 땅의 이익이 있다는 것은,
+ 알고 있는 바였지만…」
+
+Mima2a:「이 포진, 녀석들도 승부를 걸어 왔을 것이다」
+
+Lyrica2a:「맛이 없어, 어떻게든 하지 않으면…」
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Keine2a:「아큐,
+ 브릿지의 상황은 어떻게 되어 있다!?」
+
+Akyu2a:「선체만은 가까스로…
+ 그렇지만, 병장은 전멸입니다!」
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Keine2a:「코스즈, 브릿지는 무사한가!?」
+
+Kosuzu2a:「배는 어떻게든…
+ 그렇지만, 무기는 사용할 수 없는 것 같습니다!」
+
+</Cond>
+
+Korin2a:「타고 있는 우리들도, 언제까지 가질까…」
+
+Layla1a:「… 우우…!」
+
+<pause>
+
+Akyu2b:「…!」
+
+Korin1c:「무엇이다, 레이라가…!?」
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu1a:「어떻게 말하는 일입니다?!
+ 신체로부터 안개가 흘러넘쳐…!」
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Kosuzu1a:「뭐뭐!?
+ 신체로부터 안개가 흘러넘쳐…!」
+
+</Cond>
+
+Onamazu0a:「… 호우, 조금 전은 깨닫지 않았다가
+ 바뀐 것을 따라 있는 것 같지」
+
+Lunasa1b:「바뀐 것?」
+
+Onamazu0a:「그렇지, 그 배를 타고 있는 아가씨…
+
+Onamazu0a:「녀석은, 우리들과 동질의 존재일 것이다」
+
+Lyrica1c:「도, 동질은…!」
+
+Onamazu0a:「깨닫고 있고좋았는지.
+ 그 아가씨도 또 꿈의 화신이야.
+
+Onamazu0a:「대충, 누군가의 잠재 의식이
+ 대양의 힘에 얽어매져 현현했을 것이다」
+
+Daiyosei2c:「그렇지만, 우리와 아무것도 변함없는데…」
+
+Onamazu0a:「겉모습은 그럴지도 모르지만,
+ 그 정도를 감도는 악몽의 안개와 본질적으로는 같은 물건.
+
+Onamazu0a:「결국, 불완전한 꿈이
+ 아가씨의 모양을 하고 있을 뿐으로는」
+
+LilyW3b:「그런, 불완전하다 라고…」
+
+Reisen2c:「확실히, 그렇다면
+ 기억이 빠져 있는 것도 설명 대하는데…」
+
+Layla1a:「… 누나, 나…」
+
+Lyrica4a:「레이라…」
+
+Merlin4b:「걱정하지 않고, 우리가…」
+
+Onamazu1a:「돕는다고라도 말하는지?
+ 그러면…」
+
+SheepL0a:「……!」
+
+<pause>
+
+Merlin2a:「꺄앗, 뭐 해!?」
+
+Lyrica2a:「힘이 빠진다…
+ 악기가 말하는 일을 듣지 않아!」
+
+Lunasa4b:「게다가, 소리가 나오지 않는다…!」
+
+Onamazu1a:「후하하하, 어떻게는!
+ 이것이라도 아직, 아가씨를 도움가능?
+
+Onamazu1a:「불완전한 꿈에 집착 한다 따위, 실로 익살스러움.
+ 되면 아가씨 다 같이, 익살꾼으로서 뛰게 할 수 있어 주자.
+
+Onamazu1a:「능력을 잃어,
+ 이룰 방법도 없게 헛되이 죽는 것이 좋다!」
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP
+
+Flan2a:「이제(벌써), 전혀 힘이 나지 않는다~!」
+
+Sakuya2a:「천천히 혼내주어,
+ 여기를 절망시킬 생각이군요」
+
+Kisume2a:「우리들, 정말로 이길 수 있는 것일까…」
+
+Daiyosei2a:「힘내자, 키스메짱.
+ 무기력이 되면 안돼!」
+
+Satori0b:「… 그 대로입니다,
+ 입다물고 삼켜질 생각은 없습니다.
+
+Satori0b:「마음으로 이기자고 한다면,
+ 우리들도 마음으로 대항합시다」
+
+Orin5d:「사토리님…!」
+
+Satori0b:「불안이나 절망에 지지 않는 힘,
+ 그것을 우리들은 배웠습니다.
+
+Satori0c:「지금이야말로 마음을 연결해, 그 힘을 나타낼 때입니다」
+
+Onamazu0a:「마음을 연결하는은과?
+ 사트리 요괴째, 시건방진 일을…
+
+Onamazu0a:「허세겠지만,
+ 귀찮은 일은 잡아 두는 것에 한정하는구먼」
+
+Satori0c:「허세인가 어떤가는, 지금…」
+
+Onamazu0a:「호레, 악몽의 한 그릇 더다」
+
+<pause>
+
+Satori5c:「…!」
+
+Koishi3a:「누나…?」
+
+Onamazu0a:「폿폿폭,
+ 아무리 사트리 요괴일거라고,
+ 다만 혼자서 대양의 힘에 대항할 수 있을까 보냐!
+
+Onamazu0a:「하물며, 또 한사람의 사트리궕
+손가락을 물어 보고 있는 것 같은 것은」
+
+Koishi2b:「… 에…」
+
+Onamazu0a:「동족의 위기에 그 상태란,
+ 힘도 사용할 수 없는 덜 떨어짐과 같지.
+
+Onamazu0a:「누시 따위는,
+ 길의 옆이라도 피해 보고 있으면 좋다」
+
+Koishi3b:「……」
+
+Orin1b:「저 녀석, 이것 봐라는 듯이
+ 코이시 모양을 바보로 하고 자빠져…!」
+
+Flan2b:「코이시도 사트리겠지,
+ 말해지고 있을 뿐으로 좋은거야?」
+
+Nue1c:「다시할 수 있을 것이다,
+ 저런 녀석에게 큰 얼굴 시키지 마」
+
+Koishi2b:「에, 그렇지만…
+
+Koishi5e:「… 마음을 연결하다니 나에게…」
+
+Satori5a:「… 코이시…」
+
+<end>
+
+<ChatID:5>---------------------------------------
+//이벤트전에 전투를 실시한다
+
+Reimu2a:「눈앞에 요괴가 있다는데,
+ 힘이 들어가지 않는다니…!」
+
+Meiling2a:「정신력 뿐이 아니고,
+ 체력도 당한 것 같습니다!」
+
+Patchouli2a:「신체가 마음에 질질 끌어진 것 같구나.
+ 새삼스럽지만, 귀찮은 장소에 온 것이예요」
+
+Toyohime2a:「일방적인 방어전에서는, 시세 하락이야.
+ 대열을 짜, 조금이라도 수를 줄입시다」
+
+<end>
+
+<ChatID:6>---------------------------------------
+//4 PP(SLG 전반)
+
+Kurumi2a:「힝, 힘이 들어가지 않게」
+
+Komachi2a:「값도 나른해져 왔다…」
+
+Yorihime2a:「기력으로 극복하세요.
+ 굽히면 거기까지!」
+
+Mokou2a:「계속 견디면, 반드시 호기는 올 것이다…!」
+
+Onamazu0a:「… 흠, 아직 접히지 않는다고는
+ 여기까지 겨우 도착할 뿐(만큼)의 일은 있구나.
+
+Onamazu0a:「하지만,
+ 슬슬 끝나러로 해 줄까의」
+
+SheepL0a:「……!」
+
+<pause>
+
+Meiling2a:「쿳, 여기서 더욱…!」
+
+Chen2a:「란님~, 눈이 돕니다…」
+
+Ran2a:「첸, 확실히 한다!」
+
+Yukari2a:「… 더 이상은 위험하구나.
+ 야무진 사람은 그래도, 마음의 약한 사람은…」
+
+Layla2a:「아앗…!」
+
+<pause>
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu1a:「…! 레이라씨!」
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Kosuzu1a:「…! 레이라씨!?」
+
+</Cond>
+
+Korin1a:「맛이 없어, 레이라가 악몽의 안개에…!」
+
+Eirin2a:「이대로 삼켜지면, 그 아이는…」
+
+Merlin1b:「노력해, 레이라!
+ 누나를 찾지 않으면 안 되지요?」
+
+Layla1a:「… 누나를…」
+
+Lyrica1c:「응, 누나들이래
+ 레이라의 일을 기다리고 있을 것이야!
+
+Lyrica4a:「그러니까, 힘내…」
+
+Layla2a:「그만두어! 누나들은…
+
+Layla2a:「누나들은, 어차피 이제 없는거야!」
+
+Lunasa4a:「…!」
+
+Merlin4a:「어, 어떻게 말하는 일?
+ 따로 따로 떨어짐이 된 것 뿐으로는…」
+
+Layla5b:「… 그렇게, 뿔뿔이 흩어지게 된거야.
+ 그리고, 나만 남겨져…
+
+Layla5b:「… 아무리 기다려도,
+ 사실은 아무도 돌아오지 않는다.
+
+Layla5b:「… 나는, 한사람…」
+
+Lunasa4b:「레이라…」
+
+Merlin4a:「당신, 그런 일이…」
+
+Onamazu0a:「폿폿폭!
+ 불안에 침범되어 착란하고 있도록(듯이)는!
+
+Onamazu0a:「그러면, 그 신체를 끌어들임
+ 대양의 힘의 일부로서 하자」
+
+Merlin1b:「그만두어, 레이라를 더 이상 시키지 않아요!」
+
+Onamazu1a:「불완전한 꿈과 같은 것에, 왜 뜨거워진다」
+
+Lyrica1c:「그런 것, 모르지만…!」
+
+Onamazu0a:「이해할 수 없지만, 거기까지 감싸고 싶다면
+ 모두 악몽에 삼켜지는 것이 좋다.
+
+Onamazu1a:「해, 대양!
+ 아가씨를 사용해, 인간들을 삼켜 버려라!」
+
+SheepL0a:「……!」
+
+Layla5a:「… 아아앗!」
+
+<end>
+
+<ChatID:7>---------------------------------------
+//4 PP(ADV 파트)
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Akyu2a:「… 우우, 여기는…」
+
+Onamazu0a:「어떻게는, 아무것도 보일 리 없다.
+ 이것은 아가씨가 낳은 악몽의 안개다.
+
+Onamazu0a:「불완전한 꿈이어도,
+ 불안을 증폭시키면 이 대로…
+
+Onamazu0a:「절망과 함께 가라앉아, 거기서 끝나는 것이 좋다」
+
+Marisa2b:「대, 대메기째…!」
+
+Luna1a:「깜깜하지만, 모두 있어?」
+
+Satori5b:「… 마음은 느낍니다.
+ 그렇지만, 불안과 고독하게 가득 차 있어…」
+
+Layla5b:「… 우우…
+
+Layla5b:「… 누나,
+ 어째서 없어져 버렸어…?
+
+Layla5b:「어째서, 나만…」
+
+Youmu2b:「이 소리는, 레이라씨…」
+
+Layla5b:「… 돌아와, 누나.
+ 다녀 왔습니다라고 말해…
+
+Layla5b:「나를 혼자 두지 마…」
+
+Lyrica4a:「… 누나, 레이라가 울고 있다…」
+
+Lunasa4b:「… 조금 전,
+ 누나들과는 뿔뿔이 흩어지게 되었다고 했다.
+
+Lunasa4a:「그것이, 그 아이의 고독과 불안…」
+
+Layla5b:「… 이제 싫어요, 전부…
+
+Layla5b:「나혼자는, 살아갈 수 없다…」
+
+Merlin4b:「확실히 해, 레이라.
+ 외로워도, 힘내…」
+
+Layla5a:「그런 것, 무리여요!」
+
+Merlin4a:「…!」
+
+Layla5a:「나는 이 집에 한사람인걸…!
+ 아무도 말을 걸어 주지 않는 것!
+
+Layla5a:「… 조용한 것이, 괴로운거야…」
+
+Yuyuko3c:「레이라짱…」
+
+Lyrica4d:「… 어떻게 하지,
+ 이런 때, 어떻게 하면 좋은가 몰라.
+
+Lyrica4c:「레이라가 울고 있는데, 아무것도 할 수 없다…」
+
+Sanae3b:「… 우리에게는,
+ 어떤 것도 할 수 없을까요.
+
+Sanae3b:「무슨 말을 해도,
+ 외로움을 속일 수 밖에…」
+
+Lunasa4a:「……
+
+Lunasa0a:「그런데도, 떠듭시다」
+
+Lyrica4b:「떠들어…?」
+
+Merlin4a:「어떻게 말하는 일?
+ 힘은 사용할 수 없는데, 떠들어도…」
+
+Lunasa0a:「별로 연주가 아니어도 괜찮아요.
+손뼉을 치는 것만이라도, 소리가 된다.
+
+Lunasa3a:「적어도, 이 고요함을 부술 수 있겠지요」
+
+Lyrica3a:「……」
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,20)>
+
+<BGM=bgm_talk_applause01,0>
+
+<Code=(demo_wait,60)>
+
+</nowindow>
+
+Onamazu0a:「… 므우, 면…?」
+
+</single>
+
+Layla5b:「소리…?
+
+Layla5b:「… 무엇인가, 소리가 들린다…」
+
+Onamazu0a:「뭔가 생각하면, 이건 손장단인가.
+
+Onamazu0a:「폿폿폭!
+ 능력을 잃어 어떻게 할까하고 생각하면,
+ 마치 아이의 놀이다!
+
+Onamazu0a:「악기를 사용할 수 없는 소령이란,
+ 이렇게도 우스운 것인가」
+
+Lunasa0a:「… 확실히 연주라고는 할 수 없어요.
+ 그렇지만, 떠들 수 있으면 그것으로 좋다」
+
+Merlin3a:「그래요, 우리는 소령인걸」
+
+Lyrica1c:「떠들어 즐겁게 할 수 있으면, 그것으로 좋다」
+
+Onamazu0a:「바보스러운 일을.
+ 이러한 치졸한 흉내로, 이자식의 불안은…」
+
+Layla5d:「… 좀 더 듣고 싶다…」
+
+Onamazu0a:「무엇…?
+
+<Code=(set_variable,step_2,1)>
+
+<Code=(demo_wait,45)>
+
+Onamazu1a:「므우, 이것은…!
+ 악몽의 안개가 줄어들었다고라도 말하는 것인가!?」
+
+Layla5b:「… 소리가 있으면, 한사람이 아니에요.
+ 누나들이 있는 것 같다…
+
+Layla5b:「소리는, 즐겁다…」
+
+Onamazu1a:「속이 비어 있음째, 무엇이 누나다!
+ 겨우 손장단으로 환각을 보았는지!」
+
+Lunasa3c:「… 귀를 기울여, 레이라.
+ 우리들의 소리를 들어」
+
+Merlin1a:「당신의 옆에는, 우리가 있어요」
+
+Lyrica1a:「외로울 때에는,
+ 마음껏 떠들어 주기 때문에」
+
+Layla5d:「… 응…」
+
+<Code=(set_variable,step_2,3)>
+
+<Code=(demo_wait,90)>
+
+Onamazu1a:「바보 같은, 불안이 개여 간다…!」
+
+Byakuren0a:「… 반드시,
+ 이 소리가 레이라씨를 구하고 있군요」
+
+LilyW0a:「그렇다면, 우리도!」
+
+<Code=(set_variable,step_2,5)>
+
+Onamazu1a:「에에이, 누시등까지…!
+ 이대로는 맛이 없다!
+
+Onamazu1a:「그만두고 있고, 그만두지 않는가!
+ 이 거슬리는 소리를!!」
+
+Lunasa1b:「… 사는 불안도 외로움도,
+ 우리들이 잊게 해 준다」
+
+Merlin1a:「즐거운 기분으로 있을 수 있으면,
+ 정말로 해피해질 수 있어요!」
+
+Lyrica0b:「그러니까, 이제 울지 마…
+
+Lyrica3d:「웃어, 레이라!」
+
+Layla5c:「응…!」
+
+<Code=(transition_out,c_white,60,1)>
+
+<Code=(demo_wait,40)>
+
+<end>
+
+<ChatID:8>---------------------------------------
+//4 PP(SLG 후반)
+
+SheepL0a:「……!」
+
+Marisa0d:「이것은…!
+ 어둠중에서 나올 수 있던 것 같다!」
+
+Satori0a:「조금 전까지 가득 차 있던,
+ 레이라씨의 고독과 불안이 없어져 있습니다」
+
+Murasa3c:「르나사들과 만든 소리가,
+ 레이라의 마음을 푼 것이구나」
+
+Onamazu1a:「설마, 이러한 일이…!」
+
+<Code=(set_variable,step_2,1)>
+
+Lunasa0a:「… 생각해 냈어요, 제일 중요한 일」
+
+Lyrica0b:「고독과 불안을 바람에 날아가게 하기 위해서(때문에)…」
+
+Merlin0b:「누군가에게 웃어 받기 위해서(때문에)…」
+
+Lunasa0a:「… 그렇게, 그 때문에 떠드는거야.
+
+Lunasa1b:「그것이, 우리들의 존재 의의」
+
+<pause>
+
+Youmu1a:「그 빛은…!
+ 여러분의 힘이 돌아온 것 같습니다」
+
+Layla0b:「누나들…」
+
+Lunasa3c:「고마워요, 레이라.
+ 당신의 덕분으로 중요한 일을 생각해 낼 수 있었다」
+
+Lyrica0a:「그러니까, 레이라를 위해서(때문에) 연주한다」
+
+Layla1a:「나를 위해서(때문에)…?」
+
+Merlin1a:「그래,
+ 심기 일전한 유령 악단의 첫무대!」
+
+Lyrica3d:「괜찮다면, 제일 근처에서 들어」
+
+Lunasa0b:「… 그럼, 메르란, 리리카.
+ 유령 악단, 스페셜·트리뷰트라이브…
+
+Lunasa1b:「합주야」
+
+<pause>
+
+Reimu0e:「…!」
+
+Sunny1a:「오옷, 이것은…!?」
+
+Meiling0a:「악몽의 힘이 희미해져 간다…
+ 신체가 가벼워졌습니다!」
+
+Udonge1a:「그 뿐만 아니라,
+ 더 이상 없을 정도…!」
+
+Onamazu1a:「무, 무슨 일이다!
+ 무엇이 일어나고 있는 것은!?」
+
+Shizuha1a:「모두의 소리가 신체에 영향을 주어 와요…!」
+
+Minoriko1a:「우리의 마음에도, 힘이 흘러넘쳐 온다!」
+
+Elliy1a:「이 힘이, 유령 악단의 라이브의 본령인 거네!」
+
+Onamazu1a:「그렇게 바보 같은 일이 있을까 보냐!
+ 아무리 힘을 집중해도, 겨우 소리…!
+
+Onamazu1a:「뭔가 비밀이 있을 것은, 도대체…!」
+
+Mima3a:「… 과연, 이것은 마법의 힘이구나」
+
+Onamazu1a:「마법이라면…!?」
+
+Shinki0b:「소리에 담겨진 생각의 저 편에,
+ 강한 마력을 느껴요」
+
+Akyu0a:「… 소령은, 소녀만이 사용할 수 있다
+ 대마법이라고 (들)물었던 적이 있습니다.」
+
+Akyu0b:「어쩌면, 르나사씨들도
+ 누군가의 마법에 따라 태어났을지도 모르네요」
+
+Onamazu1a:「도무지 알 수 없는 것을!
+ 대양의 힘이 있으면, 몇 번이라도 불안의 바닥에…!」
+
+Lunasa1b:「아니오,
+ 두 번 다시 레이라의 얼굴을 흐리게 하지는 않는다」
+
+Merlin3d:「그 웃는 얼굴을 위해서(때문에),
+ 우리는 떠들기 때문에!」
+
+Lyrica0c:「레이라는 안심해, 우리의 옆에 있어」
+
+Layla0b:「응…!」
+
+Marisa0a:「우리는 대양을 하기 때문에,
+ 너희들은 그쪽에서 연주를 부탁한다!」
+
+Reimu1a:「너희들의 소리와 우리들의 탄막으로…」
+
+Lyrica1c:「이 라이브, 최고로 북돋우자!」
+
+<end>
+
+<ChatID:9>---------------------------------------
+//이벤트 후 초전투
+
+Medicine2a:「굉장해요, 몸이 개구 된다…!」
+
+Tenshi3b:「저 녀석들의 소리에는,
+ 여기까지의 힘이 있던 거네」
+
+Suika1a:「떠들썩한 것은 좋은 것이지만,
+ 이건 좀 특별하다」
+
+Yuyuko1a:「살기 위한 건강을,
+ 르나사짱들은 소리로 해 주는 거네」
+
+Eiki0a:「… 스스로의 지주를 알았기 때문에,
+ 여기까지의 힘이 깃들이겠지요.
+
+Eiki3b:「지금의 그녀들의 소리에는,
+ 확실한 의지와 소원의 힘을 느낍니다」
+
+Suwako1a:「그러면, 우리도 지지 않고 떠들지 않으면」
+
+Kanako1a:「녀석들을 성대하게 바람에 날아가게 해,
+ 이 스테이지를 탄막으로 물들여 주자」
+
+Onamazu1a:「… 흥,
+ 다소 다시한 정도로 기운이 나 있어.
+
+Onamazu1a:「겨우 씩씩거리는 것이 좋다.
+ 대양의 힘, 이 정도로 찢어질까 보냐!」
+
+<end>
+
+<ChatID:10>---------------------------------------
+//대양과 초전투 후
+
+<Code=(icon_set_direction,All,SheepL_en,0)>
+
+Cirno1a:「, 이것은…!」
+
+Mystia0a:「굉장한 튼튼하구나!」
+
+Rumia0a:「양의 두목이고, 좋은 것 먹고 있을까나」
+
+Wriggle1b:「그렇지만, 악몽의 힘은 쫓아버린 것이다!
+ 이대로…」
+
+Onamazu1a:「쓸데없는 일을!」
+
+<pause>
+
+Hatate1c:「…!」
+
+Momiji2a:「사, 상처가 나았다…!?」
+
+Onamazu0a:「당연하지.
+ 누시등이 아무리 저항한 곳에서,
+ 환상향에 만연하는 불안한것에 변화는 없다.
+
+Onamazu1a:「그 힘이 있는 한,
+ 대양의 생명력은 무한한 것이다!」
+
+Aya0b:「이 안개만 있으면,
+ 저 편의 유리는 흔들리지 않는다고 말하는 일이군요」
+
+Momiji1a:「그렇지만, 불안의 힘은 어떻게 하면…」
+
+Satori0b:「… 이번이야말로, 나의 능력을 사용합니다」
+
+Utsuho0e:「사토리님…」
+
+Satori0b:「안개가 불안해 되어 있다면,
+ 마음의 힘으로 그것을 지불할 수 있을 것.
+
+Satori0c:「그리고, 모두의 강한 마음을 연결하면
+ 모든 안개를 지불하는 일도 할 수 있습니다」
+
+Parsee0a:「간단하게 말해 주지만,
+ 전원을 연결한다니 이만 저만의 일이 아니에요.
+
+Parsee0a:「자칫 잘못하면, 너 쪽이 잡아져…」
+
+Satori0b:「그렇지만, 마음을 연결하는 일이야말로
+ 모두의 마음에 접해 온 사트리 요괴로 할 수 있는 것…
+
+Satori0c:「제３눈이 가질 가능성이라고, 나는 믿습니다」
+
+Yugi1b:「사토리, 너…」
+
+Yukari0a:「그 가능성에, 우리들도 겁시다.
+ 하지만, 당신 혼자서…」
+
+Koishi0b:「… 우응, 한사람이 아니야」
+
+<Cond=(LOCAL_VAR,ObjControl,is_SatoKoi,==,1)>
+
+<pause>
+
+</Cond>
+
+<Code=(icon_set_direction,Satori,Koishi,0)>
+
+<Code=(icon_set_direction,Koishi,Satori,0)>
+
+Satori0a:「코이시…」
+
+Koishi0a:「누나, 나도 함께 한다.
+
+Koishi0a:「누나같이 마음은 읽을 수 없지만…
+ 나도, 분명하게 연결되고 있는 걸」
+
+Satori6b:「… 에에, 코이시의 힘도 빌려 줘.
+
+Satori6b:「당신을 의지한다니,
+ 지금까지는 해 오지 않았지만…
+
+Satori6d:「지금부터는, 둘이서」
+
+Koishi6c:「응!」
+
+<pause>
+
+Satori0b:「… 불안은 반드시 없어지지 않는다.
+ 그렇지만, 거기에 지지 않는 강함을 가집시다.
+
+Satori0b:「마음에 그려 주세요,
+ 오늘보다 약간 좋은 내일을」
+
+Koishi6e:「괜찮아,
+ 싫은 일뿐이 아니야」
+
+Satori0b:「빕시다, 희망을」
+
+<pause>
+
+<Code=(icon_set_direction,Satori,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_LEFT,0)>
+
+SheepL0a:「……!」
+
+Onamazu1a:「누우우우, 이것은…!」
+
+Iku0e:「안개의 힘이 희미해졌습니다.
+ 게다가, 대양이 휘감고 있던 요기도…」
+
+Tenshi2e:「지금이라면, 그 큰 것도 넘어뜨릴 수 있을 것이야!」
+
+Koishi6c:「했군요, 누나!」
+
+Orin1a:「우리들모두의 마음이,
+ 1개가 된 것을 느꼈어요!」
+
+Elliy3b:「맞댐기술, 한 개!
+ 이것으로 대양짱도 벌거숭이네!」
+
+Onamazu1a:「왜 자!
+ 여기까지의 힘, 누시등에는 없었을 것!
+
+Onamazu1a:「덜 떨어짐의 사트리궕
+ 한마리 더해진 것 뿐으로, 왜…!」
+
+Satori0b:「타인의 기분을 생각도 하지 않고,
+  업신여길 뿐(만큼)의 당신에게는 영원히 이해할 수 없어요.
+
+Satori0c:「마음의 복잡함과 인연의 강함을」
+
+Onamazu1a:「익살떤 일을!」
+
+Reimu1a:「자, 이것으로 이제(벌써) 잔재주는 없음이야!」
+
+Marisa1a:「이번에야말로 퇴치하고 해 주겠어, 대양!」
+
+<end>
+
+<ChatID:11>---------------------------------------
+//클리어시
+
+<Code=(icon_set_direction,All,SheepL_en,0)>
+
+SheepL0a:「……!」
+
+Onamazu1a:「이, 있을 수 없닷!
+ 대양을 추적하는은과…!?」
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa1a:「지금의 우리는 무적이다,
+ 질 생각이 들지 않아!」
+
+Reimu1a:「너희들, 다그쳐요!」
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Reimu1a:「지금의 우리들이라면,
+ 너희들에게 질 생각이 들지 않아요!」
+
+Marisa1a:「너희들, 하겠어!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,0,==,1)>
+
+Reimu1a:「가요, 탄막결계!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,1,==,1)>
+
+Marisa1a:「가겠어, 련부!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,2,==,1)>
+
+Sanae1a:「와라, 건신의 바람!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,3,==,1)>
+
+Alice1a:「부탁해요, 샹하이!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,4,==,1)>
+
+Rumia1a:「에이」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,5,==,1)>
+
+Daiyosei1a:「나라고!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,6,==,1)>
+
+Cirno1a:「큰 얼음이야!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,7,==,1)>
+
+Meiling1a:「홍 메이링, 최대의 주먹!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,8,==,1)>
+
+Koakuma1b:「좀더 좀더, 탄막입니다!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,9,==,1)>
+
+Patchouli1d:「화, 수, 목, 금…!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,10,==,1)>
+
+Sakuya0a:「종도 장치도… 없습니다」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,11,==,1)>
+
+Remilia1c:「모두를 관철하는 마력의 창…!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,12,==,1)>
+
+Flan1b:「우후후, 놀아!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,13,==,1)>
+
+Letty1b:「어세요!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,14,==,1)>
+
+Chen5b:「란님, 나도!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,15,==,1)>
+
+LilyW0a:「해요!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,16,==,1)>
+
+Youmu1a:「헤아려 온닷!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,17,==,1)>
+
+Yuyuko1c:「안녕~」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,18,==,1)>
+
+Ran1a:「보다 빨리!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,19,==,1)>
+
+Yukari1a:「멋진 곳에 초대해요」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,20,==,1)>
+
+Wriggle5e:「충의 요괴, 궁극 오의…!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,21,==,1)>
+
+Mystia1b:「가라, 가라♪」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,22,==,1)>
+
+Keine1a:「거기에 바로 앉아랏!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,23,==,1)>
+
+Tewi3e:「입말도 잘하고 솜씨도 좋음, 손말도 잘하고 솜씨도 좋음…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,24,==,1)>
+
+Udonge1b:「광기의 눈동자, 풀 드라이브!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,25,==,1)>
+
+Eirin5e:「이 우츠호와 함께 매장한다…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,26,==,1)>
+
+Kaguya4f:「그리고 섞여라고 꿈의 색…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,27,==,1)>
+
+Mokou3e:「불사조에게 모두를 맡긴다!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,28,==,1)>
+
+Yorihime1b:「타케미카즈치, 초래!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,29,==,1)>
+
+Toyohime0b:「청소합시다」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,30,==,1)>
+
+Reisen1a:「새틀라이트, 링크!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,31,==,1)>
+
+Shizuha1a:「추풍이야…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,32,==,1)>
+
+Minoriko1a:「고구마 먹어라―!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,33,==,1)>
+
+Hina1a:「이 액은 몸을 후벼파요」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,34,==,1)>
+
+Nitori1b:「도킹, 고!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,35,==,1)>
+
+Momiji1a:「짖어라, 암쇄아!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,36,==,1)>
+
+Aya6b:「환상을 도는 바람과 같이…!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,37,==,1)>
+
+Hatate1b:「연사, 망원…!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,38,==,1)>
+
+Kanako1a:「우리 신토쿠를 알리게 해 준다」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,39,==,1)>
+
+Suwako1e:「이것이 토착신의 힘이다!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,40,==,1)>
+
+Kisume2a:「공격해라―!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,41,==,1)>
+
+Yamame5f:「디너 타임이다!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,42,==,1)>
+
+Parsee2a:「엉뚱한 화풀이에서도, 상관없어요!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,43,==,1)>
+
+Yugi1f:「좋다, 돈!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,44,==,1)>
+
+Satori0c:「마음을, 열어…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,45,==,1)>
+
+Orin1b:「해 끝인!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,46,==,1)>
+
+Utsuho1g:「리미터, 한정 해제!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,47,==,1)>
+
+Koishi6c:「이것이라도 먹어라아!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,48,==,1)>
+
+Nazrin1b:「파면 팔 뿐(만큼) 돈이 나온다…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,49,==,1)>
+
+Kogasa0b:「놀라라아~!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,50,==,1)>
+
+Ichirin1a:「양의 두목, 예측하거나!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,51,==,1)>
+
+Murasa1b:「물밑을 보여 준다!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,52,==,1)>
+
+Sho1b:「보탑이야, 빛을!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,53,==,1)>
+
+Byakuren1c:「마인경권, 독경 자재!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,54,==,1)>
+
+Nue1c:「거만함!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,55,==,1)>
+
+Korin1a:「미사일, 수평 발사다!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,56,==,1)>
+
+Komachi3a:「와라, 타이타닉!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,57,==,1)>
+
+Eiki1f:「자, 중재때입니다」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,58,==,1)>
+
+Medicine1e:「독이야 모여라~!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,59,==,1)>
+
+Tenshi1b:「비상의 검이야!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,60,==,1)>
+
+Iku1f:「실례하네요」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,61,==,1)>
+
+Sunny1a:「빛이야!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,62,==,1)>
+
+Star1a:「나도 가끔 씩은!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,63,==,1)>
+
+Luna1a:「이렇게 되면, 야케야!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,64,==,1)>
+
+Elliy1a:「엘리짱, 대지에 선닷!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,65,==,1)>
+
+Kurumi2a:「힝, 눈부시게」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,66,==,1)>
+
+Mima1e:「사라지는거야, 대양!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,67,==,1)>
+
+Suika1e:「잔재주 쓸데없는…!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,68,==,1)>
+
+Shinki5a:「지금은, 나에게 맡겨…」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,69,==,1)>
+
+Yumeko1e:「서, 파, 급!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,70,==,1)>
+
+Tensoku0a:「……!」
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,71,==,1)>
+
+Akyu1a:「붓은 검보다 강하다!」
+
+</Cond>
+
+<pause>
+
+SheepL0a:「……!!」
+
+Onamazu1a:「안돼, 안돼!
+ 이대로는…!!
+
+Onamazu1a:「하지만, 견딘다!!
+ 불안의 힘을 모으면, 아직…!」
+
+<pause>
+
+Nazrin2a:「쿳, 아직 부활하는 것인가…!」
+
+Eirin1c:「넘어뜨리기 위해서는,
+ 대양을 완전하게 지워 없앨 필요가 있는 것 같네.
+
+Eirin0a:「그러면, 대양의 힘을 빌리고 있다
+ 대메기도 동시에 멸망할 것이야」
+
+Yuyuko2a:「그렇지만, 꿈의 화신이 사라진다는 것은…」
+
+LilyW1b:「혹시, 레이라씨도
+ 사라져 버린다는 것입니까?」
+
+Merlin2a:「…!」
+
+Lyrica4a:「그것은…!」
+
+<pause>
+
+Youmu2b:「… 여러분, 연주를…」
+
+Layla0b:「… 그만두지 말고, 누나들」
+
+<pause>
+
+<Code=(icon_set_direction,Lyrica,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Lunasa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Merlin,FD_RIGHT,0)>
+
+Lyrica5a:「레이라…!」
+
+Merlin2a:「그, 그만두지 말라고…」
+
+Lyrica4a:「그렇지만, 지금의 이야기…」
+
+Lunasa0a:「……」
+
+Layla0b:「… 그 양과 함께,
+ 나도 사라져 버리는 것은 알고 있다…
+
+Layla0b:「그렇다면 최후까지,
+ 누나들의 소리를 들어 싶다」
+
+Lyrica4a:「최후까지, 는…」
+
+Layla0b:「… 누나들은 없어졌는데,
+ 지금은, 굉장히 즐거운거야.
+
+Layla0b:「그러니까, 사라져 버릴 때까지
+ 이대로의 기분이 좋다」
+
+Lyrica4a:「그렇지만, 모처럼 만날 수 있었는데
+ 그렇게 슬픈 일…」
+
+Layla0b:「… 슬프지 않아.
+ 나, 울지 않았다」
+
+Merlin2a:「레이라…」
+
+Layla0b:「… 그러니까, 부탁…」
+
+Lunasa0a:「… 합시다, 두 사람 모두」
+
+Merlin4a:「누나…」
+
+Lunasa0a:「그것이 레이라의 소원이라면,
+ 실현되어 줍시다.
+
+Lunasa1b:「끝까지, 그 아이의 웃는 얼굴을 지키고 싶다」
+
+Lyrica1b:「레이라의 웃는 얼굴을…」
+
+Merlin0a:「… 알았어요, 나도 같은 기분.
+
+Merlin3d:「그렇다면,
+ 지금까지로 제일의 라이브로 합시다」
+
+<pause>
+
+Onamazu1a:「그만두지 않는가, 바보들!
+ 결정타 따위, 고쳐 생각해랏…!」
+
+Lunasa1b:「… 이것은, 레이라를 배웅하기 위한 한 곡」
+
+Lyrica1c:「최고의 소리로…!」
+
+Merlin3d:「최고의 스마일로!」
+
+Lunasa0a:「어딘가 그리운, 당신을 위해서(때문에)」
+
+<pause>
+
+Onamazu0a:「바보 같은, 대양이…!
+
+Onamazu0a:「모두 쫓았다는 것인가…
+ 불안을, 절망을…」
+
+Merlin1b:「당신도 끝이야, 대메기」
+
+Lyrica1b:「힘의 근원이 없어진 것이야,
+ 모습을 유지하고 있을 수 없지요」
+
+Lunasa1b:「당신이 가지는 재앙의 힘과 함께,
+ 사라지세요」
+
+Onamazu1a:「… 이 자식, 시건방진…
+
+Onamazu0a:「… 하지만, 왜는…
+
+Onamazu0a:「… 나는 지금, 편하지…」
+
+<pause>
+
+Marisa0a:「대양도, 대메기도 사라졌는지…」
+
+Reimu0a:「영력의 조각도 남지 않아요.
+ 이번이야말로 정말로 넘어뜨렸군요」
+
+<Code=(icon_set_direction,Lunasa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Merlin,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Lyrica,FD_RIGHT,0)>
+
+Lyrica0c:「우리의 곡도, 분명하게 레이라에 닿아…」
+
+<Code=(icon_set_direction,All,Seirensen,0)>
+
+<Code=(icon_set_direction,Seirensen,Lunasa,0)>
+
+Layla0b:「……」
+
+<pause>
+
+Merlin2a:「레이라, 몸이…」
+
+Layla0b:「… 고마워요, 누나들.
+ 라이브, 매우 즐거웠다」
+
+Merlin1a:「뭐 말하고 있는거야,
+ 인사를 하는 것은 우리의 (분)편인데…」
+
+Lyrica0c:「그래.
+ 레이라가 있었기 때문에, 우리…!
+
+Lyrica3e:「뭔가 할 수 있는 것, 없어?
+ 이대로 안녕은…!」
+
+Layla0b:「……
+
+Layla0b:「그렇다면, 1개만 부탁해도 돼?」
+
+Lyrica3e:「물론이야, 뭐…?!」
+
+Layla0b:「… 누나들의 소리, 좋아.
+
+Layla0b:「그러니까,
+ 앞으로도 많은 사람에게 듣게 해 줘.
+
+Layla0b:「그것이, 나로부터의 부탁…」
+
+Lunasa4a:「레이라…
+
+Lunasa1a:「… 약속해요.
+ 당신이 없어져도, 우리들은 계속 떠든다」
+
+Merlin3g:「왜냐하면 , 우리들은 연주대인걸」
+
+Lyrica3e:「프리즘 리버 악단이라고 한다.
+ 기억해 주면 기쁘구나」
+
+Layla0b:「프리즘 리버…
+ 무엇인가, 그리운 영향.
+
+Layla0a:「… 그렇다, 나도…」
+
+Merlin0b:「레이라…?」
+
+Layla0b:「… 역시, 하나 더만.
+ 언젠가 또 만나면, 누나라고 불러도 괜찮아?」
+
+Lyrica4c:「아, 당연해!
+ 언젠가라고 말하지 말고, 지금…」
+
+Layla0b:「… 고마워요, 누나야…」
+
+<pause>
+
+Lyrica4c:「레이라…」
+
+Lunasa4c:「……」
+
+Merlin4b:「… 이것은, 해피엔드로 좋네요?
+
+Merlin3g:「분명하게, 끝까지 웃고 있었던 것」
+
+Satori0c:「… 에에, 그녀는 매우
+ 온화한 기분으로 사라져 갔습니다.
+
+Satori0b:「임시의 존재라고는 해도,
+ 천수를 완수한 것처럼 편했어요」
+
+Lunasa4c:「… 그렇게, 그렇다면…」
+
+<Code=(set_variable,step_2,1)>
+
+Lyrica4c:「… 사라져 버렸지만,
+ 레이라는 반드시 환상향에서 태어난 거네요.
+
+Lyrica4b:「그러니까, 돌아가면 찾는다.
+ 현계에서도, 명계에서도…
+
+Lyrica3a:「언젠가, 또 만나러 간다…」
+
+<end>
+
+<ChatID:12>---------------------------------------
+//전멸(3 자매)
+
+Lunasa2a:「… 당해 버리다니」
+
+Lyrica2a:「미안, 레이라…」
+
+Merlin2a:「우리들, 역시…」
+
+Layla0a:「… 누나…」
+
+Onamazu0a:「폿폿폭!
+ 공포와 절망전으로는, 이 대로야!
+
+Onamazu0a:「누시는 아무래도,
+ 구해질 수 없는 규정에 있도록(듯이)!」
+
+Layla5a:「아아앗…!」
+
+<end>
+
+<ChatID:13>---------------------------------------
+//전멸(성련선)
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Akyu2a:「아앗, 성련선이!」
+
+Onamazu0a:「폿폿폭!
+ 공포와 절망전으로는, 이 대로야!
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0)>
+
+Kosuzu1a:「아앗, 여러분!」
+
+Onamazu0a:「폿폿폭!
+ 움직일 수 있는 사람은 없어진 듯!
+
+</Cond>
+
+Onamazu0a:「누시등도 모두,
+ 대양의 악몽의 일부가 되는 것이 좋다!」
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_hiroshige>
+
+Korin0a:「… 이것으로 또 한 재난 넘었는지」
+
+Akyu0a:「네, 어떻게든 대양을 넘어뜨릴 수 있었어요」
+
+Mima0c:「저 녀석이 악몽의 핵이 되어,
+ 환상향안의 양을 나누고 있던 것이다.
+
+Mima0a:「이것으로 당분간의 사이,
+ 인간들은 악몽을 보지 않고 끝날 것이야」
+
+Kosuzu3d:「조, 좋았다아」
+
+Eiki0a:「이변 조사도, 크게 전진했어요」
+
+Youmu3b:「최초, 방법에 걸렸을 때는
+ 어떻게 될까하고 생각했습니다만…」
+
+Marisa7c:「이번은,
+ 사토리나 리리카들의 활약에 도와졌군」
+
+Sanae3b:「그리고, 레이라씨에게…」
+
+Yuyuko3c:「… 그렇구나…」
+
+Reimu5d:「… 르나사들은 어디에 갔어?
+ 돌아오고 나서 모습을 보지 않아요」
+
+Orin0c:「조금 지쳤다고 해,
+ 물을 마시러 나갔어」
+
+Alice4a:「… 저런 일이 있던 후이니까,
+ 기분의 정리도 있겠지요」
+
+Shinki5b:「에에, 그래요…」
+
+Yukari0b:「… 슬퍼하는 생각도 있지만,
+ 이 싸움을 넘을 수 있었던 일에는 큰 의미가 있어요.
+
+Yukari5a:「대양을 넘어뜨릴 수 있던 것이라면,
+ 흑막의 힘에도 대항할 수가 있을 것이야」
+
+Satori0b:「네, 이 몽환 세계에서는
+ 마음의 강함이 우리들의 무기가 되면 알았습니다」
+
+Yamame0a:「마음을 연결해, 힘으로 할까…
+
+Yamame1b:「그런 일, 그런데 말이야 새가
+ 솔선해 준다고는 생각하지 않았어요」
+
+Utsuho5d:「적극적인 사토리님, 멋졌던 것입니다」
+
+Orin6a:「응응,
+ 두 명이 함께 노력하고 있는 것을 봐,
+ 값감동해 버렸습니다」
+
+Satori2b:「두, 두 사람 모두 과장되구나…」
+
+Koishi0a:「그렇지만, 누나와 함께 뭔가 할 수 있어
+ 나도 기뻤어요.
+
+Koishi0b:「나의 일, 믿어 의지해 주었기 때문에」
+
+Satori6b:「코이시…」
+
+Koishi6c:「나에게 의존해 버리는 누나도, 좋아」
+
+Satori6e:「……」
+
+Remilia1e:「거기까지 말하지 않다고 생각하지만…
+ 코이시의 김은 이런 것이군요」
+
+Satori6a:「에, 에에.
+ 마음이 서로 통하고 있는 것은 느낄테니까…」
+
+Patchouli0a:「그럼,
+ 조사하러 돌아오기 전에 조금 쉴까요.
+ 소악마는 차를 끓여 줘」
+
+Koakuma3c:「네, 르나사씨들에게도 가져 가…」
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Lunasa0a:「… 모두, 여기에 있던 거네」
+
+Lyrica1a:「후─, 이번도 하드했지─」
+
+Nitori2a:「읏, 어?
+ 벌써 돌아온 것이다」
+
+Sanae0e:「여러분은 피로일 것이고,
+ 천천히 되고 있을까하고 생각한 것입니다만…」
+
+Merlin2b:「논논!
+ 회심의 라이브의 뒤는 모두가 떠들지 않으면~!」
+
+Reimu3c:「떠, 떠든다고…?」
+
+Lunasa0b:「조심스럽게 말해, 이번 우리들은 대활약이었다」
+
+Merlin3d:「슬럼프 탈출로,
+ 과거 최고의 퍼포먼스!」
+
+Lyrica1a:「모두도,
+ 굉장히 분위기를 살린 것이지요」
+
+Alice2b:「그, 그렇구나.
+ 확실히 굉장한 연주였다고 생각해요…」
+
+Marisa0c:「… 뭐야, 낙담하고 있을까하고 생각하면
+ 완전히 언제나 대로의 느낌이다」
+
+Lyrica1a:「뭐―, 마리사.
+ 걱정해 주고 있던 것이야?」
+
+Marisa4c:「그렇다면 너, 배에 돌아올 때는 그렇게…」
+
+Lunasa3c:「… 걱정은 기쁘지만,
+ 나 가시노 우리들이
+ 어두운 얼굴을 하고 있으면 꼭 죄이지 않는다」
+
+Merlin1a:「레이라에도,
+ 악단 노력해라고 말해진 거네~!」
+
+Shinki5b:「… 알았어요.
+ 그것이 그 아이에게로의 생각에의 대답이라면…」
+
+Byakuren0a:「… 레이라씨가 맡긴 소원을,
+ 여러분은 받아 들이는 것이군요.
+
+Byakuren3c:「본인도,
+ 반드시 어디선가 기뻐하고 있다고 생각합니다」
+
+Lunasa3d:「… 고마워요」
+
+Youmu0b:「… 그렇다 치더라도, 레이라씨는
+ 어떤 존재였던 것입니까.
+
+Youmu0a:「누군가의 잠재 의식으로부터
+ 태어났다고 하는 일은,
+ 원래가 된 사람이 어디엔가…」
+
+Yuyuko1d:「… 혹시,
+ 나는 만났던 적이 있는지도 몰라요」
+
+Lyrica5a:「마, 만나도…」
+
+Yukari0a:「… 뭔가 기억하고 있을까, 유유코?」
+
+Yuyuko1c:「어딘지 모르게,
+ 그 아이의 최후의 말을 (들)물었을 때
+ 그리워진거야.
+
+Yuyuko3a:「저렇게, 강한 소원을 가져
+ 명계에 온 아이가 있던 것 같다」
+
+Marisa0e:「그러면, 레이라 본인은
+ 이 세상에 없을지도 모르는 것인지…」
+
+Komachi1c:「최근에는 명계와도 왕래할 수 있고,
+ 너무 비관하는 일은 없는 거야」
+
+Merlin1c:「뭐, 우리들도 소령이고」
+
+Yukari0a:「어쨌든,
+ 이제 와서는 아는 수단도 없고
+ 잔소리해도 어쩔 수 없는 것이야.
+
+Yukari1a:「그녀의 말과 소원은, 우리들중에서 산다.
+ 남겨진 사람들에게 있어서는, 그것이 모두예요」
+
+Yuyuko3a:「모처럼 뭔가 생각해 낼 수 있을 것 같은데…
+ 결론지어 버리는 거네, 유카리」
+
+Yukari5a:「옛날 일을 생각해 내다니
+ 유유코에 적합하지 않아요」
+
+Yuyuko3c:「……」
+
+Eiki0a:「그렇지만, 야쿠모 유카리의 말하는 대로
+ 과거에 너무 붙잡힐 필요는 없어요.
+
+Eiki0a:「지금 환상향을 사는 것은, 당신들 『3』자매.
+ 오늘, 자기의 본연의 자세를 다시 볼 수 있었던 일을
+ 무엇보다도 평가해야 하겠지요」
+
+Lunasa3a:「… 에에,
+우리들도 오늘의 만남에 다만 감사하고 있다.
+
+Lunasa3b:「레이라와 만날 수 있었기 때문에,
+ 존재하는 이유를 확인되었다」
+
+Merlin3c:「그 덕분에, 옛날 일도
+ 조금 생각해 낼 수 있던 것 같아요」
+
+Youmu2b:「옛날 일, 입니까?」
+
+Lunasa0b:「… 그렇게, 우리들에게는 누군가 소중한 사람이 있어
+ 그 저택에서 함께 살고 있었다」
+
+Merlin3a:「그 사람이 웃는 것을 보고 싶어서,
+ 우리는 떠들고 있던거야」
+
+Lyrica0b:「지금, 연주대 하고 있는 것은
+ 그렇게 말하는 것이 있었기 때문일지도 모른다」
+
+Sanae0a:「그 쪽이,
+ 여러분의 지주라고 할 수 있는 사람이군요」
+
+Lunasa3a:「에에, 더 이상의 일은
+ 생각해 낼 수 있을 것 같지 않지만…」
+
+Lyrica3c:「그 사람은 반드시,
+ 레이라 같은 아이였다고 생각한다」
+
+Alice2b:「그 아이 같은…?」
+
+Merlin0a:「응.
+ 철부지로, 쓸쓸해해 가게에서…」
+
+Lyrica1a:「몇개가 되어도, 누나쟁이로…」
+
+Lunasa3b:「그리고, 특출의 웃는 얼굴로 웃는 아이.
+
+Lunasa3c:「레이라의 소원 대로,
+ 우리들은 계속 앞으로도 떠들어요」
+
+Merlin1c:「소령인 것이니까, 떠들썩하고!」
+
+Lyrica1a:「만약, 어디엔가 레이라가 있으면
+ 곧 깨달아 줄 정도로 떠들지 않으면.
+
+Lyrica3b:「프리즘 리버의 연주는,
+ 구름을 관통하고 하늘까지 닿는다…」
+
+Lyrica3c:(… 이니까,
+ 언젠가 또 만날 수 있네요, 레이라)
+
+Lyrica3e:(누나들, 기대하고 있을테니까)
+
+<Code=(transition_out,c_black,90,1)>
+
+<BG=bg_talk_Mugen_Deep.png,fade=1,color=1,title=bg_Mugen_Deep,bgm=bgm_talk_dream>
+
+Makura5a:「……
+
+<Code=(transition_out,c_white,15,0)>
+
+<SE=se_f_damage10.ogg,wait=0>
+
+<Code=(demo_wait,50)>
+
+<Code=(map_shake,1,40,2)>
+
+<Code=(transition_in,c_white,15,0)>
+
+Makura5a:「…!」
+
+Meko0b:「지, 지금 올라…!?」
+
+Makura5a:「… 당신도 느낀 것 같네요, 메코」
+
+Meko0b:「… 네, 대양의 힘이 없어졌습니다.
+ 반드시 대메기도 함께…
+
+Meko0b:「설마, 인간들에게
+ 당해 버린 것입니까」
+
+Makura5a:「… 그 이외에 생각되지 않습니다.
+ 대양의 힘은, 그 사람들을 삼키는데 충분했을 것…
+
+Makura5a:「도대체, 어떤 농간을 사용했다는 것입니까?
+ 이런 일은 일어날 수 있는은 도화 없다…!」
+
+Meko0b:「마쿠라님…」
+
+Makura5a:「… 뭐라고 말하는 일입니다.
+ 이대로는, 인간으로부터 모이는 꿈도 서서히 쇠약해진다.
+
+Makura5a:「간신히 여기까지 왔다고 하는데,
+ 어디까지나, 우리들의 꿈을 부정하면…!」
+
+<Code=(map_shake,1,30,1)>
+
+<SE=se_talk_gashi01.ogg,wait=0>
+
+<Code=(demo_wait,30)>
+
+Meko1d:「괘, 괜찮아요!
+ 마쿠라님의 힘에는 당해 낼 리가 없다입니다!
+
+Meko1b:「거기에 나, 마쿠라님의 꿈을 위해서라면
+ 뭐든지 할테니까…!」
+
+Makura5a:「… 메코…」
+
+Meko0b:「그러니까, 그…」
+
+Makura5a:「… 미안합니다, 이 내가
+ 조금 어질러 버린 것 같네요」
+
+Meko0a:「아니오…
+ 게다가, 조금 핀치가 되어도
+ 환상향의 꿈은 충분히 모여 있군요?
+
+Meko1f:「그 파워로 인간들을 넘어뜨린 뒤로,
+ 대양도 부활시키면 돼요!」
+
+Makura5a:「… 그렇네요,
+ 그 사람들조차 떠나면 장해는 없어집니다.
+
+Makura5a:「그렇지만, 이렇게 된 이상은
+ 결전은 피할 수 없습니다」
+
+Meko0g:「네…」
+
+Makura5a:「이것보다, 모든 꿈의 힘을 여기에 모음
+ 반석의 포진으로 맞아 싸웁시다.
+
+Makura5a:「그 사람들이 상대에서는,
+ 당신에게까지 전화가 미치는 일도 있을 수 있습니다만…」
+
+Meko1a:「괜찮습니다, 나도 싸웁니다!
+
+Meko1f:「마쿠라님이 돌아가라고 해도,
+ 어디에도 가지 않기 때문에!」
+
+Makura5a:「… 당신의 일인 것으로,
+ 그렇게 말할 것이라고 생각했습니다.
+
+Makura5a:「그렇지만, 싸움 계속의 메코를
+ 이대로 전에는 내게 하지 않습니다.
+
+Makura5a:「당신이 바란다면,
+ 나의 능력을 사용해, 힘의 일부를 빌려 줍니다」
+
+Meko0b:「마쿠라님의 힘…?」
+
+Makura5a:「… 꿈을 현현하는 힘.
+ 그것이 있으면, 이 몽환 세계에서는
+ 압도적인 힘을 손에 넣을 수가 있습니다.
+
+Makura5a:「인간들과 대치했을 때,
+당신의 몸을 지켜 주겠지요」
+
+Meko0b:「… 마쿠라님의 몽현의 힘.
+ 그것이 있으면, 나도…」
+
+Makura5a:「… 입니다만, 타인의 힘을 품는 것은
+ 요괴에 있어서는 위험한 행위입니다.
+
+Makura5a:「본래라면, 이러한 일…」
+
+Meko1a:「… 아니오,
+ 마쿠라님의 도움이 될 수 있다면 시켜 주세요.
+
+Meko1b:「마쿠라님의 꿈은, 나의 꿈이기 때문에」
+
+Makura5a:「… 고마워요, 메코.
+
+Makura5a:「그럼, 이쪽에…」
+
+Meko0a:「… 네…」
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//대메기를 격파
+
+Onamazu0a:「대양을 그대로 둬,
+ 나의 상대를 하리라고는 유별난 일이야.
+
+Onamazu1a:「이자식이 있는 한,
+ 나의 생명력은 무한대 자!」
+
+<end>
+
+<ChatID:16>---------------------------------------
+//대양과의 전투후(이벤트전)
+
+SheepL0a:「……」
+
+<pause>
+
+Reimu0e:「…!」
+
+Marisa1a:「상처가 원래대로 돌아갔다라면…!?」
+
+Onamazu0a:「폿폿폭.
+ 악몽의 힘이 있는 한, 대양의 힘은 무진장하지.
+
+Onamazu1a:「누시등이 무엇을 하든지,
+ 상처 1쿡쿡 찌를 수 있고는 하지 않는다!」
+
+<end>
+
+<ChatID:17>---------------------------------------
+//예비범위
+
+<end>
+
+<ChatID:18>---------------------------------------
+//레이무, 마리사, 앨리스, 사나에씨
+
+Marisa0a:「이 솟아나오는 힘…!
+ 저 녀석들의 노래의 덕분인가?」
+
+Alice1a:「담겨진 생각이,
+ 마법을 통해서 전해져 온다…!」
+
+Sanae1a:「사람의 꿈, 인연…!
+ 지금이라면 느껴, 힘으로 할 수 있습니다!」
+
+Reimu1a:「자, 그 양을 해치워
+ 불안의 안개를 쫓아요!」
+
+<end>
+
+<ChatID:19>---------------------------------------
+//에이린, 카구야, 테위, 토요히메, 요리히메
+
+Yorihime2a:「누님, 이 힘은 도대체…」
+
+Toyohime2c:「에에, 영력과도 요력과도 다르지만…」
+
+Eirin0a:「인 요의 마음이 1개에 연결되고 있으니까요」
+
+Yorihime2a:「연결이, 힘에…?」
+
+Eirin0a:「비과학적이지만,
+ 이 솟아나오는 힘이 증명이 되어 있어요」
+
+Udonge0a:「그리고 그것이,
+ 불안하게 이겨내는 힘이 되고 있다…」
+
+Tewi0a:「사용할 수 있는 것은,
+ 뭐든지 사용하게 해 받자」
+
+Toyohime0a:「졸지에는 믿을 수 없지만,
+ 이렇게 해 눈에 보여져 누나」
+
+Yorihime1b:「힘을 합해, 악몽의 핵을 쳐부순다…!」
+
+Kaguya1a:「모두, 탄막을 거듭합시다」
+
+<end>
+
+<ChatID:20>---------------------------------------
+//3월정령
+
+Luna0a:「르나사 선배들, 굉장해…!」
+
+Star0a:「레이라씨를 격려하기 위해서(때문에), 이 소리를…」
+
+Sunny0a:「대파워업인걸,
+ 이 빅 웨이브에 응하지 않을 수는 없어요!
+
+Sunny1a:「두 사람 모두!
+ 우리는, 탄막으로 라이브를 북돋워요!」
+
+<end>
+
+<ChatID:21>---------------------------------------
+//신키, 유메코, 미마, 엘리, 호두
+
+Mima0a:「소녀만이 사용할 수 있는 대마법…
+ 좋은 것을 보게 해 받았어」
+
+Yumeko0a:「발동한 마법사는,
+ 상당한 농간이었던 것입니까」
+
+Shinki0b:「아니오,
+ 반드시 강한 기원이 있던 것이지요」
+
+Kurumi0a:「기원…?」
+
+Shinki0b:「아무리 괴로워도, 행복을 바라는 생각.
+
+Shinki0b:「그것이 마력에 모습을 바꾸어,
+ 우리들에게 힘을 주고 있는 것 같다」
+
+Mima0a:「대, 대마법을 낳을 정도의 기원인가…!」
+
+Elliy0a:「여기는 1개,
+ 고맙게 렌탈합시다!
+
+Elliy0a:「불안도 절망도,
+ 우리가 뒤엎어 주어요!」
+
+<end>
+
+<ChatID:22>---------------------------------------
+//유기, 파르시, 야마메, 키스메
+
+Parsee0a:「인연의 힘…
+ 그런 것이 있으면, 필시 기분이 좋겠지요」
+
+Yugi0a:「파르시는 파르시니까」
+
+Parsee2a:「유기, 그 거 어떤…」
+
+Yamame0a:「인연의 본연의 자세는,
+ 사람 각자라는 것이야」
+
+Kisume0a:「우리도, 지상에는 살 수 없지만
+ 모두와는 친구야」
+
+Yugi0a:「장식하지 않아도,
+ 분명하게 연결되고 있는 것은 느끼고 있을 것이다?」
+
+Parsee0a:「아, 당연하겠지!
+ 일부러 입으로 말하게 하다니…!」
+
+Yamame1a:「그렇다면 상당히!
+ 일인분, 좋아하게 날뛰어 줄까!」
+
+Kisume0a:「응!」
+
+<end>
+
+<ChatID:23>---------------------------------------
+//릴리, 레이센
+
+Reisen0b:「무엇일 것이다, 이 힘…」
+
+LilyW0a:「인연의 힘이에요!」
+
+Reisen1a:「… 변함 없이, 수줍지 않고 말하는구나.
+ 그렇지만, 나도 믿는다.
+
+Reisen1a:「도망쳐 온지 얼마 안된 무렵은
+ 몰랐지만, 지금이라면…!」
+
+LilyW0a:「이대로 큰 양을 해치웁시다,
+ 토끼씨!」
+
+Reisen1a:「OK, 릴리!」
+
+<end>
+
+<ChatID:24>---------------------------------------
+//모코우, 케이네
+
+Mokou0a:「… 이 소리안에 있으면, 이상한 느낌이다」
+
+Keine0a:「아아, 모두와의 연결을 느낀다…
+
+Keine0a:「나쁘지는 않을 것이다, 모코우?」
+
+Mokou0a:「응. 반드시 이것은,
+ 케이네들이 시간을 들여 쌓아 올려 온 것이다.
+
+Mokou0a:「나도 함께 지켜, 싸운다」
+
+Keine0a:「아아, 모두…!」
+
+<end>
+
+<ChatID:25>---------------------------------------
+//문, 화, 는 세워 카나코, 스와코
+
+Momiji1a:「조금 전까지의 위압감이 희미해져 갑니다…!」
+
+Kanako0a:「이미, 질 생각이 하지 않는구나」
+
+Hatate0a:「취재도 있지만,
+ 이것으로 노없으면 거짓말이겠지!」
+
+Aya0a:「바람을 받아,
+ 신체로 소리를 느끼게 해 받읍시다」
+
+Suwako0a:「우리는 지금, 연결되고 있다.
+ 믿으면, 어떤 힘이라도 낼 수 있을 것!」
+
+Kanako1a:「가겠어, 모두!
+악몽의 핵을, 무너뜨린다!」
+
+<end>
+
+<ChatID:26>---------------------------------------
+//레미리아, 프랑, 사쿠야, 메이링, 파츄리, 소악마
+
+Meiling1a:「신체의 안쪽으로부터 힘이 솟아 올라 옵니다!」
+
+Koakuma1a:「네, 이것이 대마법과 소리의 힘…!」
+
+Remilia0a:「기구한 운명도 있는 거네」
+
+Flan0b:「누님…?
+ 그 거, 리리카들의 일?」
+
+Remilia0a:「에에,
+ 레이라는 아이와의 만남이 있었기 때문에
+ 이 힘이 태어난 것이지요」
+
+Patchouli0a:「지금까지의 세 명에서는,
+ 낼 수 없었던 것 같은 소란스러움…」
+
+Sakuya0a:「행진곡에는 딱 맞습니다.
+ 우리도 누를 수 있는 모드로 갑시다」
+
+<end>
+
+<ChatID:27>---------------------------------------
+//성련선
+
+Akyu1c:「세 명의 연주에 성련선이 공명하고 있습니다!」
+
+Kosuzu6a:「에너지가 회복하고 있습니다.
+ 이런 일은…!」
+
+Korin0b:「대마법의 힘, 그렇지 않으면 기적인가…?
+
+Korin0a:「이것이라면 공격으로 변할 수 있다.
+ 하겠어!」
+
+<end>
+
+<ChatID:28>---------------------------------------
+//사토리, 코이시, 오린, 먹는다
+
+Koishi0a:「무엇인가, 따끈따끈 하네요」
+
+Utsuho0a:「응, 야타가라스님의 빛과 함께!」
+
+Orin0a:「우리들 모두,
+ 마음이 연결되고 있는 것을 느낍니다!」
+
+Satori0b:「이제(벌써), 불안이나 절망에 질 생각은 없어요.
+
+Satori0c:「모두, 마음에 태양을…」
+
+Koishi6c:「이 따뜻하기 때문에,
+ 저 녀석들을 해치우자!」
+
+<end>
+
+<ChatID:29>---------------------------------------
+//메디슨, 히나, 니토리, 앨리스
+
+Medicine0a:「이것은, 신체안라고 되어…」
+
+Nitori1a:「우정 파워지요, 히나!」
+
+Hina0a:「에에, 그리고 인연의 힘」
+
+Medicine0a:「이것이…」
+
+Alice0a:「메디도 느끼겠지요.
+ 마치, 모두가 손을 잡고 있는 것 같은…」
+
+Shanghai0a:「살하이!」
+
+Alice0a:「그렇구나, 샹하이도」
+
+Nitori1a:「이렇게 되면,
+ 우리는 이제 누구에게도 지지 않는다!」
+
+Hina0a:「거대한 액과의 싸움,
+ 결착을 붙이게 해 받읍시다」
+
+<end>
+
+<ChatID:30>---------------------------------------
+//뱌쿠렌, 별, 나즈린, 이치린, 무라사, 누에
+
+Nue2a:「무엇인 것, 이것?
+ 조금 전까지와 전혀 다르다…!」
+
+Nazrin0a:「유령 악단의 노래로,
+ 모두의 힘이 꺼내지고 있는 것인가」
+
+Ichirin0a:「이것이라면,
+ 법력도 지금까지 이상으로 낼 수 있어요!」
+
+Murasa0a:「그러면, 모두!」
+
+Sho1a:「악몽을 지불해, 길을 나타내기 (위해)때문에…!」
+
+Byakuren0a:「인 요의 인연의 힘, 지금이야말로 빌립시다!
+
+Byakuren1a:「자, 법의 빛을!」
+
+<end>
+
+<ChatID:31>---------------------------------------
+//치르노, 대요정, 루미아, 미스티아, 리글, 레티
+
+Wriggle0a:「소리를 듣고 있으면, 힘이 솟아 올라 온다…!」
+
+Mystia0a:「무엇인가, 우타가 도착해도 좋은 느낌이군요」
+
+Daiyosei0a:「노래…?」
+
+Letty0a:「이상하게 그렇게 느낌이 들어요」
+
+Rumia0a:「르나사들이, 누군가 일인 이역 해?」
+
+Cirno0a:「그렇지만, 이것만이라도
+ 우리들은 한억만배최강이야!
+
+Cirno0a:「그 큰 양, 모두가 쓰러뜨리자!」
+
+<end>
+
+<ChatID:32>---------------------------------------
+//가을 자매
+
+Minoriko0a:「조금 전까지의가 거짓말 같은 힘!」
+
+Shizuha0a:「지금이라면, 가을의 힘도 높아져…」
+
+Minoriko1a:「가을 자매, 변경!」
+
+Shizuha1a:「슈퍼가을 자매가 된다!」
+
+Minoriko1a:「해요, 누나!」
+
+Shizuha1a:「에에, 미노리코!」
+
+<end>
+
+<ChatID:33>---------------------------------------
+//요우무, 님, 코마치, 에이키
+
+Youmu0a:「르나사씨들의 소리,
+ 연습때와는 전혀 다릅니다!」
+
+Komachi0a:「레이라와 서로 맞물린 덕분이라면,
+ 기연 이라는 녀석이구나」
+
+Yuyuko0a:「… 그렇구나, 그 아이는…」
+
+Eiki0a:「어떻게든 했습니까, 사이교사유유코?」
+
+Yuyuko0a:「아무것도 아니에요.
+ 문득 나도 그리워져…
+
+Yuyuko0a:「… 은. 그것보다,
+ 르나사짱들의 라이브를 북돋우지 않으면 말야」
+
+Eiki0a:「에에, 악몽을 쫓는다면 지금이 계기입니다」
+
+Youmu1a:「여러분, 합시다!」
+
+<end>
+
+<ChatID:34>---------------------------------------
+//코가사, 비상천칙
+
+Kogasa0a:「노래로 기운이 생기다니
+ 이런 일이 있다!」
+
+Tensoku0a:「……!」
+
+Kogasa0a:「비, 비상천칙도!?」
+
+Tensoku0a:「……」
+
+Kogasa0a:「혹시, 안다.
+ 모두가 함께 있는 느낌…」
+
+Tensoku0a:「……!」
+
+Kogasa0a:「그러면, 힘내자!
+ 여기로부터가 역전 사요나라의 찬스야!
+
+Kogasa0a:「자, 놀라라~!」
+
+Tensoku0a:「……!」
+
+<end>
+
+<ChatID:35>---------------------------------------
+//자, 란, 첸, 췌향
+
+Chen0a:「란님, 뭔가 흥분합니다!」
+
+Ran0a:「응, 이상하게 힘이 솟아 오른다…!」
+
+Suika0a:「르나사들의 소리에 거듭해,
+ 우리들의 힘이 아츠무 기다린 것이다.
+
+Suika0a:「이만큼의 파워가 있으면,
+ 대양이라도 해치울 수 있겠죠」
+
+Yukari0a:「그럼, 우리들도 그 일익이 되어…
+
+Yukari0a:「보여 줍시다, 탄막의 번쩍임을」
+
+<end>
+
+<ChatID:36>---------------------------------------
+//텐시, 의구
+
+Tenshi0a:「모두의 기질을 느낀다…!」
+
+Iku0a:「안개가 개여,
+ 이 우츠호 사이에 마음과 소리가 가득 차 있는 것 같습니다.
+
+Iku0a:「계승자낭님, 지금이야말로 비상의 검으로…」
+
+Tenshi1a:「해줘요.
+ 마음과 소리에, 나를 겹친다!
+
+Tenshi1b:「기질의 칼날로, 악몽을 찢어요!」
+
+<end>
+
+<ChatID:37>---------------------------------------
+//메코, 마쿠라
+
+Meko0e:「뭔가 건강이 솟아 올라 옵니다!」
+
+Makura3a:「유령 악단의 소리와 여러분의 생각이
+ 흘러들어 오고 있는 것 같습니다.
+
+Makura3c:「이 따뜻함을,
+ 여러분도 느끼고 있던 것이군요」
+
+Meko0e:「우리도, 꿈 속의 모두와
+ 연결되어지고 있군요!」
+
+Makura3a:「에에, 그렇게 생각합니다.
+
+Makura1b:「인연을 느껴 배우기 위해서(때문에)도.
+ 우리도 전력으로 갑시다!」
+
+Meko1f:「네!」
+
+<end>
+
+<ChatID:38>---------------------------------------
+//대메기 vs. 마쿠라(이벤트 후)
+
+Onamazu1a:「므우, 누시까지가 왜…!
+
+Onamazu0a:「아니, 그 누시가
+ 변심 할 리도 없다.
+ 그러고 보니 가짜다!」
+
+Makura1a:「내가 가짜, 입니까.
+ 환상향에 가담하고 있으면,
+ 그렇게도 생각하겠지요」
+
+Onamazu0a:「무엇이다,
+ 가짜의 분수로 큰 소리를 쳐 있다.
+
+Onamazu1a:「이 대양을 따르게 하는 나에게,
+ 당해 낼 리도 없을 것이다!」
+
+Makura1a:「그것은, 여러분과 우리의
+ 힘을 보고 나서 말하는 것이군요」
+
+<end>
+
+<ChatID:39>---------------------------------------
+//대메기 vs. 메코(이벤트 후)
+
+Onamazu1a:「므우, 왜 누시가…!
+
+Onamazu0a:「가짜인가?
+ 아니, 이런 땅딸보를
+ 잘못볼 리도 없음」
+
+Meko1d:「그러니까, 땅딸보는…!」
+
+Onamazu1a:「그러나, 인간들과 같은 힘을 감겨 있어.
+ 눈엣가시 천만이다!
+
+Onamazu0a:「진짜에서도 상관없는,
+ 낼름 평정해 주자!」
+
+<end>
+
+<ChatID:40>---------------------------------------
+//유카
+
+Yuka2d:「이 고조는,
+ 모두가 연결되고 있는 영향인 거네.
+
+Yuka0e:「이것이야말로 확실히,
+ 환상향이 묶어진 힘…
+
+Yuka0b:「나 자신도, 맛보게 해 받읍시다」
+
+<end>

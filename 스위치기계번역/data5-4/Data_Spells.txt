@@ -1,0 +1,187 @@
+﻿ID,Name,Type
+MISDIR,기술「미스디렉션」,0
+PFREEZE,동부「퍼펙트 프리즈」,0
+FURIN,채부「채광풍령」,0
+PRINCESS,수부「프린세스 운디네」,0
+BRAZE,목＆화부「포레스트 블레이즈」,0
+DOLL,메이드 비기「살인 인형」,0
+WORLD,「사쿠야의 세계」,0
+MEEK,기술「이터널 믹」,0
+SSHOOT,홍부「스칼렛 슛」,0
+DAVID,천벌「스타 오브 다비드」,0
+AKAIRO,「홍색의 환상향」,0
+SELENA,월부「사일런트 세레나」,0
+FLARE,일부「로열 플레어」,0
+LEVATEIN,금기「레바테인」,0
+FOK,금기「포 오브 어 카인드」,0
+TTWN,비탄 「그리고 아무도 없게 되는가?」,0
+QED,QED「495년의 파문」,0
+POTATO,소우「스위트 포테이토 룸」,0
+PFLOW,창부「페인 플로우」,0
+PORORO,수부「캇파의 포로로카」,0
+BITE,구부「레이비즈 바이트」,0
+OROSHI,풍신「텐구 산바람」,0
+FUBI,「환상풍미」,0
+WARERU,개해「바다가 갈라지는 날」,0
+KANAKO,준비「서먼 타케미나카타」,0
+KAMINOKAZE,기적「신의 바람」,0
+EXOMB,신제「익스팬디드 온바시라」,0
+TENAGA,토착신「테나가아시나가 님」,0
+SUWA_KANAKO,「스와대전 ~ 중앙신화 vs 토착신화」,0
+SUWA_SUWAKO,「스와대전 ~ 토착신화 vs 중앙신화」,0
+MOF,「마운틴 오브 페이스」,0
+MISHAGUJISAMA,수부「미샤구지 님」,0
+MPOWER,귀부「미싱 파워」,0
+WITHERAWAY,동부「플라워 위더 어웨이」,0
+MIASMA,장부「필드 미아즈마」,0
+CHEN,요괴고양이「첸」,0
+CONCERTO,합장「프리즘 콘체르토」,0
+GROSSO,대합장「영차 콘체르토 그로소」,0
+BUDDHIST,식탄「얼티메이트 부디스트」,0
+KOKKURI,「곳쿠리 씨의 계약」,0
+YUJUN,옥계검「이백유순의 일섬」,0
+GOSUI,천상검「천인의 오쇠」,0
+ICHINEN,육도검「일념무량겁」,0
+BOUGA,망향「망아향」,0
+HITSUMETSU,망무「생자필멸의 이치」,0
+SWALLOW,화령「스월로테일 버터플라이」,0
+SUMIZOME,앵부「완전한 묵염의 벚꽃」,0
+HANGON,「반혼접」,0
+YUME,결계「꿈과 현실의 저주」,0
+KOKUSHI,망량「이중 흑사접」,0
+JINYO,「인간과 요괴의 경계」,0
+SEITOSHI,결계「삶과 죽음의 경계」,0
+DANMAKU,유카리 오의「탄막결계」,0
+YOSUZUME,야맹「요스즈메의 노래」,0
+BUG,준부「나이트 버그 스톰」,0
+DUPER,「에인션트 듀퍼」,0
+MUSOU_SHUN,신령「몽상봉인 순」,0
+MASPA,연부「마스터 스파크」,0
+NEXT,신사「신환상사 - 넥스트 히스토리 -」,0
+VOLCANO,봉래「개풍쾌청 -후지야마 볼케이노-」,0
+PHOENIX,「퍼제스트 바이 피닉스」,0
+LUNATIC,「환롱월예(루나틱 레드 아이즈)」,0
+DEVICE,조신「오모이카네 디바이스」,0
+MISSOU,비술「천문밀장법」,0
+KAGUYA_RYU,난제「용 목의 구슬 -오색의 탄환-」,0
+KAGUYA_HOTOKE,난제「부처의 석발 -꺾이지 않는 의지-」,0
+KAGUYA_KOROMO,난제「불쥐의 가죽옷 -침착한 마음-」,0
+KAGUYA_TSUBAME,난제「제비의 자안패 -영명선-」,0
+KAGUYA_TAMANOE,신보「봉래의 옥의 가지 -꿈빛 고향-」,0
+EIYA,「영야 되돌리기」,0
+KAKO,금탄「과거를 새기는 시계」,0
+MEIRO,금기「사랑의 미로」,0
+KAGUTSUCHI,신도「히노카구즈치노카미」,0
+AMANOUZUME,신무「아메노우즈메」,0
+MIKADUCHI,강신「타케미카즈치」,0
+AMATERASU,「아마테라스오미카미」,0
+TENSEI,「몽상천생」,0
+WELL,조병「웰 디스트럭터」,0
+ROPE,세강「칸다타 로프」,0
+GREENEYED,투부「그린 아이드 몬스터」,0
+KAIRIKI,귀부「괴력난신」,0
+SANPO,사천왕 오의「삼보필살」,0
+SOKI_FUBI,상기「환상풍미」,0
+SOKI_PORORO,상기「캇파의 포로로카」,0
+SOKI_SEITOSHI,상기「삶과 죽음의 경계」,0
+SOKI_TTWN,상기「그리고 아무도 없게 되는가?」,0
+ZOMBIE,주정「좀비 페어리」,0
+EATER,한령「스플린 이터」,0
+NUCLEAR,핵열「뉴클리어 퓨전」,0
+DIVE,아부「야타가라스 다이브」,0
+MEGA,폭부「메가 플레어」,0
+GIGA,폭부「기가 플레어」,0
+FUNOU,핵열「핵반응 제어불능」,0
+PETA,폭부「페타 플레어」,0
+FUNOU_DIVE,핵열「핵반응 제어불능 다이브」,0
+MELTDOWN,「지옥극락 멜트다운」,0
+SUBTERRANEAN,「서브터레이니언 선」,0
+FUNNEL,요석「카나메 판넬」,0
+HISOTEN,「전 인류의 비상천」,0
+UFOR,정체불명「분노의 레드 UFO 습격」,0
+UNDEFINED,누에부「언디파인드 다크니스」,0
+HEIAN,「헤이안쿄의 악몽」,0
+GASING,무부「개싱 가든」,0
+DELIRIUM,섬망「인투 딜리리엄」,0
+RAINBOW,홍부「오버 더 레인보우」,0
+ODOROKI,후광「종이 우산 깜짝 플래시」,0
+UMBRELLA,홍부「엄브렐러 사이클론」,0
+PRICE,사가「프라이스 오브 라이프」,0
+JUOH,심판「시왕재판」,0
+JUDGEMENT,심판「라스트 저지먼트」,0
+JOHARI,심판「정파리 심판」,0
+PARANOIA,표상「탄막 파라노이아」,0
+IDO,본능「이드의 해방」,0
+EGO,억제「슈퍼에고」,0
+RORSCHACH,무의식「탄막 로르샤흐」,0
+IDENSHI,심층「무의식의 유전자」,0
+POLYGRAPH,반응「요괴 폴리그래프」,0
+UZUMEBI,부연「사랑의 매화」,0
+PHILOSOPHY,「미움받는 자의 필로소피」,0
+SROSE,「서브터레이니언 로즈」,0
+PARTY,검연「블레이드 파티」,0
+DANCE,검무「세이버 댄스」,0
+DOLL_YUMEKO,인형「미저리 돌」,0
+SPIRE,검답「스텝 스피어」,0
+CREATE1,창조「데모나스 가스펠」,0
+SOSHO,대마법「마신창송」,0
+KANAF,신익「엘 카나프」,0
+SHINKI,「어머니 되시는 마계신」,0
+NAMAZU1,메기 「올 전화로 에콜로지다!」,0
+NAMAZU2,메기「액상화현상으로 대지도 진흙과 같구나!」,0
+NAMAZU3,대메기「이것으로 속세도 끝장인 게야!」,0
+BYAKURENN,마인「뱌쿠렌」,0
+MIMAN,금주「다크니스 샤워」,0
+KAIKA,화부「환상향의 개화」,0
+DUAL,마포「듀얼 스파크」,0
+ULTIMATE,궁극「얼티메이트 스파크」,0
+KACHO,환상「화조풍월 소풍농월」,0
+YUKACHAN,「사계절의 플라워 마스터」,0
+MEKO01,양부「마운트 쉽」,0
+MEKO02,수양「카운트리스 쉽」,0
+MEKO03,몽현「무한양」,0
+MEKO04,「요괴양은 환상향의 꿈을 꾸는가?」,0
+MEKO05,「제물의 어린 양」,0
+STRAY,몽도「스트레이 드림」,0
+KENGEN,몽현「형성되는 공포」,0
+NIGHTMARE,악몽「혼돈의 구렁」,0
+CATCHER,몽부「인디언 애뮬릿」,0
+BAKU,모부「도래의 성수」,0
+SWEETDREAM,몽식「스위트 드림」,0
+ALLDREAM,「낙원에 드리운 모든 꿈이여」,0
+STRAYDREAMER,「꿈의 끝」,0
+TOYOHIMEN,예지「바다와 산을 잇는 힘」,0
+NIGHTMARE_B01,악몽「홍색의 환상향」,0
+NIGHTMARE_B02,악몽「포 오브 어카인드」,0
+NIGHTMARE_B03,악몽「미싱파워」,0
+NIGHTMARE_B04,악몽「삼보필살」,0
+NIGHTMARE_B05,악몽「채광풍령」,0
+NIGHTMARE_B06,악몽「웰 디스트럭터」,0
+NIGHTMARE_B07,악몽「뱌쿠렌」,0
+NIGHTMARE_B08,악몽「마신창송」,0
+NIGHTMARE_B09,악몽「듀얼 스파크」,0
+NIGHTMARE_B10,악몽「바다와 산을 잇는 힘」,0
+NIGHTMARE_B11,악몽「살인 인형」,0
+NIGHTMARE_B12,악몽「신의 바람」,0
+NIGHTMARE_B13,악몽「인투 딜리리엄」,0
+NIGHTMARE_B14,악몽「생자필멸의 이치」,0
+NIGHTMARE_B15,악몽「몽상천생」,0
+NIGHTMARE_B16,악몽「마스터 스파크」,0
+NIGHTMARE_B17,악몽「타케미카즈치」,0
+NIGHTMARE_B18,악몽「세이버 댄스」,0
+NIGHTMARE_B19,악몽「그린 아이드 몬스터」,0
+NIGHTMARE_B20,악몽「얼티메이트 부디스트」,0
+SHITONE01,악몽「거짓됨을 알 수 없는 꿈」,0
+SHITONE02,악몽「과학의 세기」,0
+SHITONE03,악몽「방황의 상흔」,0
+SHITONE04,모부「도래의 성수 영식」,0
+SHITONE05,「세계를 형성하는 모든 꿈을」,0
+SHITONE06,「꿈의 끝」,0
+GROKAI,대합장「영차 콘체르토 그로소 개」,1
+DREAMER,「끝 너머의 미래로」,1
+GSW,「환상소녀대전」,1
+SATORI01,표층「자의식의 질문」,1
+SATORI02,심실「거짓없는 세계」,1
+SATORI03,뇌부「브레인 핑거프린트」,1
+SATORI04,「누구에게도 사랑받지 못하는 제 삼의 눈」,1
+SATORI05,「마음의 꽃」,1

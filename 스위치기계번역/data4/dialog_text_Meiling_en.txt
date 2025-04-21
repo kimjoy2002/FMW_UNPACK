@@ -1,0 +1,170 @@
+﻿ID,LineID,face,dialog
+0,0,Meiling1a,무사한 것은 돌려보내지 않는다!
+1,0,Meiling1a,동해보복!
+2,0,Meiling0a,조심성없게 너무 접근했군요!
+3,0,Meiling0a,당하고 있을 뿐이 아니에요!
+4,0,Meiling0a,이 코우미령이 상대가 된다!
+5,0,Meiling0a,관을 손상시키지 않게 하지 않으면…
+6,0,Meiling0a,자、각오를 결정하세요!
+7,0,Meiling1a,후~、열홍권!
+8,0,Meiling1a,는 싫엇!
+9,0,Meiling1a,―!
+10,0,Meiling1a,꿰매는!
+11,0,Meiling1a,그리고 있고!!
+12,0,Meiling1a,먹어라、텐류다리!
+13,0,Meiling1a,그리고 나!
+14,0,Meiling1a,오랴앗!!
+15,0,Meiling0a,무지개색의 차는 것의 비、피해 봐라!
+15,1,Meiling1a,아─!
+16,0,Meiling0a,떨어지면 안전이라고 생각했는지!
+16,1,Meiling1a,아─!
+17,0,Meiling0a,가겠어、코우미령이 필살의 주먹…
+17,1,Meiling1a,채부!
+17,2,Meiling1a,채광풍령… 하앗!
+18,0,Meiling0a,가겠어、코우미령이 필살의 주먹…
+18,1,Meiling1a,채부!
+18,2,Meiling1a,채광풍령… 으로 나!
+19,0,Meiling0a,가겠어、코우미령이 필살의 주먹…
+19,1,Meiling1a,채부!
+19,2,Meiling1a,채광풍령… 관철해랏!
+20,0,Meiling0a,가겠어、코우미령이 필살의 주먹…
+20,1,Meiling1a,채부!
+20,2,Meiling1a,채광풍령… 오오오오오옷!
+21,0,Meiling0a,남편와、\n 여기는 시간을 법니까
+22,0,Meiling0a,자、좀 더 접근해 오세요!
+23,0,Meiling0a,멀리서는 비겁한!
+24,0,Meiling1a,사정외로부터와는、겁먹었는지!
+25,0,Meiling1a,동료를 상처 입힌다고는! \n 절대로 허락하지 않는다!
+26,0,Meiling1a,거기다、이제 일격!
+27,0,Meiling1a,그 틈은 놓치지 않는다!
+28,0,Meiling1a,사쿠야씨、원호합니다!
+29,0,Meiling1a,사쿠야씨、후는 내가!
+30,0,Meiling0a,지키는 것이라면 맡겨 주세요!
+31,0,Meiling1a,내가 사쿠야씨를 지킵니다!
+32,0,Meiling1a,사쿠야씨、위험하다!
+33,0,Meiling0a,상처가 무서워서、\n 문지기가 감당해 냅니까
+34,0,Meiling2a,、불찰!
+35,0,Meiling2a,피탄!? 틈을 찔렸다!
+36,0,Meiling2a,구、방심했는지!
+37,0,Meiling2a,이 정도로 넘어질까 보냐!
+38,0,Meiling0a,이 정도、피할 것도 없다!
+39,0,Meiling0a,좀 더 진심으로 와라!
+40,0,Meiling0a,아직도! 그런 것인가!
+41,0,Meiling0a,그런 공격에서는 \n 나를 넘어뜨리는 것은 할 수 없다!
+42,0,Meiling2a,… 나무、효과가 있었다앗!
+43,0,Meiling2a,배… 배수진이닷!
+44,0,Meiling0a,사쿠야씨의 나이프에 비하면!
+45,0,Meiling1a,이봐요 이봐요、여기다!
+46,0,Meiling0a,상대의 기분의 흐름을 읽으면!
+47,0,Meiling0a,단련이 부족한 것 같네요
+48,0,Meiling0a,맞을까 보냐!
+49,0,Meiling0a,나의 일은 문지기예요!
+50,0,Meiling1a,방비로라면 지지 않는닷!
+51,0,Meiling1a,그 정도로는、\n 이 코우미령은 관철할 수 없다!
+52,0,Meiling2a,… 아직이닷!
+53,0,Meiling2a,배… 배수진이닷!
+54,0,Meiling0a,이것이 기분의 힘입니다!
+55,0,Meiling0a,공격기분이 뻔해요!
+56,0,Meiling1a,여기로부터가 실전이다!
+57,0,Meiling2a,、끝까지 지킬 수 없었다니…
+58,0,Meiling0a,None
+59,0,Meiling0a,맞아 싸울 뿐(만큼)이 노우가 아니다!
+60,0,Meiling0a,정정당당、승부입니다!
+61,0,Meiling0a,사람이 안심하고 낮잠을 자기 위해서는!
+62,0,Meiling0a,걸어 온 것은、그 쪽이 앞이에요!
+63,0,Meiling1a,여기를 통할 수는 없습니다!
+64,0,Meiling0a,당하고 있을 뿐이지 않아!
+65,0,Meiling0a,공격의 뒤에는、틈이 생길 것!
+66,0,Meiling0a,여기서 맞아 싸웁니다!
+67,0,Meiling0a,이 코우미령이 상대가 된다!
+68,0,Meiling0a,자、각오를 결정해 주세요!
+69,0,Meiling0a,이것은 견딜 수 있습니까?
+70,0,Meiling0a,기합 넣어 가요
+71,0,Meiling0a,당하기 전에 할 수 밖에!
+72,0,Meiling0a,상처입음이라고 생각해 방심했어요?
+73,0,Meiling0a,아직 나의 투지는 쇠약해지고 있지 않습니다!
+74,0,Meiling0a,여기로부터 반격한다!
+75,0,Meiling1a,후~、열홍권!
+76,0,Meiling1a,―!
+77,0,Meiling1a,꿰매는!
+78,0,Meiling1a,그리고 있고!!
+79,0,Meiling1a,는 싫엇!
+80,0,Meiling1a,먹어라、텐류다리!
+81,0,Meiling1a,그리고 나!
+82,0,Meiling1a,오랴앗!!
+83,0,Meiling0a,무지개색의 차는 것의 비、피해 봐라!
+83,1,Meiling1a,아─!
+84,0,Meiling0a,떨어지면 안전이라고 생각했는지!
+84,1,Meiling1a,아─!
+85,0,Meiling0a,맨주먹이라고 얕잡아 보았어요!
+85,1,Meiling1a,아─!
+86,0,Meiling0a,가겠어、코우미령이 필살의 주먹…
+86,1,Meiling1a,채부!
+86,2,Meiling1a,채광풍령… 하앗!
+87,0,Meiling0a,가겠어、코우미령이 필살의 주먹…
+87,1,Meiling1a,채부!
+87,2,Meiling1a,채광풍령… 관철해랏!
+88,0,Meiling0a,집중해、생각을 높여…!
+88,1,Meiling1a,채부!
+88,2,Meiling1a,채광풍령… 오오오오오옷!
+89,0,Meiling0a,우선 도망칠 수 밖에 없다!
+90,0,Meiling0a,나라도 피하는데 전념하면…!
+91,0,Meiling0a,멀리서는 비겁한!
+92,0,Meiling0a,원거리 무기는 서투른 것이구나…
+93,0,Meiling0a,―、하기 어렵구나
+94,0,Meiling1a,동료를 상처 입힌다고는、\n 절대로 허락하지 않는다!
+95,0,Meiling0a,비겁하다고는 말하게 하지 않아요!
+96,0,Meiling0a,계속해도 일격!
+97,0,Meiling0a,다그쳐요!
+98,0,Meiling0a,싫다고 말해도 지킵니다!
+99,0,Meiling0a,나의 역할은 지키는 것…!
+100,0,Meiling0a,지키는 것이라면 맡겨 주세요!
+101,0,Meiling0a,이 장소는、이 코우미령에 맡겨 주시길
+102,0,Meiling1a,잘도 사쿠야씨를! \n 절대로 허락하지 않아요!
+103,0,Meiling0a,사쿠야씨、내가 계승합니다!
+104,0,Meiling0a,사쿠야씨、후는 내가!
+105,0,Meiling0a,내가 사쿠야씨를 지킵니다!
+106,0,Meiling0a,사쿠야씨、등은 맡겨 주세요!
+107,0,Meiling1a,어떤 바람취궖원…\n 아니아니、잘도 파츄리님을!
+108,0,Meiling0a,마법의 다음은 육탄전입니다!
+109,0,Meiling0a,파츄리님、뒤는 맡겨 주세요
+110,0,Meiling1a,파츄리님은、\n 홍마관에서 제일 신체가 약합니다!
+111,0,Meiling0a,파츄리님、\n 무리는 하시지 않도록…
+112,0,Meiling0a,호두 、위험해~
+113,0,Meiling1a,호두 는 물러가고 있어!
+114,0,Meiling0a,엘리、여기는 내가 대신해요
+115,0,Meiling0a,엘리、교대의 시간이야
+116,0,Meiling1a,위험해요、엘리는 물러가!
+117,0,Meiling0a,좀 더 진심으로 와 주세요!
+118,0,Meiling0a,이 정도는 통할 수 없어요!
+119,0,Meiling0a,찰과상에 상관하고 있을 수 없다!
+120,0,Meiling0a,통용되지 않아요!
+121,0,Meiling0a,그런 공격에서는 \n 나를 넘어뜨릴 수 없다!
+122,0,Meiling2a,아직 끝나고는 있지 않습니다!
+123,0,Meiling2a,배… 배수진이닷!
+124,0,Meiling2a,… 나무、효과가 있었다앗!
+125,0,Meiling2a,여기가 고비…!
+126,0,Meiling2a,이대로는 퇴로를 끊어진다!?
+127,0,Meiling2a,、불찰!
+128,0,Meiling2a,피탄!? 틈을 찔렸다!
+129,0,Meiling2a,방심은 할 수 없는 것 같구나
+130,0,Meiling1a,방비로라면 지지 않는닷!
+131,0,Meiling1a,튼튼한 것이 쓸모입니다!
+132,0,Meiling1a,여기서 도망치면 문지기의 불명예!
+133,0,Meiling2a,상처가 무서워서、\n 문지기가 감당해 냅니까!
+134,0,Meiling2a,、좋은 공격입니다!
+135,0,Meiling2a,이 정도로는 멈추지 않아요!
+136,0,Meiling2a,아직도、물러날 수는 없다!
+137,0,Meiling2a,구、아무래도 진심인 것 같네요
+138,0,Meiling2a,이 정도로 넘어질까 보냐!
+139,0,Meiling0a,생각한데、느껴라…
+140,0,Meiling0a,맞을까 보냐!
+141,0,Meiling0a,사쿠야씨의 나이프에 비하면!
+142,0,Meiling0a,상대의 기분의 흐름을 읽으면!
+143,0,Meiling0a,심장에 나쁘구나…
+144,0,Meiling0a,신경쓰지 않아도 좋은 공격이군요
+145,0,Meiling0a,이것이 기분의 힘입니다!
+146,0,Meiling0a,공격기분이 보이고 보여라!
+147,0,Meiling0a,선수 필승!
+148,0,Meiling2a,는、배수에 떨어졌다…
+149,0,Meiling0a,여러분、훌륭한 건투였습니다. \n 좀 더 쿵후를 쌓지 않으면

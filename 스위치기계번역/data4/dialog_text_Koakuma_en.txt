@@ -1,0 +1,105 @@
+﻿ID,LineID,face,dialog
+0,0,Koakuma1a,물러날 수는 없습니다!
+1,0,Koakuma0a,맞기만 하는건 손해니까요
+2,0,Koakuma1a,도서관에서 날뛰지 말아주세요!
+3,0,Koakuma1a,지금이 공격 찬스군요!
+4,0,Koakuma1a,파츄리 님을 위해、힘내겠습니다!
+5,0,Koakuma0a,저도 악바리 있는 악마거든요!
+6,0,Koakuma0a,도움이 되겠습니다!
+7,0,Koakuma2a,히、히이익-
+8,0,Koakuma1a,에잇!
+9,0,Koakuma1a,영차
+10,0,Koakuma1a,탄막입니다!
+11,0,Koakuma1a,여기로 오지 말아주세요!
+12,0,Koakuma1a,더 많은 탄막입니다!
+13,0,Koakuma1a,에잇、에잇、에이잇
+14,0,Koakuma1a,에-잇、얍-、얍-!
+15,0,Koakuma0a,위、위험했어요
+16,0,Koakuma0a,다음엔 이제 그만해주세요-
+17,0,Koakuma0a,저는、\n 비전투원 아니었나요...?
+18,0,Koakuma2a,반격할 수 없어요오~
+19,0,Koakuma0a,멀어요...
+20,0,Koakuma0a,죄송해요、나중에 간병해드릴게요...
+21,0,Koakuma1a,원호합니다!
+22,0,Koakuma0a,파츄리 님、뒤따르겠습니다!
+23,0,Koakuma1a,파츄리 님의 원호라면!
+24,0,Koakuma0a,...역시 제가 방패군요
+25,0,Koakuma2a,힉-、파츄리 니임~!
+26,0,Koakuma2a,아파요...
+27,0,Koakuma2a,히잉!
+28,0,Koakuma2a,아앗!
+29,0,Koakuma2a,꺅...
+30,0,Koakuma0a,빗나갔다...?
+31,0,Koakuma0a,위험해요오-
+32,0,Koakuma0a,움직이는건 자신 없지만은...
+33,0,Koakuma0a,저도 이정도는 움직인다구요
+34,0,Koakuma0a,파츄리 님、저 피했어요!
+35,0,Koakuma2a,꺅...
+36,0,Koakuma2a,저기、좀 아파요...
+37,0,Koakuma2a,오지 말아 주세요!
+38,0,Koakuma0a,배리어-!
+39,0,Koakuma0a,검이 없는데、무슨 일인가요?
+40,0,Koakuma0a,먼저 해치울게요!
+41,0,Koakuma2a,여、역시 무리였습니다-
+42,0,Koakuma2a,이게 아닌데-
+43,0,Koakuma2a,죄송해요、파츄리 님-
+44,0,Koakuma0a,마음의 준비는 됐습니다
+45,0,Koakuma0a,저도、하면 됩니다!
+46,0,Koakuma0a,도움이 되겠습니다!
+47,0,Koakuma1a,파츄리 님을 위해、힘내겠습니다!
+48,0,Koakuma0a,저도 악바리 있는 악마거든요!
+49,0,Koakuma0a,저도 악바리 있는 악마거든요!\n ...아니、말장난이 아니에요
+50,0,Koakuma1a,지금이 공격 찬스군요!
+51,0,Koakuma0a,적어도 저항 정도는!
+52,0,Koakuma0a,맞기만 하는건 손해니까요
+53,0,Koakuma0a,물러설 수는 없습니다!
+54,0,Koakuma2a,히이익-
+55,0,Koakuma1a,에、에잇!
+56,0,Koakuma1a,다이렉트 어택!
+57,0,Koakuma1a,에잇!
+58,0,Koakuma1a,영차
+59,0,Koakuma1a,탄막입니다!
+60,0,Koakuma1a,여기로 오지 말아주세요!
+61,0,Koakuma1a,더 많은 탄막입니다!
+62,0,Koakuma1a,에잇、에잇、에이잇
+63,0,Koakuma1a,에-잇、얍-、얍-!
+64,0,Koakuma1a,악마 파워-!
+65,0,Koakuma0a,위、위험했어요
+66,0,Koakuma0a,다음엔 이제 그만해주세요!
+67,0,Koakuma0a,반격할 수 없어요...
+68,0,Koakuma0a,너무 멀어요...
+69,0,Koakuma0a,죄송해요、절 위해서...
+70,0,Koakuma1a,저같은걸 위해서...\n 헛되이 하지 않겠습니
+71,0,Koakuma1a,도와야해!
+72,0,Koakuma1a,원호합니다!
+73,0,Koakuma1a,지켜드리겠습니다!
+74,0,Koakuma0a,...역시 제가 방패군요
+75,0,Koakuma0a,제가 힘내야해요!
+76,0,Koakuma2a,으아아、파츄리 님!
+77,0,Koakuma0a,파츄리 님、뒤따르겠습니다!
+78,0,Koakuma0a,파츄리 님、도와드리겠습니다!
+79,0,Koakuma1a,파츄리 님、위험해요!
+80,0,Koakuma0a,파츄리 님、지켜드리겠습니다!
+81,0,Koakuma2a,아앗!
+82,0,Koakuma2a,꺄악!
+82,1,Koakuma0a,...안 돼、\n 지금 스타킹이 찌직하고
+83,0,Koakuma2a,꺄악...!
+84,0,Koakuma2a,우우、파츄리 님~!
+85,0,Koakuma2a,아파요...
+86,0,Koakuma2a,저기、거긴 아파요...
+87,0,Koakuma2a,꺄악...
+88,0,Koakuma2a,그、그만해 주세요~
+89,0,Koakuma2a,오지 말아 주세요!
+90,0,Koakuma2a,저기、좀 아파요...
+91,0,Koakuma0a,파츄리 님、회피했어요!
+92,0,Koakuma0a,움직이는건\n 딱히 자신 없지만...
+93,0,Koakuma0a,빗나갔다...?
+94,0,Koakuma0a,저도 이정도는 움직인다구요
+95,0,Koakuma0a,배리어입니다!
+96,0,Koakuma0a,오지 말아 주세요!
+97,0,Koakuma0a,후후후、얕봤군요
+98,0,Koakuma1a,여기서 선제공격입니다!
+99,0,Koakuma0a,먼저 해치울게요!
+100,0,Koakuma0a,검이 없는데、무슨 일인가요?
+101,0,Koakuma2a,여、역시 무리였습니다-
+102,0,Koakuma0a,당해버렸습니다...\n 뒤에서 정리하고 있을게요

@@ -1,0 +1,124 @@
+﻿ID,LineID,face,dialog
+0,0,Ichirin0a,방금、운잔을 보고 겁먹었지?
+1,0,Ichirin0a,이 승부、받아들일게!
+2,0,Ichirin0a,좋은 경치네、노려볼까!
+3,0,Unzan0a,......!
+3,1,Ichirin0a,맞아、정정당당히 싸울 뿐이야
+4,0,Ichirin0a,염불은 다 외웠어?
+5,0,Ichirin0a,나와 운잔을 막을 순 없을거야!
+6,0,Ichirin0a,좋지、상대해줄게!
+7,0,Ichirin0a,가로막는 자에게、자비란 없다!
+8,0,Ichirin0a,운잔、싸우자!
+8,1,Unzan0a,......!
+9,0,Ichirin1a,운잔의 권、받아봐라!
+9,1,Ichirin1a,하앗、핫!
+10,0,Ichirin1a,눈에 새겨라...!
+10,1,Ichirin1a,요괴권!
+11,0,Ichirin1a,문답무용!
+11,1,Ichirin1a,문답무용!
+12,0,Ichirin1a,빈틈이 없다면...
+12,1,Ichirin1a,힘으로 밀어붙인다!
+13,0,Ichirin1a,뉴도의...
+13,1,Ichirin1a,제트 펀치!
+14,0,Ichirin0a,운잔、꾸짖어버려!
+14,1,Unzan0a,......
+14,2,Unzan0a,......음!!!!
+15,0,Ichirin0a,부탁할게、운잔!
+15,1,Unzan0a,......
+15,2,Unzan0a,......음!!!!
+16,0,Ichirin0a,내 영력도 사용해줘
+16,1,Ichirin0a,하아아앗...
+16,2,Ichirin1a,안력 플래시!!
+17,0,Ichirin0a,억지로라도 맞히겠어!
+17,1,Ichirin0a,저 녀석을 쳐다봐라...
+17,2,Ichirin1a,큰 눈알이여!!
+18,0,Ichirin1a,단숨에 승부를 낸다!
+18,1,Unzan0a,......음!!!!
+18,2,Unzan0a,......음!!!!
+18,3,Unzan0a,......음!!!!
+19,0,Ichirin0a,운잔을 화나게 하면...
+19,1,Ichirin1a,으랴으랴...
+19,2,Ichirin1a,으랴으랴으랴으랴앗...!
+19,3,Ichirin1a,끝이다아!
+20,0,Ichirin0a,지나치다는 말은 안할거야!
+20,1,Ichirin1a,잡았다...!
+20,2,Ichirin1a,운잔、좀 더...!
+20,3,Ichirin1a,마지막이다!
+21,0,Ichirin0a,언제까지고、이대로 둘 수는 없어
+22,0,Ichirin0a,지금은 텐구가 되면 좋겠네
+23,0,Ichirin2a,이쪽의 사거리를 간파하다니...
+24,0,Ichirin2a,모습을 드러내면、승부를 내겠어
+25,0,Ichirin1a,인내심도 이젠 한계야!
+26,0,Ichirin0a,빈틈이 생겼네、충분히 해내겠어
+27,0,Ichirin0a,운잔、다음은 우리가 앞에 나서자!
+28,0,Ichirin1a,비켜라 비켜、우리들이 간다!
+29,0,Ichirin0a,말려들지 않도록 조심해줘!
+30,0,Ichirin0a,동료에게 손을 대려 하다니!
+31,0,Ichirin0a,무리는 하지마
+32,0,Ichirin0a,운잔、끼어들자!
+33,0,Ichirin0a,우리들이 방패가 될게
+34,0,Ichirin2a,나즈린이 막게 하다니...\n 면목이 없네
+35,0,Ichirin0a,나즈린、틈을 만들어줬구나!
+36,0,Ichirin0a,나즈린、우리들이 정리할게!
+37,0,Ichirin0a,한눈을 팔다니、찾는거라도 있어?
+38,0,Ichirin0a,나즈린、무리하진 마!
+39,0,Ichirin0a,나즈린、우리가 방패가 될게!
+40,0,Ichirin2a,성련선의 선장이、\n 날 감싸면 어떡해!
+41,0,Ichirin0a,무라사、나와 운잔이 따라갈게!
+42,0,Ichirin0a,무라사、물러서줘!
+43,0,Ichirin0a,무라사、깊이 따라가는건 금물이야
+44,0,Ichirin0a,어머、멀미라도 하는거야?
+45,0,Ichirin0a,무라사、우리가 방패가 될게!
+46,0,Ichirin0a,선장은 앞을 향해!
+47,0,Ichirin2a,쇼、본존인 너가\n 희생하면 어떡해!
+48,0,Ichirin0a,쇼、깊이 따라가는건 금물이야
+49,0,Ichirin0a,쇼、마무리가 어설펐네
+50,0,Ichirin0a,본존이니까、무리하진 마
+51,0,Ichirin0a,쇼、너는 앞을 향해!
+52,0,Ichirin2a,언니가 날 위해서...!
+53,0,Ichirin0a,언니、저희들도 싸우게 해주세요!
+54,0,Ichirin0a,운잔도 언니와 함께 싸우는게\n 기쁘다고 해요
+55,0,Ichirin0a,언니、저도 따라갈게요!
+56,0,Ichirin0a,자신도 소중히 여겨주세요!
+57,0,Ichirin0a,언니는 저희들이 목숨을 걸어서라도!
+58,0,Ichirin0a,언니、무리하지 말아주세요!
+59,0,Ichirin2a,누에、너가 그런 일을...
+60,0,Ichirin0a,누에、이제 충분해
+61,0,Ichirin0a,누에、물러나있어
+62,0,Ichirin0a,누에、너는 앞을 향해!
+63,0,Ichirin0a,누에、무리하지 마!
+64,0,Unzan0a,...!!
+65,0,Ichirin1a,어떤 공격이든 굴하지 않아!
+66,0,Ichirin1a,기백으로 견디겠어!
+67,0,Ichirin0a,그정도면 언니에겐 한주먹거리겠네!
+68,0,Ichirin0a,그 정도론 아무것도 안 돼
+69,0,Ichirin0a,싸울 생각이 없는건 아니겠지?
+70,0,Ichirin2a,아직이야! 여기서 견뎌야해...!
+71,0,Ichirin2a,어떻게든 견뎠지만...
+72,0,Unzan0a,......!
+72,1,Ichirin2a,응、우린 아직 움직일 수 있어!
+73,0,Ichirin2a,나와 운잔을 여기까지 몰아붙이다니...!
+74,0,Ichirin2a,움직임에 군더더기가 없어...!
+75,0,Ichirin2a,큭、태세를 고친다!
+76,0,Ichirin2a,상대의 페이스에 말려들었다...!?
+77,0,Unzan0a,......!
+77,1,Ichirin2a,더 이상은 용서하지 않아!
+78,0,Ichirin2a,그걸론 결정타가 못 돼!
+79,0,Ichirin2a,생각보다 버겁네...
+80,0,Ichirin2a,한 수 위라는거야...!?
+81,0,Ichirin0a,미숙하네
+82,0,Ichirin0a,바보와 연기는... 뭐 그런건가
+82,1,Unzan0a,......
+82,2,Ichirin0a,어머、실례
+83,0,Ichirin0a,하품이 나와버리는걸
+84,0,Unzan0a,......
+84,1,Ichirin0a,그 정도론、운잔도 어이없어해
+85,0,Ichirin0a,그런 기백으론 통하지 않아
+86,0,Ichirin0a,이게!
+87,0,Unzan0a,......!
+87,1,Ichirin0a,운잔과 나에게 사각은 없어!
+88,0,Ichirin0a,운잔에 기가 죽었구나!
+89,0,Ichirin2a,우리들의 패배구나...
+90,0,Ichirin0a,None
+91,0,Ichirin0a,운잔、\n 전력은 내지 말자
+92,0,Ichirin0a,어라、기가 죽다니...

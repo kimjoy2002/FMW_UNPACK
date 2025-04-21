@@ -1,0 +1,1086 @@
+﻿DataID,NameShort,HP,MP,運,装,移,低,nWep,nBul,Size,Cost,Slots,空,陸,水,夜,Sprite,UnitIcon,FaceIcon,nSp,Special0,Special1,Special2,Special3,BGM,nChar,Char1,Char2,Char3,剣,盾,Pichun,Name,PairName,Race,HP+,MP+,運+,装+,武+
+Akyu01,아큐,2100,40,100,600,4,2,1,0,S,1,1,-,A,C,A,Akyu,Akyu,Akyu,1,COM_CURE_MP,,,,Akyu,1,Akyu,,,0,0,'01',히에다노 아큐,|아큐|아큐|,인간,2500,100,40,500,E
+Akyu02,아큐,3000,100,110,700,5,3,1,0,S,1,4,-,A,C,A,Akyu,Akyu,Akyu,1,COM_CURE_MP,,,,Akyu,1,Akyu,,,0,0,'01',히에다노 아큐,|아큐|아큐|,인간,1500,150,50,400,E
+Alice_en01,앨리스,6800,120,95,850,6,4,3,1,M,2.5,1,A,A,B,A,Alice,Alice,Alice,2,MBLOCK,M_SHIELD,,,Alice,1,Alice_en01,,,0,0,'04',앨리스 마가트로이드,|||,마법사,2000,100,50,400,D
+Alice_en02,앨리스,9300,300,120,950,6,4,4,1,M,2.5,1,A,A,B,A,Alice,Alice,Alice,2,MBLOCK,M_SHIELD,,,Alice,1,Alice_en01,,,0,0,'04',앨리스 마가트로이드,|||,마법사,10000,100,50,400,D
+Alice_en03,앨리스,18500,300,120,950,6,4,4,1,M,2.5,1,A,A,B,A,Alice,Alice,Alice,2,MBLOCK,M_SHIELD,,,Alice,1,Alice_en01,,,0,0,'04',앨리스 마가트로이드,|||,마법사,20000,100,50,400,D
+Alice01,앨리스,4500,150,110,900,6,4,3,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Alice02,앨리스,4500,150,110,900,6,4,4,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Alice03,앨리스,4500,150,110,900,6,4,5,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Alice04,앨리스,4500,150,110,900,6,4,7,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Alice05,앨리스,4500,150,110,900,6,4,7,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Alice06,앨리스,4500,150,110,900,6,4,8,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Alice07,앨리스,4500,150,110,900,6,4,8,0,M,2.5,2,A,A,B,A,Alice,Alice,Alice,2,M_SHIELD,DOLL_CREATE_HOURAI,,,Alice2,1,Alice,,,0,0,'01',앨리스 마가트로이드,|앨리|앨리|,마법사,2000,100,50,400,A
+Aya_en01,아야,8200,150,125,700,7,3,2,1,M,2.5,1,S,B,C,A,Aya,Aya,Aya,1,MBLOCK,,,,Aya,1,Aya_en01,,,1,0,'04',샤메이마루 아야,|||,요괴,9000,250,60,500,D
+Aya_en02,아야,14800,230,140,900,7,3,2,3,M,2.5,1,S,B,C,A,Aya,Aya,Aya,1,MBLOCK,,,,Aya2,1,Aya_en01,,,1,0,'03',샤메이마루 아야,|||,요괴,9000,250,60,500,D
+Aya_en03,아야,9600,250,140,950,7,3,4,1,M,2.5,1,S,B,C,A,Aya,Aya,Aya,1,MBLOCK,,,,Aya,1,Aya_en02,,,1,0,'04',샤메이마루 아야,|||,요괴,10000,100,100,400,D
+Aya_en04,아야,19500,250,140,950,7,3,4,1,M,2.5,1,S,B,C,A,Aya,Aya,Aya,1,MBLOCK,,,,Aya,1,Aya_en02,,,1,0,'04',샤메이마루 아야,|||,요괴,20000,100,100,400,D
+Aya01,아야,4100,150,130,800,7,3,2,0,M,2.5,2,S,B,C,A,Aya,Aya,Aya,1,AYAYA_SPECIAL,,,,Aya,1,Aya,,,1,0,'01',샤메이마루 아야,|아야|아야|,요괴,1500,100,50,400,A
+Aya02,아야,4100,150,130,800,7,3,4,0,M,2.5,2,S,B,C,A,Aya,Aya,Aya,1,AYAYA_SPECIAL,,,,Aya,1,Aya,,,1,0,'01',샤메이마루 아야,|아야|아야|,요괴,1500,100,50,400,A
+Aya03,아야,4100,150,130,800,7,3,5,0,M,2.5,2,S,B,C,A,Aya,Aya,Aya,1,AYAYA_SPECIAL,,,,Aya,1,Aya,,,1,0,'01',샤메이마루 아야,|아야|아야|,요괴,1500,100,50,400,A
+AyaK01,아야,4100,150,140,700,8,3,2,0,M,2.5,2,S,B,C,A,AyaK,Aya,Aya,1,AYAYA_SPECIAL,,,,Aya,1,Aya,,,1,0,'01',샤메이마루 아야(記者),|아야|아야|,요괴,1500,100,50,400,A
+Bakebake_en01,바케바케,3900,60,85,850,5,2,2,1,M,1,1,A,A,A,A,Bakebake,Bakebake,Bakebake,0,,,,,,1,Bakebake_en01,,,0,0,'02_blue',바케바케,|||,요괴,3000,150,40,500,C
+Bakebake_en02,바케바케,3900,60,85,850,5,2,2,1,M,1,1,A,A,A,A,Bakebake,Bakebake,Bakebake,0,,,,,,1,Bakebake_en02,,,0,0,'02_blue',바케바케,|||,요괴,3000,150,40,500,C
+Bakebake_en03,바케바케,3900,60,85,850,5,2,2,1,M,1,1,A,A,A,A,Bakebake,Bakebake,Bakebake,0,,,,,,1,Bakebake_en03,,,0,0,'02_blue',바케바케,|||,요괴,3000,150,40,500,C
+BakebakeL_en01,거대바케바케,14000,200,75,1350,5,2,2,1,L,2,1,A,A,B,A,BakebakeL,BakebakeL,BakebakeL,0,,,,,,1,BakebakeL_en01,,,0,0,'02_blue',거대바케바케,|||,요괴,14000,150,40,800,D
+BakebakeL_en02,거대바케바케,14000,200,75,1350,5,2,2,1,L,2,1,A,A,B,A,BakebakeL,BakebakeL,BakebakeL,0,,,,,,1,BakebakeL_en02,,,0,0,'02_blue',거대바케바케,|||,요괴,14000,150,40,800,D
+BakebakeL_en03,거대바케바케,14000,200,75,1350,5,2,2,1,L,2,1,A,A,B,A,BakebakeL,BakebakeL,BakebakeL,0,,,,,,1,BakebakeL_en03,,,0,0,'02_blue',거대바케바케,|||,요괴,14000,150,40,800,D
+Bat_en01,박쥐,3700,80,85,800,6,3,1,1,S,1,1,A,A,B,S,Bat,Bat,Bat,0,,,,,,1,Bat_en01,,,0,0,'02_red',박쥐,|||,요괴,3500,150,50,400,D
+Bat_en02,박쥐,3700,80,85,800,6,3,1,1,S,1,1,A,A,B,S,Bat,Bat,Bat,0,,,,,,1,Bat_en02,,,0,0,'02_red',박쥐,|||,요괴,3500,150,50,400,D
+Bat_en03,박쥐,3700,80,85,800,6,3,1,1,S,1,1,A,A,B,S,Bat,Bat,Bat,0,,,,,,1,Bat_en03,,,0,0,'02_red',박쥐,|||,요괴,3500,150,50,400,D
+Byakuren_en01,뱌쿠렌,15000,500,130,1300,7,4,2,1,L,3.5,1,A,A,A,A,Byakuren,Byakuren,Byakuren,1,MBLOCK+,,,,Byakuren,1,Byakuren_en01,,,0,0,'04',뱌쿠렌,|||,마법사,10000,300,50,700,E
+Byakuren01,뱌쿠렌,6300,200,120,1200,6,4,4,0,L,3.5,1,A,A,C,A,Byakuren,Byakuren,Byakuren,2,M_SHIELD_BYAKUREN,TRANSF_BYAKUREN,,,Byakuren,1,Byakuren,,,0,0,'01',히지리 뱌쿠렌,|히지|히지|,마법사,2500,100,50,500,A
+ByakurenH01,뱌쿠렌,6300,200,140,1600,7,4,2,0,L,3.5,1,A,A,A,A,ByakurenH,ByakurenH,ByakurenH,2,M_SHIELD_BYAKURENH,CURE_MP_S,,,Byakuren,1,Byakuren,,,0,0,'01',히지리 뱌쿠렌(超人),|히지|히지|,마법사,3000,100,50,500,A
+ByakurenN_en01,악몽,30000,500,130,1300,7,4,1,2,L,3.5,1,A,A,A,A,ByakurenN,ByakurenN,ByakurenN,3,MBLOCK+,M_SHIELD_BYAKUREN,CURE_MP_M,,Byakuren,1,ByakurenN_en01,,,0,0,'03',악몽(뱌쿠렌),|||,악몽,20000,300,50,700,E
+ByakurenN_en02,악몽,30000,500,130,1300,7,4,1,2,L,3.5,1,A,A,A,A,ByakurenN,ByakurenN,ByakurenN,3,MBLOCK+,M_SHIELD_BYAKUREN,CURE_MP_M,,Byakuren,1,ByakurenN_en02,,,0,0,'03',악몽(뱌쿠렌),|||,악몽,20000,300,50,700,E
+ByakurenN_en03,악몽,30000,500,130,1300,7,4,1,2,L,3.5,1,A,A,A,A,ByakurenN,ByakurenN,ByakurenN,3,MBLOCK+,M_SHIELD_BYAKUREN,CURE_MP_M,,Byakuren,1,ByakurenN_en03,,,0,0,'03',악몽(뱌쿠렌),|||,악몽,20000,300,50,700,E
+ByakurenN_en04,악몽,30000,500,130,1300,7,4,1,2,L,3.5,1,A,A,A,A,ByakurenN,ByakurenN,ByakurenN,3,MBLOCK,M_SHIELD_BYAKUREN,CURE_MP_M,,Byakuren,1,ByakurenN_en04,,,0,0,'03',악몽(뱌쿠렌),|||,악몽,50000,500,100,1000,E
+Chen_en01,첸,18000,220,120,900,6,4,2,2,S,2,1,A,S,D,A,Chen,Chen,Chen,2,MBLOCK,SHIKI_CHEN,,,Chen,1,Chen_en01,,,0,0,'03',첸,|||,요수,15000,200,80,500,C
+Chen_en02,첸,19900,220,120,900,6,4,3,1,S,2,1,A,S,D,A,Chen,Chen,Chen,2,MBLOCK,SHIKI_CHEN,,,Chen,1,Chen_en01,,,0,0,'04',첸,|||,요수,15000,200,80,500,C
+Chen_en03,첸,19900,220,120,900,6,4,3,1,S,2,1,A,S,D,A,Chen,Chen,Chen,2,MBLOCK,SHIKI_CHEN,,,Chen,1,Chen_en01,,,0,0,'04',첸,|||,요수,15000,200,80,500,C
+Chen_en04,첸,10000,220,120,900,6,4,2,1,S,2,1,A,S,D,A,Chen,Chen,Chen,2,MBLOCK,SHIKI_CHEN,,,Chen,1,Chen_en01,,,0,0,'04',첸,|||,요수,15000,200,80,500,D
+Chen_en05,첸,10000,220,120,900,6,4,2,1,S,2,1,A,S,D,A,Chen,Chen,Chen,3,MBLOCK,SHIKI_CHEN,BUNSHIN_CHEN,,Chen,1,Chen_en01,,,0,0,'04',첸,|||,요수,15000,200,80,500,D
+Chen_en06,첸,9100,220,120,900,6,4,2,1,S,2,1,A,S,D,A,Chen,Chen,Chen,2,MBLOCK,SHIKI_CHEN,,,Chen,1,Chen_en01,,,0,0,'04',첸,|||,요수,10000,200,80,500,D
+Chen_en07,첸,18200,220,120,900,6,4,2,1,S,2,1,A,S,D,A,Chen,Chen,Chen,3,MBLOCK,SHIKI_CHEN,BUNSHIN_CHEN,,Chen,1,Chen_en01,,,0,0,'04',첸,|||,요수,15000,200,80,500,D
+Chen01,첸,3000,140,120,800,7,5,4,0,S,2,3,B,S,D,A,Chen,Chen,Chen,2,SHIKI_CHEN2,BUNSHIN_CHEN,,,Chen,1,Chen,,,0,0,'01',첸,|첸|첸|,요수,2000,100,50,400,C
+Cirno_en01,치르노,6800,160,100,850,6,4,3,2,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,2,MBLOCK,CURE_HP_S,,,Cirno,1,Cirno_en01,,,0,0,'03',치르노,|||,요정,3400,200,50,500,C
+Cirno_en02,치르노,6800,160,100,850,6,4,4,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,2,MBLOCK,CURE_HP_S,,,Cirno,1,Cirno_en01,,,0,0,'04',치르노,|||,요정,3400,200,50,500,C
+Cirno_en03,치르노,6800,160,100,850,6,4,4,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,2,MBLOCK,CURE_HP_S,,,Cirno,1,Cirno_en01,,,0,0,'04',치르노,|||,요정,5000,200,50,500,C
+Cirno_en04,치르노,8400,260,110,900,6,4,5,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,3,MBLOCK,CURE_HP_S,I_BARRIER,,Cirno,1,Cirno_en01,,,0,0,'04',치르노,|||,요정,10000,200,100,500,D
+Cirno_en05,치르노,16800,260,110,900,6,4,5,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,3,MBLOCK,CURE_HP_S,I_BARRIER,,Cirno,1,Cirno_en01,,,0,0,'04',치르노,|||,요정,20000,200,100,500,D
+Cirno_en06,치르노,19000,200,110,900,6,4,5,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,3,MBLOCK,CURE_HP_S,I_BARRIER,,Cirno,1,Cirno_en01,,,0,0,'04',치르노,|||,요정,21000,200,100,500,D
+Cirno_en07,치르노,19000,200,110,900,6,4,5,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,3,MBLOCK,CURE_HP_S,I_BARRIER,,Cirno,1,Cirno_en02,,,0,0,'04',치르노,|||,요정,21000,200,100,500,D
+Cirno_en08,치르노,13000,260,110,900,6,4,5,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,3,MBLOCK,CURE_HP_S,I_BARRIER,,Cirno,1,Cirno_en01,,,0,0,'04',치르노,|||,요정,10000,200,100,500,D
+Cirno01,치르노,3200,140,110,800,6,4,4,0,S,2,3,A,A,C,A,Cirno,Cirno,Cirno,1,CURE_HP_S,,,,Cirno,1,Cirno,,,0,0,'01',치르노,|치르|치르|,요정,2000,100,50,400,C
+Cirno02,치르노,3200,140,110,800,6,4,4,0,S,2,3,A,A,C,A,Cirno,Cirno,Cirno,2,CURE_HP_S,I_BARRIER,,,Cirno,1,Cirno,,,0,0,'01',치르노,|치르|치르|,요정,2000,100,50,400,C
+Cirno03,치르노,3200,140,110,800,6,4,6,0,S,2,3,A,A,C,A,Cirno,Cirno,Cirno,2,CURE_HP_S,I_BARRIER,,,Cirno,1,Cirno,,,0,0,'01',치르노,|치르|치르|,요정,2000,100,50,400,C
+Cirno04,치르노,3200,140,110,800,6,4,7,0,S,2,3,A,A,C,A,Cirno,Cirno,Cirno,2,CURE_HP_S,I_BARRIER,,,Cirno,1,Cirno,,,0,0,'01',치르노,|치르|치르|,요정,2000,100,50,400,C
+Cirno05,치르노,3200,140,110,800,6,4,8,0,S,2,3,A,A,C,A,Cirno,Cirno,Cirno,2,CURE_HP_S,I_BARRIER,,,Cirno,1,Cirno,,,0,0,'01',치르노,|치르|치르|,요정,2000,100,50,400,C
+Daiyosei_en01,대요정,7200,200,115,950,6,4,3,1,S,1.5,1,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,MBLOCK,,,,Daiyosei,1,Daiyosei_en01,,,0,0,'04',대요정,|||,요정,10000,100,50,500,E
+Daiyosei_en02,대요정,9900,200,115,950,6,4,3,1,S,1.5,1,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,MBLOCK,,,,Daiyosei,1,Daiyosei_en01,,,0,0,'04',대요정,|||,요정,10000,100,50,500,E
+Daiyosei_en03,대요정,10000,200,115,950,6,4,3,1,S,1.5,1,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,MBLOCK,,,,Daiyosei,1,Daiyosei_en01,,,0,0,'04',대요정,|||,요정,10000,100,50,500,E
+Daiyosei01,대요정,4100,100,105,900,6,4,2,0,S,1.5,4,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,COM_CURE_HP,,,,Daiyosei,1,Daiyosei,,,0,0,'01',대요정,|다이|다이|,요정,2500,100,50,500,E
+Daiyosei02,대요정,4100,100,105,900,6,4,4,0,S,1.5,4,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,COM_CURE_HP,,,,Daiyosei,1,Daiyosei,,,0,0,'01',대요정,|다이|다이|,요정,2500,100,50,500,E
+Daiyosei03,대요정,4100,100,105,900,6,4,5,0,S,1.5,4,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,COM_CURE_HP,,,,Daiyosei,1,Daiyosei,,,0,0,'01',대요정,|다이|다이|,요정,2500,100,50,500,E
+DreamA_en01,꿈의 빛,9000,150,100,1300,5,2,1,1,M,2,1,A,A,A,A,DreamA,DreamA,DreamA,0,,,,,,1,DreamA_en01,,,0,0,'02_blue',꿈의 빛,|||,요괴,10000,150,100,1000,E
+DreamB_en01,꿈의 빛,5000,150,100,1000,6,3,1,1,M,2,1,A,A,A,A,DreamB,DreamB,DreamB,0,,,,,,1,DreamB_en01,,,0,0,'02_red',꿈의 빛,|||,요괴,10000,150,100,1000,E
+DreamB_en02,꿈의 빛,5000,150,100,1000,6,3,1,1,M,2,1,A,A,A,A,DreamB,DreamB,DreamB,0,,,,,,1,DreamB_en02,,,0,0,'02_red',꿈의 빛,|||,요괴,10000,150,100,1000,E
+DreamC_en01,꿈의 앙금,10000,150,100,1300,5,2,1,1,M,2,1,A,A,A,A,DreamC,DreamC,DreamC,0,,,,,,1,DreamC_en01,,,0,0,'02_black',꿈의 앙금,|||,요괴,10000,150,100,1000,E
+Eiki_en01,에이키,35000,600,120,1400,6,4,2,4,S,3.5,1,A,A,B,A,Eiki,Eiki,Eiki,2,MBLOCK,CURE_MP_M,,,Eiki,1,Eiki_en01,,,0,0,'03',시키에이키 야마자나두,|||,염마,40000,300,100,1000,D
+Eiki_en02,에이키,35000,600,120,1400,6,4,2,4,S,3.5,1,A,A,B,A,Eiki,Eiki,Eiki,2,MBLOCK,CURE_MP_M,,,Eiki,1,Eiki_en02,,,0,0,'03',시키에이키 야마자나두,|||,염마,40000,300,100,1000,D
+Eiki_en03,에이키,35000,600,120,1400,6,4,2,4,S,3.5,1,A,A,B,A,Eiki,Eiki,Eiki,2,MBLOCK,CURE_MP_M,,,Eiki,1,Eiki_en03,,,0,0,'03',시키에이키 야마자나두,|||,염마,40000,300,100,1000,D
+Eiki_en04,에이키,14000,400,120,1400,6,4,3,1,S,3.5,1,A,A,B,A,Eiki,Eiki,Eiki,2,MBLOCK,CURE_MP_M,,,Eiki,1,Eiki_en01,,,0,0,'03',시키에이키 야마자나두,|||,염마,10000,300,50,500,D
+Eiki01,에이키,5000,180,120,1000,6,4,4,0,S,3.5,1,A,A,B,A,Eiki,Eiki,Eiki,0,,,,,Eiki,1,Eiki,,,0,0,'01',시키 에이키,|시키|시키|,염마,2000,100,50,400,A
+EikiN_en01,악몽,20000,600,120,1400,6,4,2,1,S,3.5,1,A,A,B,A,EikiN,EikiN,EikiN,2,MBLOCK,CURE_MP_M,,,Eiki,1,EikiN_en01,,,0,0,'04',악몽(에이키),|||,악몽,10000,200,100,1000,E
+EikiN_en02,악몽,20000,600,120,1400,6,4,2,1,S,3.5,1,A,A,B,A,EikiN,EikiN,EikiN,2,MBLOCK,CURE_MP_M,,,Eiki,1,EikiN_en02,,,0,0,'04',악몽(에이키),|||,악몽,10000,200,100,1000,E
+EikiN_en03,악몽,20000,600,120,1400,6,4,2,1,S,3.5,1,A,A,B,A,EikiN,EikiN,EikiN,2,MBLOCK,CURE_MP_M,,,Eiki,1,EikiN_en03,,,0,0,'04',악몽(에이키),|||,악몽,10000,200,100,1000,E
+Eirin_en01,에이린,23500,450,70,1250,6,4,2,3,L,3.5,1,A,A,C,A,Eirin,Eirin,Eirin,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,Eirin_en01,,,0,0,'03',야고코로 에이린,|||,봉래인,24000,400,50,800,D
+Eirin_en02,에이린,23500,450,70,1250,6,4,2,3,L,3.5,1,A,A,C,A,Eirin,Eirin,Eirin,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,Eirin_en01,,,0,0,'03',야고코로 에이린,|||,봉래인,24000,400,50,800,D
+Eirin_en03,에이린,23500,450,70,1250,6,4,4,1,L,3.5,1,A,A,C,A,Eirin,Eirin,Eirin,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,Eirin_en01,,,0,0,'04',야고코로 에이린,|||,봉래인,24000,400,50,800,D
+Eirin01,에이린,5900,200,80,1050,6,4,4,0,L,3.5,1,A,A,B,A,Eirin,Eirin,Eirin,3,CURE_HP_M,COM_CURE_HP,COM_CURE_MP,,Eirin,1,Eirin,,,0,0,'01',야고코로 에이린,|에린|에린|,봉래인,2000,100,40,500,A
+EirinN_en01,악몽,23000,500,80,1300,6,4,2,1,L,3.5,1,A,A,B,A,EirinN,EirinN,EirinN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,EirinN_en01,,,0,0,'04',악몽(에이린),|||,악몽,10000,100,40,500,E
+EirinN_en02,악몽,23000,500,80,1300,6,4,2,1,L,3.5,1,A,A,B,A,EirinN,EirinN,EirinN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,EirinN_en01,,,0,0,'04',악몽(에이린),|||,악몽,10000,100,40,500,E
+EirinN_en03,악몽,23000,500,80,1300,6,4,2,1,L,3.5,1,A,A,B,A,EirinN,EirinN,EirinN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,EirinN_en02,,,0,0,'04',악몽(에이린),|||,악몽,10000,100,40,500,E
+EirinN_en04,악몽,23000,500,80,1300,6,4,2,1,L,3.5,1,A,A,B,A,EirinN,EirinN,EirinN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,EirinN_en03,,,0,0,'04',악몽(에이린),|||,악몽,10000,100,40,500,E
+Elliy_en01,엘리,8100,140,80,1100,6,4,2,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy2,1,Elliy_en01,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en02,엘리,8100,140,80,1100,6,4,2,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy2,1,Elliy_en02,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en03,엘리,8100,140,80,1100,6,4,2,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy2,1,Elliy_en01,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en04,엘리,8100,140,80,1100,6,4,2,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy2,1,Elliy_en02,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en05,엘리,8100,140,80,1100,6,4,3,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en01,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en06,엘리,8100,140,80,1100,6,4,3,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en02,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en07,엘리,8100,140,80,1100,6,4,3,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en01,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en08,엘리,8100,140,80,1100,6,4,3,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en02,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Elliy_en09,엘리,8800,240,85,1250,6,4,4,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en01,,,1,0,'04',엘리,|||,요괴,10000,100,50,500,D
+Elliy_en10,엘리,17500,240,85,1250,6,4,4,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en02,,,1,0,'04',엘리,|||,요괴,20000,100,50,1000,D
+Elliy_en11,엘리,11000,240,85,1250,6,4,4,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy,1,Elliy_en02,,,1,0,'04',엘리,|||,요괴,10000,100,50,500,D
+Elliy01,엘리,5100,140,80,1100,6,4,4,0,M,2,2,A,A,C,A,Elliy,Elliy,Elliy,0,,,,,Elliy,1,Elliy,,,1,0,'01',엘리,|엘리|엘리|,요괴,2500,100,50,500,B
+Elliy02,엘리,5100,140,80,1100,6,4,5,0,M,2,2,A,A,C,A,Elliy,Elliy,Elliy,0,,,,,Elliy,1,Elliy,,,1,0,'01',엘리,|엘리|엘리|,요괴,2500,100,50,500,B
+Elliy03,엘리,5100,140,80,1100,6,4,5,0,M,2,2,A,A,C,A,Elliy,Elliy,Elliy,0,,,,,Elliy,1,Elliy,,,1,0,'01',엘리,|엘리|엘리|,요괴,2500,100,50,500,B
+Evileye_en01,이블아이,3800,110,90,750,6,3,2,1,S,1,1,A,A,B,A,Evileye,Evileye,Evileye,0,,,,,,1,Evileye_en01,,,0,0,'02_red',이블아이,|||,요괴,3000,150,50,500,C
+Evileye_en02,이블아이,5000,110,90,900,6,3,2,1,S,1,1,A,A,B,A,Evileye,Evileye,Evileye,0,,,,,,1,Evileye_en01,,,0,0,'02_red',이블아이,|||,요괴,5000,150,50,500,C
+Evileye_en03,이블아이,5000,110,90,900,6,3,2,1,S,1,1,A,A,B,A,Evileye,Evileye,Evileye,0,,,,,,1,Evileye_en02,,,0,0,'02_red',이블아이,|||,요괴,5000,150,50,500,C
+EvileyeK_en01,K이블아이,25000,250,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeK,EvileyeK,EvileyeK,1,MBLOCK,,,,,1,EvileyeK_en01,,,0,0,'02_red',K이블아이,|||,요괴,25000,150,50,1000,E
+EvileyeK_en02,K이블아이,25000,250,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeK,EvileyeK,EvileyeK,1,MBLOCK,,,,,1,EvileyeK_en02,,,0,0,'02_red',K이블아이,|||,요괴,25000,150,50,1000,E
+EvileyeK2_en01,이블아이시그마,65000,220,50,1300,6,3,1,1,LL,3,1,A,A,B,A,EvileyeK2,EvileyeK2,EvileyeK2,0,,,,,,1,EvileyeK2_en01,,,0,0,'04',이블아이시그마,|||,요괴,25000,150,50,800,D
+EvileyeKN_en01,악몽,32000,600,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeKN,EvileyeKN,EvileyeKN,1,MBLOCK+,,,,,1,EvileyeKN_en01,,,0,0,'04',악몽(킹이블아이),|||,악몽,20000,100,100,1000,E
+EvileyeKN_en02,악몽,32000,600,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeKN,EvileyeKN,EvileyeKN,1,MBLOCK+,,,,,1,EvileyeKN_en02,,,0,0,'04',악몽(킹이블아이),|||,악몽,20000,100,100,1000,E
+EvileyeKN_en03,악몽,32000,600,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeKN,EvileyeKN,EvileyeKN,1,MBLOCK+,,,,,1,EvileyeKN_en03,,,0,0,'04',악몽(킹이블아이),|||,악몽,20000,100,100,1000,E
+EvileyeKN_en04,악몽,32000,600,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeKN,EvileyeKN,EvileyeKN,1,MBLOCK+,,,,,1,EvileyeKN_en04,,,0,0,'04',악몽(킹이블아이),|||,악몽,20000,100,100,1000,E
+EvileyeKN_en05,악몽,22000,600,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeKN,EvileyeKN,EvileyeKN,1,MBLOCK+,,,,,1,EvileyeKN_en05,,,0,0,'04',악몽(킹이블아이),|||,악몽,17500,100,100,1000,E
+EvileyeR_en01,이블아이R,8000,150,95,700,6,3,1,1,S,1,1,A,A,B,A,EvileyeR,EvileyeR,EvileyeR,0,,,,,,1,EvileyeR_en01,,,0,0,'02_red',이블아이(적),|||,요괴,8000,150,50,500,D
+EvileyeR_en02,이블아이R,8000,150,95,700,6,3,1,1,S,1,1,A,A,B,A,EvileyeR,EvileyeR,EvileyeR,0,,,,,,1,EvileyeR_en02,,,0,0,'02_red',이블아이(적),|||,요괴,8000,150,50,500,D
+EvileyeZ_en01,이블아이Z,7000,200,110,900,6,3,1,1,S,1,1,A,A,B,A,EvileyeZ,EvileyeZ,EvileyeZ,0,,,,,,1,EvileyeZ_en01,,,0,0,'02_red',이블아이Z,|||,요괴,8000,150,50,500,D
+EvileyeZ_en02,이블아이Z,7000,200,110,900,6,3,1,1,S,1,1,A,A,B,A,EvileyeZ,EvileyeZ,EvileyeZ,0,,,,,,1,EvileyeZ_en02,,,0,0,'02_red',이블아이Z,|||,요괴,8000,150,50,500,D
+Faries_en01,삼요정,10500,300,125,1000,6,3,3,1,M,4.5,1,A,B,B,A,Faries,Faries,Faries,3,MBLOCK,CURE_HP_M,S_BARRIER,,Faries,3,Sunny_en01,Luna_en01,Star_en01,0,0,'04',빛의 삼요정,|||,요정,10000,100,50,500,D
+Faries_en02,삼요정,21000,300,125,1000,6,3,3,1,M,4.5,1,A,B,B,A,Faries,Faries,Faries,3,MBLOCK,CURE_HP_M,S_BARRIER,,Faries,3,Sunny_en01,Luna_en01,Star_en01,0,0,'04',빛의 삼요정,|||,요정,20000,100,50,500,D
+Faries01,삼요정,6900,160,115,900,6,3,3,0,M,4.5,3,A,B,B,A,Faries,Faries,Faries,4,CURE_HP_S,S_BARRIER,BUNSHIN_FARIES,APART_FARIES,Faries,3,Sunny,Luna,Star,0,0,'01',빛의 삼요정,|||,요정,2500,100,50,500,C
+Faries02,삼요정,6900,160,115,900,6,3,4,0,M,4.5,3,A,B,B,A,Faries,Faries,Faries,4,CURE_HP_S,S_BARRIER,BUNSHIN_FARIES,APART_FARIES,Faries,3,Sunny,Luna,Star,0,0,'01',빛의 삼요정,|||,요정,2500,100,50,500,C
+Flan_en01,플랑,15000,350,75,1200,7,4,1,5,S,3.5,1,A,A,D,S,Flan,Flan,Flan,4,MBLOCK,VAMPIRE2,CURE_HP_S,CURE_MP_M,Flan,1,Flan_en01,,,1,0,'03',플랑드르 스칼렛,|||,요괴,7500,300,50,500,A
+Flan_en02,플랑,15000,350,75,1200,7,4,1,5,S,3.5,1,A,A,D,S,Flan,Flan,Flan,4,MBLOCK,VAMPIRE3,CURE_HP_M,CURE_MP_M,Flan,1,Flan_en01,,,1,0,'03',플랑드르 스칼렛,|||,요괴,7500,300,50,500,A
+Flan_en03,플랑,16000,350,75,1200,7,4,1,5,S,3.5,1,A,A,D,S,Flan,Flan,Flan,4,MBLOCK,VAMPIRE3,CURE_HP_M,CURE_MP_M,Flan,1,Flan_en01,,,1,0,'03',플랑드르 스칼렛,|||,요괴,7500,300,50,500,A
+Flan_en04,플랑,25000,350,110,1300,7,4,3,3,S,3.5,1,A,A,D,S,Flan,Flan,Flan,2,MBLOCK,VAMPIRE3,,,Flan,1,Flan_en01,,,1,0,'03',플랑드르 스칼렛,|||,요괴,20000,300,80,800,C
+Flan01,플랑,4900,200,115,1250,7,4,1,0,S,3.5,1,A,A,D,S,Flan,Flan,Flan,0,,,,,Flan2,1,Flan,,,1,0,'01',플랑드르,|플랑|플랑|,요괴,2000,100,50,500,A
+Flan02,플랑,4900,200,115,1250,7,4,5,0,S,3.5,1,A,A,D,S,Flan,Flan,Flan,1,VAMPIRE,,,,Flan3,1,Flan,,,1,0,'01',플랑드르 스칼렛,|플랑|플랑|,요괴,2000,100,50,500,A
+Flan03,플랑,4900,200,115,1250,7,4,1,0,S,3.5,1,A,A,D,S,Flan,Flan,Flan,1,VAMPIRE4,,,,Flan2,1,Flan,,,1,0,'01',플랑드르 스칼렛,|플랑|플랑|,요괴,2000,100,50,500,A
+FlanA_en01,플랑(FOK),8000,150,85,1000,6,4,1,1,S,3.5,1,A,A,D,S,Flan,Flan,Flan,1,MBLOCK,,,,Flan,1,FlanA_en01,,,1,0,'04',플랑드르(분신),|||,요괴,4000,150,50,800,A
+FlanN_en06,플랑(FOK),12000,400,105,1100,7,4,1,1,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,1,MBLOCK,,,,Flan,1,FlanN_en05,,,1,0,02_black',악몽(분신),|||,악몽,12000,150,100,1000,E
+FlanN_en01,악몽,23000,500,115,1200,7,4,2,1,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,2,MBLOCK,VAMPIRE2,,,Flan,1,FlanN_en01,,,1,0,'04',악몽(플랑드르),|||,악몽,10000,100,50,500,E
+FlanN_en02,악몽,23000,500,115,1200,7,4,2,1,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,2,MBLOCK,VAMPIRE2,,,Flan,1,FlanN_en02,,,1,0,'04',악몽(플랑드르),|||,악몽,10000,100,50,500,E
+FlanN_en03,악몽,23000,500,115,1200,7,4,2,1,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,2,MBLOCK,VAMPIRE2,,,Flan,1,FlanN_en03,,,1,0,'04',악몽(플랑드르),|||,악몽,10000,100,50,500,E
+FlanN_en04,악몽,23000,500,115,1200,7,4,2,1,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,2,MBLOCK,VAMPIRE2,,,Flan,1,FlanN_en04,,,1,0,'04',악몽(플랑드르),|||,악몽,10000,100,50,500,E
+FlanN_en05,악몽,30000,500,115,1400,7,4,1,2,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,2,MBLOCK,VAMPIRE2,,,Flan,1,FlanN_en05,,,1,0,'03',악몽(플랑드르),|||,악몽,50000,500,100,1000,E
+GhostL_en01,유령L,8000,150,85,900,5,2,2,1,L,2,1,A,A,A,A,GhostL,GhostL,GhostL,0,,,,,,1,GhostL_en01,,,0,0,'02_blue',유령(대),|||,유령,3000,150,40,500,D
+GhostLN_en01,저승의 불꽃,12000,300,85,1400,5,2,1,1,L,2,1,A,A,A,A,GhostLN,GhostLN,GhostLN,0,,,,,,1,GhostLN_en01,,,0,0,'02_black',저승의 불꽃,|||,요괴,10000,150,50,500,E
+GhostS_en01,유령S,3700,110,95,800,6,3,1,1,M,1.5,1,A,A,A,A,GhostS,GhostS,GhostS,0,,,,,,1,GhostS_en01,,,0,0,'02_blue',유령(소),|||,유령,3000,150,50,500,D
+GhostSN_en01,어둠의 등불,10000,200,95,1000,6,3,1,1,M,1.5,1,A,A,A,A,GhostSN,GhostSN,GhostSN,0,,,,,,1,GhostSN_en01,,,0,0,'02_black',어둠의 등불,|||,요괴,10000,150,50,500,E
+Goki_en01,고키,9900,150,90,1300,7,4,2,1,M,2,1,A,A,D,A,Goki,Goki,Goki,1,MBLOCK,,,,,1,Goki_en01,,,0,0,'04',고키,|||,요괴,8000,150,50,500,C
+Goki_en02,고키,18500,150,90,1300,7,4,2,1,M,2,1,A,A,D,A,Goki,Goki,Goki,2,MBLOCK,SHIKI_CHEN,,,,1,Goki_en01,,,0,0,'04',고키,|||,요괴,8000,150,50,500,C
+Goki_en03,고키,16000,150,90,1300,7,4,2,1,M,2,1,A,A,D,A,Goki,Goki,Goki,2,MBLOCK,SHIKI_RAN,,,,1,Goki_en01,,,0,0,'04',고키,|||,요괴,8000,150,50,500,C
+Goki01,고키,5200,150,90,1300,6,4,3,0,M,2,1,A,A,D,A,Goki,Goki,Goki,0,,,,,Ran,1,Goki,,,0,0,'01',고키,|고키|고키|,요괴,3000,100,40,500,C
+GokiN_en01,악몽,15000,300,90,1300,6,4,2,1,M,2,1,S,C,D,A,GokiN,GokiN,GokiN,1,MBLOCK,,,,,1,GokiN_en01,,,0,0,'04',악몽(고키),|||,악몽,10000,150,50,500,E
+Grimoire_en01,그리모어,4200,150,80,800,2,1,1,1,M,1.5,1,A,A,D,A,Grimoire,Grimoire,Grimoire,0,,,,,,1,Grimoire_en01,,,0,0,'02_red',그리모어,|||,요괴,4000,150,40,500,D
+GyokutoS_en01,달토끼S,8900,200,85,1200,6,3,3,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,0,,,,,,1,GyokutoS_en01,,,1,0,'02_blue',달토끼(저격병),|||,달토끼,8000,150,50,500,C
+GyokutoS_en02,달토끼S,8900,200,85,1200,6,3,3,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,0,,,,,,1,GyokutoS_en02,,,1,0,'02_blue',달토끼(저격병),|||,달토끼,8000,150,50,500,C
+GyokutoS_en03,달토끼S,8900,200,85,1200,6,3,3,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,0,,,,,,1,GyokutoS_en03,,,1,0,'02_blue',달토끼(저격병),|||,달토끼,8000,150,50,500,C
+GyokutoS_en04,달토끼S,8900,200,85,1200,6,3,3,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,0,,,,,,1,GyokutoS_en04,,,1,0,'02_blue',달토끼(저격병),|||,달토끼,8000,150,50,500,C
+GyokutoS2_en01,달토끼O,14000,200,85,1300,6,3,2,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,1,MBLOCK,,,,,1,GyokutoS2_en01,,,1,0,'02_blue',달토끼(오퍼레이터),|||,달토끼,12000,150,50,800,C
+GyokutoS2_en02,달토끼O,14000,200,85,1300,6,3,2,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,1,MBLOCK,,,,,1,GyokutoS2_en02,,,1,0,'02_blue',달토끼(오퍼레이터),|||,달토끼,12000,150,50,800,C
+GyokutoS2_en03,달토끼O,14000,200,85,1300,6,3,2,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,1,MBLOCK,,,,,1,GyokutoS2_en03,,,1,0,'02_blue',달토끼(오퍼레이터),|||,달토끼,12000,150,50,800,C
+GyokutoSN_en01,악몽,9500,200,85,1200,6,3,2,1,M,2,1,A,A,A,A,GyokutoSN,GyokutoSN,GyokutoSN,0,,,,,,1,GyokutoSN_en01,,,1,0,'02_black',악몽(저격병),|||,악몽,10000,150,50,500,E
+GyokutoSN_en02,악몽,9500,200,85,1200,6,3,2,1,M,2,1,A,A,A,A,GyokutoSN,GyokutoSN,GyokutoSN,0,,,,,,1,GyokutoSN_en02,,,1,0,'02_black',악몽(저격병),|||,악몽,10000,150,50,500,E
+GyokutoT_en01,달토끼T,9900,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en01,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoT_en02,달토끼T,9900,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en02,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoT_en03,달토끼T,9900,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en03,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoT_en04,달토끼T,9900,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en04,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoT_en05,달토끼T,9900,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en02,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoT_en06,달토끼T,9900,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en04,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoT_en07,달토끼T,9900,200,90,950,6,3,1,1,M,2,1,A,A,A,A,Reisen,Reisen,Reisen,0,,,,,,1,GyokutoT_en04,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoTN_en01,악몽,9500,200,90,950,6,3,2,1,M,2,1,A,A,A,A,GyokutoTN,GyokutoTN,GyokutoTN,0,,,,,,1,GyokutoTN_en01,,,1,0,'02_black',악몽(돌격병),|||,악몽,10000,150,50,500,E
+GyokutoTN_en02,악몽,9500,200,90,950,6,3,2,1,M,2,1,A,A,A,A,GyokutoTN,GyokutoTN,GyokutoTN,0,,,,,,1,GyokutoTN_en02,,,1,0,'02_black',악몽(돌격병),|||,악몽,10000,150,50,500,E
+Hatate_en01,하타테,9600,250,130,1000,7,5,3,1,M,2.5,1,S,B,C,A,Hatate,Hatate,Hatate,1,MBLOCK,,,,Hatate,1,Hatate_en01,,,0,0,'04',히메카이도 하타테,|||,요괴,10000,100,100,500,D
+Hatate_en02,하타테,19800,250,130,1000,7,5,3,1,M,2.5,1,S,B,C,A,Hatate,Hatate,Hatate,1,MBLOCK,,,,Hatate,1,Hatate_en01,,,0,0,'04',히메카이도 하타테,|||,요괴,20000,100,100,500,D
+Hatate01,하타테,4000,150,125,800,7,5,3,0,M,2.5,2,S,B,C,A,Hatate,Hatate,Hatate,0,,,,,Hatate,1,Hatate,,,0,0,'01',히메카이도 하타테,|하타|하타|,요괴,1500,100,50,400,A
+Hatate02,하타테,4000,150,125,800,7,5,4,0,M,2.5,2,S,B,C,A,Hatate,Hatate,Hatate,0,,,,,Hatate,1,Hatate,,,0,0,'01',히메카이도 하타테,|하타|하타|,요괴,1500,100,50,400,A
+Hina_en01,히나,13100,200,110,900,6,4,2,2,M,2,1,A,A,A,A,Hina,Hina,Hina,1,MBLOCK,,,,Hina,1,Hina_en01,,,0,0,'03',카기야마 히나,|||,신,8000,250,50,500,C
+Hina_en02,히나,8400,250,130,900,6,4,4,1,M,2,1,A,A,A,A,Hina,Hina,Hina,1,MBLOCK,,,,Hina,1,Hina_en01,,,0,0,'04',카기야마 히나,|||,신,10000,100,50,400,C
+Hina_en03,히나,16800,250,130,900,6,4,4,1,M,2,1,A,A,A,A,Hina,Hina,Hina,1,MBLOCK,,,,Hina,1,Hina_en01,,,0,0,'04',카기야마 히나,|||,신,20000,100,50,400,C
+Hina01,히나,4600,150,120,800,6,4,3,0,M,2,3,A,A,A,A,Hina,Hina,Hina,0,,,,,Hina,1,Hina,,,0,0,'01',카기야마 히나,|히나|히나|,신,2000,100,50,400,C
+Hina02,히나,4600,150,120,800,6,4,4,0,M,2,3,A,A,A,A,Hina,Hina,Hina,0,,,,,Hina,1,Hina,,,0,0,'01',카기야마 히나,|히나|히나|,신,2000,100,50,400,C
+Hourai_en01,호라이,2400,60,85,600,5,3,2,1,SS,0,1,A,B,C,A,Hourai,Hourai,Hourai,0,,,,,,1,Hourai_en01,,,0,0,'01',호라이 인형,|||,인형,1500,100,40,400,D
+Hourai01,호라이,2400,60,85,600,5,3,2,0,SS,0,1,A,B,C,A,Hourai,Hourai,Hourai,0,,,,,Hourai,1,Hourai,,,0,0,'01',호라이 인형,|||,인형,1500,100,40,400,D
+HTengu_en01,백랑텐구,7900,170,80,1050,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,0,,,,,,1,HTengu_en01,,,1,1,'02_blue',백랑텐구,|||,요괴,5000,100,40,500,C
+HTengu_en02,백랑텐구,7900,170,80,1050,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,0,,,,,,1,HTengu_en02,,,1,1,'02_blue',백랑텐구,|||,요괴,5000,100,40,500,C
+HTengu_en03,백랑텐구,8000,170,80,1150,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,0,,,,,,1,HTengu_en01,,,1,1,'02_blue',백랑텐구,|||,요괴,8000,100,40,500,D
+HTengu_en04,백랑텐구,8000,170,80,1150,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,0,,,,,,1,HTengu_en02,,,1,1,'02_blue',백랑텐구,|||,요괴,8000,100,40,500,D
+HTenguB_en01,백랑텐구B,8800,190,85,1100,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,1,MBLOCK,,,,,1,HTenguB_en01,,,1,1,'02_red',백랑텐구B,|||,요괴,6000,150,40,500,C
+HTenguB_en02,백랑텐구B,8800,190,85,1100,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,1,MBLOCK,,,,,1,HTenguB_en02,,,1,1,'02_red',백랑텐구B,|||,요괴,6000,150,40,500,C
+HTenguN_en01,악몽,11000,200,80,1500,6,3,2,1,M,2,1,A,A,A,A,HTenguN,HTenguN,HTenguN,0,,,,,,1,HTenguN_en01,,,1,1,'02_black',악몽(백랑텐구),|||,악몽,10000,150,50,500,E
+HTenguN_en02,악몽,11000,200,80,1500,6,3,2,1,M,2,1,A,A,A,A,HTenguN,HTenguN,HTenguN,0,,,,,,1,HTenguN_en02,,,1,1,'02_black',악몽(백랑텐구),|||,악몽,10000,150,50,500,E
+HYousei_en01,H요정,5100,140,90,1000,5,2,3,1,M,1.5,1,A,A,B,A,HYousei,HYousei,HYousei,0,,,,,,1,HYousei_en01,,,0,0,'02_red',해바라기요정,|||,요정,3000,150,50,500,D
+HYousei_en02,H요정,5100,140,90,1000,5,2,3,1,M,1.5,1,A,A,B,A,HYousei,HYousei,HYousei,0,,,,,,1,HYousei_en02,,,0,0,'02_red',해바라기요정,|||,요정,3000,150,50,500,D
+HYousei_en03,H요정,5100,140,90,1000,5,2,3,1,M,1.5,1,A,A,B,A,HYousei,HYousei,HYousei,0,,,,,,1,HYousei_en03,,,0,0,'02_red',해바라기요정,|||,요정,3000,150,50,500,D
+HYousei_en04,H요정,5100,140,90,1000,5,2,3,1,M,1.5,1,A,A,B,A,HYousei,HYousei,HYousei,0,,,,,,1,HYousei_en04,,,0,0,'02_red',해바라기요정,|||,요정,3000,150,50,500,D
+HYouseiB_en01,H요정B,11000,200,95,1000,5,2,3,1,M,2,1,A,A,B,A,HYouseiB,HYouseiB,HYouseiB,0,,,,,,1,HYouseiB_en01,,,0,0,'02_blue',해바라기요정(청),|||,요정,6000,150,50,500,D
+HYouseiB_en02,H요정B,11000,200,95,1000,5,2,3,1,M,2,1,A,A,B,A,HYouseiB,HYouseiB,HYouseiB,0,,,,,,1,HYouseiB_en02,,,0,0,'02_blue',해바라기요정(청),|||,요정,6000,150,50,500,D
+HYouseiB_en03,H요정B,11000,200,95,1000,5,2,3,1,M,2,1,A,A,B,A,HYouseiB,HYouseiB,HYouseiB,0,,,,,,1,HYouseiB_en03,,,0,0,'02_blue',해바라기요정(청),|||,요정,6000,150,50,500,D
+HYouseiB_en04,H요정B,11000,200,95,1000,5,2,3,1,M,2,1,A,A,B,A,HYouseiB,HYouseiB,HYouseiB,0,,,,,,1,HYouseiB_en04,,,0,0,'02_blue',해바라기요정(청),|||,요정,6000,150,50,500,D
+Ichirin_en01,이치린,13500,300,90,1500,6,4,3,1,L,2.5,1,A,A,A,A,Ichirin,Ichirin,Ichirin,1,MBLOCK,,,,Ichirin,1,Ichirin_en01,,,0,0,'04',쿠모이 이치린,|||,요괴,10000,200,40,500,E
+Ichirin01,이치린,5000,160,90,1150,6,4,4,0,L,2.5,2,A,A,B,A,Ichirin,Ichirin,Ichirin,0,,,,,Ichirin,2,Ichirin,Unzan,,0,0,'01',쿠모이 이치린,|이치|이치|,요괴,2500,100,40,500,A
+IchirinN_en01,악몽,20000,500,90,1500,6,4,2,1,L,2.5,1,A,A,A,A,IchirinN,IchirinN,IchirinN,2,MBLOCK,U_BLOCK,,,Ichirin,1,IchirinN_en01,,,0,0,'04',악몽(이치린),|||,악몽,10000,100,40,500,E
+IchirinN_en02,악몽,20000,500,90,1500,6,4,2,1,L,2.5,1,A,A,A,A,IchirinN,IchirinN,IchirinN,2,MBLOCK,U_BLOCK,,,Ichirin,1,IchirinN_en02,,,0,0,'04',악몽(이치린),|||,악몽,10000,100,40,500,E
+IchirinN_en03,악몽,20000,500,90,1500,6,4,2,1,L,2.5,1,A,A,A,A,IchirinN,IchirinN,IchirinN,2,MBLOCK,U_BLOCK,,,Ichirin,1,IchirinN_en03,,,0,0,'04',악몽(이치린),|||,악몽,10000,100,40,500,E
+IchirinN_en04,악몽,20000,500,90,1500,6,4,2,1,L,2.5,1,A,A,A,A,IchirinN,IchirinN,IchirinN,2,MBLOCK,U_BLOCK,,,Ichirin,1,IchirinN_en04,,,0,0,'04',악몽(이치린),|||,악몽,10000,100,40,500,E
+Iku_en01,이쿠,25000,350,90,1300,6,3,3,1,L,2.5,1,A,A,A,A,Iku,Iku,Iku,1,MBLOCK,,,,Iku,1,Iku_en01,,,0,0,'04',나가에 이쿠,|||,요괴,25000,250,50,1000,A
+Iku_en02,이쿠,25000,350,90,1300,6,3,3,1,L,2.5,1,A,A,A,A,Iku,Iku,Iku,1,MBLOCK,,,,Iku,1,Iku_en02,,,0,0,'04',나가에 이쿠,|||,요괴,25000,250,50,1000,A
+Iku_en03,이쿠,25000,350,90,1300,6,3,3,1,L,2.5,1,A,A,A,A,Iku,Iku,Iku,1,MBLOCK,,,,Iku,1,Iku_en03,,,0,0,'04',나가에 이쿠,|||,요괴,25000,250,50,1000,A
+Iku01,이쿠,5400,170,90,1150,6,3,4,0,L,2.5,2,A,A,A,A,Iku,Iku,Iku,0,,,,,Iku,1,Iku,,,0,0,'01',나가에 이쿠,|이쿠|이쿠|,요괴,2500,100,50,500,A
+InsectA_en01,벌,2000,40,80,900,8,4,1,1,SS,1,1,A,B,C,A,InsectA,InsectA,InsectA,0,,,,,,1,InsectA_en01,,,0,0,'02_green',벌,|||,벌레,4000,100,80,1000,E
+InsectA2_en01,포이즌비,3500,100,100,1000,8,4,1,1,SS,1,1,A,B,C,A,InsectA2,InsectA2,InsectA2,0,,,,,,1,InsectA2_en01,,,0,0,'02_red',포이즌비,|||,벌레,5000,100,100,1000,E
+InsectA2_en02,포이즌비,3500,100,100,1000,8,4,1,1,SS,1,1,A,B,C,A,InsectA2,InsectA2,InsectA2,0,,,,,,1,InsectA2_en02,,,0,0,'02_red',포이즌비,|||,벌레,5000,100,100,1000,E
+InsectB_en01,뱀잠자리,2400,50,75,1000,7,3,1,1,SS,1,1,A,B,C,A,InsectB,InsectB,InsectB,0,,,,,,1,InsectB_en01,,,0,0,'02_green',뱀잠자리,|||,벌레,3600,100,80,1000,E
+InsectC_en01,마계충,3000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectC,InsectC,InsectC,2,BARRIER_ALL_INSECT,CURE_MP_S,,,,1,InsectC_en01,,,0,0,'02_red',마계충,|||,벌레,10000,100,100,1000,E
+InsectC_en02,마계충,3000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectC,InsectC,InsectC,2,BARRIER_ALL_INSECT,CURE_MP_S,,,,1,InsectC_en02,,,0,0,'02_red',마계충,|||,벌레,10000,100,100,1000,E
+InsectCN_en01,악몽,5000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectCN,InsectCN,InsectCN,2,BARRIER_ALL_INSECT,CURE_MP_S,,,,1,InsectCN_en01,,,0,0,'02_black',악몽(충),|||,악몽,10000,100,100,1000,E
+InsectCN_en02,악몽,5000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectCN,InsectCN,InsectCN,2,BARRIER_ALL_INSECT,CURE_MP_S,,,,1,InsectCN_en02,,,0,0,'02_black',악몽(충),|||,악몽,10000,100,100,1000,E
+InsectCN_en03,악몽,3000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectCN,InsectCN,InsectCN,0,,,,,,1,InsectCN_en01,,,0,0,'02_black',악몽(충),|||,악몽,0,100,100,1000,E
+JKarasu_en01,지옥까마귀,6500,80,90,1000,7,3,1,1,S,1.5,1,A,A,C,A,JKarasu,JKarasu,JKarasu,0,,,,,,1,JKarasu_en01,,,0,0,'02_red',지옥까마귀,|||,요괴,4000,150,50,500,C
+JKarasu_en02,지옥까마귀,6500,80,90,1000,7,3,1,1,S,1.5,1,A,A,C,A,JKarasu,JKarasu,JKarasu,0,,,,,,1,JKarasu_en01,,,0,0,'02_red',지옥까마귀,|||,요괴,6500,150,50,500,C
+Kaguya_en01,카구야,24500,500,70,1050,5,4,1,6,M,3.5,1,A,A,C,A,Kaguya,Kaguya,Kaguya,2,MBLOCK,CURE_HP_L,,,Kaguya,1,Kaguya_en01,,,0,0,'03',호라이산 카구야,|||,봉래인,25000,500,50,800,D
+Kaguya_en02,카구야,24500,500,70,1050,5,4,1,6,M,3.5,1,A,A,C,A,Kaguya,Kaguya,Kaguya,2,MBLOCK,CURE_HP_L,,,Kaguya,1,Kaguya_en02,,,0,0,'03',호라이산 카구야,|||,봉래인,25000,500,50,800,D
+Kaguya01,카구야,6500,180,70,900,5,4,5,0,M,3.5,1,A,A,C,A,Kaguya,Kaguya,Kaguya,2,HINEZUMI2,CURE_HP_M,,,Kaguya,1,Kaguya,,,0,0,'01',호라이산 카구야,|카구|카구|,봉래인,2500,100,40,500,A
+KaguyaN_en01,악몽,23000,500,70,1300,5,4,2,1,M,3.5,1,A,A,B,A,KaguyaN,KaguyaN,KaguyaN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Kaguya,1,KaguyaN_en01,,,0,0,'04',악몽(카구야),|||,악몽,10000,100,40,500,E
+KaguyaN_en02,악몽,23000,500,70,1300,5,4,2,1,M,3.5,1,A,A,B,A,KaguyaN,KaguyaN,KaguyaN,4,MBLOCK,CURE_HP_L,CURE_MP_L,HINEZUMI,Kaguya,1,KaguyaN_en02,,,0,0,'04',악몽(카구야),|||,악몽,10000,100,40,500,E
+KaguyaN_en03,악몽,23000,500,70,1300,5,4,2,1,M,3.5,1,A,A,B,A,KaguyaN,KaguyaN,KaguyaN,4,MBLOCK,CURE_HP_L,CURE_MP_L,HINEZUMI,Kaguya,1,KaguyaN_en03,,,0,0,'04',악몽(카구야),|||,악몽,10000,100,40,500,E
+Kanako_en01,카나코,13000,280,65,1250,5,3,2,4,L,3.5,1,S,A,A,A,Kanako,Kanako,Kanako,2,MBLOCK,WIND_KEKKAI,,,Kanako,1,Kanako_en01,,,0,0,'03',야사카 카나코,|||,신,8000,300,50,800,A
+Kanako_en02,카나코,15500,320,70,1400,5,3,5,1,L,3.5,1,S,A,A,A,Kanako,Kanako,Kanako,2,MBLOCK,WIND_KEKKAI,,,Kanako,1,Kanako_en01,,,0,0,'04',야사카 카나코,|||,신,15000,200,40,1000,A
+Kanako_en03,카나코,31000,320,70,1400,5,3,5,1,L,3.5,1,S,A,A,A,Kanako,Kanako,Kanako,2,MBLOCK,WIND_KEKKAI,,,Kanako,1,Kanako_en02,,,0,0,'04',야사카 카나코,|||,신,25000,200,40,1000,A
+Kanako01,카나코,6000,200,70,1300,5,3,5,0,L,3.5,1,A,A,B,A,Kanako,Kanako,Kanako,1,WIND_KEKKAI2,,,,Kanako,1,Kanako,,,0,0,'01',야사카 카나코,|카나|카나|,신,3000,100,40,500,A
+KanakoN_en01,악몽,25000,500,70,1500,5,3,2,1,L,3.5,1,S,A,A,A,KanakoN,KanakoN,KanakoN,2,MBLOCK,WIND_KEKKAI2,,,Kanako,1,KanakoN_en01,,,0,0,'04',악몽(카나코),|||,악몽,10000,200,100,1000,E
+KanakoN_en02,악몽,25000,500,70,1500,5,3,2,1,L,3.5,1,S,A,A,A,KanakoN,KanakoN,KanakoN,2,MBLOCK,WIND_KEKKAI2,,,Kanako,1,KanakoN_en02,,,0,0,'04',악몽(카나코),|||,악몽,10000,200,100,1000,E
+KanakoN_en03,악몽,25000,500,70,1500,5,3,2,1,L,3.5,1,S,A,A,A,KanakoN,KanakoN,KanakoN,2,MBLOCK,WIND_KEKKAI2,,,Kanako,1,KanakoN_en03,,,0,0,'04',악몽(카나코),|||,악몽,10000,200,100,1000,E
+KanakoN_en04,악몽,25000,500,70,1500,5,3,2,1,L,3.5,1,S,A,A,A,KanakoN,KanakoN,KanakoN,2,MBLOCK,WIND_KEKKAI2,,,Kanako,1,KanakoN_en04,,,0,0,'04',악몽(카나코),|||,악몽,10000,200,100,1000,E
+Kaname_en01,요석,4000,140,85,1700,6,3,1,1,S,1,1,A,A,A,A,Kaname,Kaname,Kaname,0,,,,,,1,Kaname_en01,,,0,0,'02_blue',요석,|||,요석,6000,150,40,800,E
+Kaname_en02,요석,4000,140,85,1700,6,3,1,1,S,1,1,A,A,A,A,Kaname,Kaname,Kaname,0,,,,,,1,Kaname_en02,,,0,0,'02_blue',요석,|||,요석,6000,150,40,800,E
+Kappa_en01,캇파,5800,140,70,950,5,2,3,1,M,1.5,1,A,A,S,A,Kappa,Kappa,Kappa,0,,,,,,1,Kappa_en01,,,0,0,'02_green',캇파,|||,요괴,4000,150,50,500,C
+Kappa_en02,캇파,5800,140,70,1050,5,2,3,1,M,1.5,1,A,A,S,A,Kappa,Kappa,Kappa,0,,,,,,1,Kappa_en01,,,0,0,'02_green',캇파,|||,요괴,8000,150,50,500,D
+Kappa_en03,캇파,8000,140,70,1050,5,2,3,1,M,1.5,1,A,A,S,A,Kappa,Kappa,Kappa,0,,,,,,1,Kappa_en01,,,0,0,'02_green',캇파,|||,요괴,10000,150,50,800,D
+KappaC_en01,캇파C,6900,150,80,1000,5,2,3,1,M,1.5,1,A,B,S,A,KappaC,KappaC,KappaC,1,MBLOCK,,,,,1,KappaC_en01,,,0,0,'02_red',캇파C,|||,요괴,5000,150,50,500,C
+KappaN_en01,악몽,9500,200,70,1200,5,2,2,1,M,2,1,A,A,S,A,KappaN,KappaN,KappaN,0,,,,,,1,KappaN_en01,,,0,0,'02_black',악몽(캇파),|||,악몽,10000,150,50,500,E
+KappaS_en01,캇파 개량형,8900,180,70,1350,5,2,3,1,M,2,1,A,A,S,A,Kappa,Kappa,Kappa,0,,,,,,1,KappaS_en01,,,0,0,'02_green',캇파 개량형,|||,요괴,10000,150,50,800,D
+Karasu_en01,요괴까마귀,4200,70,90,800,7,3,1,1,S,1.5,1,A,A,B,A,Karasu,Karasu,Karasu,0,,,,,,1,Karasu_en01,,,0,0,'02_blue',요괴까마귀,|||,요괴,2500,150,50,500,C
+Karasu_en02,요괴까마귀,3200,70,70,700,6,3,1,1,S,1.5,1,A,A,B,A,Karasu,Karasu,Karasu,0,,,,,,1,Karasu_en01,,,0,0,'02_blue',요괴까마귀,|||,요괴,2500,150,50,500,C
+Kedama_en01,털구슬,3700,80,75,800,6,3,2,1,M,1.5,1,A,A,B,A,Kedama,Kedama,Kedama,0,,,,,,1,Kedama_en01,,,0,0,'02_blue',털구슬,|||,요정,2500,150,40,500,D
+Kedama_en02,털구슬,4700,80,80,850,6,3,2,1,M,1.5,1,A,A,B,A,Kedama,Kedama,Kedama,0,,,,,,1,Kedama_en01,,,0,0,'02_blue',털구슬,|||,요정,2500,150,40,600,D
+KedamaB_en01,검은털구슬,4300,80,80,850,6,3,2,1,M,1.5,1,A,A,B,A,KedamaB,KedamaB,KedamaB,0,,,,,,1,KedamaB_en01,,,0,0,'02_red',검은털구슬,|||,요정,2500,150,40,600,D
+KedamaN_en01,밤털구슬,4400,80,75,1300,5,2,1,1,M,1.5,1,A,A,A,S,KedamaB,KedamaN,KedamaN,0,,,,,,1,KedamaN_en01,,,0,0,'02_red',밤털구슬,|||,요정,2500,150,40,500,D
+Keine_en01,케이네,19000,250,70,1300,5,4,4,2,L,2.5,1,A,A,B,A,Keine,Keine,Keine,1,MBLOCK,,,,Keine,1,Keine_en01,,,1,0,'04',카미시라사와 케이네,|||,인간,15000,200,40,600,A
+Keine_en02,케이네,15000,250,70,1300,5,4,4,1,L,2.5,1,A,A,B,A,Keine,Keine,Keine,1,MBLOCK,,,,Keine,1,Keine_en01,,,1,0,'04',카미시라사와 케이네,|||,인간,10000,200,40,600,A
+Keine01,케이네,5000,140,70,1200,5,4,3,0,L,2.5,2,A,A,B,A,Keine,Keine,Keine,0,,,,,Keine,1,Keine,,,1,0,'01',카미시라사와 케이네,|케네|케네|,인간,2500,100,40,500,A
+Keine02,케이네,5000,140,70,1200,5,4,4,0,L,2.5,2,A,A,B,A,Keine,Keine,Keine,0,,,,,Keine,1,Keine,,,1,0,'01',카미시라사와 케이네,|케네|케네|,인간,2500,100,40,500,A
+Keine03,케이네,5000,140,70,1200,5,4,4,0,L,2.5,2,A,A,B,A,Keine,Keine,Keine,1,TRANSF_KEINE,,,,Keine,1,Keine,,,1,0,'01',카미시라사와 케이네,|케네|케네|,인간,2500,100,40,500,A
+KeineH_en01,케이네H,25000,300,70,1400,5,5,2,2,L,2.5,1,A,A,B,S,KeineH,KeineH,KeineH,1,MBLOCK,,,,KeineH,1,KeineH_en01,,,1,0,'03',카미시라사와 케이네(백택),|||,수인,15000,200,40,800,A
+KeineH01,케이네H,5500,160,70,1250,5,5,4,0,L,2.5,2,A,A,B,S,KeineH,KeineH,KeineH,0,,,,,KeineH,1,Keine,,,1,0,'01',카미시라사와 케이네(백택),|케네|케네|,수인,2500,100,40,500,A
+Kekkai_en01,결계의 핵심,35000,200,10,2000,1,1,1,1,LL,1,1,A,A,A,A,Kekkai,Kekkai,Kekkai,0,,,,,,1,Kekkai_en01,,,0,0,'04',결계의 핵심,|||,??,0,0,0,0,E
+Kekkai_en02,결계의 핵심,160000,1000,10,2000,1,1,2,1,LL,1,1,A,A,A,A,Kekkai,Kekkai,Kekkai,1,MBLOCK,,,,,1,Kekkai_en02,,,0,0,'04',결계의 핵심,|||,??,500000,0,0,1000,E
+Kisume_en01,키스메,12400,200,90,1500,6,4,2,1,S,2,1,A,B,A,A,Kisume,Kisume,Kisume,1,MBLOCK,,,,Kisume,1,Kisume_en01,,,0,1,'04',키스메,|||,요괴,7000,150,50,500,C
+Kisume_en02,키스메,12400,200,90,1500,6,4,2,1,S,2,1,A,B,A,A,Kisume,Kisume,Kisume,1,MBLOCK,,,,Kisume,1,Kisume_en02,,,0,1,'04',키스메,|||,요괴,7000,150,50,500,C
+Kisume_en03,키스메,25000,200,90,1500,6,4,2,2,S,2,1,A,B,A,A,Kisume,Kisume,Kisume,1,MBLOCK,,,,Kisume,1,Kisume_en03,,,0,1,'03',키스메,|||,요괴,20000,150,50,500,C
+Kisume_en04,키스메,25000,200,90,1500,6,4,2,2,S,2,1,A,B,A,A,Kisume,Kisume,Kisume,1,MBLOCK,,,,Kisume,1,Kisume_en04,,,0,1,'03',키스메,|||,요괴,20000,150,50,500,C
+Kisume01,키스메,4200,130,120,1500,6,4,3,0,S,2,3,A,A,C,A,Kisume,Kisume,Kisume,0,,,,,Kisume,1,Kisume,,,0,1,'01',키스메,|키스|키스|,요괴,3000,100,40,500,B
+Kisume02,키스메,4200,130,120,1500,6,4,4,0,S,2,3,A,A,C,A,Kisume,Kisume,Kisume,0,,,,,Kisume,1,Kisume,,,0,1,'01',키스메,|키스|키스|,요괴,3000,100,40,500,B
+KisumeN_en01,악몽,30000,400,110,2000,6,4,2,2,S,2,1,A,A,A,A,KisumeN,KisumeN,KisumeN,1,MBLOCK,,,,Kisume,1,KisumeN_en01,,,0,1,'03',악몽(키스메),|||,악몽,50000,500,100,1000,E
+KKedama_en01,강털구슬,5700,100,75,1000,5,2,2,1,M,2,1,A,A,B,A,KKedama,KKedama,KKedama,0,,,,,,1,KKedama_en01,,,0,0,'02_red',강화털구슬,|강털|강털|,요정,3000,150,40,500,D
+KKedama_en02,강털구슬,6700,100,80,1000,5,2,2,1,M,2,1,A,A,B,A,KKedama,KKedama,KKedama,0,,,,,,1,KKedama_en01,,,0,0,'02_red',강화털구슬,|강털|강털|,요정,3000,150,40,500,D
+Koakuma_en01,소악마,8300,150,110,950,6,4,3,1,M,2,1,A,A,B,A,Koakuma,Koakuma,Koakuma,1,MBLOCK,,,,Koakuma,1,Koakuma_en01,,,0,0,'04',소악마,|||,요괴,4150,100,50,500,D
+Koakuma_en02,소악마,8300,150,110,950,6,4,3,1,M,2,1,A,A,B,A,Koakuma,Koakuma,Koakuma,1,MBLOCK,,,,Koakuma,1,Koakuma_en01,,,0,0,'04',소악마,|||,요괴,4150,100,50,500,D
+Koakuma_en03,소악마,8500,250,115,1000,6,4,3,1,M,2,1,A,A,B,A,Koakuma,Koakuma,Koakuma,1,MBLOCK,,,,Koakuma,1,Koakuma_en01,,,0,0,'04',소악마,|||,요괴,10000,200,50,500,D
+Koakuma_en04,소악마,17000,250,115,1000,6,4,3,1,M,2,1,A,A,B,A,Koakuma,Koakuma,Koakuma,1,MBLOCK,,,,Koakuma,1,Koakuma_en01,,,0,0,'04',소악마,|||,요괴,20000,200,50,500,D
+Koakuma01,소악마,4600,150,110,950,6,4,3,0,M,2,3,A,A,B,A,Koakuma,Koakuma,Koakuma,1,COM_CURE_MP,,,,Koakuma,1,Koakuma,,,0,0,'01',소악마,|코아|코아|,요괴,2000,100,50,500,C
+Kogasa_en01,코가사,25000,340,110,1300,6,4,1,4,M,2,1,A,A,C,A,Kogasa,Kogasa,Kogasa,1,MBLOCK,,,,Kogasa,1,Kogasa_en01,,,0,1,'03',타타라 코가사,|||,요괴,30000,200,80,1000,D
+Kogasa_en02,코가사,25000,340,110,1300,6,4,1,4,M,2,1,A,A,C,A,Kogasa,Kogasa,Kogasa,1,MBLOCK,,,,Kogasa,1,Kogasa_en02,,,0,1,'03',타타라 코가사,|||,요괴,30000,200,80,1000,D
+Kogasa_en03,코가사,25000,340,110,1300,6,4,1,4,M,2,1,A,A,C,A,Kogasa,Kogasa,Kogasa,1,MBLOCK,,,,Kogasa,1,Kogasa_en03,,,0,1,'03',타타라 코가사,|||,요괴,30000,200,80,1000,D
+Kogasa01,코가사,3200,130,110,1300,6,4,5,0,M,2,3,A,A,C,A,Kogasa,Kogasa,Kogasa,0,,,,,Kogasa,1,Kogasa,,,0,1,'01',타타라 코가사,|코가|코가|,요괴,2000,100,50,400,C
+Koishi_en01,코이시,3700,170,115,900,5,3,1,1,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en01,,,0,0,'04',코메이지 코이시,|||,요괴,2000,150,40,500,A
+Koishi_en02,코이시,33000,500,135,1200,6,4,1,5,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en01,,,0,0,'03',코메이지 코이시,|||,요괴,30000,300,80,800,A
+Koishi_en03,코이시,33000,500,135,1200,6,4,1,5,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en02,,,0,0,'03',코메이지 코이시,|||,요괴,30000,300,80,800,A
+Koishi_en04,코이시,33000,500,135,1200,6,4,1,5,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en03,,,0,0,'03',코메이지 코이시,|||,요괴,30000,300,80,800,A
+Koishi_en05,코이시,33000,500,135,1200,6,4,1,5,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en04,,,0,0,'03',코메이지 코이시,|||,요괴,30000,300,80,800,A
+Koishi_en06,코이시,6000,160,125,900,3,1,1,2,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en05,,,0,0,'03',코메이지 코이시,|||,요괴,0,0,0,0,A
+Koishi_en07,코이시,6000,160,125,900,3,1,1,2,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en06,,,0,0,'03',코메이지 코이시,|||,요괴,0,0,0,0,A
+Koishi_en08,코이시,6000,160,125,900,3,1,1,2,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en07,,,0,0,'03',코메이지 코이시,|||,요괴,0,0,0,0,A
+Koishi_en09,코이시,6000,160,125,900,3,1,1,2,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en08,,,0,0,'03',코메이지 코이시,|||,요괴,0,0,0,0,A
+Koishi01,코이시,3700,170,115,900,5,3,1,0,M,2.5,2,A,A,C,A,Koishi,Koishi,Koishi,1,TRESPASS,,,,Koishi,1,Koishi,,,0,0,'01',코이시,|코이|코이|,요괴,2000,150,40,500,A
+Koishi02,코이시,3700,170,115,900,6,4,6,0,M,2.5,2,A,A,C,A,Koishi,Koishi,Koishi,1,TRESPASS,,,,Koishi,1,Koishi,,,0,0,'01',코메이지 코이시,|코이|코이|,요괴,2000,150,40,500,A
+Koishi03,코이시,3700,170,115,900,5,3,1,0,M,2.5,2,A,A,C,A,Koishi,Koishi,Koishi,1,TRESPASS,,,,Koishi,1,Koishi,,,0,0,'01',코메이지 코이시,|코이|코이|,요괴,2000,150,40,500,A
+KoishiN_en01,악몽,20000,500,140,900,5,3,1,1,M,2.5,1,A,A,C,A,KoishiN,KoishiN,KoishiN,2,MBLOCK,TRESPASS,,,Koishi,1,KoishiN_en01,,,0,0,'04',악몽(코이시),|||,악몽,10000,200,100,1000,E
+KoishiN_en02,악몽,20000,500,140,900,5,3,1,1,M,2.5,1,A,A,C,A,KoishiN,KoishiN,KoishiN,2,MBLOCK,TRESPASS,,,Koishi,1,KoishiN_en02,,,0,0,'04',악몽(코이시),|||,악몽,10000,200,100,1000,E
+KoishiN_en03,악몽,20000,500,140,900,5,3,1,1,M,2.5,1,A,A,C,A,KoishiN,KoishiN,KoishiN,2,MBLOCK,TRESPASS,,,Koishi,1,KoishiN_en03,,,0,0,'04',악몽(코이시),|||,악몽,10000,200,100,1000,E
+KoishiN_en04,악몽,20000,500,140,900,5,3,1,1,M,2.5,1,A,A,C,A,KoishiN,KoishiN,KoishiN,2,MBLOCK,TRESPASS,,,Koishi,1,KoishiN_en04,,,0,0,'04',악몽(코이시),|||,악몽,10000,200,100,1000,E
+Komachi_en01,코마치,10000,290,80,1000,5,3,4,1,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en01,,,1,0,'04',오노즈카 코마치,|||,사신,10000,100,40,500,D
+Komachi_en02,코마치,20000,290,80,1000,5,3,4,1,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en02,,,1,0,'04',오노즈카 코마치,|||,사신,20000,100,40,500,D
+Komachi_en03,코마치,36000,500,80,1000,5,3,4,2,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en01,,,1,0,'03',오노즈카 코마치,|||,사신,30000,200,40,800,D
+Komachi_en04,코마치,36000,500,80,1000,5,3,4,2,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en02,,,1,0,'03',오노즈카 코마치,|||,사신,30000,200,40,800,D
+Komachi_en05,코마치,36000,500,80,1000,5,3,4,2,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en03,,,1,0,'03',오노즈카 코마치,|||,사신,30000,200,40,800,D
+Komachi_en06,코마치,12000,250,80,1000,5,3,4,1,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en01,,,1,0,'04',오노즈카 코마치,|||,사신,10000,100,40,500,D
+Komachi01,코마치,5800,160,80,1000,5,3,4,0,L,2.5,2,A,A,A,A,Komachi,Komachi,Komachi,0,,,,,Komachi,1,Komachi,,,1,0,'01',오노즈카 코마치,|코마|코마|,사신,2500,100,40,500,A
+Komachi02,코마치,5800,160,80,1000,5,3,5,0,L,2.5,2,A,A,A,A,Komachi,Komachi,Komachi,0,,,,,Komachi,1,Komachi,,,1,0,'01',오노즈카 코마치,|코마|코마|,사신,2500,100,40,500,A
+Komachi03,사신,5800,160,80,1000,5,3,3,0,L,2.5,2,A,A,A,A,Komachi,Komachi,Komachi,0,,,,,Komachi,1,Komachi,,,1,0,'01',사신,|||,사신,2500,100,40,500,A
+Korin01,린노스케,1000,100,10,100,1,1,1,0,L,1,2,A,A,A,A,Korin,Korin,Korin,0,,,,,,1,Korin,,,0,0,'01',모리치카 린노스케,|||,요괴,0,0,0,0,A
+KTengu_en01,카라스텐구,7200,170,110,900,7,3,3,1,M,2,1,A,B,C,A,KTengu,KTengu,KTengu,0,,,,,,1,KTengu_en01,,,1,0,'02_blue',카라스텐구,|||,요괴,5000,150,50,500,C
+KTengu_en02,카라스텐구,7200,170,110,900,7,3,3,1,M,2,1,A,B,C,A,KTengu,KTengu,KTengu,0,,,,,,1,KTengu_en02,,,1,0,'02_blue',카라스텐구,|||,요괴,5000,150,50,500,D
+KTengu_en03,카라스텐구,7200,170,110,900,7,3,3,1,M,2,1,A,B,C,A,KTengu,KTengu,KTengu,0,,,,,,1,KTengu_en01,,,1,0,'02_blue',카라스텐구,|||,요괴,5000,150,50,500,C
+KTengu_en04,카라스텐구,7200,170,110,900,7,3,3,1,M,2,1,A,B,C,A,KTengu,KTengu,KTengu,0,,,,,,1,KTengu_en02,,,1,0,'02_blue',카라스텐구,|||,요괴,5000,150,50,500,D
+KTenguA_en01,카라스텐구A,9900,190,115,900,7,3,3,1,M,2,1,A,A,C,A,KTengu,KTengu,KTengu,1,MBLOCK,,,,,1,KTenguA_en01,,,1,0,'02_blue',카라스텐구A,|||,요괴,6000,150,50,500,C
+KTenguA_en02,카라스텐구A,9900,190,115,900,7,3,3,1,M,2,1,A,A,C,A,KTengu,KTengu,KTengu,1,MBLOCK,,,,,1,KTenguA_en02,,,1,0,'02_blue',카라스텐구A,|||,요괴,6000,150,50,500,C
+KTenguN_en01,악몽,9500,200,130,900,7,3,2,1,M,2,1,S,C,C,A,KTenguN,KTenguN,KTenguN,0,,,,,,1,KTenguN_en01,,,1,0,'02_black',악몽(카라스텐구),|||,악몽,10000,150,100,500,E
+KTenguN_en02,악몽,9500,200,130,900,7,3,2,1,M,2,1,S,C,C,A,KTenguN,KTenguN,KTenguN,0,,,,,,1,KTenguN_en02,,,1,0,'02_black',악몽(카라스텐구),|||,악몽,10000,150,100,500,E
+Kurumi_en01,쿠루미,7500,150,110,800,6,4,3,1,S,2,1,A,B,D,S,Kurumi,Kurumi,Kurumi,3,MBLOCK,CURE_HP_S,CURE_MP_S,,Kurumi,1,Kurumi_en01,,,0,0,'04',쿠루미,|||,요괴,2000,100,50,400,D
+Kurumi_en02,쿠루미,7500,150,110,800,6,4,3,1,S,2,1,A,B,D,S,Kurumi,Kurumi,Kurumi,3,MBLOCK,CURE_HP_S,CURE_MP_S,,Kurumi,1,Kurumi_en01,,,0,0,'04',쿠루미,|||,요괴,2000,100,50,400,D
+Kurumi_en03,쿠루미,8200,280,120,900,6,4,4,1,S,2,1,A,B,D,S,Kurumi,Kurumi,Kurumi,3,MBLOCK,CURE_HP_S,CURE_MP_S,,Kurumi,1,Kurumi_en01,,,0,0,'04',쿠루미,|||,요괴,10000,100,50,400,D
+Kurumi_en04,쿠루미,16500,280,120,900,6,4,4,1,S,2,1,A,B,D,S,Kurumi,Kurumi,Kurumi,3,MBLOCK,CURE_HP_S,CURE_MP_S,,Kurumi,1,Kurumi_en01,,,0,0,'04',쿠루미,|||,요괴,15000,100,50,400,D
+Kurumi01,쿠루미,3500,150,110,800,6,4,3,0,S,2,3,A,B,D,S,Kurumi,Kurumi,Kurumi,1,CURE_HP_S,,,,Kurumi,1,Kurumi,,,0,0,'01',쿠루미,|쿠루|쿠루|,요괴,2000,100,50,400,B
+Kurumi02,쿠루미,3500,150,110,800,6,4,4,0,S,2,3,A,B,D,S,Kurumi,Kurumi,Kurumi,1,CURE_HP_S,,,,Kurumi,1,Kurumi,,,0,0,'01',쿠루미,|쿠루|쿠루|,요괴,2000,100,50,400,B
+Kurumi03,쿠루미,3500,150,110,800,6,4,5,0,S,2,3,A,B,D,S,Kurumi,Kurumi,Kurumi,1,CURE_HP_S,,,,Kurumi,1,Kurumi,,,0,0,'01',쿠루미,|쿠루|쿠루|,요괴,2000,100,50,400,B
+Layla_en01,레이라,1000,100,100,100,1,1,1,0,S,2,1,B,B,B,B,Layla,Layla,Layla,0,,,,,,1,Layla_en01,,,0,0,'01',레이라 프리즘리버,|||,??,1000,100,10,100,A
+Letty_en01,레티,17400,250,75,1100,5,3,2,2,L,2,1,A,A,B,A,Letty,Letty,Letty,1,MBLOCK,,,,Letty,1,Letty_en01,,,0,0,'03',레티 화이트락,|||,요괴,12000,150,40,500,C
+Letty_en02,레티,14000,250,75,1100,5,3,3,1,L,2,1,A,A,B,A,Letty,Letty,Letty,1,MBLOCK,,,,Letty2,1,Letty_en01,,,0,0,'03',레티 화이트락,|||,요괴,10000,150,40,500,E
+Letty01,레티,6200,160,80,950,6,4,3,0,L,2,3,A,A,B,A,Letty,Letty,Letty,0,,,,,Letty,1,Letty,,,0,0,'01',레티 화이트락,|레티|레티|,요괴,3000,100,40,500,C
+Letty02,레티,6200,160,80,950,6,4,4,0,L,2,3,A,A,B,A,Letty,Letty,Letty,0,,,,,Letty2,1,Letty,,,0,0,'01',레티 화이트락,|레티|레티|,요괴,3000,100,40,500,C
+LilyB01,릴리B,4600,150,105,1200,6,4,3,0,S,2,3,A,A,C,A,LilyB,LilyB,LilyB,1,SPRING,,,,LilyB,1,LilyW,,,0,0,'01',릴리 블랙,|릴리|릴리|,요정,2000,100,40,500,D
+LilyW_en01,릴리W,7200,150,110,850,6,4,1,1,S,2,1,A,B,C,A,LilyW,LilyW,LilyW,1,MBLOCK,,,,LilyW,1,LilyW_en01,,,0,0,'04',릴리 화이트,|||,요정,5000,100,50,400,D
+LilyW_en02,릴리W,9900,150,110,850,6,4,1,1,S,2,1,A,B,C,A,LilyW,LilyW,LilyW,1,MBLOCK,,,,LilyW,1,LilyW_en01,,,0,0,'04',릴리 화이트,|||,요정,5000,100,50,400,D
+LilyW01,릴리W,2500,70,110,500,5,3,1,0,S,1.5,3,A,C,D,A,LilyW,LilyW,LilyW,1,COM_CURE_HP,,,,LilyW_NS,1,LilyW,,,0,0,'01',릴리 화이트,|릴리|릴리|,요정,2000,100,50,400,D
+LilyW02,릴리W,3900,150,110,850,6,4,4,0,S,2,3,A,B,C,A,LilyW,LilyW,LilyW,1,COM_CURE_HP,,,,LilyW,1,LilyW,,,0,0,'01',릴리 화이트,|릴리|릴리|,요정,2000,100,50,400,D
+Luna_en01,루나,4100,120,75,900,6,4,2,1,S,1.5,1,A,B,C,S,Luna,Luna,Luna,2,MBLOCK,CURE_HP_S,,,Luna,1,Luna_en01,,,0,0,'04',루나 차일드,|||,요정,4100,100,50,700,D
+Luna_en02,루나,5200,120,75,900,6,4,2,1,S,1.5,1,A,B,C,S,Luna,Luna,Luna,2,MBLOCK,CURE_HP_S,,,Luna,1,Luna_en01,,,0,0,'04',루나 차일드,|||,요정,5200,100,50,700,D
+Luna_en03,루나,9300,250,105,900,6,4,3,1,S,1.5,1,A,B,C,S,Luna,Luna,Luna,2,MBLOCK,CURE_HP_S,,,Luna,1,Luna_en01,,,0,0,'04',루나 차일드,|||,요정,12000,100,50,700,D
+Luna_en04,루나,8200,250,105,900,6,4,3,1,S,1.5,1,A,B,C,S,Luna,Luna,Luna,2,MBLOCK,CURE_HP_S,,,Luna,1,Luna_en01,,,0,0,'04',루나 차일드,|||,요정,10000,100,50,700,D
+Luna01,루나,4300,150,105,900,6,4,2,0,S,1.5,3,A,B,C,S,Luna,Luna,Luna,1,CURE_HP_S,,,,Luna,1,Luna,,,0,0,'01',루나 차일드,|루나|루나|,요정,2000,100,50,500,D
+Luna02,루나,4300,150,105,900,6,4,3,0,S,1.5,3,A,B,C,S,Luna,Luna,Luna,1,CURE_HP_S,,,,Luna,1,Luna,,,0,0,'01',루나 차일드,|루나|루나|,요정,2000,100,50,500,D
+Luna03,루나,4300,150,105,900,6,4,3,0,S,1.5,3,A,B,C,S,Luna,Luna,Luna,2,CURE_HP_S,COMBINE_FARIES,,,Luna,1,Luna,,,0,0,'01',루나 차일드,|루나|루나|,요정,2000,100,50,500,D
+Lunasa_en01,루나사,17200,220,105,1000,6,4,2,1,M,2,1,A,A,A,A,Lunasa,Lunasa,Lunasa,1,MBLOCK,,,,Lunasa,1,Lunasa_en01,,,0,0,'04',루나사 프리즘리버,|||,소령,9000,250,50,500,C
+Lunasa01,루나사,4400,150,105,1000,6,4,4,0,M,2,2,A,A,A,A,Lunasa,Lunasa,Lunasa,0,,,,,Lunasa,1,Lunasa,,,1,0,'01',루나사 프리즘리버,|루나|루나|,소령,2500,100,40,500,C
+Lunasa02,루나사,4400,150,105,1000,6,4,4,2,M,2,2,A,A,A,A,Lunasa,Lunasa,Lunasa,1,COMBINE_PRISM,,,,Lunasa,1,Lunasa,,,1,0,'01',루나사 프리즘리버,|루나|루나|,소령,2500,100,40,500,C
+Lyrica_en01,리리카,16900,200,115,950,6,4,2,1,S,2,1,A,B,B,A,Lyrica,Lyrica,Lyrica,1,MBLOCK,,,,Lyrica,1,Lyrica_en01,,,0,0,'04',리리카 프리즘리버,|||,소령,12000,250,80,500,C
+Lyrica01,리리카,3900,140,115,850,6,4,5,0,S,2,2,A,B,B,A,Lyrica,Lyrica,Lyrica,0,,,,,Lyrica,1,Lyrica,,,0,0,'01',리리카 프리즘리버,|리리|리리|,소령,2000,100,50,400,C
+Lyrica02,리리카,3900,140,115,850,6,4,5,0,S,2,2,A,B,B,A,Lyrica,Lyrica,Lyrica,1,COMBINE_PRISM,,,,Lyrica,1,Lyrica,,,0,0,'01',리리카 프리즘리버,|리리|리리|,소령,2000,100,50,400,C
+Maid_en01,요정메이드,4500,80,75,1000,6,3,2,1,M,1.5,1,A,A,B,A,Maid,Maid,Maid,0,,,,,,1,Maid_en01,,,0,0,'02_red',요정메이드,|||,요정,2500,150,40,600,E
+Makura_en01,마쿠라,30000,900,100,1400,4,3,2,8,L,3.5,1,A,A,A,A,Makura,Makura,Makura,3,YUMEWATARI,MBLOCK+,CURE_MP_L,,Makura,1,Makura_en01,,,0,0,'03',무와타리 마쿠라,|||,요괴,50000,400,100,1000,E
+Makura_en02,마쿠라,30000,900,100,1400,4,3,2,8,L,3.5,1,A,A,A,A,Makura,Makura,Makura,3,YUMEWATARI,MBLOCK+,CURE_MP_L,,Makura,1,Makura_en02,,,0,0,'03',무와타리 마쿠라,|||,요괴,50000,400,100,1000,E
+Makura01,마쿠라,5500,200,80,900,5,3,1,0,L,3.5,1,A,A,C,S,Makura,Makura,Makura,0,,,,,Makura,1,Makura,,,0,0,'01',무와타리 마쿠라,|마쿠|마쿠|,요괴,3000,150,40,500,A
+Makura02,마쿠라,6100,200,100,1000,5,3,5,0,L,3.5,1,A,A,C,S,Makura,Makura,Makura,1,YUMEWATARI2,,,,Makura2,1,Makura,,,0,0,'01',무와타리 마쿠라,|마쿠|마쿠|,요괴,3000,150,40,500,A
+MakuraF_en01,마쿠라,120000,2000,140,2500,8,5,1,8,L,6,1,S,S,S,S,MakuraF,MakuraF,MakuraF,2,MBLOCK+,CURE_MP_L,,,bgm_pp_GSW,1,MakuraF_en01,,,0,0,'03',무와타리 마쿠라(꿈),|||,요괴,50000,400,100,1000,E
+MakuraF_en02,마쿠라,120000,2000,140,2500,8,5,1,8,L,6,1,S,S,S,S,MakuraF,MakuraF,MakuraF,2,MBLOCK+,CURE_MP_L,,,bgm_pp_GSW,1,MakuraF_en02,,,0,0,'03',무와타리 마쿠라(꿈),|||,요괴,50000,400,100,1000,E
+MakuraF01,마쿠라,15000,200,100,1200,5,3,1,2,L,3.5,1,S,S,S,S,MakuraF,MakuraF,MakuraF,3,YUMEWATARI2,CURE_HP_L,CURE_MP_L,,Makura2,1,Makura,,,0,0,'01',무와타리 마쿠라,|마쿠|마쿠|,요괴,10000,200,100,1000,A
+MakuraS_en01,마쿠라,30000,900,100,1400,4,3,2,8,L,3.5,1,A,A,A,A,MakuraS,MakuraS,MakuraS,3,YUMEWATARI,MBLOCK+,CURE_MP_L,,bgm_pp_warabe,1,MakuraS_en01,,,0,0,'03',무와타리 마쿠라,|||,요괴,50000,400,100,1000,E
+MakuraS_en02,마쿠라,30000,900,100,1400,4,3,2,8,L,3.5,1,A,A,A,A,MakuraS,MakuraS,MakuraS,3,YUMEWATARI,MBLOCK+,CURE_MP_L,,bgm_pp_warabe,1,MakuraS_en02,,,0,0,'03',무와타리 마쿠라,|||,요괴,50000,400,100,1000,E
+MakuraS01,마쿠라,5500,200,80,900,5,3,1,0,L,3.5,1,A,A,C,S,MakuraS,MakuraS,MakuraS,0,,,,,Makura,1,Makura,,,0,0,'01',무와타리 마쿠라,|마쿠|마쿠|,요괴,3000,150,40,500,A
+MakuraS02,마쿠라,6100,200,100,1000,5,3,2,0,L,3.5,1,A,A,C,S,MakuraS,MakuraS,MakuraS,3,YUMEWATARI2,TRANSF_MAKURA,BARRIER_MAKURA,,Makura,1,Makura,,,0,0,'01',무와타리 마쿠라,|마쿠|마쿠|,요괴,3000,150,40,500,A
+Marisa_en01,마리사,19200,220,110,1050,7,3,4,1,M,2.5,1,A,A,B,A,Marisa,Marisa,Marisa,2,MBLOCK,M_SHIELD,,,Marisa,1,Marisa_en01,,,0,0,'04',키리사메 마리사,|||,인간,9600,100,50,400,A
+Marisa01,마리사,4100,150,115,900,7,3,4,0,M,2.5,2,A,A,B,A,Marisa,Marisa,Marisa,1,M_SHIELD,,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+Marisa02,마리사,4100,150,115,900,7,3,6,0,M,2.5,2,A,A,B,A,Marisa,Marisa,Marisa,1,M_SHIELD,,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+Marisa03,마리사,4100,150,115,900,7,3,7,0,M,2.5,2,A,A,B,A,Marisa,Marisa,Marisa,1,M_SHIELD,,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+Marisa04,마리사,4100,150,115,900,7,3,8,0,M,2.5,2,A,A,B,A,Marisa,Marisa,Marisa,1,M_SHIELD,,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+Marisa05,마리사,4100,150,115,900,7,3,6,0,M,2.5,2,A,A,B,A,Marisa,Marisa,Marisa,1,M_SHIELD,,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+Marisa06,마리사,4100,150,115,900,6,3,4,0,M,2.5,2,A,A,B,A,Marisa,Marisa,Marisa,1,M_SHIELD,,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+Marisa07,마리사,4300,170,120,900,7,3,9,0,M,3,2,A,A,B,A,Marisa,Marisa,Marisa,2,M_SHIELD,BOOST_MARISA,,,Marisa,1,Marisa,,,0,0,'01',키리사메 마리사(구복장),|마리|마리|,인간,2000,100,50,400,A
+MarisaR_en01,마리사,19100,350,110,1100,7,3,4,2,M,3,1,A,A,B,A,MarisaR,MarisaR,MarisaR,2,MBLOCK,M_SHIELD,,,MarisaR,1,Marisa_en01,,,0,0,'03',키리사메 마리사,|||,인간,25000,100,100,1000,D
+MarisaR_en02,마리사,20000,500,110,1100,7,3,4,1,M,3,1,A,A,B,A,MarisaR,MarisaR,MarisaR,3,MBLOCK+,M_SHIELD,BOOST_MARISA,,MarisaR,1,Marisa_en01,,,0,0,'04',키리사메 마리사,|||,인간,15000,300,100,1000,D
+MarisaR01,마리사,4300,170,120,950,7,3,6,0,M,3,2,A,A,B,A,MarisaR,MarisaR,MarisaR,1,M_SHIELD,,,,MarisaR,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+MarisaR02,마리사,4300,170,120,950,7,3,7,0,M,3,2,A,A,B,A,MarisaR,MarisaR,MarisaR,2,M_SHIELD,BOOST_MARISA,,,MarisaR,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+MarisaR03,마리사,4300,170,120,950,7,3,8,2,M,3,2,A,A,B,A,MarisaR,MarisaR,MarisaR,2,M_SHIELD,BOOST_MARISA,,,MarisaR,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+MarisaR04,마리사,4300,170,120,950,7,3,7,0,M,3,2,A,A,B,A,MarisaR,MarisaR,MarisaR,1,M_SHIELD,,,,MarisaR,1,Marisa,,,0,0,'01',키리사메 마리사,|마리|마리|,인간,2000,100,50,400,A
+MarisaRN_en01,악몽,35000,500,130,1400,7,3,2,2,M,3,1,A,A,B,A,MarisaRN,MarisaRN,MarisaRN,2,MBLOCK+,M_SHIELD,,,MarisaR,1,MarisaN_en01,,,0,0,'03',악몽(마리사),|||,악몽,50000,500,100,1000,E
+Medicine_en01,메디,25000,350,120,1100,6,4,1,3,SS,2,1,A,A,C,A,Medicine,Medicine,Medicine,1,MBLOCK,,,,Medicine,1,Medicine_en01,,,0,0,'03',메디슨 멜랑콜리,|||,요괴,30000,200,80,800,D
+Medicine_en02,메디,25000,350,120,1100,6,4,1,3,SS,2,1,A,A,C,A,Medicine,Medicine,Medicine,1,MBLOCK,,,,Medicine,1,Medicine_en02,,,0,0,'03',메디슨 멜랑콜리,|||,요괴,30000,200,80,800,D
+Medicine_en03,메디,25000,350,120,1100,6,4,1,3,SS,2,1,A,A,C,A,Medicine,Medicine,Medicine,1,MBLOCK,,,,Medicine,1,Medicine_en03,,,0,0,'03',메디슨 멜랑콜리,|||,요괴,30000,200,80,800,D
+Medicine_en04,메디,25000,350,120,1100,6,4,1,3,SS,2,1,A,A,C,A,Medicine,Medicine,Medicine,1,MBLOCK,,,,Medicine,1,Medicine_en04,,,0,0,'03',메디슨 멜랑콜리,|||,요괴,30000,200,80,800,D
+Medicine01,메디,4000,130,110,900,6,4,4,0,SS,2,3,A,A,C,A,Medicine,Medicine,Medicine,0,,,,,Medicine,1,Medicine,,,0,0,'01',메디슨 멜랑콜리,|메디|메디|,요괴,2000,100,50,400,C
+MedicineN_en01,악몽,30000,400,135,1400,6,4,2,2,SS,2,1,A,A,C,A,MedicineN,MedicineN,MedicineN,1,MBLOCK,,,,Medicine,1,MedicineN_en01,,,0,0,'03',악몽(메디슨),|||,악몽,50000,500,100,1000,E
+Meiling_en01,메이링,10000,220,60,1150,5,3,4,1,L,2.5,1,A,S,B,A,Meiling,Meiling,Meiling,1,MBLOCK,,,,Meiling,1,Meiling_en01,,,0,0,'04',홍 메이링,|||,요괴,5000,100,40,500,D
+Meiling_en02,메이링,10000,220,60,1150,5,3,3,2,L,2.5,1,A,S,B,A,Meiling,Meiling,Meiling,1,MBLOCK,,,,Meiling,1,Meiling_en01,,,0,0,'03',홍 메이링,|||,요괴,5000,100,40,500,D
+Meiling_en03,메이링,9300,260,85,1500,5,3,4,1,L,2.5,1,A,A,B,A,Meiling,Meiling,Meiling,1,MBLOCK,,,,Meiling,1,Meiling_en01,,,0,0,'04',홍 메이링,|||,요괴,10000,100,40,1000,D
+Meiling_en04,메이링,18600,260,85,1500,5,3,4,1,L,2.5,1,A,A,B,A,Meiling,Meiling,Meiling,1,MBLOCK,,,,Meiling,1,Meiling_en01,,,0,0,'04',홍 메이링,|||,요괴,20000,100,40,1000,D
+Meiling01,메이링,5600,160,85,1250,5,3,4,0,L,2.5,2,A,A,B,A,Meiling,Meiling,Meiling,0,,,,,Meiling,1,Meiling,,,0,0,'01',홍 메이링,|메이|메이|,요괴,3000,100,40,500,A
+Meiling02,메이링,5600,160,85,1250,5,3,5,0,L,2.5,2,A,A,B,A,Meiling,Meiling,Meiling,0,,,,,Meiling,1,Meiling,,,0,0,'01',홍 메이링,|메이|메이|,요괴,3000,100,40,500,A
+MeilingN_en01,악몽,30000,400,90,1700,5,3,2,2,L,2.5,1,A,A,B,A,MeilingN,MeilingN,MeilingN,1,MBLOCK,,,,Meiling,1,MeilingN_en01,,,0,0,'03',악몽(메이링),|||,악몽,50000,500,100,1000,E
+Meko_en01,메코,39500,500,120,1300,6,4,4,1,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en01,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en02,메코,39500,500,120,1300,6,4,4,1,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en02,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en03,메코,39500,500,120,1300,6,4,4,1,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en03,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en04,메코,39500,500,120,1300,6,4,4,1,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en04,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en05,메코,39500,500,120,1300,6,4,4,6,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en01,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en06,메코,39500,500,120,1300,6,4,4,6,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en02,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en07,메코,39500,500,120,1300,6,4,4,6,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en03,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko_en08,메코,39500,500,120,1300,6,4,4,6,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en04,,,0,0,'04',메코,|||,요괴,40000,400,100,1000,E
+Meko01,메코,3900,150,120,900,6,4,3,0,S,2,3,A,A,C,A,Meko,Meko,Meko,1,BARRIER_MEKO2,,,,Meko,1,Meko,,,0,0,'01',메코,|메|메|,요괴,2000,100,50,400,C
+Meko02,메코,3900,150,120,900,6,4,4,0,S,2,3,A,A,C,A,Meko,Meko,Meko,1,BARRIER_MEKO2,,,,Meko,1,Meko,,,0,0,'01',메코,|메|메|,요괴,2000,100,50,400,C
+Meko03,메코,3900,150,120,900,6,4,5,0,S,2,3,A,A,C,A,Meko,Meko,Meko,2,BARRIER_MEKO2,MEKO,,,Meko,1,Meko,,,0,0,'01',메코,|메|메|,요괴,2000,100,50,400,C
+Meko04,메코,3900,150,120,900,6,4,6,0,S,2,3,A,A,C,A,Meko,Meko,Meko,2,BARRIER_MEKO2,MEKO,,,Meko,1,Meko,,,0,0,'01',메코,|메|메|,요괴,3900,150,50,400,C
+MekoB_en01,블랙메코,1500,100,80,900,6,4,1,1,S,2,1,A,A,A,A,MekoB,MekoB,MekoB,1,MBLOCK,,,,MekoB,1,MekoB_en01,,,0,0,'03',블랙메코,|||,요괴,35000,150,50,400,E
+MekoD_en01,메코,35000,150,80,900,6,4,1,1,S,2,1,A,A,A,A,MekoD,Meko,Meko,1,MBLOCK,,,,Meko2,1,MekoD_en01,,,0,0,'04',메코 ,|||,요괴,1500,100,50,400,E
+MekoM_en01,메코,39500,500,120,1300,6,4,1,6,S,2,1,A,A,A,A,MekoM,Meko,Meko,1,MBLOCK+,,,,Meko2,1,MekoM_en01,,,0,0,'03',메코 (꿈의 결),|||,요괴,40000,400,100,1000,E
+MekoM_en02,메코,39500,500,120,1300,6,4,1,6,S,2,1,A,A,A,A,MekoM,Meko,Meko,1,MBLOCK+,,,,Meko2,1,MekoM_en02,,,0,0,'03',메코 (꿈의 결),|||,요괴,40000,400,100,1000,E
+MekoM_en03,메코,39500,500,120,1300,6,4,1,6,S,2,1,A,A,A,A,MekoM,Meko,Meko,1,MBLOCK+,,,,Meko2,1,MekoM_en03,,,0,0,'03',메코 (꿈의 결),|||,요괴,40000,400,100,1000,E
+MekoM_en04,메코,39500,500,120,1300,6,4,1,6,S,2,1,A,A,A,A,MekoM,Meko,Meko,1,MBLOCK+,,,,Meko2,1,MekoM_en04,,,0,0,'03',메코 (꿈의 결),|||,요괴,40000,400,100,1000,E
+Merlin_en01,메를랑,15900,250,95,1100,5,3,3,1,L,2,1,A,B,C,A,Merlin,Merlin,Merlin,1,MBLOCK,,,,Merlin,1,Merlin_en01,,,0,0,'04',메를랑 프리즘리버,|||,소령,9000,250,50,600,C
+Merlin01,메를랑,5000,160,90,1050,5,3,5,0,L,2,2,A,B,C,A,Merlin,Merlin,Merlin,0,,,,,Merlin,1,Merlin,,,0,0,'01',메를랑 프리즘리버,|메를|메를|,소령,2500,100,40,500,C
+Merlin02,메를랑,5000,160,90,1050,5,3,5,0,L,2,2,A,B,C,A,Merlin,Merlin,Merlin,1,COMBINE_PRISM,,,,Merlin,1,Merlin,,,0,0,'01',메를랑 프리즘리버,|메를|메를|,소령,2500,100,40,500,C
+Mima_en01,미마,14900,450,90,1200,6,4,3,1,L,3.5,1,A,B,A,A,Mima,Mima,Mima,4,MBLOCK,M_SHIELD_MIMA,BOOST_MIMA,CURE_MP_S,Mima2,1,Mima_en01,,,0,0,'04',미마,|||,악령,10000,250,50,1000,D
+Mima_en02,미마,29900,450,90,1200,6,4,3,1,L,3.5,1,A,B,A,A,Mima,Mima,Mima,4,MBLOCK,M_SHIELD_MIMA,BOOST_MIMA,CURE_MP_S,Mima2,1,Mima_en02,,,0,0,'04',미마,|||,악령,25000,250,50,1000,D
+Mima_en03,미마,25000,700,90,1200,6,4,3,1,L,3.5,1,A,B,A,A,Mima,Mima,Mima,4,MBLOCK+,M_SHIELD_MIMA,BOOST_MIMA,CURE_MP_S,Mima2,1,Mima_en02,,,0,0,'04',미마,|||,악령,15000,250,50,1000,D
+Mima01,미마,4500,250,90,1000,6,4,3,0,L,3.5,1,A,B,A,A,Mima,Mima,Mima,2,M_SHIELD_MIMA,BOOST_MIMA,,,Mima2,1,Mima,,,0,0,'01',미마,|미마|미마|,악령,2500,100,50,500,A
+Mima02,미마,4500,250,90,1000,6,4,4,0,L,3.5,1,A,B,A,A,Mima,Mima,Mima,2,M_SHIELD_MIMA,BOOST_MIMA,,,Mima2,1,Mima,,,0,0,'01',미마,|미마|미마|,악령,2500,100,50,500,A
+MimaG_en01,고스트,12000,200,110,900,6,3,1,1,L,3.5,1,A,B,A,A,MimaG,MimaG,MimaG,0,,,,,,1,MimaG_en01,,,0,0,'04',고스트 (미마),|||,악령,6000,150,40,500,A
+MimaN_en01,악몽,30000,500,90,1000,6,4,2,2,L,3.5,1,A,A,A,A,MimaN,MimaN,MimaN,3,MBLOCK+,M_SHIELD_MIMA,CURE_MP_M,,Mima,1,MimaN_en01,,,0,0,'03',악몽(미마),|||,악몽,20000,300,100,1000,E
+MimaN_en02,악몽,30000,500,90,1000,6,4,2,2,L,3.5,1,A,A,A,A,MimaN,MimaN,MimaN,3,MBLOCK+,M_SHIELD_MIMA,CURE_MP_M,,Mima,1,MimaN_en02,,,0,0,'03',악몽(미마),|||,악몽,20000,300,100,1000,E
+MimaN_en03,악몽,30000,500,90,1000,6,4,2,2,L,3.5,1,A,A,A,A,MimaN,MimaN,MimaN,3,MBLOCK+,M_SHIELD_MIMA,CURE_MP_M,,Mima,1,MimaN_en03,,,0,0,'03',악몽(미마),|||,악몽,20000,300,100,1000,E
+Minoriko_en01,미노리코,9400,200,85,1100,6,4,2,2,M,2,1,A,A,C,A,Minoriko,Minoriko,Minoriko,1,MBLOCK,,,,Minoriko,1,Minoriko_en01,,,0,0,'03',아키 미노리코,|||,신,5000,250,50,800,C
+Minoriko_en02,미노리코,9400,200,85,1100,6,4,4,1,M,2,1,A,A,C,A,Minoriko,Minoriko,Minoriko,1,MBLOCK,,,,Minoriko,1,Minoriko_en01,,,0,0,'04',아키 미노리코,|||,신,5000,250,50,800,C
+Minoriko_en03,미노리코,8700,240,90,1100,6,4,4,1,M,2,1,A,A,C,A,Minoriko,Minoriko,Minoriko,1,MBLOCK,,,,Minoriko,1,Minoriko_en01,,,0,0,'04',아키 미노리코,|||,신,7500,200,40,500,D
+Minoriko_en04,미노리코,17500,240,90,1100,6,4,4,1,M,2,1,A,A,C,A,Minoriko,Minoriko,Minoriko,1,MBLOCK,,,,Minoriko,1,Minoriko_en01,,,0,0,'04',아키 미노리코,|||,신,15000,200,40,500,D
+Minoriko01,미노리코,5100,140,95,1050,6,4,4,0,M,2,3,A,A,C,A,Minoriko,Minoriko,Minoriko,1,COM_CURE_MP,,,,Minoriko,1,Minoriko,,,0,0,'01',아키 미노리코,|미노|미노|,신,2500,100,40,500,B
+Minoriko02,미노리코,5100,140,95,1050,6,4,5,0,M,2,3,A,A,C,A,Minoriko,Minoriko,Minoriko,1,COM_CURE_MP,,,,Minoriko,1,Minoriko,,,0,0,'01',아키 미노리코,|미노|미노|,신,2500,100,40,500,B
+Minoriko03,미노리코,5100,140,95,1050,6,4,6,0,M,2,3,A,A,C,A,Minoriko,Minoriko,Minoriko,1,COM_CURE_MP,,,,Minoriko,1,Minoriko,,,0,0,'01',아키 미노리코,|미노|미노|,신,2500,100,40,500,B
+Mokou_en01,모코우,21000,350,105,1000,6,3,4,3,M,3,1,A,A,B,A,Mokou,Mokou,Mokou,3,MBLOCK,CURE_HP_M,CURE_MP_M,,Mokou,1,Mokou_en01,,,0,0,'03',후지와라노 모코우,|||,인간,20000,200,60,600,A
+Mokou_en02,모코우,21000,350,105,1000,6,3,4,3,M,3,1,A,A,B,A,Mokou,Mokou,Mokou,3,MBLOCK,CURE_HP_M,CURE_MP_M,,Mokou,1,Mokou_en02,,,0,0,'03',후지와라노 모코우,|||,인간,20000,200,60,600,A
+Mokou_en03,모코우,21000,350,105,1000,6,3,4,3,M,3,1,A,A,B,A,Mokou,Mokou,Mokou,3,MBLOCK,CURE_HP_M,CURE_MP_M,,Mokou,1,Mokou_en03,,,0,0,'03',후지와라노 모코우,|||,인간,20000,200,60,600,A
+Mokou_en04,모코우,21000,350,105,1000,6,3,4,3,M,3,1,A,A,B,A,Mokou,Mokou,Mokou,3,MBLOCK,CURE_HP_M,CURE_MP_M,,Mokou,1,Mokou_en04,,,0,0,'03',후지와라노 모코우,|||,인간,20000,200,60,600,A
+Mokou_en05,모코우,18000,500,120,800,6,3,3,1,M,3,1,A,A,C,A,Mokou,Mokou,Mokou,3,MBLOCK+,CURE_HP_M,CURE_MP_M,,Mokou,1,Mokou_en01,,,0,0,'04',후지와라노 모코우,|||,인간,10000,200,60,600,A
+Mokou01,모코우,3800,160,120,800,6,3,4,0,M,2.5,2,A,A,B,A,Mokou,Mokou,Mokou,2,REVITALIZE,CURE_HP_M,,,Mokou,1,Mokou,,,0,0,'01',후지와라노 모코우,|모코|모코|,인간,1500,100,50,400,A
+Mokou02,모코우,3800,180,120,800,6,3,6,0,M,3,2,A,A,B,A,Mokou,Mokou,Mokou,2,REVITALIZE,CURE_HP_M,,,Mokou,1,Mokou,,,0,0,'01',후지와라노 모코우,|모코|모코|,봉래인,1500,100,50,400,A
+MokouN_en01,악몽,20000,500,120,800,6,3,3,1,M,3,1,A,A,C,A,MokouN,MokouN,MokouN,4,MBLOCK,REVITALIZE2,CURE_HP_M,CURE_MP_M,Mokou,1,MokouN_en01,,,0,0,'04',악몽(모코우),|||,악몽,10000,200,100,1000,E
+MokouN_en02,악몽,20000,500,120,800,6,3,3,1,M,3,1,A,A,C,A,MokouN,MokouN,MokouN,4,MBLOCK,REVITALIZE2,CURE_HP_M,CURE_MP_M,Mokou,1,MokouN_en02,,,0,0,'04',악몽(모코우),|||,악몽,10000,200,100,1000,E
+MokouN_en03,악몽,20000,500,120,800,6,3,3,1,M,3,1,A,A,C,A,MokouN,MokouN,MokouN,4,MBLOCK,REVITALIZE2,CURE_HP_M,CURE_MP_M,Mokou,1,MokouN_en03,,,0,0,'04',악몽(모코우),|||,악몽,10000,200,100,1000,E
+MokouN_en04,악몽,20000,500,120,800,6,3,3,1,M,3,1,A,A,C,A,MokouN,MokouN,MokouN,4,MBLOCK,REVITALIZE2,CURE_HP_M,CURE_MP_M,Mokou,1,MokouN_en04,,,0,0,'04',악몽(모코우),|||,악몽,10000,200,100,1000,E
+Momiji_en01,모미지,5000,150,85,1150,6,4,3,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en02,,,1,1,'04',이누바시리 모미지,|||,요괴,2500,100,40,500,D
+Momiji_en02,모미지,5000,150,85,1150,6,4,3,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en01,,,1,1,'04',이누바시리 모미지,|||,요괴,2500,100,40,500,D
+Momiji_en03,모미지,8800,150,85,1150,6,4,3,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en01,,,1,1,'04',이누바시리 모미지,|||,요괴,2500,100,40,500,D
+Momiji_en04,모미지,8800,150,85,1150,6,4,3,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en04,,,1,1,'04',이누바시리 모미지,|||,요괴,2500,100,40,500,D
+Momiji_en05,모미지,14500,240,80,1150,6,4,3,2,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en01,,,1,1,'03',이누바시리 모미지,|||,요괴,7000,250,50,600,A
+Momiji_en06,모미지,14500,240,80,1150,6,4,3,2,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en03,,,1,1,'03',이누바시리 모미지,|||,요괴,7000,250,50,600,A
+Momiji_en07,모미지,14500,240,80,1150,6,4,3,2,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en04,,,1,1,'03',이누바시리 모미지,|||,요괴,7000,250,50,600,A
+Momiji_en08,모미지,9400,250,85,1400,6,4,4,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en01,,,1,1,'04',이누바시리 모미지,|||,요괴,10000,100,40,1000,D
+Momiji_en09,모미지,18800,250,85,1400,6,4,4,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en03,,,1,1,'04',이누바시리 모미지,|||,요괴,20000,100,40,1000,D
+Momiji_en10,모미지,18800,250,85,1400,6,4,4,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en04,,,1,1,'04',이누바시리 모미지,|||,요괴,20000,100,40,1000,D
+Momiji01,모미지,5000,150,85,1150,6,4,4,0,M,2.5,2,A,A,B,A,Momiji,Momiji,Momiji,0,,,,,Momiji,1,Momiji,,,1,1,'01',이누바시리 모미지,|모미|모미|,요괴,2500,100,40,500,A
+Momiji02,모미지,5000,150,85,1150,6,4,5,0,M,2.5,2,A,A,B,A,Momiji,Momiji,Momiji,0,,,,,Momiji,1,Momiji,,,1,1,'01',이누바시리 모미지,|모미|모미|,요괴,2500,100,40,500,A
+Murasa_en01,무라사,12000,300,120,1200,6,4,3,1,M,2.5,1,A,A,S,A,Murasa,Murasa,Murasa,1,MBLOCK,,,,Murasa,1,Murasa_en01,,,0,0,'04',무라사 미나미츠,|||,요괴,10000,200,100,1000,E
+Murasa01,무라사,4500,150,120,950,6,4,5,0,M,2.5,2,A,A,S,A,Murasa,Murasa,Murasa,0,,,,,Murasa,1,Murasa,,,0,0,'01',무라사 미나미츠,|무라|무라|,요괴,2000,100,50,400,A
+Murasa02,무라사,4500,150,120,950,6,4,5,0,M,2.5,2,A,A,S,A,Murasa,Murasa,Murasa,0,,,,,Murasa,1,Murasa,,,0,0,'01',무라사 미나미츠,|무라|무라|,요괴,2000,100,50,400,A
+MurasaN_en01,악몽,20000,400,120,1200,6,4,2,1,M,2.5,1,A,A,S,A,MurasaN,MurasaN,MurasaN,1,MBLOCK,,,,Murasa,1,MurasaN_en01,,,0,0,'04',악몽(무라사),|||,악몽,10000,200,100,1000,E
+MurasaN_en02,악몽,20000,400,120,1200,6,4,2,1,M,2.5,1,A,A,S,A,MurasaN,MurasaN,MurasaN,1,MBLOCK,,,,Murasa,1,MurasaN_en02,,,0,0,'04',악몽(무라사),|||,악몽,10000,200,100,1000,E
+MurasaN_en03,악몽,20000,400,120,1200,6,4,2,1,M,2.5,1,A,A,S,A,MurasaN,MurasaN,MurasaN,1,MBLOCK,,,,Murasa,1,MurasaN_en03,,,0,0,'04',악몽(무라사),|||,악몽,10000,200,100,1000,E
+MurasaN_en04,악몽,20000,400,120,1200,6,4,2,1,M,2.5,1,A,A,S,A,MurasaN,MurasaN,MurasaN,1,MBLOCK,,,,Murasa,1,MurasaN_en04,,,0,0,'04',악몽(무라사),|||,악몽,10000,200,100,1000,E
+MYousei_en01,M요정,8900,300,100,1200,5,2,1,1,M,2,1,A,A,B,A,MYousei,MYousei,MYousei,2,CURE_HP_S,CURE_MP_M,,,,1,MYousei_en01,,,0,0,'02_red',마계요정,|||,요정,10000,150,50,500,D
+MYousei_en02,M요정,8900,300,100,1200,5,2,1,1,M,2,1,A,A,B,A,MYousei,MYousei,MYousei,2,CURE_HP_S,CURE_MP_M,,,,1,MYousei_en02,,,0,0,'02_red',마계요정,|||,요정,10000,150,50,500,D
+MYousei_en03,M요정,8900,300,100,1200,5,2,1,1,M,2,1,A,A,B,A,MYousei,MYousei,MYousei,2,CURE_HP_S,CURE_MP_M,,,,1,MYousei_en03,,,0,0,'02_red',마계요정,|||,요정,10000,150,50,500,D
+MYousei_en04,M요정,8900,300,100,1200,5,2,1,1,M,2,1,A,A,B,A,MYousei,MYousei,MYousei,2,CURE_HP_S,CURE_MP_M,,,,1,MYousei_en04,,,0,0,'02_red',마계요정,|||,요정,10000,150,50,500,D
+Mystia_en01,미스티아,28000,250,110,1000,6,4,2,2,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en01,,,0,0,'03',미스티아 로렐라이,|||,요괴,25000,200,50,500,D
+Mystia_en02,미스티아,9500,250,110,1000,6,4,2,1,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en01,,,0,0,'04',미스티아 로렐라이,|||,요괴,10000,200,50,500,D
+Mystia_en03,미스티아,19000,250,110,1000,6,4,2,1,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en01,,,0,0,'04',미스티아 로렐라이,|||,요괴,25000,200,50,500,D
+Mystia_en04,미스티아,19000,250,110,1000,6,4,2,1,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en01,,,0,0,'04',미스티아 로렐라이,|||,요괴,25000,200,50,500,D
+Mystia_en05,미스티아,19000,250,110,1000,6,4,2,1,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en02,,,0,0,'04',미스티아 로렐라이,|||,요괴,25000,200,50,500,D
+Mystia_en06,미스티아,12000,250,110,1000,6,4,2,1,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en01,,,0,0,'04',미스티아 로렐라이,|||,요괴,10000,200,50,500,D
+Mystia01,미스티아,3500,140,100,850,6,4,2,0,S,2,2,A,B,C,S,Mystia,Mystia,Mystia,0,,,,,Mystia,1,Mystia,,,0,0,'01',미스티아 로렐라이,|미스|미스|,요괴,2500,100,50,400,C
+Mystia02,미스티아,3500,140,100,850,6,4,8,0,S,2,2,A,B,C,S,Mystia,Mystia,Mystia,1,UTAHIME,,,,Mystia,1,Mystia,,,0,0,'01',미스티아 로렐라이,|미스|미스|,요괴,2500,100,50,400,C
+Mystia03,미스티아,3500,140,100,850,6,4,10,0,S,2,2,A,B,C,S,Mystia,Mystia,Mystia,1,UTAHIME,,,,Mystia,1,Mystia,,,0,0,'01',미스티아 로렐라이,|미스|미스|,요괴,2500,100,50,400,C
+Mystia04,미스티아,3500,140,100,850,6,4,11,0,S,2,2,A,B,C,S,Mystia,Mystia,Mystia,1,UTAHIME,,,,Mystia,1,Mystia,,,0,0,'01',미스티아 로렐라이,|미스|미스|,요괴,2500,100,50,400,C
+Mystia05,미스티아,3500,140,100,850,6,4,12,0,S,2,2,A,B,C,S,Mystia,Mystia,Mystia,1,UTAHIME,,,,Mystia,1,Mystia,,,0,0,'01',미스티아 로렐라이,|미스|미스|,요괴,2500,100,50,400,C
+Nazrin_en01,나즈린,14000,250,115,1000,4,2,3,1,S,2,1,A,A,C,A,Nazrin,Nazrin,Nazrin,1,MBLOCK,,,,Nazrin,1,Nazrin_en01,,,0,0,'04',나즈린,|||,요괴,8000,250,50,500,C
+Nazrin_en02,나즈린,8400,230,120,900,6,4,4,1,S,2,1,A,A,C,A,Nazrin,Nazrin,Nazrin,1,MBLOCK,,,,Nazrin,1,Nazrin_en01,,,0,0,'04',나즈린,|||,요괴,7500,100,60,400,C
+Nazrin_en03,나즈린,16800,230,120,900,6,4,4,1,S,2,1,A,A,C,A,Nazrin,Nazrin,Nazrin,1,MBLOCK,,,,Nazrin,1,Nazrin_en01,,,0,0,'04',나즈린,|||,요괴,15000,100,60,400,C
+Nazrin_en04,나즈린,10000,250,120,900,6,4,4,1,S,2,1,A,A,C,A,Nazrin,Nazrin,Nazrin,1,MBLOCK,,,,Nazrin,1,Nazrin_en01,,,0,0,'04',나즈린,|||,요괴,10000,100,60,400,C
+Nazrin_H01,나즈린,3700,170,125,800,6,4,5,0,S,2,3,A,A,C,A,Nazrin,Nazrin,Nazrin,0,,,,,Nazrin_H,1,Nazrin,,,1,0,'01',나즈린(보탑),|나즈|나즈|,요괴,1500,100,50,400,C
+Nazrin01,나즈린,3200,150,115,800,6,4,4,0,S,2,3,A,A,C,A,Nazrin,Nazrin,Nazrin,0,,,,,Nazrin,1,Nazrin,,,1,0,'01',나즈린,|나즈|나즈|,요괴,1500,100,50,400,C
+Nazrin02,나즈린,3200,150,115,800,6,4,5,0,S,2,3,A,A,C,A,Nazrin,Nazrin,Nazrin,0,,,,,Nazrin,1,Nazrin,,,1,0,'01',나즈린,|나즈|나즈|,요괴,1500,100,50,400,C
+NazrinN_en01,악몽,20000,400,135,800,6,4,2,1,S,2,1,A,A,A,A,NazrinN,NazrinN,NazrinN,1,MBLOCK,,,,Nazrin,1,NazrinN_en01,,,1,0,'04',악몽(나즈린),|||,악몽,10000,200,100,1000,E
+NazrinN_en02,악몽,20000,400,135,800,6,4,2,1,S,2,1,A,A,A,A,NazrinN,NazrinN,NazrinN,1,MBLOCK,,,,Nazrin,1,NazrinN_en02,,,1,0,'04',악몽(나즈린),|||,악몽,10000,200,100,1000,E
+NazrinN_en03,악몽,20000,400,135,800,6,4,2,1,S,2,1,A,A,A,A,NazrinN,NazrinN,NazrinN,1,MBLOCK,,,,Nazrin,1,NazrinN_en03,,,1,0,'04',악몽(나즈린),|||,악몽,10000,200,100,1000,E
+NazrinN_en04,악몽,20000,400,135,800,6,4,2,1,S,2,1,A,A,A,A,NazrinN,NazrinN,NazrinN,1,MBLOCK,,,,Nazrin,1,NazrinN_en04,,,1,0,'04',악몽(나즈린),|||,악몽,10000,200,100,1000,E
+Nitori_FA_en01,니토리,11500,250,75,1200,5,3,4,2,M,2.5,1,A,A,S,A,Nitori,Nitori,Nitori,1,MBLOCK,,,,Nitori2,1,Nitori_en01,,,0,0,'03',카와시로 니토리(FA),|||,요괴,7000,250,50,600,B
+Nitori_FA_en02,니토리,9500,270,80,1200,5,3,5,1,M,2.5,1,A,A,S,A,Nitori,Nitori,Nitori,1,MBLOCK,,,,Nitori_FA,1,Nitori_en01,,,0,0,'04',카와시로 니토리(FA),|||,요괴,10000,100,40,1000,D
+Nitori_FA_en03,니토리,18900,270,80,1200,5,3,5,1,M,2.5,1,A,A,S,A,Nitori,Nitori,Nitori,1,MBLOCK,,,,Nitori_FA,1,Nitori_en01,,,0,0,'04',카와시로 니토리(FA),|||,요괴,20000,100,40,1000,D
+Nitori_FA01,니토리,5500,170,80,1150,6,4,5,0,M,2.5,3,A,A,S,A,Nitori,Nitori,Nitori,3,COM_CURE_HP,NOBIRU,O_CAMO,,Nitori_FA,1,Nitori,,,0,0,'01',카와시로 니토리(FA),|니토|니토|,요괴,2500,100,40,500,B
+Nitori_FA02,니토리,5500,170,80,1150,6,4,6,0,M,2.5,3,A,A,S,A,Nitori,Nitori,Nitori,3,COM_CURE_HP,NOBIRU,O_CAMO,,Nitori_FA,1,Nitori,,,0,0,'01',카와시로 니토리(FA),|니토|니토|,요괴,2500,100,40,500,B
+Nitori01,니토리,4900,150,95,1050,6,3,3,0,M,2,3,A,A,S,A,Nitori,Nitori,Nitori,2,COM_CURE_HP,NOBIRU,,,Nitori,1,Nitori,,,0,0,'01',카와시로 니토리,|니토|니토|,요괴,2500,100,40,500,B
+Nue_B01,누에,2400,160,145,800,8,5,5,0,M,2.5,2,A,A,A,S,Nue,Nue,Nue,1,TRANSF_NUE,,,,Nue2,1,Nue,,,0,0,'01',호쥬 누에(타입B),|누에|누에|,요괴,1000,100,50,400,A
+Nue_en01,누에,24000,450,120,1000,6,4,3,1,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en01,,,0,0,'04',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en02,누에,24000,450,120,1000,6,4,3,1,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en02,,,0,0,'04',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en03,누에,24000,450,120,1000,6,4,3,1,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en03,,,0,0,'04',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en04,누에,24000,450,120,1000,6,4,3,1,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en04,,,0,0,'04',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en05,누에,24000,550,125,1400,6,4,1,4,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en01,,,0,0,'03',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en06,누에,24000,550,125,1400,6,4,1,4,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en02,,,0,0,'03',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en07,누에,24000,550,125,1400,6,4,1,4,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en03,,,0,0,'03',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en08,누에,24000,550,125,1400,6,4,1,4,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en04,,,0,0,'03',호쥬 누에,|||,요괴,33000,200,50,500,A
+Nue_en09,누에,12000,300,120,1000,6,4,3,1,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue2,1,Nue_en02,,,0,0,'04',호쥬 누에,|||,요괴,10000,200,50,500,A
+Nue_G01,누에,6000,160,80,1500,5,3,5,0,M,2.5,2,A,A,A,S,Nue,Nue,Nue,1,TRANSF_NUE,,,,Nue2,1,Nue,,,0,0,'01',호쥬 누에(타입G),|누에|누에|,요괴,2500,100,40,500,A
+Nue01,누에,3700,160,130,1000,6,4,3,0,M,2.5,2,A,A,C,S,Nue,Nue,Nue,0,,,,,Nue,1,Nue,,,0,0,'01',호쥬 누에,|누에|누에|,요괴,2000,100,50,400,A
+Nue02,누에,3700,160,130,1000,6,4,5,0,M,2.5,2,A,A,C,S,Nue,Nue,Nue,1,TRANSF_NUE,,,,Nue2,1,Nue,,,0,0,'01',호쥬 누에,|누에|누에|,요괴,2000,100,50,400,A
+NueN_en01,악몽,20000,500,130,1400,6,4,3,1,M,2.5,1,A,A,A,S,NueN,NueN,NueN,2,MBLOCK,CURE_MP_M,,,Nue,1,NueN_en01,,,0,0,'04',악몽(누에),|||,악몽,10000,200,100,1000,E
+NueN_en02,악몽,20000,500,130,1400,6,4,3,1,M,2.5,1,A,A,A,S,NueN,NueN,NueN,2,MBLOCK,CURE_MP_M,,,Nue,1,NueN_en02,,,0,0,'04',악몽(누에),|||,악몽,10000,200,100,1000,E
+NueN_en03,악몽,20000,500,130,1400,6,4,3,1,M,2.5,1,A,A,A,S,NueN,NueN,NueN,2,MBLOCK,CURE_MP_M,,,Nue,1,NueN_en03,,,0,0,'04',악몽(누에),|||,악몽,10000,200,100,1000,E
+NueN_en04,악몽,20000,500,130,1400,6,4,3,1,M,2.5,1,A,A,A,S,NueN,NueN,NueN,2,MBLOCK,CURE_MP_M,,,Nue,1,NueN_en04,,,0,0,'04',악몽(누에),|||,악몽,10000,200,100,1000,E
+Onamazu_en01,오오나마즈,40000,999,60,1500,4,2,2,4,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en01,,,0,0,'03',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en02,오오나마즈,40000,999,60,1500,4,2,2,4,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en02,,,0,0,'03',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en03,오오나마즈,40000,999,60,1500,4,2,2,4,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en03,,,0,0,'03',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en04,오오나마즈,40000,999,60,1500,4,2,2,4,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en04,,,0,0,'03',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en05,오오나마즈,40000,999,60,1500,4,2,2,1,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en01,,,0,0,'04',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en06,오오나마즈,40000,999,60,1500,4,2,2,1,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en02,,,0,0,'04',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en07,오오나마즈,40000,999,60,1500,4,2,2,1,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en03,,,0,0,'04',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu_en08,오오나마즈,40000,999,60,1500,4,2,2,1,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en04,,,0,0,'04',오오나마즈,|||,요괴,40000,0,100,1000,E
+Onamazu01,오오나마즈,10000,200,60,1400,4,2,4,0,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,0,,,,,Onamazu,1,Onamazu,,,0,0,'01',오오나마즈,|||,요괴,3000,150,40,500,A
+OnamazuN_en01,악몽,32000,600,60,1500,4,2,1,1,LL,3.5,1,A,A,A,A,OnamazuN,OnamazuN,OnamazuN,1,MBLOCK+,,,,,1,OnamazuN_en01,,,0,0,'04',악몽(오오나마즈),|||,악몽,20000,100,100,1000,E
+OnamazuN_en02,악몽,32000,600,60,1500,4,2,1,1,LL,3.5,1,A,A,A,A,OnamazuN,OnamazuN,OnamazuN,1,MBLOCK+,,,,,1,OnamazuN_en02,,,0,0,'04',악몽(오오나마즈),|||,악몽,20000,100,100,1000,E
+OnamazuN_en03,악몽,32000,600,60,1500,4,2,1,1,LL,3.5,1,A,A,A,A,OnamazuN,OnamazuN,OnamazuN,1,MBLOCK+,,,,,1,OnamazuN_en03,,,0,0,'04',악몽(오오나마즈),|||,악몽,20000,100,100,1000,E
+OnamazuN_en04,악몽,32000,600,60,1500,4,2,1,1,LL,3.5,1,A,A,A,A,OnamazuN,OnamazuN,OnamazuN,1,MBLOCK+,,,,,1,OnamazuN_en04,,,0,0,'04',악몽(오오나마즈),|||,악몽,20000,100,100,1000,E
+Onryo_en01,원령,4200,100,90,800,5,2,1,1,S,1.5,1,A,A,A,A,Onryo,Onryo,Onryo,0,,,,,,1,Onryo_en01,,,0,0,'02_blue',원령,|||,원령,3000,150,50,500,D
+Onryo_en02,원령,5200,100,90,800,5,2,1,1,S,1.5,1,A,A,A,A,Onryo,Onryo,Onryo,0,,,,,,1,Onryo_en01,,,0,0,'02_blue',원령,|||,원령,3000,150,50,500,D
+OnryoL_en01,원령L,12000,150,60,1000,5,2,2,1,L,2,1,A,A,A,A,OnryoL,OnryoL,OnryoL,0,,,,,,1,OnryoL_en01,,,0,0,'02_red',원령(대),|||,원령,10000,150,50,500,D
+OnryoL_en02,원령L,12000,150,60,1000,5,2,2,1,L,2,1,A,A,A,A,OnryoL,OnryoL,OnryoL,0,,,,,,1,OnryoL_en02,,,0,0,'02_red',원령(대),|||,원령,10000,150,50,500,D
+OnryoR_en01,원령R,7500,150,95,950,5,2,1,1,M,1.5,1,A,A,A,A,OnryoR,OnryoR,OnryoR,0,,,,,,1,OnryoR_en01,,,0,0,'02_red',원령(적),|||,원령,5000,150,40,500,D
+OnryoR_en02,원령R,7500,150,95,950,5,2,1,1,M,1.5,1,A,A,A,A,OnryoR,OnryoR,OnryoR,0,,,,,,1,OnryoR_en02,,,0,0,'02_red',원령(적),|||,원령,5000,150,40,500,D
+Orin_en01,오린,26000,250,110,1100,6,4,2,1,M,2.5,1,A,A,C,A,Orin,Orin,Orin,1,MBLOCK,,,,Orin,1,Orin_en01,,,0,0,'04',카엔뵤 린,|||,요괴,20000,250,80,500,D
+Orin_en02,오린,26000,250,110,1100,6,4,2,3,M,2.5,1,A,A,C,A,Orin,Orin,Orin,1,MBLOCK,,,,Orin,1,Orin_en01,,,0,0,'03',카엔뵤 린,|||,요괴,20000,250,80,500,D
+Orin01,오린,4500,150,120,1000,6,4,4,0,M,2.5,2,A,A,C,A,Orin,Orin,Orin,1,HAKOBI,,,,Orin,1,Orin,,,0,0,'01',카엔뵤 린,|오린|린|,요괴,2000,100,50,400,A
+Orin02,오린,4500,150,120,1000,6,4,4,0,M,2.5,2,A,A,C,A,Orin,Orin,Orin,2,HAKOBI,TRANSF_ORIN,,,Orin,1,Orin,,,0,0,'01',카엔뵤 린,|오린|린|,요괴,2000,100,50,400,A
+OrinC_en01,오린,22000,250,125,700,8,5,1,0,SS,2.5,1,B,S,D,A,OrinC,OrinC,OrinC,0,,,,,Orin,1,Orin_en01,,,0,0,'04',카엔뵤 린,|||,요괴,3000,150,40,500,C
+OrinC01,오린,4500,150,135,600,8,5,1,0,SS,2.5,2,B,S,D,A,OrinC,OrinC,OrinC,1,TRANSF_ORIN,,,,Orin,1,Orin,,,0,0,'01',카엔뵤 린(고양이),|오린|린|,요괴,2000,100,50,400,D
+Parsee_en01,파르시,27000,250,100,1100,6,3,2,2,M,2,1,A,A,B,A,Parsee,Parsee,Parsee,1,MBLOCK,,,,Parsee,1,Parsee_en01,,,0,0,'03',미즈하시 파르시,|||,요괴,27000,100,50,500,D
+Parsee01,파르시,4400,150,115,950,6,3,4,0,M,2,3,A,A,C,A,Parsee,Parsee,Parsee,0,,,,,Parsee,1,Parsee,,,0,0,'01',미즈하시 파르시,|파르|파르|,요괴,2000,100,50,400,C
+Parsee02,파르시,4400,150,115,950,6,3,5,0,M,2,3,A,A,C,A,Parsee,Parsee,Parsee,0,,,,,Parsee,1,Parsee,,,0,0,'01',미즈하시 파르시,|파르|파르|,요괴,2000,100,50,400,C
+ParseeN_en01,악몽,27000,250,100,1100,6,3,2,2,M,2,1,A,A,B,A,ParseeN,ParseeN,ParseeN,1,MBLOCK,,,,Parsee,1,ParseeN_en01,,,0,0,'03',악몽(파르시),|||,악몽,50000,500,100,1000,E
+Patchouli_en01,파츄리,7000,220,90,800,5,4,2,3,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'03',파츄리 널릿지,|||,마법사,2000,100,40,500,E
+Patchouli_en02,파츄리,7000,220,90,800,5,4,4,1,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'04',파츄리 널릿지,|||,마법사,2000,100,40,500,E
+Patchouli_en03,파츄리,8700,320,90,950,5,4,1,3,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'03',파츄리 널릿지,|||,마법사,4500,100,40,500,E
+Patchouli_en04,파츄리,8700,320,90,950,5,4,1,3,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'03',파츄리 널릿지,|||,마법사,4500,100,40,500,E
+Patchouli_en05,파츄리,8700,320,90,950,5,4,1,3,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'03',파츄리 널릿지,|||,마법사,4500,100,40,500,E
+Patchouli_en06,파츄리,9300,320,90,1100,5,4,5,1,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'04',파츄리 널릿지,|||,마법사,10000,300,40,1000,D
+Patchouli_en07,파츄리,18500,320,90,1100,5,4,5,1,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en02,,,0,0,'04',파츄리 널릿지,|||,마법사,20000,300,40,1000,D
+Patchouli01,파츄리,4300,220,90,800,5,4,5,0,M,2.5,2,A,B,C,A,Patchouli,Patchouli,Patchouli,1,M_SHIELD_PATCHE,,,,Patchouli,1,Patchouli,,,0,0,'01',파츄리 널릿지,|파체|파츄|,마법사,2000,100,40,500,A
+Patchouli02,파츄리,4300,220,90,800,5,4,6,0,M,2.5,2,A,B,C,A,Patchouli,Patchouli,Patchouli,1,M_SHIELD_PATCHE,,,,Patchouli,1,Patchouli,,,0,0,'01',파츄리 널릿지,|파체|파츄|,마법사,2000,100,40,500,A
+Patchouli03,파츄리,4300,220,90,800,5,4,7,0,M,2.5,2,A,B,C,A,Patchouli,Patchouli,Patchouli,1,M_SHIELD_PATCHE,,,,Patchouli,1,Patchouli,,,0,0,'01',파츄리 널릿지,|파체|파츄|,마법사,2000,100,40,500,A
+Patchouli04,파츄리,4300,220,90,800,5,4,8,0,M,2.5,2,A,B,C,A,Patchouli,Patchouli,Patchouli,1,M_SHIELD_PATCHE,,,,Patchouli,1,Patchouli,,,0,0,'01',파츄리 널릿지,|파체|파츄|,마법사,2000,100,40,500,A
+Prism_en01,세자매,17000,250,100,1050,6,3,1,3,L,6,1,A,A,A,A,Prism,Prism,Prism,1,MBLOCK,,,,Prism,3,Lunasa_en01,Merlin_en01,Lyrica_en01,0,0,'03',프리즘리버 세자매,|||,소령,10000,250,50,800,C
+Prism_en02,세자매,17000,250,100,1050,6,3,1,3,L,6,1,A,A,A,A,Prism,Prism,Prism,1,MBLOCK,,,,Prism,3,Lunasa_en01,Merlin_en01,Lyrica_en01,0,0,'03',프리즘리버 세자매,|||,소령,10000,250,50,800,C
+Prism_en03,세자매,17000,250,100,1050,6,3,1,3,L,6,1,A,A,A,A,Prism,Prism,Prism,1,MBLOCK,,,,Prism,3,Lunasa_en01,Merlin_en01,Lyrica_en01,0,0,'03',프리즘리버 세자매,|||,소령,10000,250,50,800,C
+Prism_en04,세자매,14000,330,100,1100,6,3,4,1,L,6,1,A,A,A,A,Prism,Prism,Prism,1,MBLOCK,,,,Prism,3,Lunasa_en01,Merlin_en01,Lyrica_en01,0,0,'04',프리즘리버 세자매,|||,소령,10000,100,40,1000,D
+Prism_en05,세자매,27000,330,100,1100,6,3,4,1,L,6,1,A,A,A,A,Prism,Prism,Prism,1,MBLOCK,,,,Prism,3,Lunasa_en01,Merlin_en01,Lyrica_en01,0,0,'04',프리즘리버 세자매,|||,소령,20000,100,40,1000,D
+Prism01,세자매,9000,270,100,1150,6,3,4,0,L,6,3,A,A,A,A,Prism,Prism,Prism,2,SYNC,APART_PRISM,,,Prism,3,Lunasa,Merlin,Lyrica,1,0,'01',프리즘리버 세자매,|||,소령,3000,100,40,500,A
+Prism02,세자매,9000,270,100,1150,6,3,5,0,L,6,3,A,A,A,A,Prism,Prism,Prism,2,SYNC,APART_PRISM,,,Prism,3,Lunasa,Merlin,Lyrica,1,0,'01',프리즘리버 세자매,|||,소령,3000,100,40,500,A
+Ran_en01,란,22000,320,120,1250,6,4,2,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,1,MBLOCK,,,,Ran,1,Ran_en01,,,0,0,'04',야쿠모 란,|||,요수,14000,200,80,800,A
+Ran_en02,란,22000,320,120,1250,6,4,2,3,L,3.5,1,A,S,D,A,Ran,Ran,Ran,1,MBLOCK,,,,Ran,1,Ran_en01,,,0,0,'03',야쿠모 란,|||,요수,14000,200,80,800,A
+Ran_en03,란,22000,320,120,1250,6,4,2,3,L,3.5,1,A,S,D,A,Ran,Ran,Ran,2,MBLOCK,BUNSHIN_RAN,,,Ran,1,Ran_en01,,,0,0,'03',야쿠모 란,|||,요수,14000,200,80,800,A
+Ran_en04,란,22000,320,120,1250,6,4,4,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,2,MBLOCK,SHIKI_RAN,,,Ran,1,Ran_en01,,,0,0,'04',야쿠모 란,|||,요수,14000,200,80,800,A
+Ran_en05,란,22000,320,120,1250,6,4,4,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,3,MBLOCK,SHIKI_RAN,BUNSHIN_RAN,,Ran,1,Ran_en02,,,0,0,'04',야쿠모 란,|||,요수,14000,200,80,800,A
+Ran_en06,란,14200,360,125,1450,6,4,4,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,2,MBLOCK,SHIKI_RAN,,,Ran2,1,Ran_en01,,,0,0,'04',야쿠모 란,|||,요수,10000,200,80,800,A
+Ran_en07,란,28400,360,125,1450,6,4,4,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,3,MBLOCK,SHIKI_RAN,BUNSHIN_RAN,,Ran2,1,Ran_en02,,,0,0,'04',야쿠모 란,|||,요수,20000,200,80,800,A
+Ran_en08,란,13000,360,125,1450,6,4,3,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,2,MBLOCK,SHIKI_RAN,,,Ran2,1,Ran_en01,,,0,0,'04',야쿠모 란,|||,요수,10000,200,80,800,A
+Ran01,란,5500,180,120,1200,6,4,5,0,L,3,1,A,A,D,A,Ran,Ran,Ran,2,SHIKI_RAN2,BUNSHIN_RAN2,,,Ran2,1,Ran,,,0,0,'01',야쿠모 란,|란|란|,요수,2500,100,50,500,A
+RanN_en01,악몽,20000,500,120,1300,6,4,3,1,L,3,1,A,S,C,A,RanN,RanN,RanN,2,MBLOCK,SHIKI_RANN,,,Ran,1,RanN_en01,,,0,0,'04',악몽(란),|||,악몽,10000,200,100,1000,E
+RanN_en02,악몽,20000,500,120,1300,6,4,3,1,L,3,1,A,S,C,A,RanN,RanN,RanN,3,MBLOCK,SHIKI_RANN,BUNSHIN,,Ran,1,RanN_en02,,,0,0,'04',악몽(란),|||,악몽,10000,200,100,1000,E
+RanN_en03,악몽,20000,500,120,1300,6,4,3,1,L,3,1,A,S,C,A,RanN,RanN,RanN,3,MBLOCK,SHIKI_RANN,BUNSHIN,,Ran,1,RanN_en03,,,0,0,'04',악몽(란),|||,악몽,10000,200,100,1000,E
+RanN_en04,악몽,35000,400,120,1600,6,4,2,2,L,3,1,A,S,C,A,RanN,RanN,RanN,2,MBLOCK,BUNSHIN,,,Ran,1,RanN_en04,,,0,0,'03',악몽(란),|||,악몽,50000,500,100,1000,E
+Reimu01,레이무,3400,130,120,800,6,4,5,0,M,2.5,2,A,A,B,A,Reimu,Reimu,Reimu,0,,,,,Reimu,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+Reimu02,레이무,3400,130,120,800,6,4,6,0,M,2.5,2,A,A,B,A,Reimu,Reimu,Reimu,0,,,,,Reimu,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+Reimu03,레이무,3400,130,120,800,6,4,7,0,M,2.5,2,A,A,B,A,Reimu,Reimu,Reimu,0,,,,,Reimu,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+Reimu04,레이무,3700,170,125,800,6,4,8,0,M,3,2,A,A,B,A,Reimu,Reimu,Reimu,1,N_KEKKAI,,,,Reimu,1,Reimu,,,1,0,'01',하쿠레이 레이무(구복장),|레이|레이|,인간,1500,100,50,400,A
+ReimuM01,레이무,3700,170,125,850,6,4,1,0,M,3,2,A,A,B,A,ReimuM,ReimuM,ReimuM,2,N_KEKKAI,M_TENSEI,,,ReimuR,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+ReimuR_en01,레이무,19000,400,135,1000,6,4,5,2,M,3,1,A,A,B,A,ReimuR,ReimuR,ReimuR,2,MBLOCK,N_KEKKAI,,,ReimuR,1,Reimu_en01,,,1,0,'03',하쿠레이 레이무,|||,인간,25000,200,100,1000,D
+ReimuR_en02,레이무,12000,400,135,1000,6,4,6,2,M,3,1,A,A,B,A,ReimuR,ReimuR,ReimuR,2,MBLOCK,N_KEKKAI,,,ReimuR,1,Reimu_en01,,,1,0,'03',하쿠레이 레이무,|||,인간,10000,200,100,1000,D
+ReimuR_en03,레이무,20000,400,135,1000,6,4,6,1,M,3,1,A,A,B,A,ReimuR,ReimuR,ReimuR,2,MBLOCK+,N_KEKKAI,,,ReimuR,1,Reimu_en01,,,1,0,'04',하쿠레이 레이무,|||,인간,15000,200,100,1000,D
+ReimuR01,레이무,3700,170,125,850,6,4,7,0,M,3,2,A,A,B,A,ReimuR,ReimuR,ReimuR,1,N_KEKKAI,,,,ReimuR,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+ReimuR02,레이무,3700,170,125,850,6,4,8,0,M,3,2,A,A,B,A,ReimuR,ReimuR,ReimuR,1,N_KEKKAI,,,,ReimuR,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+ReimuR03,레이무,3700,170,125,850,6,4,9,0,M,3,2,A,A,B,A,ReimuR,ReimuR,ReimuR,2,N_KEKKAI,M_TENSEI,,,ReimuR,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+ReimuR04,레이무,3700,170,125,850,6,4,10,2,M,3,2,A,A,B,A,ReimuR,ReimuR,ReimuR,2,N_KEKKAI,M_TENSEI,,,ReimuR,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+ReimuR05,레이무,3700,170,125,850,6,4,5,0,M,3,2,A,A,B,A,ReimuR,ReimuR,ReimuR,1,N_KEKKAI,,,,ReimuR,1,Reimu,,,1,0,'01',하쿠레이 레이무,|레이|레이|,인간,1500,100,50,400,A
+ReimuRN_en01,악몽,35000,500,145,1000,6,4,2,2,M,3,1,A,A,B,A,ReimuRN,ReimuRN,ReimuRN,2,MBLOCK+,N_KEKKAI,,,ReimuR,1,ReimuN_en01,,,1,0,'03',악몽(레이무),|||,악몽,50000,500,100,1000,E
+Reisen_S01,레이센,4900,150,115,1000,6,4,4,0,M,2,3,A,A,C,A,Reisen,Reisen,Reisen,0,,,,,Reisen,1,Reisen,,,1,0,'01',레이센(저격장비),|레이|레이|,달토끼,2000,100,40,500,C
+Reisen_T01,레이센,4900,150,115,1000,6,4,4,0,M,2,3,A,A,C,A,Reisen,Reisen,Reisen,0,,,,,Reisen,1,Reisen,,,1,0,'01',레이센(돌격장비),|레이|레이|,달토끼,2000,100,50,400,C
+Reisen01,레이센,4900,150,115,1000,6,4,4,0,M,2,3,A,A,C,A,Reisen,Reisen,Reisen,0,,,,,Reisen,1,Reisen,,,1,0,'01',레이센(돌격장비),|레이|레이|,달토끼,2000,100,50,400,C
+Remilia_en01,레밀리아,9000,300,100,1200,7,4,2,4,S,3.5,1,A,A,D,S,Remilia,Remilia,Remilia,2,MBLOCK,VAMPIRE2,,,Remilia,1,Remilia_en01,,,0,0,'03',레밀리아 스칼렛,|||,요괴,1000,100,50,500,A
+Remilia_en02,레밀리아,9500,300,100,1200,7,4,2,4,S,3.5,1,S,A,D,S,Remilia,Remilia,Remilia,2,MBLOCK,VAMPIRE3,,,Remilia,1,Remilia_en02,,,0,0,'03',레밀리아 스칼렛,|||,요괴,5000,100,50,500,A
+Remilia_en03,레밀리아,9500,300,100,1200,7,4,2,4,S,3.5,1,S,A,D,S,Remilia,Remilia,Remilia,2,MBLOCK,VAMPIRE3,,,Remilia,1,Remilia_en02,,,0,0,'03',레밀리아 스칼렛,|||,요괴,5000,100,50,500,A
+Remilia_en04,레밀리아,15000,400,100,1200,7,4,3,1,S,3.5,1,A,A,D,S,Remilia,Remilia,Remilia,2,MBLOCK+,VAMPIRE4,,,Remilia,1,Remilia_en02,,,0,0,'04',레밀리아 스칼렛,|||,요괴,10000,200,100,1000,E
+Remilia01,레밀리아,11500,300,125,1200,7,4,4,0,S,3.5,1,A,A,D,S,Remilia,Remilia,Remilia,3,VAMPIRE4,CURE_HP_S,CURE_MP_S,,Remilia,1,Remilia,,,0,0,'01',레밀리아 스칼렛,|레미|레미|,요괴,2500,100,50,500,A
+Remilia02,레밀리아,5300,200,125,1200,7,4,5,0,S,3.5,1,A,A,D,S,Remilia,Remilia,Remilia,1,VAMPIRE,,,,Remilia,1,Remilia,,,0,0,'01',레밀리아 스칼렛,|레미|레미|,요괴,2500,100,50,500,A
+RemiliaN_en01,악몽,25000,500,125,1400,7,4,2,1,S,3.5,1,S,A,D,S,RemiliaN,RemiliaN,RemiliaN,2,MBLOCK,VAMPIRE2,,,Remilia,1,RemiliaN_en01,,,0,0,'04',악몽(레밀리아),|||,악몽,10000,200,100,1000,E
+RemiliaN_en02,악몽,25000,500,125,1400,7,4,2,1,S,3.5,1,S,A,D,S,RemiliaN,RemiliaN,RemiliaN,2,MBLOCK,VAMPIRE2,,,Remilia,1,RemiliaN_en02,,,0,0,'04',악몽(레밀리아),|||,악몽,10000,200,100,1000,E
+RemiliaN_en03,악몽,25000,500,125,1400,7,4,2,1,S,3.5,1,S,A,D,S,RemiliaN,RemiliaN,RemiliaN,2,MBLOCK,VAMPIRE2,,,Remilia,1,RemiliaN_en03,,,0,0,'04',악몽(레밀리아),|||,악몽,10000,200,100,1000,E
+RemiliaN_en04,악몽,25000,500,125,1400,7,4,2,1,S,3.5,1,S,A,D,S,RemiliaN,RemiliaN,RemiliaN,2,MBLOCK,VAMPIRE2,,,Remilia,1,RemiliaN_en04,,,0,0,'04',악몽(레밀리아),|||,악몽,10000,200,100,1000,E
+RemiliaN_en05,악몽,30000,400,130,1600,7,4,2,2,S,3.5,1,S,A,D,S,RemiliaN,RemiliaN,RemiliaN,2,MBLOCK,VAMPIRE2,,,Remilia,1,RemiliaN_en05,,,0,0,'03',악몽(레밀리아),|||,악몽,50000,500,100,1000,E
+Rumia_en01,루미아,6500,230,100,1050,6,4,2,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,3300,100,50,700,C
+Rumia_en02,루미아,11000,230,100,1050,6,4,2,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,3300,100,50,700,C
+Rumia_en03,루미아,6500,230,100,1050,6,4,3,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,3300,100,50,700,C
+Rumia_en04,루미아,12300,230,100,1100,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,12000,100,50,500,C
+Rumia_en05,루미아,8400,230,100,1150,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,6000,100,50,500,C
+Rumia_en06,루미아,16800,230,100,1150,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,12000,100,50,500,C
+Rumia_en07,루미아,20000,230,100,1200,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,12000,100,50,500,C
+Rumia_en08,루미아,20000,230,100,1200,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en02,,,0,0,'04',루미아,|||,요괴,12000,100,50,500,C
+Rumia_en09,루미아,14000,230,100,1150,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,10000,100,50,500,C
+Rumia01,루미아,4700,130,100,1050,6,4,3,0,S,2,3,A,A,B,S,Rumia,Rumia,Rumia,1,YAMI,,,,Rumia,1,Rumia,,,0,0,'01',루미아,|루|루|,요괴,2500,100,50,500,C
+Rumia02,루미아,4700,130,100,1050,6,4,4,0,S,2,3,A,A,B,S,Rumia,Rumia,Rumia,1,YAMI,,,,Rumia,1,Rumia,,,0,0,'01',루미아,|루|루|,요괴,2500,100,50,500,C
+Rumia03,루미아,4700,130,100,1050,6,4,5,0,S,2,3,A,A,B,S,Rumia,Rumia,Rumia,1,YAMI,,,,Rumia,1,Rumia,,,0,0,'01',루미아,|루|루|,요괴,2500,100,50,500,C
+Rumia04,루미아,4700,130,100,1050,6,4,6,0,S,2,3,A,A,B,S,Rumia,Rumia,Rumia,1,YAMI,,,,Rumia,1,Rumia,,,0,0,'01',루미아,|루|루|,요괴,2500,100,50,500,C
+Rumia05,루미아,4700,130,100,1050,6,4,7,0,S,2,3,A,A,B,S,Rumia,Rumia,Rumia,1,YAMI,,,,Rumia,1,Rumia,,,0,0,'01',루미아,|루|루|,요괴,2500,100,50,500,C
+Sakuya_en01,사쿠야,12500,250,80,850,3,1,1,2,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE_EN,,,Sakuya2,1,Sakuya_en02,,,1,0,'03',이자요이 사쿠야,|||,인간,2000,100,50,400,D
+Sakuya_en02,사쿠야,12500,250,80,850,3,1,1,2,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE_EN,,,Sakuya2,1,Sakuya_en01,,,1,0,'03',이자요이 사쿠야,|||,인간,2000,100,50,400,D
+Sakuya_en03,사쿠야,12500,250,80,850,6,4,2,3,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE,,,Sakuya2,1,Sakuya_en02,,,1,0,'03',이자요이 사쿠야,|||,인간,2000,100,50,400,D
+Sakuya_en04,사쿠야,12500,250,80,850,6,4,2,3,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE,,,Sakuya2,1,Sakuya_en01,,,1,0,'03',이자요이 사쿠야,|||,인간,2000,100,50,400,D
+Sakuya_en05,사쿠야,11000,250,80,850,6,4,1,2,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,1,MBLOCK,,,,Sakuya2,1,Sakuya_en04,,,1,0,'03',이자요이 사쿠야,|||,인간,2000,100,50,400,D
+Sakuya_en06,사쿠야,9400,270,120,1050,6,4,5,1,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE,,,Sakuya,1,Sakuya_en03,,,1,0,'04',이자요이 사쿠야,|||,인간,10000,150,50,500,D
+Sakuya_en07,사쿠야,18800,270,120,1050,6,4,5,1,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE,,,Sakuya,1,Sakuya_en03,,,1,0,'04',이자요이 사쿠야,|||,인간,20000,150,50,500,D
+Sakuya_en08,사쿠야,12000,270,120,1050,6,4,5,1,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE,,,Sakuya,1,Sakuya_en03,,,1,0,'04',이자요이 사쿠야,|||,인간,12000,150,50,500,D
+Sakuya01,사쿠야,4800,150,115,900,6,4,4,0,L,2.5,2,A,A,C,A,Sakuya,Sakuya,Sakuya,1,P_SQUARE,,,,Sakuya2,1,Sakuya,,,1,0,'01',이자요이 사쿠야,|사쿠|사쿠|,인간,2000,100,50,400,A
+Sakuya02,사쿠야,4800,150,115,900,6,4,5,0,L,2.5,2,A,A,C,A,Sakuya,Sakuya,Sakuya,1,P_SQUARE,,,,Sakuya,1,Sakuya,,,1,0,'01',이자요이 사쿠야,|사쿠|사쿠|,인간,2000,100,50,400,A
+Sakuya03,사쿠야,4800,150,115,900,6,4,6,0,L,2.5,2,A,A,C,A,Sakuya,Sakuya,Sakuya,1,P_SQUARE,,,,Sakuya,1,Sakuya,,,1,0,'01',이자요이 사쿠야,|사쿠|사쿠|,인간,2000,100,50,400,A
+SakuyaN_en01,악몽,12500,250,80,850,3,1,1,2,L,2.5,1,A,A,C,A,SakuyaN,SakuyaN,SakuyaN,1,MBLOCK,,,,Sakuya2,1,SakuyaN_en01,,,1,0,'03',악몽(사쿠야),|||,악몽,50000,500,100,1000,E
+Sanae_en01,사나에,11500,250,90,900,5,3,3,1,M,2.5,1,A,A,B,A,Sanae,Sanae,Sanae,1,MBLOCK,,,,Sanae3,1,Sanae_en01,,,0,0,'04',코치야 사나에,|||,인간,1500,100,50,400,D
+Sanae_en02,사나에,11500,250,90,900,5,3,3,1,M,2.5,1,A,A,B,A,Sanae,Sanae,Sanae,1,MBLOCK,,,,Sanae3,1,Sanae_en01,,,0,0,'04',코치야 사나에,|||,인간,1500,100,50,400,D
+Sanae_en03,사나에,14000,300,105,950,6,4,4,4,M,2.5,1,A,A,B,A,Sanae,Sanae,Sanae,1,MBLOCK,,,,Sanae3,1,Sanae_en01,,,0,0,'03',코치야 사나에,|||,인간,9000,300,50,500,A
+Sanae_en04,사나에,10500,350,120,950,6,4,6,1,M,2.5,1,A,A,B,A,Sanae,Sanae,Sanae,3,MBLOCK,KAZEHAFURI,BARRIER_SANAE,,Sanae,1,Sanae_en02,,,0,0,'04',코치야 사나에,|||,인간,10000,200,100,500,D
+Sanae_en05,사나에,21000,350,120,950,6,4,6,1,M,2.5,1,A,A,B,A,Sanae,Sanae,Sanae,3,MBLOCK,KAZEHAFURI,BARRIER_SANAE,,Sanae,1,Sanae_en02,,,0,0,'04',코치야 사나에,|||,인간,20000,200,100,500,D
+Sanae_K01,사나에,4900,190,110,1400,6,3,5,0,M,2.5,2,S,B,C,A,Sanae,Sanae,Sanae,2,KAZEHAFURI,BARRIER_SANAE,,,Sanae,1,Sanae,,,0,0,'01',코치야 사나에(건신장비),|사나|사나|,인간,1500,100,50,500,A
+Sanae_K02,사나에,4900,190,110,1400,6,3,6,0,M,2.5,2,S,B,C,A,Sanae,Sanae,Sanae,2,KAZEHAFURI,BARRIER_SANAE,,,Sanae,1,Sanae,,,0,0,'01',코치야 사나에(건신장비),|사나|사나|,인간,1500,100,50,500,A
+Sanae_S01,사나에,4900,190,135,750,7,5,6,0,M,2.5,2,B,S,S,A,Sanae,Sanae,Sanae,2,KAZEHAFURI,BARRIER_SANAE,,,Sanae,1,Sanae,,,0,0,'01',코치야 사나에(곤신장비),|사나|사나|,인간,1500,100,50,400,A
+Sanae01,사나에,3900,190,115,850,6,4,6,0,M,2.5,2,A,A,B,A,Sanae,Sanae,Sanae,2,KAZEHAFURI,BARRIER_SANAE,,,Sanae,1,Sanae,,,0,0,'01',코치야 사나에,|사나|사나|,인간,1500,100,50,400,A
+Sanae02,사나에,3900,190,115,850,6,4,7,0,M,2.5,2,A,A,B,A,Sanae,Sanae,Sanae,2,KAZEHAFURI,BARRIER_SANAE,,,Sanae,1,Sanae,,,0,0,'01',코치야 사나에,|사나|사나|,인간,1500,100,50,400,A
+Sanae03,사나에,3900,190,115,850,6,4,7,0,M,2.5,2,A,A,B,A,Sanae,Sanae,Sanae,2,KAZEHAFURI,BARRIER_SANAE,,,Sanae,1,Sanae,,,0,0,'01',코치야 사나에,|사나|사나|,인간,1500,100,50,400,A
+SanaeN_en01,악몽,30000,400,130,1400,6,4,2,2,M,2.5,1,A,A,B,A,SanaeN,SanaeN,SanaeN,3,MBLOCK,KAZEHAFURI,BARRIER_SANAE,,Sanae3,1,SanaeN_en01,,,0,0,'03',악몽(사나에),|||,악몽,50000,500,100,1000,E
+Satori_en01,사토리,31000,350,100,900,6,4,1,1,M,2.5,1,A,A,B,A,Satori,Satori,Satori,1,MBLOCK,,,,Satori,1,Satori_en01,,,0,0,'03',코메이지 사토리,|||,요괴,30000,150,50,500,D
+Satori_en02,사토리,31000,350,100,900,6,4,1,3,M,2.5,1,A,A,B,A,Satori,Satori,Satori,1,MBLOCK,,,,Satori,1,Satori_en01,,,0,0,'03',코메이지 사토리,|||,요괴,30000,150,50,500,D
+Satori_en03,사토리,31000,350,100,900,6,4,1,3,M,2.5,1,A,A,B,A,Satori,Satori,Satori,1,MBLOCK,,,,Satori,1,Satori_en01,,,0,0,'03',코메이지 사토리,|||,요괴,30000,150,50,500,D
+Satori01,사토리,3800,160,110,900,6,4,3,0,M,2.5,2,A,A,B,A,Satori,Satori,Satori,1,SOUKI,,,,Satori,1,Satori,,,0,0,'01',코메이지 사토리,|사토|사토|,요괴,1500,100,50,400,B
+Satori02,사토리,3800,160,110,900,6,4,3,5,M,2.5,2,A,A,B,A,Satori,Satori,Satori,1,SOUKI,,,,Satori,1,Satori,,,0,0,'01',코메이지 사토리,|사토|사토|,요괴,1500,100,50,400,B
+Satori03,사토리,3800,160,110,900,6,4,4,0,M,2.5,2,A,A,B,A,Satori,Satori,Satori,1,SOUKI,,,,Satori,1,Satori,,,0,0,'01',코메이지 사토리,|사토|사토|,요괴,1500,100,50,400,B
+Seirensen_en01,성련선,20000,500,60,1200,6,4,4,1,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,MBLOCK,,,,Seirensen,3,Murasa_en01,Ichirin_en01,Akyu_en01,0,0,'04',성련선,|||,비창,15000,100,40,1000,D
+Seirensen_en02,성련선,40000,500,60,1200,6,4,4,1,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,MBLOCK,,,,Seirensen,3,Murasa_en02,Ichirin_en01,Akyu_en01,0,0,'04',성련선,|||,비창,30000,100,40,1000,D
+Seirensen_K01,성련선,8000,200,60,1000,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,BATTLESHIP,,,,Seirensen,3,Murasa,Ichirin,Kosuzu,0,0,'01',성련선,|||,비창,3000,100,40,500,A
+Seirensen_KA01,성련선,8000,200,60,1000,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,BATTLESHIP,,,,Seirensen,3,Murasa,Ichirin,Akyu,0,0,'01',성련선,|||,비창,3000,100,40,500,A
+Seirensen_M01,성련선,10000,200,60,1200,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Murasa,Korin,Kosuzu,0,0,'01',성련선(무라사),|||,비창,3000,100,40,500,A
+Seirensen_M02,성련선,10000,200,60,1200,6,4,6,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Murasa,Korin,Kosuzu,0,0,'01',성련선(무라사),|||,비창,3000,100,40,500,A
+Seirensen_MA01,성련선,10000,200,60,1200,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Murasa,Korin,Akyu,0,0,'01',성련선(무라사),|||,비창,3000,100,40,500,A
+Seirensen_MA02,성련선,10000,200,60,1200,6,4,6,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Murasa,Korin,Akyu,0,0,'01',성련선(무라사),|||,비창,3000,100,40,500,A
+Seirensen_R01,성련선,10000,200,60,1200,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,2,Korin,Akyu,,0,0,'01',성련선(린노스케),|||,비창,3000,100,40,500,A
+Seirensen_R02,성련선,10000,200,60,1200,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,2,Korin,Kosuzu,,0,0,'01',성련선(린노스케),|||,비창,3000,100,40,500,A
+Seirensen_R03,성련선,10000,200,60,1200,6,4,6,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,2,Korin,Kosuzu,,0,0,'01',성련선(린노스케),|||,비창,3000,100,40,500,A
+Seirensen_RA01,성련선,10000,200,60,1200,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Korin,Akyu,Kosuzu,0,0,'01',성련선(린노스케),|||,비창,3000,100,40,500,A
+Seirensen_RA02,성련선,10000,200,60,1200,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Korin,Akyu,Kosuzu,0,0,'01',성련선(린노스케),|||,비창,3000,100,40,500,A
+Seirensen_RA03,성련선,10000,200,60,1200,6,4,6,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,2,BATTLESHIP,BARRIER_SEIRENSEN,,,Seirensen,3,Korin,Akyu,Kosuzu,0,0,'01',성련선(린노스케),|||,비창,3000,100,40,500,A
+Seirensen01,성련선,8000,200,60,1000,6,4,4,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,BATTLESHIP,,,,Seirensen,2,Murasa,Ichirin,,0,0,'01',성련선,|||,비창,3000,100,40,500,A
+Seirensen02,성련선,8000,200,60,1000,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,BATTLESHIP,,,,Seirensen,3,Murasa,Ichirin,Akyu,0,0,'01',성련선,|||,비창,3000,100,40,500,A
+Seirensen03,성련선,8000,200,60,1000,6,4,5,0,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,BATTLESHIP,,,,Seirensen,2,Murasa,Ichirin,,0,0,'01',성련선,|||,비창,3000,100,40,500,A
+Shanghai01,상하이,2800,80,90,650,5,3,1,0,SS,0,1,A,B,C,A,Shanghai,Shanghai,Shanghai,0,,,,,Hourai,1,Shanghai,,,0,0,'01',상하이 인형,|||,인형,1500,100,40,400,D
+Sheep_en01,검은양,7100,150,90,1100,6,3,2,1,M,2,1,A,A,C,A,Sheep,Sheep,Sheep,2,BARRIER_SHEEP,COUNTSHEEP,,,,1,Sheep_en01,,,0,0,'02_blue',검은양,|||,요괴,10000,150,50,500,E
+SheepL_en01,큰 양,100000,999,50,3000,5,2,3,1,3L,4.5,1,A,A,A,A,SheepL,SheepL,SheepL,1,MBLOCK+,,,,,1,SheepL_en01,,,0,0,'04',큰 양,|||,요괴,100000,0,50,1000,E
+SheepL_en02,큰 양,100000,999,50,3000,5,2,3,1,3L,4.5,1,A,A,A,A,SheepL,SheepL,SheepL,1,MBLOCK+,,,,,1,SheepL_en02,,,0,0,'04',큰 양,|||,요괴,100000,0,50,1000,E
+SheepL_en03,큰 양,100000,999,50,3000,5,2,3,1,3L,4.5,1,A,A,A,A,SheepL,SheepL,SheepL,1,MBLOCK+,,,,,1,SheepL_en03,,,0,0,'04',큰 양,|||,요괴,100000,0,50,1000,E
+SheepLN_en01,악몽,32000,600,50,1500,5,2,2,1,3L,4.5,1,A,A,A,A,SheepLN,SheepLN,SheepLN,1,MBLOCK+,,,,,1,SheepLN_en01,,,0,0,'04',악몽(큰 양),|||,악몽,20000,100,100,1000,E
+SheepLN_en02,악몽,32000,600,50,1500,5,2,2,1,3L,4.5,1,A,A,A,A,SheepLN,SheepLN,SheepLN,1,MBLOCK+,,,,,1,SheepLN_en02,,,0,0,'04',악몽(큰 양),|||,악몽,20000,100,100,1000,E
+SheepLN_en03,악몽,32000,600,50,1500,5,2,2,1,3L,4.5,1,A,A,A,A,SheepLN,SheepLN,SheepLN,1,MBLOCK+,,,,,1,SheepLN_en03,,,0,0,'04',악몽(큰 양),|||,악몽,20000,100,100,1000,E
+SheepLN_en04,악몽,32000,600,50,1500,5,2,2,1,3L,4.5,1,A,A,A,A,SheepLN,SheepLN,SheepLN,1,MBLOCK+,,,,,1,SheepLN_en04,,,0,0,'04',악몽(큰 양),|||,악몽,20000,100,100,1000,E
+SheepLN_en05,악몽,30000,800,50,1500,5,2,2,1,3L,4.5,1,A,A,A,A,SheepLN,SheepLN,SheepLN,1,MBLOCK+,,,,,1,SheepLN_en05,,,0,0,'04',악몽(큰 양),|||,악몽,30000,600,100,1000,E
+SheepR_en01,붉은양,9900,150,90,1500,5,2,2,1,L,2,1,A,A,C,A,SheepR,SheepR,SheepR,0,,,,,,1,SheepR_en01,,,0,0,'02_red',붉은양,|||,요괴,12000,150,50,1000,E
+SheepR_en02,붉은양,9900,150,90,1500,5,2,2,1,L,2,1,A,A,C,A,SheepR,SheepR,SheepR,0,,,,,,1,SheepR_en02,,,0,0,'02_red',붉은양,|||,요괴,12000,150,50,1000,E
+SheepR_en03,붉은양,9900,150,90,1500,5,2,2,1,L,2,1,A,A,C,A,SheepR,SheepR,SheepR,0,,,,,,1,SheepR_en03,,,0,0,'02_red',붉은양,|||,요괴,12000,150,50,1000,E
+SheepR_en04,붉은양,9900,150,90,1500,5,2,2,1,L,2,1,A,A,C,A,SheepR,SheepR,SheepR,0,,,,,,1,SheepR_en04,,,0,0,'02_red',붉은양,|||,요괴,12000,150,50,1000,E
+SheepW_en01,흰양,5000,150,105,900,7,3,2,1,M,2,1,A,A,C,A,SheepW,SheepW,SheepW,0,,,,,,1,SheepW_en01,,,0,0,'02_blue',흰양,|||,요괴,10000,150,100,500,E
+SheepW_en02,흰양,5000,150,105,900,7,3,2,1,M,2,1,A,A,C,A,SheepW,SheepW,SheepW,0,,,,,,1,SheepW_en02,,,0,0,'02_blue',흰양,|||,요괴,10000,150,100,500,E
+SheepW_en03,흰양,5000,150,105,900,7,3,2,1,M,2,1,A,A,C,A,SheepW,SheepW,SheepW,0,,,,,,1,SheepW_en03,,,0,0,'02_blue',흰양,|||,요괴,10000,150,100,500,E
+Shinki_en01,신키,30000,600,80,1500,4,3,2,5,L,4,1,A,A,A,A,Shinki,Shinki,Shinki,4,MBLOCK+,BARRIER_SHINKI,CURE_HP_S,CURE_MP_L,Shinki,1,Shinki_en01,,,0,0,'03',신키,|||,신,50000,400,40,1000,E
+Shinki_en02,신키,30000,600,80,1500,4,3,2,5,L,4,1,A,A,A,A,Shinki,Shinki,Shinki,4,MBLOCK+,BARRIER_SHINKI,CURE_HP_S,CURE_MP_L,Shinki,1,Shinki_en01,,,0,0,'03',신키,|||,신,50000,400,40,1000,E
+Shinki_en03,신키,30000,600,80,1500,4,3,2,5,L,4,1,A,A,A,A,Shinki,Shinki,Shinki,4,MBLOCK+,BARRIER_SHINKI,CURE_HP_M,CURE_MP_L,Shinki,1,Shinki_en02,,,0,0,'03',신키,|||,신,50000,400,40,1000,E
+Shinki_en04,신키,30000,600,80,1500,4,3,2,5,L,4,1,A,A,A,A,Shinki,Shinki,Shinki,4,MBLOCK+,BARRIER_SHINKI,CURE_HP_M,CURE_MP_L,Shinki,1,Shinki_en03,,,0,0,'03',신키,|||,신,50000,400,40,1000,E
+Shinki_en05,신키,30000,600,80,1500,4,3,1,1,L,4,1,A,A,A,A,Shinki,Shinki,Shinki,4,MBLOCK+,BARRIER_SHINKI,CURE_HP_M,CURE_MP_L,Shinki,1,Shinki_en01,,,0,0,'03',신키,|||,신,50000,400,40,1000,E
+Shinki01,신키,10000,250,60,1000,4,3,5,0,L,4,1,A,A,C,A,Shinki,Shinki,Shinki,3,BARRIER_SHINKI2,CURE_HP_M,CURE_MP_M,,Shinki,1,Shinki,,,0,0,'01',신키,|신|신|,신,3000,100,40,400,A
+ShinkiN_en01,신키,30000,600,80,1500,4,3,2,2,L,4,1,A,A,A,A,ShinkiN,ShinkiN,ShinkiN,4,MBLOCK,BARRIER_SHINKI,CURE_HP_M,CURE_MP_L,Shinki,1,ShinkiN_en01,,,0,0,'03',악몽(신키),|||,악몽,50000,500,100,1000,E
+Shiro_en01,흰둥이,200000,200,100,1000,4,2,1,1,SS,1,1,A,B,C,A,Shiro,Shiro,Shiro,1,MBLOCK,,,,,1,Shiro_en01,,,0,0,'02_red',흰둥이,|||,??,200000,200,100,1000,D
+ShiroB_en01,???,7100,150,90,1100,6,3,1,1,M,2,1,A,A,C,A,ShiroB,ShiroB,ShiroB,0,,,,,,1,ShiroB_en01,,,0,0,'02_blue',???,|||,??,10000,150,50,500,E
+Shitone_en01,시토네,100000,900,100,1400,4,3,2,1,L,3.5,1,A,A,A,A,Shitone,Shitone,Shitone,4,YUMEWATARI,MBLOCK+,CURE_HP_L,CURE_MP_L,Shitone,1,Shitone_en01,,,0,0,'04',시토네,|||,요괴,100000,900,100,1000,E
+Shitone_en02,시토네,45000,1000,100,1500,4,3,2,6,L,3.5,1,A,A,A,A,Shitone,Shitone,Shitone,3,YUMEWATARI,MBLOCK+,CURE_MP_L,,Shitone2,1,Shitone_en02,,,0,0,'03',시토네,|||,요괴,30000,1000,100,1000,E
+ShitoneF_en01,시토네,50000,1000,100,1900,4,3,1,6,L,3.5,1,S,S,S,S,ShitoneF,ShitoneF,ShitoneF,2,MBLOCK+,CURE_MP_L,,,,1,ShitoneF_en01,,,0,0,'03',시토네(꿈),|||,요괴,30000,1000,100,1000,E
+Shizuha_en01,시즈하,7800,200,95,800,6,4,2,1,M,2,1,A,A,C,A,Shizuha,Shizuha,Shizuha,1,MBLOCK,,,,Shizuha,1,Shizuha_en01,,,0,0,'04',아키 시즈하,|||,신,5000,200,60,500,C
+Shizuha_en02,시즈하,7800,200,95,800,6,4,3,1,M,2,1,A,A,C,A,Shizuha,Shizuha,Shizuha,1,MBLOCK,,,,Shizuha,1,Shizuha_en01,,,0,0,'04',아키 시즈하,|||,신,5000,200,60,500,C
+Shizuha_en03,시즈하,8400,260,110,1000,6,4,3,1,M,2,1,A,A,C,A,Shizuha,Shizuha,Shizuha,1,MBLOCK,,,,Shizuha,1,Shizuha_en01,,,0,0,'04',아키 시즈하,|||,신,10000,100,50,500,D
+Shizuha_en04,시즈하,16800,260,110,1000,6,4,3,1,M,2,1,A,A,C,A,Shizuha,Shizuha,Shizuha,1,MBLOCK,,,,Shizuha,1,Shizuha_en01,,,0,0,'04',아키 시즈하,|||,신,15000,100,50,500,D
+Shizuha01,시즈하,4300,150,115,900,6,4,3,0,M,2,3,A,A,C,A,Shizuha,Shizuha,Shizuha,0,,,,,Shizuha,1,Shizuha,,,0,0,'01',아키 시즈하,|시즈|시즈|,신,2000,100,50,400,B
+Shizuha02,시즈하,4300,150,115,900,6,4,4,0,M,2,3,A,A,C,A,Shizuha,Shizuha,Shizuha,0,,,,,Shizuha,1,Shizuha,,,0,0,'01',아키 시즈하,|시즈|시즈|,신,2000,100,50,400,B
+Shizuha03,시즈하,4300,150,115,900,6,4,5,0,M,2,3,A,A,C,A,Shizuha,Shizuha,Shizuha,0,,,,,Shizuha,1,Shizuha,,,0,0,'01',아키 시즈하,|시즈|시즈|,신,2000,100,50,400,B
+Sho_en01,쇼,9400,250,115,1250,6,4,3,1,M,2,1,A,A,B,A,Sho,Sho,Sho,1,MBLOCK,,,,Sho,1,Sho_en01,,,1,0,'04',토라마루 쇼,|||,요괴,8000,200,50,500,D
+Sho_en02,쇼,18900,250,115,1250,6,4,3,1,M,2,1,A,A,B,A,Sho,Sho,Sho,1,MBLOCK,,,,Sho,1,Sho_en02,,,1,0,'04',토라마루 쇼,|||,요괴,16000,200,50,500,D
+Sho_en03,쇼,13000,300,115,1250,6,4,3,1,M,2,1,A,A,B,A,Sho,Sho,Sho,1,MBLOCK,,,,Sho,1,Sho_en02,,,1,0,'04',토라마루 쇼,|||,요괴,10000,200,50,500,D
+Sho_H01,쇼,5500,170,115,1150,6,4,5,0,M,2.5,2,A,A,B,A,Sho,Sho,Sho,0,,,,,Sho_H,1,Sho,,,1,0,'01',토라마루 쇼(보탑),|쇼|쇼|,요괴,2000,100,50,500,B
+Sho01,쇼,5100,150,110,1050,6,4,3,0,M,2,2,A,A,B,A,Sho,Sho,Sho,0,,,,,Sho,1,Sho,,,1,0,'01',토라마루 쇼,|쇼|쇼|,요괴,2000,100,50,500,B
+Sho02,쇼,5100,150,110,1050,6,4,4,0,M,2,2,A,A,B,A,Sho,Sho,Sho,0,,,,,Sho,1,Sho,,,1,0,'01',토라마루 쇼,|쇼|쇼|,요괴,2000,100,50,500,B
+ShoN_en01,악몽,20000,400,120,1200,6,4,2,1,M,2,1,A,A,A,A,ShoN,ShoN,ShoN,2,MBLOCK,CURE_MP_M,,,Sho,1,ShoN_en01,,,1,0,'04',악몽(쇼),|||,악몽,10000,200,100,1000,E
+ShoN_en02,악몽,20000,400,120,1200,6,4,2,1,M,2,1,A,A,A,A,ShoN,ShoN,ShoN,2,MBLOCK,CURE_MP_M,,,Sho,1,ShoN_en02,,,1,0,'04',악몽(쇼),|||,악몽,10000,200,100,1000,E
+Star_en01,스타,3900,120,85,800,6,4,2,1,S,1.5,1,A,B,C,A,Star,Star,Star,2,MBLOCK,CURE_HP_S,,,Star,1,Star_en01,,,0,0,'04',스타 사파이어,|||,요정,3900,100,50,600,D
+Star_en02,스타,4800,120,85,800,6,4,2,1,S,1.5,1,A,B,C,A,Star,Star,Star,2,MBLOCK,CURE_HP_S,,,Star,1,Star_en01,,,0,0,'04',스타 사파이어,|||,요정,4800,100,50,600,D
+Star_en03,스타,8600,230,115,800,6,4,3,1,S,1.5,1,A,B,C,A,Star,Star,Star,2,MBLOCK,CURE_HP_S,,,Star,1,Star_en01,,,0,0,'04',스타 사파이어,|||,요정,9000,100,50,600,D
+Star_en04,스타,7800,230,115,800,6,4,3,1,S,1.5,1,A,B,C,A,Star,Star,Star,2,MBLOCK,CURE_HP_S,,,Star,1,Star_en01,,,0,0,'04',스타 사파이어,|||,요정,9000,100,50,600,D
+Star01,스타,3600,130,115,800,6,4,2,0,S,1.5,3,A,B,C,A,Star,Star,Star,1,CURE_HP_S,,,,Star,1,Star,,,0,0,'01',스타 사파이어,|스타|스타|,요정,2000,100,50,500,D
+Star02,스타,3600,130,115,800,6,4,3,0,S,1.5,3,A,B,C,A,Star,Star,Star,1,CURE_HP_S,,,,Star,1,Star,,,0,0,'01',스타 사파이어,|스타|스타|,요정,2000,100,50,500,D
+Star03,스타,3600,130,115,800,6,4,3,0,S,1.5,3,A,B,C,A,Star,Star,Star,2,CURE_HP_S,COMBINE_FARIES,,,Star,1,Star,,,0,0,'01',스타 사파이어,|스타|스타|,요정,2000,100,50,500,D
+Suika_en01,스이카,21000,255,115,1600,5,3,2,2,S,3.5,1,A,A,B,A,Suika,Suika,Suika,1,MBLOCK,,,,Suika,1,Suika_en01,,,0,0,'03',이부키 스이카,|||,요괴,16000,250,80,800,A
+Suika_en02,스이카,18000,255,115,1600,5,3,2,1,S,3.5,1,A,A,B,A,Suika,Suika,Suika,1,MBLOCK,,,,Suika,1,Suika_en01,,,0,0,'04',이부키 스이카,|||,요괴,16000,250,80,800,D
+Suika_en03,스이카,12400,255,115,1600,5,3,3,1,S,3.5,1,A,A,B,A,Suika,Suika,Suika,1,MBLOCK,,,,Suika,1,Suika_en01,,,0,0,'04',이부키 스이카,|||,요괴,8000,250,80,800,D
+Suika_en04,스이카,24800,255,115,1600,5,3,3,1,S,3.5,1,A,A,B,A,Suika,Suika,Suika,1,MBLOCK,,,,Suika,1,Suika_en01,,,0,0,'04',이부키 스이카,|||,요괴,16000,250,80,800,D
+Suika01,스이카,5900,200,115,1500,6,4,3,0,S,3.5,1,A,S,B,A,Suika,Suika,Suika,1,COMMAND_SUIKA,,,,Suika,1,Suika,,,0,0,'01',이부키 스이카,|스이|스이|,요괴,2500,100,50,400,A
+Suika02,스이카,5900,200,115,1500,6,4,4,0,S,3.5,1,A,S,B,A,Suika,Suika,Suika,1,COMMAND_SUIKA,,,,Suika,1,Suika,,,0,0,'01',이부키 스이카,|스이|스이|,요괴,2500,100,50,400,A
+SuikaN_en01,악몽,20000,500,125,1800,6,4,2,1,S,3.5,1,A,S,B,A,SuikaN,SuikaN,SuikaN,2,MBLOCK,CURE_MP_M,,,Suika,1,SuikaN_en01,,,0,0,'04',악몽(스이카),|||,악몽,10000,200,100,1000,E
+SuikaN_en02,악몽,20000,500,125,1800,6,4,2,1,S,3.5,1,A,S,B,A,SuikaN,SuikaN,SuikaN,2,MBLOCK,CURE_MP_M,,,Suika,1,SuikaN_en02,,,0,0,'04',악몽(스이카),|||,악몽,10000,200,100,1000,E
+SuikaN_en03,스이카,30000,400,125,1900,6,4,1,2,S,3.5,1,A,S,B,A,SuikaN,SuikaN,SuikaN,2,MBLOCK,CURE_MP_M,,,Suika,1,SuikaN_en03,,,0,0,'03',악몽(스이카),|||,악몽,50000,500,100,1000,E
+Sunny_en01,서니,4000,120,80,850,6,4,2,1,S,1.5,1,A,A,B,A,Sunny,Sunny,Sunny,3,MBLOCK,CURE_HP_S,S_BARRIER,,Sunny,1,Sunny_en01,,,0,0,'04',서니 밀크,|||,요정,4000,100,50,700,D
+Sunny_en02,서니,5000,120,80,850,6,4,2,1,S,1.5,1,A,A,B,A,Sunny,Sunny,Sunny,3,MBLOCK,CURE_HP_S,S_BARRIER,,Sunny,1,Sunny_en01,,,0,0,'04',서니 밀크,|||,요정,5000,100,50,700,D
+Sunny_en03,서니,9900,240,110,850,6,4,3,1,S,1.5,1,A,A,B,A,Sunny,Sunny,Sunny,3,MBLOCK,CURE_HP_S,S_BARRIER,,Sunny,1,Sunny_en01,,,0,0,'04',서니 밀크,|||,요정,11000,100,50,700,D
+Sunny_en04,서니,8000,240,110,850,6,4,3,1,S,1.5,1,A,A,B,A,Sunny,Sunny,Sunny,3,MBLOCK,CURE_HP_S,S_BARRIER,,Sunny,1,Sunny_en01,,,0,0,'04',서니 밀크,|||,요정,10000,100,50,700,D
+Sunny01,서니,3900,140,110,850,6,4,2,0,S,1.5,3,A,A,B,A,Sunny,Sunny,Sunny,2,CURE_HP_S,S_BARRIER,,,Sunny,1,Sunny,,,0,0,'01',서니 밀크,|서니|서니|,요정,2000,100,50,500,D
+Sunny02,서니,3900,140,110,850,6,4,3,0,S,1.5,3,A,A,B,A,Sunny,Sunny,Sunny,2,CURE_HP_S,S_BARRIER,,,Sunny,1,Sunny,,,0,0,'01',서니 밀크,|서니|서니|,요정,2000,100,50,500,D
+Sunny03,서니,3900,140,110,850,6,4,3,0,S,1.5,3,A,A,B,A,Sunny,Sunny,Sunny,3,CURE_HP_S,S_BARRIER,COMBINE_FARIES,,Sunny,1,Sunny,,,0,0,'01',서니 밀크,|서니|서니|,요정,2000,100,50,500,D
+Suwako_en01,스와코,15800,320,125,1100,6,4,1,1,S,3.5,1,A,A,S,A,Suwako,Suwako,Suwako,0,,,,,Suwako,1,Suwako_en01,,,0,0,'04',모리야 스와코,|||,신,12000,300,80,800,A
+Suwako_en02,스와코,15800,320,125,1100,6,4,2,4,S,3.5,1,A,A,S,A,Suwako,Suwako,Suwako,2,MBLOCK,RAIN_KEKKAI,,,Suwako,1,Suwako_en01,,,0,0,'03',모리야 스와코,|||,신,12000,300,80,800,A
+Suwako_en03,스와코,18000,320,135,1000,6,4,5,1,S,3.5,1,A,A,S,A,Suwako,Suwako,Suwako,2,MBLOCK,RAIN_KEKKAI,,,Suwako,1,Suwako_en01,,,0,0,'04',모리야 스와코,|||,신,20000,300,80,600,D
+Suwako_en04,스와코,36000,320,135,1000,6,4,5,1,S,3.5,1,A,A,S,A,Suwako,Suwako,Suwako,2,MBLOCK,RAIN_KEKKAI,,,Suwako,1,Suwako_en01,,,0,0,'04',모리야 스와코,|||,신,25000,300,80,600,D
+Suwako01,스와코,3900,200,140,900,7,5,5,0,S,3.5,1,A,S,S,A,Suwako,Suwako,Suwako,3,RAIN_KEKKAI2,SUWAKO,SUWAKO2,,Suwako,1,Suwako,,,0,0,'01',모리야 스와코,|스와|스와|,신,2500,100,50,500,A
+SuwakoN_en01,악몽,25000,500,140,900,6,4,2,1,S,3.5,1,A,S,S,A,SuwakoN,SuwakoN,SuwakoN,2,MBLOCK,RAIN_KEKKAI2,,,Suwako,1,SuwakoN_en01,,,0,0,'04',악몽(스와코),|||,악몽,10000,200,100,1000,E
+SuwakoN_en02,악몽,25000,500,140,900,6,4,2,1,S,3.5,1,A,S,S,A,SuwakoN,SuwakoN,SuwakoN,2,MBLOCK,RAIN_KEKKAI2,,,Suwako,1,SuwakoN_en02,,,0,0,'04',악몽(스와코),|||,악몽,10000,200,100,1000,E
+SuwakoN_en03,악몽,25000,500,140,900,6,4,2,1,S,3.5,1,A,S,S,A,SuwakoN,SuwakoN,SuwakoN,2,MBLOCK,RAIN_KEKKAI2,,,Suwako,1,SuwakoN_en03,,,0,0,'04',악몽(스와코),|||,악몽,10000,200,100,1000,E
+Tenshi_en01,텐시,29500,370,110,1800,6,4,2,3,M,3,1,A,A,A,A,Tenshi,Tenshi,Tenshi,1,MBLOCK,,,,Tenshi,1,Tenshi_en01,,,1,0,'03',히나나위 텐시,|||,천인,30000,300,100,1000,E
+Tenshi_en02,텐시,29500,370,110,1800,6,4,2,3,M,3,1,A,A,A,A,Tenshi,Tenshi,Tenshi,1,MBLOCK,,,,Tenshi,1,Tenshi_en02,,,1,0,'03',히나나위 텐시,|||,천인,30000,300,100,1000,E
+Tenshi_en03,텐시,29500,370,110,1800,6,4,2,3,M,3,1,A,A,A,A,Tenshi,Tenshi,Tenshi,1,MBLOCK,,,,Tenshi,1,Tenshi_en03,,,1,0,'03',히나나위 텐시,|||,천인,30000,300,100,1000,E
+Tenshi_en04,텐시,29500,370,110,1800,6,4,2,3,M,3,1,A,A,A,A,Tenshi,Tenshi,Tenshi,1,MBLOCK,,,,Tenshi,1,Tenshi_en04,,,1,0,'03',히나나위 텐시,|||,천인,30000,300,100,1000,E
+Tenshi01,텐시,4800,170,110,1600,6,4,5,0,M,3,2,A,A,C,A,Tenshi,Tenshi,Tenshi,0,,,,,Tenshi,1,Tenshi,,,1,0,'01',히나나위 텐시,|텐시|텐시|,천인,2500,100,50,500,A
+Tenshi02,텐시,4800,170,110,1600,6,4,6,0,M,3,2,A,A,C,A,Tenshi,Tenshi,Tenshi,0,,,,,Tenshi,1,Tenshi,,,1,0,'01',히나나위 텐시,|텐시|텐시|,천인,2500,100,50,500,A
+TenshiN_en01,악몽,23000,500,110,2000,6,4,3,1,M,3,1,A,A,A,A,TenshiN,TenshiN,TenshiN,2,MBLOCK,CURE_MP_M,,,Tenshi,1,TenshiN_en01,,,1,0,'04',악몽(텐시),|||,악몽,10000,200,100,1000,E
+TenshiN_en02,악몽,23000,500,110,2000,6,4,3,1,M,3,1,A,A,A,A,TenshiN,TenshiN,TenshiN,2,MBLOCK,CURE_MP_M,,,Tenshi,1,TenshiN_en02,,,1,0,'04',악몽(텐시),|||,악몽,10000,200,100,1000,E
+TenshiN_en03,악몽,23000,500,110,2000,6,4,3,1,M,3,1,A,A,A,A,TenshiN,TenshiN,TenshiN,2,MBLOCK,CURE_MP_M,,,Tenshi,1,TenshiN_en03,,,1,0,'04',악몽(텐시),|||,악몽,10000,200,100,1000,E
+TenshiN_en04,악몽,23000,500,110,2000,6,4,3,1,M,3,1,A,A,A,A,TenshiN,TenshiN,TenshiN,2,MBLOCK,CURE_MP_M,,,Tenshi,1,TenshiN_en04,,,1,0,'04',악몽(텐시),|||,악몽,10000,200,100,1000,E
+Tensoku01,비상천칙,10000,200,70,1300,5,3,4,0,LL,3.5,2,A,A,C,A,Tensoku,Tensoku,Tensoku,0,,,,,Tensoku,1,Tensoku,,,0,0,'01',비상천칙,|||,로봇,3000,100,40,500,A
+TensokuD_en01,데빌천칙,80000,1000,90,2100,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,2,MBLOCK,CURE_MP_L,,,,1,TensokuD_en01,,,0,0,'04',데빌천칙,|||,로봇,100000,1000,100,1000,E
+TensokuD_en02,데빌천칙,25000,1000,90,1700,6,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,1,MBLOCK+,,,,,1,TensokuD_en02,,,0,0,'04',양산형 데빌천칙,|||,로봇,25000,1000,100,1000,E
+TensokuE_en01,비상천칙,55000,700,90,1800,5,3,4,1,LL,3.5,1,A,A,C,A,TensokuE,TensokuE,TensokuE,2,MBLOCK,CURE_MP_L,,,,1,TensokuE_en01,,,0,0,'04',핵열조신 비상천칙,|||,로봇,55000,200,100,1000,E
+TensokuEN_en01,악몽,32000,600,90,1800,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,1,MBLOCK+,,,,,1,TensokuEN_en01,,,0,0,'04',악몽(비상천칙),|||,악몽,20000,100,100,1000,E
+TensokuEN_en02,악몽,32000,600,90,1800,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,1,MBLOCK+,,,,,1,TensokuEN_en02,,,0,0,'04',악몽(비상천칙),|||,악몽,20000,100,100,1000,E
+TensokuEN_en03,악몽,32000,600,90,1800,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,1,MBLOCK+,,,,,1,TensokuEN_en03,,,0,0,'04',악몽(비상천칙),|||,악몽,20000,100,100,1000,E
+TensokuEN_en04,악몽,32000,600,90,1800,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,1,MBLOCK+,,,,,1,TensokuEN_en04,,,0,0,'04',악몽(비상천칙),|||,악몽,20000,100,100,1000,E
+TensokuZ01,비상천칙Z,10000,200,70,1300,5,3,4,0,LL,3.5,2,A,A,C,A,Tensoku,Tensoku,Tensoku,0,,,,,Tensoku2,1,Tensoku,,,0,0,'01',비상천칙Z,|||,로봇,3000,100,40,500,A
+Tewi_en01,테위,28000,310,95,1000,6,4,3,2,S,2,1,A,A,C,A,Tewi,Tewi,Tewi,1,MBLOCK,,,,Tewi,1,Tewi_en01,,,0,0,'03',이나바 테위,|||,요수,30000,300,50,500,D
+Tewi_en02,테위,21000,310,95,1000,6,4,4,1,S,2,1,A,A,C,A,Tewi,Tewi,Tewi,1,MBLOCK,,,,Tewi,1,Tewi_en01,,,0,0,'04',이나바 테위,|||,요수,20000,300,50,500,D
+Tewi01,테위,4000,130,110,900,6,4,4,0,S,2,3,A,A,C,A,Tewi,Tewi,Tewi,0,,,,,Tewi,1,Tewi,,,0,0,'01',이나바 테위,|테위|테위|,요수,2000,100,50,400,C
+Toyohime_en01,토요히메,90000,1000,80,1500,6,4,2,2,L,3.5,1,A,A,A,A,Toyohime,Toyohime,Toyohime,3,MBLOCK+,BARRIER_TOYOHIME,CURE_MP_M,,Toyohime,1,ToyohimeD_en01,,,0,1,'03',와타츠키노 토요히메,|||,월인,100000,500,100,1000,E
+Toyohime_en02,토요히메,90000,1000,80,1500,6,4,2,2,L,3.5,1,A,A,A,A,Toyohime,Toyohime,Toyohime,3,MBLOCK+,BARRIER_TOYOHIME,CURE_MP_M,,Toyohime,1,ToyohimeD_en02,,,0,1,'03',와타츠키노 토요히메,|||,월인,100000,500,100,1000,E
+Toyohime_en03,토요히메,20000,500,80,1500,6,4,3,1,L,3.5,1,A,A,A,A,Toyohime,Toyohime,Toyohime,3,MBLOCK+,BARRIER_TOYOHIME,CURE_MP_M,,Toyohime,1,Toyohime_en01,,,0,1,'04',와타츠키노 토요히메,|||,월인,10000,200,100,1000,E
+Toyohime01,토요히메,5700,200,80,1150,5,3,4,0,L,3.5,1,A,A,A,A,Toyohime,Toyohime,Toyohime,1,BARRIER_TOYOHIME,,,,Toyohime,1,Toyohime,,,0,1,'01',와타츠키노 토요히메,|토요|토요|,월인,3000,100,40,500,A
+ToyohimeN_en01,악몽,25000,500,80,1200,6,4,3,1,L,3.5,1,A,A,A,A,ToyohimeN,ToyohimeN,ToyohimeN,2,MBLOCK,BARRIER_TOYOHIME,,,Toyohime,1,ToyohimeN_en01,,,0,1,'04',악몽(토요히메),|||,악몽,10000,200,100,1000,E
+ToyohimeN_en02,악몽,25000,500,80,1200,6,4,3,1,L,3.5,1,A,A,A,A,ToyohimeN,ToyohimeN,ToyohimeN,2,MBLOCK,BARRIER_TOYOHIME,,,Toyohime,1,ToyohimeN_en02,,,0,1,'04',악몽(토요히메),|||,악몽,10000,200,100,1000,E
+ToyohimeN_en03,악몽,25000,500,80,1200,6,4,3,1,L,3.5,1,A,A,A,A,ToyohimeN,ToyohimeN,ToyohimeN,2,MBLOCK,BARRIER_TOYOHIME,,,Toyohime,1,ToyohimeN_en03,,,0,1,'04',악몽(토요히메),|||,악몽,10000,200,100,1000,E
+ToyohimeN_en04,악몽,30000,400,80,1500,6,4,2,2,L,3.5,1,A,A,A,A,ToyohimeN,ToyohimeN,ToyohimeN,2,MBLOCK,BARRIER_TOYOHIME,,,Toyohime,1,ToyohimeN_en04,,,0,1,'03',악몽(토요히메),|||,악몽,50000,500,100,1000,E
+Udonge_en01,우동게,29000,320,120,1000,6,4,3,1,M,2.5,1,A,A,C,A,Udonge,Udonge,Udonge,1,MBLOCK,,,,Udonge,1,Udonge_en01,,,0,0,'04',레이센 우동게인 이나바,|||,달토끼,30000,200,50,500,D
+Udonge_en02,우동게,29000,320,120,1000,6,4,3,1,M,2.5,1,A,A,C,A,Udonge,Udonge,Udonge,2,MBLOCK,BUNSHIN_UDONGE,,,Udonge,1,Udonge_en01,,,0,0,'04',레이센 우동게인 이나바,|||,달토끼,30000,200,50,500,D
+Udonge_en03,우동게,24000,320,120,1000,6,4,3,2,M,2.5,1,A,A,C,A,Udonge,Udonge,Udonge,1,MBLOCK,,,,Udonge,1,Udonge_en01,,,0,0,'03',레이센 우동게인 이나바,|||,달토끼,20000,200,50,500,D
+Udonge_en04,우동게,24000,320,120,1000,6,4,3,2,M,2.5,1,A,A,C,A,Udonge,Udonge,Udonge,2,MBLOCK,BUNSHIN_UDONGE,,,Udonge,1,Udonge_en01,,,0,0,'03',레이센 우동게인 이나바,|||,달토끼,20000,200,50,500,D
+Udonge_en05,우동게,12000,320,120,1000,6,4,4,1,M,2.5,1,A,A,C,A,Udonge,Udonge,Udonge,1,MBLOCK,,,,Udonge,1,Udonge_en01,,,0,0,'04',레이센 우동게인 이나바,|||,달토끼,10000,200,50,500,D
+Udonge01,우동게,3700,150,115,900,6,4,5,0,M,2.5,2,A,A,C,A,Udonge,Udonge,Udonge,1,BUNSHIN_UDONGE,,,,Udonge,1,Udonge,,,0,0,'01',레이센 우동게인 이나바,|우동|동게|,달토끼,1500,100,50,400,A
+Udonge02,우동게,3700,150,115,900,6,4,5,0,M,2.5,2,A,A,C,A,Udonge,Udonge,Udonge,1,BUNSHIN_UDONGE,,,,Udonge,1,Udonge,,,0,0,'01',레이센 우동게인 이나바,|우동|동게|,달토끼,1500,100,50,400,A
+UFOB_en01,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en01,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en02,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en02,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en03,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en03,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en04,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en04,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en05,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en01,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en06,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en02,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en07,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en03,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB_en08,UFO(청),3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en04,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB2_en01,???,3800,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,Bakebake,Bakebake,Bakebake,0,,,,,,1,UFOB2_en01,,,0,0,'02_blue',???,|||,??,3500,100,50,400,D
+UFOG_en01,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en01,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en02,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en02,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en03,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en03,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en04,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en04,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en05,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en01,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en06,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en02,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en07,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en03,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG_en08,UFO(녹),7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en04,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG2_en01,???,7500,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,Yousei1,Yousei1,Yousei1,0,,,,,,1,UFOG2_en01,,,0,0,'02_green',???,|||,??,6000,100,40,500,D
+UFOR_en01,UFO(적),5700,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,UFOR,UFOR,UFOR,0,,,,,,1,UFOR_en01,,,0,0,'02_red',UFO(적),|||,??,4000,100,50,500,D
+UFOR_en02,UFO(적),5700,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,UFOR,UFOR,UFOR,0,,,,,,1,UFOR_en01,,,0,0,'02_red',UFO(적),|||,??,4000,100,50,500,D
+UFOR_en03,UFO(적),5700,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,UFOR,UFOR,UFOR,0,,,,,,1,UFOR_en01,,,0,0,'02_red',UFO(적),|||,??,4000,100,50,500,D
+UFOR_en04,UFO(적),5700,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,UFOR,UFOR,UFOR,0,,,,,,1,UFOR_en02,,,0,0,'02_red',UFO(적),|||,??,4000,100,50,500,D
+UFOR2_en01,???,5700,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,Kedama,Kedama,Kedama,0,,,,,,1,UFOR2_en01,,,0,0,'02_red',???,|||,??,4000,100,50,500,D
+Unknown_en01,???,10000,600,75,1250,3,1,0,1,L,0,1,A,A,A,A,Unknown,Unknown,Unknown,1,MBLOCK+,,,,Unknown,1,Unknown_en01,,,0,0,'03',???,|||,??,0,0,0,0,A
+Usagi_en01,요괴토끼,7300,110,90,1000,6,3,3,1,M,2,1,A,A,C,A,Usagi,Usagi,Usagi,0,,,,,,1,Usagi_en01,,,0,0,'02_red',요괴토끼,|||,요수,7300,100,50,500,D
+Usagi_en02,요괴토끼,7300,110,90,1000,6,3,3,1,M,2,1,A,A,C,A,Usagi,Usagi,Usagi,0,,,,,,1,Usagi_en02,,,0,0,'02_red',요괴토끼,|||,요수,7300,100,50,500,D
+Usagi_en03,요괴토끼,7300,110,90,1000,6,3,3,1,M,2,1,A,A,C,A,Usagi,Usagi,Usagi,0,,,,,,1,Usagi_en03,,,0,0,'02_red',요괴토끼,|||,요수,7300,100,50,500,D
+Usagi_en04,요괴토끼,7300,110,90,1000,6,3,3,1,M,2,1,A,A,C,A,Usagi,Usagi,Usagi,0,,,,,,1,Usagi_en04,,,0,0,'02_red',요괴토끼,|||,요수,7300,100,50,500,D
+UsagiD_en01,요괴토끼D,9900,150,100,1100,6,3,3,1,M,2,1,A,A,C,A,Usagi,Usagi,Usagi,1,MBLOCK,,,,,1,UsagiD_en01,,,0,0,'02_red',요괴토끼D,|||,요수,10000,100,50,500,D
+UsagiN_en01,악몽,9500,200,90,1000,6,3,2,1,M,2,1,A,A,C,A,UsagiN,UsagiN,UsagiN,0,,,,,,1,UsagiN_en01,,,0,0,'02_black',악몽(요괴토끼),|||,악몽,10000,150,50,500,E
+Utsuho_en01,우츠호,26500,400,120,1300,7,4,1,5,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,3,MBLOCK,CURE_HP_S,CURE_MP_M,,Utsuho,1,Utsuho_en01,,,0,0,'03',레이우지 우츠호,|||,요괴,30000,200,80,1000,D
+Utsuho_en02,우츠호,26500,400,120,1300,7,4,1,5,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,3,MBLOCK,CURE_HP_S,CURE_MP_M,,Utsuho,1,Utsuho_en02,,,0,0,'03',레이우지 우츠호,|||,요괴,30000,200,80,1000,D
+Utsuho_en03,우츠호,26500,400,120,1300,7,4,1,5,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,3,MBLOCK,CURE_HP_S,CURE_MP_M,,Utsuho,1,Utsuho_en03,,,0,0,'03',레이우지 우츠호,|||,요괴,30000,200,80,1000,D
+Utsuho_en04,우츠호,26500,400,120,1300,7,4,1,5,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,3,MBLOCK,CURE_HP_S,CURE_MP_M,,Utsuho,1,Utsuho_en04,,,0,0,'03',레이우지 우츠호,|||,요괴,30000,200,80,1000,D
+Utsuho01,우츠호,5500,200,120,1000,7,4,4,0,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,1,CURE_MP_S,,,,Utsuho,1,Utsuho,,,0,0,'01',레이우지 우츠호,|오쿠|오쿠|,요괴,2500,100,50,500,A
+Utsuho02,우츠호,5500,200,120,1000,7,4,4,0,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,2,LIMITER,CURE_MP_S,,,Utsuho,1,Utsuho,,,0,0,'01',레이우지 우츠호,|오쿠|오쿠|,요괴,2500,100,50,500,A
+UtsuhoB_en01,우츠호,13000,90,80,950,6,4,4,1,L,1,1,A,A,C,A,UtsuhoB,UtsuhoB,UtsuhoB,1,MBLOCK,,,,UtsuhoB,1,UtsuhoB_en01,,,0,0,'04',레이우지 우츠호,|||,요괴,2000,100,40,400,D
+UtsuhoB01,우츠호,4500,90,80,900,6,4,4,0,L,1,1,B,A,C,A,UtsuhoB,UtsuhoB,UtsuhoB,0,,,,,UtsuhoB,1,Utsuho,,,0,0,'01',레이우지 우츠호(냉각),|오쿠|오쿠|,요괴,2000,100,50,500,D
+UtsuhoH_en01,우츠호,28000,990,90,1200,8,4,2,6,L,4,1,S,A,C,A,UtsuhoH,UtsuhoH,UtsuhoH,3,CURE_HP_M,CURE_MP_L,MBLOCK,,UtsuhoH,1,UtsuhoH_en01,,,0,0,'03',레이우지 우츠호(폭주),|||,요괴,30000,0,100,800,D
+UtsuhoH_en02,우츠호,28000,990,90,1200,8,4,2,6,L,4,1,S,A,C,A,UtsuhoH,UtsuhoH,UtsuhoH,3,CURE_HP_M,CURE_MP_L,MBLOCK,,UtsuhoH,1,UtsuhoH_en02,,,0,0,'03',레이우지 우츠호(폭주),|||,요괴,30000,0,100,800,D
+UtsuhoH_en03,우츠호,28000,990,90,1200,8,4,2,6,L,4,1,S,A,C,A,UtsuhoH,UtsuhoH,UtsuhoH,3,CURE_HP_M,CURE_MP_L,MBLOCK+,,UtsuhoH,1,UtsuhoH_en03,,,0,0,'03',레이우지 우츠호(폭주),|||,요괴,30000,0,100,800,D
+UtsuhoH_en04,우츠호,28000,990,90,1200,8,4,2,6,L,4,1,S,A,C,A,UtsuhoH,UtsuhoH,UtsuhoH,3,CURE_HP_M,CURE_MP_L,MBLOCK+,,UtsuhoH,1,UtsuhoH_en04,,,0,0,'03',레이우지 우츠호(폭주),|||,요괴,30000,0,100,800,D
+UtsuhoN_en01,악몽,20000,500,120,1000,7,4,3,1,L,3.5,1,S,A,C,A,UtsuhoN,UtsuhoN,UtsuhoN,3,MBLOCK,BARRIER_UTSUHO,CURE_MP_L,,UtsuhoH,1,UtsuhoN_en01,,,0,0,'04',악몽(우츠호),|||,악몽,10000,200,100,1000,E
+UtsuhoN_en02,악몽,20000,500,120,1000,7,4,3,1,L,3.5,1,S,A,C,A,UtsuhoN,UtsuhoN,UtsuhoN,3,MBLOCK,BARRIER_UTSUHO,CURE_MP_L,,UtsuhoH,1,UtsuhoN_en02,,,0,0,'04',악몽(우츠호),|||,악몽,10000,200,100,1000,E
+UtsuhoN_en03,악몽,20000,500,120,1000,7,4,3,1,L,3.5,1,S,A,C,A,UtsuhoN,UtsuhoN,UtsuhoN,3,MBLOCK,BARRIER_UTSUHO,CURE_MP_L,,UtsuhoH,1,UtsuhoN_en03,,,0,0,'04',악몽(우츠호),|||,악몽,10000,200,100,1000,E
+UtsuhoN_en04,악몽,20000,500,120,1000,7,4,3,1,L,3.5,1,S,A,C,A,UtsuhoN,UtsuhoN,UtsuhoN,3,MBLOCK,BARRIER_UTSUHO,CURE_MP_L,,UtsuhoH,1,UtsuhoN_en04,,,0,0,'04',악몽(우츠호),|||,악몽,10000,200,100,1000,E
+Wriggle_en01,리글,19000,200,90,1000,6,4,2,2,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en01,,,0,0,'03',리글 나이트버그,|||,요괴,10000,200,50,500,D
+Wriggle_en02,리글,8200,200,90,1000,6,4,2,1,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en01,,,0,0,'04',리글 나이트버그,|||,요괴,10000,200,50,500,D
+Wriggle_en03,리글,16500,200,90,1000,6,4,2,1,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en01,,,0,0,'04',리글 나이트버그,|||,요괴,10000,200,50,500,D
+Wriggle_en04,리글,19500,200,90,1000,6,4,3,1,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en01,,,0,0,'04',리글 나이트버그,|||,요괴,10000,200,50,500,D
+Wriggle_en05,리글,19500,200,90,1000,6,4,3,1,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en02,,,0,0,'04',리글 나이트버그,|||,요괴,10000,200,50,500,D
+Wriggle_en06,리글,12500,200,90,1000,6,4,3,1,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en01,,,0,0,'04',리글 나이트버그,|||,요괴,10000,100,50,500,D
+Wriggle01,리글,3640,130,115,850,6,4,4,0,S,2,3,A,B,A,S,Wriggle,Wriggle,Wriggle,1,ISHIELD_S,,,,Wriggle,1,Wriggle,,,0,0,'01',리글 나이트버그,|리글|리글|,요괴,2000,100,50,400,C
+Wriggle02,리글,3640,130,115,850,6,4,5,0,S,2,3,A,B,A,S,Wriggle,Wriggle,Wriggle,1,ISHIELD_S,,,,Wriggle,1,Wriggle,,,0,0,'01',리글 나이트버그,|리글|리글|,요괴,2000,100,50,400,C
+Wriggle03,리글,3640,130,115,850,6,4,6,0,S,2,3,A,B,A,S,Wriggle,Wriggle,Wriggle,1,ISHIELD_S,,,,Wriggle,1,Wriggle,,,0,0,'01',리글 나이트버그,|리글|리글|,요괴,2000,100,50,400,C
+Yamame_en01,야마메,15600,220,80,1100,6,4,1,2,M,2,1,A,A,B,A,Yamame,Yamame,Yamame,1,MBLOCK,,,,Yamame,1,Yamame_en01,,,0,0,'03',쿠로다니 야마메,|||,요괴,8000,150,50,500,C
+Yamame_en02,야마메,28000,220,80,1100,6,4,2,2,M,2,1,A,A,B,A,Yamame,Yamame,Yamame,1,MBLOCK,,,,Yamame,1,Yamame_en01,,,0,0,'03',쿠로다니 야마메,|||,요괴,20000,150,50,500,C
+Yamame01,야마메,5100,140,80,1150,6,4,3,0,M,2,3,A,A,B,A,Yamame,Yamame,Yamame,1,ROPE,,,,Yamame,1,Yamame,,,0,0,'01',쿠로다니 야마메,|야마|야마|,요괴,2500,100,40,500,B
+Yamame02,야마메,5100,140,80,1150,6,4,4,0,M,2,3,A,A,B,A,Yamame,Yamame,Yamame,1,ROPE,,,,Yamame,1,Yamame,,,0,0,'01',쿠로다니 야마메,|야마|야마|,요괴,2500,100,40,500,B
+Yorihime_en01,요리히메,24000,500,110,1100,6,4,2,5,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK,CURE_MP_S,,,Yorihime,1,Yorihime_en01,,,1,0,'03',와타츠키노 요리히메,|||,월인,20000,490,80,1000,D
+Yorihime_en02,요리히메,48000,500,110,1100,6,4,6,1,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK,CURE_MP_S,,,Yorihime,1,Yorihime_en01,,,1,0,'04',와타츠키노 요리히메,|||,월인,40000,490,80,1000,D
+Yorihime_en03,요리히메,50000,500,110,1100,6,4,2,5,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK,CURE_MP_S,,,Yorihime,1,YorihimeD_en01,,,1,0,'03',와타츠키노 요리히메,|||,월인,50000,500,100,1000,D
+Yorihime_en04,요리히메,50000,500,110,1100,6,4,2,5,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK+,CURE_MP_S,,,Yorihime,1,YorihimeD_en02,,,1,0,'03',와타츠키노 요리히메,|||,월인,50000,500,100,1000,D
+Yorihime_en05,요리히메,100000,500,110,1100,6,4,6,1,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK,CURE_MP_S,,,Yorihime,1,YorihimeD_en01,,,1,0,'04',와타츠키노 요리히메,|||,월인,100000,500,100,1000,D
+Yorihime_en06,요리히메,100000,500,110,1100,6,4,6,1,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK+,CURE_MP_S,,,Yorihime,1,YorihimeD_en02,,,1,0,'04',와타츠키노 요리히메,|||,월인,100000,500,100,1000,D
+Yorihime01,요리히메,4800,190,125,1000,6,4,5,0,M,3.5,1,A,A,A,A,Yorihime,Yorihime,Yorihime,0,,,,,Yorihime,1,Yorihime,,,1,0,'01',와타츠키노 요리히메,|요리|요리|,월인,2000,100,50,500,A
+YorihimeN_en01,악몽,25000,500,130,1000,6,4,3,1,M,3.5,1,A,A,S,A,YorihimeN,YorihimeN,YorihimeN,2,MBLOCK,CURE_MP_M,,,Yorihime,1,YorihimeN_en01,,,1,0,'04',악몽(요리히메),|||,악몽,10000,200,100,1000,E
+YorihimeN_en02,악몽,25000,500,130,1000,6,4,3,1,M,3.5,1,A,A,S,A,YorihimeN,YorihimeN,YorihimeN,2,MBLOCK,CURE_MP_M,,,Yorihime,1,YorihimeN_en02,,,1,0,'04',악몽(요리히메),|||,악몽,10000,200,100,1000,E
+YorihimeN_en03,악몽,25000,500,130,1000,6,4,3,1,M,3.5,1,A,A,S,A,YorihimeN,YorihimeN,YorihimeN,2,MBLOCK,CURE_MP_M,,,Yorihime,1,YorihimeN_en03,,,1,0,'04',악몽(요리히메),|||,악몽,10000,200,100,1000,E
+YorihimeN_en04,악몽,30000,400,140,1400,6,4,2,2,M,3.5,1,A,A,S,A,YorihimeN,YorihimeN,YorihimeN,2,MBLOCK,CURE_MP_M,,,Yorihime,1,YorihimeN_en04,,,1,0,'03',악몽(요리히메),|||,악몽,50000,500,100,1000,E
+Youmu_en01,요우무,18800,300,125,1350,6,3,4,1,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,1,MBLOCK,,,,Youmu2,1,Youmu_en01,,,1,0,'04',콘파쿠 요우무,|||,반령,10000,200,50,500,A
+Youmu_en02,요우무,18800,300,125,1350,6,3,4,1,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,2,MBLOCK,BUNSHIN_YOUMU,,,Youmu2,1,Youmu_en01,,,1,0,'04',콘파쿠 요우무,|||,반령,10000,200,50,500,A
+Youmu_en03,요우무,21800,300,125,1350,6,3,4,4,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,1,MBLOCK,,,,Youmu2,1,Youmu_en01,,,1,0,'03',콘파쿠 요우무,|||,반령,10000,200,50,500,A
+Youmu_en04,요우무,21800,300,125,1350,6,3,4,4,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,2,MBLOCK,BUNSHIN_YOUMU,,,Youmu2,1,Youmu_en01,,,1,0,'03',콘파쿠 요우무,|||,반령,10000,200,50,500,A
+Youmu_en05,요우무,9500,310,120,1250,6,3,6,1,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,1,MBLOCK,,,,Youmu,1,Youmu_en01,,,1,0,'04',콘파쿠 요우무,|||,반령,10000,200,60,600,D
+Youmu_en06,요우무,19100,310,120,1250,6,3,6,1,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,2,MBLOCK,BUNSHIN_YOUMU,,,Youmu,1,Youmu_en01,,,1,0,'04',콘파쿠 요우무,|||,반령,16000,200,60,600,D
+Youmu_en07,요우무,13000,350,120,1250,6,3,6,1,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,1,MBLOCK,,,,Youmu,1,Youmu_en01,,,1,0,'04',콘파쿠 요우무,|||,반령,10000,200,60,600,D
+Youmu01,요우무,3900,170,115,1200,6,4,3,0,M,2.5,2,A,A,B,A,Youmu,Youmu,Youmu,0,,,,,Youmu,1,Youmu,,,1,0,'01',콘파쿠 요우무,|묭|묭|,반령,2000,100,50,500,A
+Youmu02,요우무,3900,170,115,1200,6,5,6,0,M,2.5,2,A,A,B,A,Youmu,Youmu,Youmu,0,,,,,Youmu,1,Youmu,,,1,0,'01',콘파쿠 요우무,|묭|묭|,반령,2000,100,50,500,A
+Youmu03,요우무,3900,170,115,1200,6,5,7,0,M,2.5,2,A,A,B,A,Youmu,Youmu,Youmu,0,,,,,Youmu,1,Youmu,,,1,0,'01',콘파쿠 요우무,|묭|묭|,반령,2000,100,50,500,A
+Yousei1_en01,요정B,3000,100,80,750,5,2,2,1,S,1.5,1,A,A,B,A,Yousei1,Yousei1,Yousei1,0,,,,,,1,Yousei1_en01,,,0,0,'02_blue',요정(청),|||,요정,3000,150,50,400,D
+Yousei1_en02,요정B,4000,100,80,750,5,2,2,1,S,1.5,1,A,A,B,A,Yousei1,Yousei1,Yousei1,0,,,,,,1,Yousei1_en01,,,0,0,'02_blue',요정(청),|||,요정,3000,150,50,500,D
+Yousei2_en01,요정R,3400,120,85,800,5,2,2,1,S,1.5,1,A,A,B,A,Yousei2,Yousei2,Yousei2,0,,,,,,1,Yousei2_en01,,,0,0,'02_red',요정(적),|||,요정,3000,150,50,400,D
+Yousei2_en02,요정R,4400,120,85,800,5,2,2,1,S,1.5,1,A,A,B,A,Yousei2,Yousei2,Yousei2,0,,,,,,1,Yousei2_en01,,,0,0,'02_red',요정(적),|||,요정,3000,150,50,600,D
+Yousei2_en03,요정R,3400,120,85,800,5,2,2,1,S,1.5,1,A,A,B,A,Yousei2,Yousei2,Yousei2,0,,,,,,1,Yousei2_en01,,,0,0,'02_red',요정(적),|||,요정,3000,150,50,600,D
+YouseiL_en01,L요정,5500,200,90,1000,5,2,1,1,S,1.5,1,A,A,B,A,YouseiL,YouseiL,YouseiL,1,BARRIER_L_YOUSEI,,,,,1,YouseiL_en01,,,0,0,'02_green',레이저요정,|||,요정,5000,200,80,800,E
+YouseiL_en02,L요정,5500,200,90,1000,5,2,1,1,S,1.5,1,A,A,B,A,YouseiL,YouseiL,YouseiL,1,BARRIER_L_YOUSEI,,,,,1,YouseiL_en02,,,0,0,'02_green',레이저요정,|||,요정,5000,200,80,800,E
+Yugi_en01,유기,27000,260,70,1600,6,4,1,3,L,3,1,A,A,B,A,Yugi,Yugi,Yugi,1,MBLOCK,,,,Yugi,1,Yugi_en01,,,0,0,'03',호시구마 유기,|||,요괴,30000,100,50,800,D
+Yugi01,유기,6400,150,80,1350,5,3,3,0,L,3,2,A,A,B,A,Yugi,Yugi,Yugi,0,,,,,Yugi,1,Yugi,,,0,0,'01',호시구마 유기,|유기|유기|,요괴,3000,100,40,500,A
+YugiN_en01,악몽,30000,400,90,1800,6,4,1,2,L,3,1,A,A,B,A,YugiN,YugiN,YugiN,1,MBLOCK,,,,Yugi,1,YugiN_en01,,,0,0,'03',악몽(유기),|||,악몽,50000,500,100,1000,E
+Yuka_en01,유카,25000,350,50,1500,5,3,3,1,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,2,MBLOCK,CURE_MP_M,,,Yuka2,1,Yuka_en01,,,1,0,'04',카자미 유카,|||,요괴,25000,150,40,1000,E
+Yuka_en02,유카,18000,400,50,1500,5,3,4,1,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,3,MBLOCK,BUNSHIN,CURE_MP_M,,Yuka,1,Yuka_en01,,,1,1,'04',카자미 유카,|||,요괴,15000,250,40,1000,E
+Yuka_en03,유카,36000,400,50,1500,5,3,4,1,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,3,MBLOCK,BUNSHIN,CURE_MP_M,,Yuka,1,Yuka_en01,,,1,1,'04',카자미 유카,|||,요괴,30000,250,40,1000,E
+Yuka_en04,유카,65000,600,80,1700,5,3,4,1,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,3,MBLOCK,BUNSHIN,CURE_MP_M,,Yuka2,1,Yuka_en02,,,1,1,'04',카자미 유카,|||,요괴,30000,300,80,1000,E
+Yuka_en05,유카,35000,600,80,1700,5,3,4,6,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,3,MBLOCK+,BUNSHIN,CURE_MP_M,,Yuka2,1,Yuka_en03,,,1,1,'03',카자미 유카,|||,요괴,30000,300,80,1000,E
+Yuka_en06,유카,35000,600,80,1700,5,3,4,6,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,3,MBLOCK+,BUNSHIN,CURE_MP_M,,Yuka2,1,Yuka_en04,,,1,1,'03',카자미 유카,|||,요괴,30000,300,80,1000,E
+Yuka_en07,유카,15000,400,50,1500,5,3,4,1,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,1,MBLOCK+,,,,Yuka,1,Yuka_en05,,,1,1,'04',카자미 유카,|||,요괴,15000,250,40,1000,E
+Yuka01,유카,6000,200,50,1200,5,4,4,0,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,1,BUNSHIN,,,,Yuka,1,Yuka,,,1,1,'01',카자미 유카,|유카|유카|,요괴,2500,100,40,500,A
+Yuka02,유카,6000,200,50,1200,5,4,4,0,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,2,BUNSHIN,TRANSF_YUKA,,,Yuka,1,Yuka,,,1,1,'01',카자미 유카,|幽|幽|,요괴,2500,100,40,500,A
+Yukachan01,유카,6000,200,50,1200,5,4,7,0,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,3,BUNSHIN,CURE_HP_S,CURE_MP_S,,Yukachan,1,Yuka,,,1,1,'01',카자미 유카(개화),|幽|幽|,요괴,2500,100,40,500,A
+YukaN_en01,악몽,30000,400,70,1600,5,3,2,2,L,3.5,1,A,A,C,A,YukaN,YukaN,YukaN,1,MBLOCK,,,,Yuka2,1,YukaN_en01,,,1,1,'03',악몽(개화),|||,악몽,50000,500,100,1000,E
+Yukari_en01,유카리,16000,600,80,1200,4,3,1,6,L,3.5,1,A,A,A,S,Yukari,Yukari,Yukari,3,MBLOCK,SUKIMA,BARRIER_YUKARI,,Yukari,1,Yukari_en01,,,0,0,'03',야쿠모 유카리,|||,요괴,10000,300,50,800,A
+Yukari_en02,유카리,16000,600,80,1200,4,3,1,6,L,3.5,1,A,A,A,S,Yukari,Yukari,Yukari,3,MBLOCK,SUKIMA,BARRIER_YUKARI,,Yukari,1,Yukari_en02,,,0,0,'03',야쿠모 유카리,|||,요괴,10000,300,50,800,A
+Yukari_en03,유카리,16000,600,80,1200,4,3,1,6,L,3.5,1,A,A,A,S,Yukari,Yukari,Yukari,3,MBLOCK,SUKIMA,BARRIER_YUKARI,,Yukari,1,Yukari_en02,,,0,0,'03',야쿠모 유카리,|||,요괴,10000,300,50,800,A
+Yukari_en04,유카리,16500,600,80,1350,4,3,5,1,L,3.5,1,A,A,A,S,Yukari,Yukari,Yukari,4,MBLOCK,SUKIMA,BARRIER_YUKARI,CURE_MP_S,Yukari3,1,Yukari_en01,,,0,0,'04',야쿠모 유카리,|||,요괴,10000,300,50,1000,D
+Yukari_en05,유카리,33000,600,80,1350,4,3,5,1,L,3.5,1,A,A,A,S,Yukari,Yukari,Yukari,4,MBLOCK,SUKIMA,BARRIER_YUKARI,CURE_MP_S,Yukari3,1,Yukari_en02,,,0,0,'04',야쿠모 유카리,|||,요괴,20000,300,50,1000,D
+Yukari01,유카리,6000,210,40,1100,5,3,5,0,L,3.5,1,A,A,B,A,Yukari,Yukari,Yukari,2,BARRIER_YUKARI,SUKIMA2,,,Yukari3,1,Yukari,,,0,0,'01',야쿠모 유카리,|유카리|유카리|,요괴,3000,100,40,500,A
+Yukari02,유카리,6000,210,40,1100,5,3,6,0,L,3.5,1,A,A,B,A,Yukari,Yukari,Yukari,2,BARRIER_YUKARI,SUKIMA2,,,Yukari3,1,Yukari,,,0,0,'01',야쿠모 유카리,|유카리|유카리|,요괴,3000,100,40,500,A
+YukariN_en01,악몽,25000,500,40,1100,5,3,2,1,L,3.5,1,A,A,A,S,YukariN,YukariN,YukariN,3,MBLOCK+,SUKIMA,BARRIER_YUKARI,,Yukari,1,YukariN_en01,,,0,0,'04',악몽(유카리),|||,악몽,10000,200,0,1000,E
+YukariN_en02,악몽,25000,500,40,1100,5,3,2,1,L,3.5,1,A,A,A,S,YukariN,YukariN,YukariN,3,MBLOCK+,SUKIMA,BARRIER_YUKARI,,Yukari,1,YukariN_en02,,,0,0,'04',악몽(유카리),|||,악몽,10000,200,0,1000,E
+Yumeko_en01,유메코,32000,450,120,1400,6,4,2,4,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en01,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en02,유메코,32000,450,120,1400,6,4,2,4,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en02,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en03,유메코,32000,450,120,1400,6,4,2,4,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en03,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en04,유메코,32000,450,120,1400,6,4,2,4,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en04,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en05,유메코,26000,450,120,1400,6,4,4,2,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en01,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en06,유메코,26000,450,120,1400,6,4,4,2,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en02,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en07,유메코,26000,450,120,1400,6,4,4,2,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en03,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en08,유메코,26000,450,120,1400,6,4,4,2,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en04,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko_en09,유메코,26000,450,120,1400,6,4,4,1,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en01,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+Yumeko01,유메코,5800,160,125,1200,6,4,5,0,L,3,2,A,A,C,A,Yumeko,Yumeko,Yumeko,0,,,,,Yumeko,1,Yumeko,,,1,0,'01',유메코,|유메|유메|,마계인,2500,100,50,500,A
+YumekoN_en01,악몽,30000,400,130,1500,6,4,2,2,L,3,1,A,A,C,A,YumekoN,YumekoN,YumekoN,2,MBLOCK,CURE_MP_M,,,Yumeko,1,YumekoN_en01,,,1,0,'03',악몽(유메코),|||,악몽,50000,500,100,1000,E
+Yuyuko_en01,유유코,16000,500,85,1250,5,3,1,5,L,3.5,1,A,A,A,A,Yuyuko,Yuyuko,Yuyuko,2,MBLOCK,MAI2,,,Yuyuko,1,Yuyuko_en01,,,0,1,'03',사이교우지 유유코,|||,망령,11000,500,50,800,A
+Yuyuko_en02,유유코,16000,500,85,1250,5,3,1,5,L,3.5,1,A,A,A,A,Yuyuko,Yuyuko,Yuyuko,2,MBLOCK,MAI2,,,Yuyuko,1,Yuyuko_en02,,,0,1,'03',사이교우지 유유코,|||,망령,11000,500,50,800,A
+Yuyuko_en03,유유코,12500,250,80,1000,5,3,5,1,L,3.5,1,A,A,A,A,Yuyuko,Yuyuko,Yuyuko,3,MBLOCK,MAI2,CURE_MP_M,,Yuyuko2,1,Yuyuko_en01,,,0,1,'04',사이교우지 유유코,|||,망령,10000,250,80,1000,D
+Yuyuko_en04,유유코,25000,250,80,1000,5,3,5,1,L,3.5,1,A,A,A,A,Yuyuko,Yuyuko,Yuyuko,3,MBLOCK,MAI2,CURE_MP_M,,Yuyuko2,1,Yuyuko_en02,,,0,1,'04',사이교우지 유유코,|||,망령,25000,250,80,1000,D
+Yuyuko_en05,유유코,15000,300,80,1000,5,3,5,1,L,3.5,1,A,A,A,A,Yuyuko,Yuyuko,Yuyuko,3,MBLOCK,MAI2,CURE_MP_M,,Yuyuko2,1,Yuyuko_en01,,,0,1,'04',사이교우지 유유코,|||,망령,10000,250,80,1000,D
+Yuyuko01,유유코,6100,220,105,900,6,3,5,0,L,3.5,2,A,A,B,A,Yuyuko,Yuyuko,Yuyuko,1,MAI2,,,,Yuyuko2,1,Yuyuko,,,0,1,'01',사이교우지 유유코,|유유|유유|,망령,3000,100,50,500,A
+YuyukoN_en01,악몽,23000,500,105,900,6,3,2,1,L,3.5,1,A,A,C,A,YuyukoN,YuyukoN,YuyukoN,2,MBLOCK,CURE_MP_M,,,Yuyuko,1,YuyukoN_en01,,,0,1,'04',악몽(유유코),|||,악몽,10000,200,100,1000,E
+YuyukoN_en02,악몽,23000,500,105,900,6,3,2,1,L,3.5,1,A,A,C,A,YuyukoN,YuyukoN,YuyukoN,2,MBLOCK,CURE_MP_M,,,Yuyuko,1,YuyukoN_en02,,,0,1,'04',악몽(유유코),|||,악몽,10000,200,100,1000,E
+YuyukoN_en03,악몽,30000,400,115,1400,6,3,1,2,L,3.5,1,A,A,C,A,YuyukoN,YuyukoN,YuyukoN,2,MBLOCK,CURE_MP_M,,,Yuyuko,1,YuyukoN_en03,,,0,1,'03',악몽(유유코),|||,악몽,50000,500,100,1000,E
+Zenki_en01,젠키,9900,140,105,1100,7,4,2,1,M,2,1,A,A,D,A,Zenki,Zenki,Zenki,1,MBLOCK,,,,,1,Zenki_en01,,,0,0,'04',젠키,|||,요괴,8000,200,50,500,C
+Zenki_en02,젠키,17500,140,105,1100,7,4,2,1,M,2,1,A,A,D,A,Zenki,Zenki,Zenki,2,MBLOCK,SHIKI_CHEN,,,,1,Zenki_en01,,,0,0,'04',젠키,|||,요괴,8000,200,50,500,C
+Zenki_en03,젠키,15500,140,105,1100,7,4,2,1,M,2,1,A,A,D,A,Zenki,Zenki,Zenki,2,MBLOCK,SHIKI_RAN,,,,1,Zenki_en01,,,0,0,'04',젠키,|||,요괴,8000,200,50,500,C
+Zenki01,젠키,4500,140,110,1100,7,4,3,0,M,2,1,A,A,D,A,Zenki,Zenki,Zenki,0,,,,,Ran,1,Zenki,,,0,0,'01',젠키,|젠키|젠키|,요괴,2000,100,50,400,C
+ZenkiN_en01,악몽,15000,300,120,1100,7,4,2,1,M,2,1,S,C,D,A,ZenkiN,ZenkiN,ZenkiN,1,MBLOCK,,,,,1,ZenkiN_en01,,,0,0,'04',악몽(젠키),|||,악몽,10000,150,100,500,E
+Zombie_en01,Z요정,6300,150,100,1000,6,3,2,1,S,1.5,1,A,A,B,A,Zombie,Zombie,Zombie,1,CURE_HP_L,,,,,1,Zombie_en01,,,0,0,'02_blue',좀비 페어리,|||,요정,5000,150,50,600,D
+Alice_en99,앨리스,10000,120,95,850,6,4,4,1,M,2.5,1,A,A,B,A,Alice,Alice,Alice,2,MBLOCK,M_SHIELD,,,Alice,1,Alice_en01,,,0,0,'04',앨리스 마가트로이드,|||,마법사,2000,100,50,400,D
+Aya_en99,아야,10000,150,125,700,7,3,4,1,M,2.5,1,S,B,C,A,Aya,Aya,Aya,1,MBLOCK,,,,Aya,1,Aya_en01,,,1,0,'04',샤메이마루 아야,|||,요괴,9000,250,60,500,D
+Bakebake_en99,바케바케,10000,60,85,850,5,2,2,1,M,1,1,A,A,A,A,Bakebake,Bakebake,Bakebake,0,,,,,,1,Bakebake_en01,,,0,0,'02_blue',바케바케,|||,요괴,3000,150,40,500,C
+BakebakeL_en99,거대바케바케,10000,200,75,1350,5,2,2,1,L,2,1,A,A,B,A,BakebakeL,BakebakeL,BakebakeL,0,,,,,,1,BakebakeL_en01,,,0,0,'02_blue',거대바케바케,|||,요괴,14000,150,40,800,D
+Bat_en99,박쥐,10000,80,85,800,6,3,1,1,S,1,1,A,A,B,S,Bat,Bat,Bat,0,,,,,,1,Bat_en01,,,0,0,'02_red',박쥐,|||,요괴,3500,150,50,400,D
+Byakuren_en99,뱌쿠렌,10000,500,130,1300,7,4,2,1,L,3.5,1,A,A,A,A,Byakuren,Byakuren,Byakuren,1,MBLOCK+,,,,Byakuren,1,Byakuren_en01,,,0,0,'04',뱌쿠렌,|||,마법사,10000,300,50,700,E
+ByakurenN_en99,악몽,10000,500,130,1300,7,4,2,1,L,3.5,1,A,A,A,A,ByakurenN,ByakurenN,ByakurenN,3,MBLOCK+,M_SHIELD_BYAKUREN,CURE_MP_M,,Byakuren,1,ByakurenN_en01,,,0,0,'03',악몽(뱌쿠렌),|||,악몽,20000,300,50,700,E
+Chen_en99,첸,10000,220,120,900,6,4,3,1,S,2,1,A,S,D,A,Chen,Chen,Chen,2,MBLOCK,SHIKI_CHEN,,,Chen,1,Chen_en01,,,0,0,'03',첸,|||,요수,15000,200,80,500,C
+Cirno_en99,치르노,10000,160,100,850,6,4,5,1,S,2,1,A,A,C,A,Cirno,Cirno,Cirno,2,MBLOCK,CURE_HP_S,,,Cirno,1,Cirno_en01,,,0,0,'03',치르노,|||,요정,3400,200,50,500,C
+Daiyosei_en99,대요정,10000,200,115,950,6,4,3,1,S,1.5,1,A,A,B,A,Daiyosei,Daiyosei,Daiyosei,1,MBLOCK,,,,Daiyosei,1,Daiyosei_en01,,,0,0,'04',대요정,|||,요정,10000,100,50,500,E
+DreamA_en99,꿈의 빛,10000,150,100,1300,5,2,1,1,M,2,1,A,A,A,A,DreamA,DreamA,DreamA,0,,,,,,1,DreamA_en01,,,0,0,'02_blue',꿈의 빛,|||,요괴,10000,150,100,1000,E
+DreamB_en99,꿈의 빛,10000,150,100,1000,6,3,1,1,M,2,1,A,A,A,A,DreamB,DreamB,DreamB,0,,,,,,1,DreamB_en01,,,0,0,'02_red',꿈의 빛,|||,요괴,10000,150,100,1000,E
+DreamC_en99,꿈의 앙금,10000,150,100,1300,5,2,1,1,M,2,1,A,A,A,A,DreamC,DreamC,DreamC,0,,,,,,1,DreamC_en01,,,0,0,'02_black',꿈의 앙금,|||,요괴,10000,150,100,1000,E
+Eiki_en99,에이키,10000,600,120,1400,6,4,4,1,S,3.5,1,A,A,B,A,Eiki,Eiki,Eiki,2,MBLOCK,CURE_MP_M,,,Eiki,1,Eiki_en01,,,0,0,'03',시키에이키 야마자나두,|||,염마,40000,300,100,1000,D
+EikiN_en99,악몽,10000,600,120,1400,6,4,2,1,S,3.5,1,A,A,B,A,EikiN,EikiN,EikiN,2,MBLOCK,CURE_MP_M,,,Eiki,1,EikiN_en01,,,0,0,'04',악몽(에이키),|||,악몽,10000,200,100,1000,E
+Eirin_en99,에이린,10000,450,70,1250,6,4,4,1,L,3.5,1,A,A,C,A,Eirin,Eirin,Eirin,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,Eirin_en01,,,0,0,'03',야고코로 에이린,|||,봉래인,24000,400,50,800,D
+EirinN_en99,악몽,10000,500,80,1300,6,4,2,1,L,3.5,1,A,A,B,A,EirinN,EirinN,EirinN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Eirin,1,EirinN_en01,,,0,0,'04',악몽(에이린),|||,악몽,10000,100,40,500,E
+Elliy_en99,엘리,10000,140,80,1100,6,4,4,1,M,2,1,A,A,C,A,Elliy,Elliy,Elliy,1,MBLOCK,,,,Elliy2,1,Elliy_en01,,,1,0,'04',엘리,|||,요괴,2500,100,50,500,D
+Evileye_en99,이블아이,10000,110,90,750,6,3,2,1,S,1,1,A,A,B,A,Evileye,Evileye,Evileye,0,,,,,,1,Evileye_en01,,,0,0,'02_red',이블아이,|||,요괴,3000,150,50,500,C
+EvileyeK_en99,K이블아이,10000,250,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeK,EvileyeK,EvileyeK,1,MBLOCK,,,,,1,EvileyeK_en01,,,0,0,'02_red',킹이블아이,|||,요괴,25000,150,50,1000,E
+EvileyeKN_en99,악몽,10000,600,50,1200,4,2,1,1,LL,3,1,A,A,A,A,EvileyeKN,EvileyeKN,EvileyeKN,1,MBLOCK+,,,,,1,EvileyeKN_en01,,,0,0,'04',악몽(킹이블아이),|||,악몽,20000,100,100,1000,E
+EvileyeR_en99,이블아이R,10000,150,95,700,6,3,1,1,S,1,1,A,A,B,A,EvileyeR,EvileyeR,EvileyeR,0,,,,,,1,EvileyeR_en01,,,0,0,'02_red',이블아이(적),|||,요괴,8000,150,50,500,D
+EvileyeZ_en99,이블아이Z,10000,200,110,900,6,3,1,1,S,1,1,A,A,B,A,EvileyeZ,EvileyeZ,EvileyeZ,0,,,,,,1,EvileyeZ_en01,,,0,0,'02_red',이블아이Z,|||,요괴,8000,150,50,500,D
+Faries_en99,삼요정,10000,300,125,1000,6,3,3,1,M,4.5,1,A,B,B,A,Faries,Faries,Faries,3,MBLOCK,CURE_HP_M,S_BARRIER,,Faries,3,Sunny_en01,Luna_en01,Star_en01,0,0,'04',빛의 삼요정,|||,요정,10000,100,50,500,D
+Flan_en99,플랑,10000,350,75,1200,7,4,7,1,S,3.5,1,A,A,D,S,Flan,Flan,Flan,4,MBLOCK,VAMPIRE2,CURE_HP_S,CURE_MP_M,Flan,1,Flan_en01,,,1,0,'03',플랑드르 스칼렛,|||,요괴,7500,300,50,500,A
+FlanA_en99,플랑(FOK),10000,150,85,1000,6,4,1,1,S,3.5,1,A,A,D,S,Flan,Flan,Flan,1,MBLOCK,,,,Flan,1,FlanA_en01,,,1,0,'04',플랑드르(분신),|||,요괴,4000,150,50,800,A
+FlanN_en99,악몽,10000,500,115,1200,7,4,3,1,S,3.5,1,A,A,D,S,FlanN,FlanN,FlanN,2,MBLOCK,VAMPIRE2,,,Flan,1,FlanN_en01,,,1,0,'04',악몽(플랑드르),|||,악몽,10000,100,50,500,E
+GhostL_en99,유령L,10000,150,85,900,5,2,2,1,L,2,1,A,A,A,A,GhostL,GhostL,GhostL,0,,,,,,1,GhostL_en01,,,0,0,'02_blue',유령(대),|||,유령,3000,150,40,500,D
+GhostLN_en99,저승의 불꽃,10000,300,85,1400,5,2,1,1,L,2,1,A,A,A,A,GhostLN,GhostLN,GhostLN,0,,,,,,1,GhostLN_en01,,,0,0,'02_black',저승의 불꽃,|||,요괴,10000,150,50,500,E
+GhostS_en99,유령S,10000,110,95,800,6,3,1,1,M,1.5,1,A,A,A,A,GhostS,GhostS,GhostS,0,,,,,,1,GhostS_en01,,,0,0,'02_blue',유령(소),|||,유령,3000,150,50,500,D
+GhostSN_en99,어둠의 등불,10000,200,95,1000,6,3,1,1,M,1.5,1,A,A,A,A,GhostSN,GhostSN,GhostSN,0,,,,,,1,GhostSN_en01,,,0,0,'02_black',어둠의 등불,|||,요괴,10000,150,50,500,E
+Goki_en99,고키,10000,150,90,1300,7,4,2,1,M,2,1,A,A,D,A,Goki,Goki,Goki,1,MBLOCK,,,,,1,Goki_en01,,,0,0,'04',고키,|||,요괴,8000,150,50,500,C
+GokiN_en99,악몽,10000,300,90,1300,6,4,2,1,M,2,1,S,C,D,A,GokiN,GokiN,GokiN,1,MBLOCK,,,,,1,GokiN_en01,,,0,0,'04',악몽(고키),|||,악몽,10000,150,50,500,E
+Grimoire_en99,그리모어,10000,150,80,800,2,1,1,1,M,1.5,1,A,A,D,A,Grimoire,Grimoire,Grimoire,0,,,,,,1,Grimoire_en01,,,0,0,'02_red',그리모어,|||,요괴,4000,150,40,500,D
+GyokutoS_en99,달토끼S,10000,200,85,1200,6,3,3,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,0,,,,,,1,GyokutoS_en01,,,1,0,'02_blue',달토끼(저격병),|||,달토끼,8000,150,50,500,C
+GyokutoS2_en99,달토끼O,10000,200,85,1300,6,3,2,1,M,2,1,A,A,A,A,GyokutoS,GyokutoS,GyokutoS,1,MBLOCK,,,,,1,GyokutoS2_en01,,,1,0,'02_blue',달토끼(오퍼레이터),|||,달토끼,12000,150,50,800,C
+GyokutoSN_en99,악몽,10000,200,85,1200,6,3,2,1,M,2,1,A,A,A,A,GyokutoSN,GyokutoSN,GyokutoSN,0,,,,,,1,GyokutoSN_en01,,,1,0,'02_black',악몽(저격병),|||,악몽,10000,150,50,500,E
+GyokutoT_en99,달토끼T,10000,200,90,950,6,3,4,1,M,2,1,A,A,A,A,GyokutoT,GyokutoT,GyokutoT,0,,,,,,1,GyokutoT_en01,,,1,0,'02_blue',달토끼(돌격병),|||,달토끼,9000,150,50,500,C
+GyokutoTN_en99,악몽,10000,200,90,950,6,3,2,1,M,2,1,A,A,A,A,GyokutoTN,GyokutoTN,GyokutoTN,0,,,,,,1,GyokutoTN_en01,,,1,0,'02_black',악몽(돌격병),|||,악몽,10000,150,50,500,E
+Hatate_en99,하타테,10000,250,130,1000,7,5,3,1,M,2.5,1,S,B,C,A,Hatate,Hatate,Hatate,1,MBLOCK,,,,Hatate,1,Hatate_en01,,,0,0,'04',히메카이도 하타테,|||,요괴,10000,100,100,500,D
+Hina_en99,히나,10000,200,110,900,6,4,4,1,M,2,1,A,A,A,A,Hina,Hina,Hina,1,MBLOCK,,,,Hina,1,Hina_en01,,,0,0,'03',카기야마 히나,|||,신,8000,250,50,500,C
+Hourai_en99,호라이,10000,60,85,600,5,3,2,1,SS,0,1,A,B,C,A,Hourai,Hourai,Hourai,0,,,,,,1,Hourai_en01,,,0,0,'01',호라이 인형,|||,인형,1500,100,40,400,D
+HTengu_en99,백랑텐구,10000,170,80,1050,6,3,3,1,M,2,1,A,A,B,A,HTengu,HTengu,HTengu,0,,,,,,1,HTengu_en01,,,1,1,'02_blue',백랑텐구,|||,요괴,5000,100,40,500,C
+HTenguB_en99,백랑텐구B,10000,190,85,1100,6,3,3,1,M,2,1,A,A,B,A,HTenguB,HTengu,HTengu,1,MBLOCK,,,,,1,HTenguB_en01,,,1,1,'02_red',백랑텐구B,|||,요괴,6000,150,40,500,C
+HTenguN_en99,악몽,10000,200,80,1500,6,3,2,1,M,2,1,A,A,A,A,HTenguN,HTenguN,HTenguN,0,,,,,,1,HTenguN_en01,,,1,1,'02_black',악몽(백랑텐구),|||,악몽,10000,150,50,500,E
+HYousei_en99,H요정,10000,140,90,1000,5,2,3,1,M,1.5,1,A,A,B,A,HYousei,HYousei,HYousei,0,,,,,,1,HYousei_en01,,,0,0,'02_red',해바라기요정,|||,요정,3000,150,50,500,D
+HYouseiB_en99,H요정B,10000,200,95,1000,5,2,3,1,M,2,1,A,A,B,A,HYouseiB,HYouseiB,HYouseiB,0,,,,,,1,HYouseiB_en01,,,0,0,'02_blue',해바라기요정(청),|||,요정,6000,150,50,500,D
+Ichirin_en99,이치린,10000,300,90,1500,6,4,3,1,L,2.5,1,A,A,A,A,Ichirin,Ichirin,Ichirin,1,MBLOCK,,,,Ichirin,1,Ichirin_en01,,,0,0,'04',쿠모이 이치린,|||,요괴,10000,200,40,500,E
+IchirinN_en99,악몽,10000,500,90,1500,6,4,2,1,L,2.5,1,A,A,A,A,IchirinN,IchirinN,IchirinN,2,MBLOCK,U_BLOCK,,,Ichirin,1,IchirinN_en01,,,0,0,'04',악몽(이치린),|||,악몽,10000,100,40,500,E
+Iku_en99,이쿠,10000,350,90,1300,6,3,3,1,L,2.5,1,A,A,A,A,Iku,Iku,Iku,1,MBLOCK,,,,Iku,1,Iku_en01,,,0,0,'04',나가에 이쿠,|||,요괴,25000,250,50,1000,A
+InsectA_en99,벌,10000,40,80,900,8,4,1,1,SS,1,1,A,B,C,A,InsectA,InsectA,InsectA,0,,,,,,1,InsectA_en01,,,0,0,'02_green',벌,|||,벌레,4000,100,80,1000,E
+InsectA2_en99,포이즌비,10000,100,100,1000,8,4,1,1,SS,1,1,A,B,C,A,InsectA2,InsectA2,InsectA2,0,,,,,,1,InsectA2_en01,,,0,0,'02_red',포이즌비,|||,벌레,5000,100,100,1000,E
+InsectB_en99,뱀잠자리,10000,50,75,1000,7,3,1,1,SS,1,1,A,B,C,A,InsectB,InsectB,InsectB,0,,,,,,1,InsectB_en01,,,0,0,'02_green',뱀잠자리,|||,벌레,3600,100,80,1000,E
+InsectC_en99,마계충,10000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectC,InsectC,InsectC,2,BARRIER_ALL_INSECT,CURE_MP_S,,,,1,InsectC_en01,,,0,0,'02_red',마계충,|||,벌레,10000,100,100,1000,E
+InsectCN_en99,악몽,10000,200,80,1800,8,4,1,1,L,2,1,S,C,C,A,InsectCN,InsectCN,InsectCN,2,BARRIER_ALL_INSECT,CURE_MP_S,,,,1,InsectCN_en01,,,0,0,'02_black',악몽(충),|||,악몽,10000,100,100,1000,E
+JKarasu_en99,지옥까마귀,10000,80,90,1000,7,3,1,1,S,1.5,1,A,A,C,A,JKarasu,JKarasu,JKarasu,0,,,,,,1,JKarasu_en01,,,0,0,'02_red',지옥까마귀,|||,요괴,4000,150,50,500,C
+Kaguya_en99,카구야,10000,500,70,1050,5,4,6,1,M,3.5,1,A,A,C,A,Kaguya,Kaguya,Kaguya,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Kaguya,1,Kaguya_en01,,,0,0,'03',호라이산 카구야,|||,봉래인,25000,500,50,800,D
+KaguyaN_en99,악몽,10000,500,70,1300,5,4,2,1,M,3.5,1,A,A,B,A,KaguyaN,KaguyaN,KaguyaN,3,MBLOCK,CURE_HP_L,CURE_MP_L,,Kaguya,1,KaguyaN_en01,,,0,0,'04',악몽(카구야),|||,악몽,10000,100,40,500,E
+Kanako_en99,카나코,10000,280,65,1250,5,3,5,1,L,3.5,1,S,A,A,A,Kanako,Kanako,Kanako,2,MBLOCK,WIND_KEKKAI,,,Kanako,1,Kanako_en01,,,0,0,'03',야사카 카나코,|||,신,8000,300,50,800,A
+KanakoN_en99,악몽,10000,500,70,1500,5,3,2,1,L,3.5,1,S,A,A,A,KanakoN,KanakoN,KanakoN,2,MBLOCK,WIND_KEKKAI2,,,Kanako,1,KanakoN_en01,,,0,0,'04',악몽(카나코),|||,악몽,10000,200,100,1000,E
+Kaname_en99,요석,10000,140,85,1700,6,3,1,1,S,1,1,A,A,A,A,Kaname,Kaname,Kaname,0,,,,,,1,Kaname_en01,,,0,0,'02_blue',요석,|||,要石,6000,150,40,800,E
+Kappa_en99,캇파,10000,140,70,950,5,2,3,1,M,1.5,1,A,A,S,A,Kappa,Kappa,Kappa,0,,,,,,1,Kappa_en01,,,0,0,'02_green',캇파,|||,요괴,4000,150,50,500,C
+KappaS_en99,캇파 개량형,10000,180,70,1350,5,2,3,1,M,2,1,A,A,S,A,Kappa,Kappa,Kappa,0,,,,,,1,KappaS_en01,,,0,0,'02_green',캇파 개량형,|||,요괴,10000,150,50,800,D
+KappaC_en99,캇파C,10000,150,80,1000,5,2,3,1,M,1.5,1,A,B,S,A,KappaC,KappaC,KappaC,1,MBLOCK,,,,,1,KappaC_en01,,,0,0,'02_red',캇파C,|||,요괴,5000,150,50,500,C
+KappaN_en99,악몽,10000,200,70,1200,5,2,2,1,M,2,1,A,A,S,A,KappaN,KappaN,KappaN,0,,,,,,1,KappaN_en01,,,0,0,'02_black',악몽(캇파),|||,악몽,10000,150,50,500,E
+Karasu_en99,요괴까마귀,10000,70,90,800,7,3,1,1,S,1.5,1,A,A,B,A,Karasu,Karasu,Karasu,0,,,,,,1,Karasu_en01,,,0,0,'02_blue',요괴까마귀,|||,요괴,2500,150,50,500,C
+Kedama_en99,털구슬,10000,80,75,800,6,3,2,1,M,1.5,1,A,A,B,A,Kedama,Kedama,Kedama,0,,,,,,1,Kedama_en01,,,0,0,'02_blue',털구슬,|||,요정,2500,150,40,500,D
+KedamaB_en99,검은털구슬,10000,80,80,850,6,3,2,1,M,1.5,1,A,A,B,A,KedamaB,KedamaB,KedamaB,0,,,,,,1,KedamaB_en01,,,0,0,'02_red',검은털구슬,|||,요정,2500,150,40,600,D
+KedamaN_en99,밤털구슬,10000,80,75,1300,5,2,1,1,M,1.5,1,A,A,A,S,KedamaB,KedamaN,KedamaN,0,,,,,,1,KedamaN_en01,,,0,0,'02_red',밤털구슬,|||,요정,2500,150,40,500,D
+Keine_en99,케이네,10000,250,70,1300,5,4,4,1,L,2.5,1,A,A,B,A,Keine,Keine,Keine,1,MBLOCK,,,,Keine,1,Keine_en01,,,1,0,'04',카미시라사와 케이네,|||,인간,15000,200,40,600,A
+KeineH_en99,케이네H,10000,300,70,1400,5,5,3,1,L,2.5,1,A,A,B,S,KeineH,KeineH,KeineH,1,MBLOCK,,,,KeineH,1,KeineH_en01,,,1,0,'03',카미시라사와 케이네(백택),|||,수인,15000,200,40,800,A
+Kekkai_en99,결계의 핵심,10000,200,10,2000,1,1,2,1,LL,1,1,A,A,A,A,Kekkai,Kekkai,Kekkai,0,,,,,,1,Kekkai_en01,,,0,0,'04',결계의 핵심,|||,??,0,0,0,0,E
+Kisume_en99,키스메,10000,200,90,1500,6,4,3,1,S,2,1,A,B,A,A,Kisume,Kisume,Kisume,1,MBLOCK,,,,Kisume,1,Kisume_en01,,,0,1,'04',키스메,|||,요괴,7000,150,50,500,C
+KisumeN_en99,악몽,10000,400,110,2000,6,4,3,1,S,2,1,A,A,A,A,KisumeN,KisumeN,KisumeN,1,MBLOCK,,,,Kisume,1,KisumeN_en01,,,0,1,'03',악몽(키스메),|||,악몽,50000,500,100,1000,E
+KKedama_en99,강털구슬,10000,100,75,1000,5,2,2,1,M,2,1,A,A,B,A,KKedama,KKedama,KKedama,0,,,,,,1,KKedama_en01,,,0,0,'02_red',강화털구슬,|강털|강털|,요정,3000,150,40,500,D
+Koakuma_en99,소악마,10000,150,110,950,6,4,3,1,M,2,1,A,A,B,A,Koakuma,Koakuma,Koakuma,1,MBLOCK,,,,Koakuma,1,Koakuma_en01,,,0,0,'04',소악마,|||,요괴,4150,100,50,500,D
+Kogasa_en99,코가사,10000,340,110,1300,6,4,4,1,M,2,1,A,A,C,A,Kogasa,Kogasa,Kogasa,1,MBLOCK,,,,Kogasa,1,Kogasa_en01,,,0,1,'03',타타라 코가사,|||,요괴,30000,200,80,1000,D
+Koishi_en99,코이시,10000,170,115,900,5,3,7,1,M,2.5,1,A,A,B,A,Koishi,Koishi,Koishi,2,MBLOCK,TRESPASS,,,Koishi,1,Koishi_en01,,,0,0,'04',코메이지 코이시,|||,요괴,2000,150,40,500,A
+KoishiN_en99,악몽,10000,500,140,900,5,3,1,1,M,2.5,1,A,A,C,A,KoishiN,KoishiN,KoishiN,2,MBLOCK,TRESPASS,,,Koishi,1,KoishiN_en01,,,0,0,'04',악몽(코이시),|||,악몽,10000,200,100,1000,E
+Komachi_en99,코마치,10000,290,80,1000,5,3,5,1,L,2.5,1,A,A,A,A,Komachi,Komachi,Komachi,1,MBLOCK,,,,Komachi,1,Komachi_en01,,,1,0,'04',오노즈카 코마치,|||,사신,10000,100,40,500,D
+KTengu_en99,카라스텐구,10000,170,110,900,7,3,3,1,M,2,1,A,B,C,A,KTengu,KTengu,KTengu,0,,,,,,1,KTengu_en01,,,1,0,'02_blue',카라스텐구,|||,요괴,5000,150,50,500,C
+KTenguA_en99,카라스텐구A,10000,190,115,900,7,3,3,1,M,2,1,A,A,C,A,KTenguA,KTengu,KTengu,1,MBLOCK,,,,,1,KTenguA_en01,,,1,0,'02_blue',카라스텐구A,|||,요괴,6000,150,50,500,C
+KTenguN_en99,악몽,10000,200,130,900,7,3,2,1,M,2,1,S,C,C,A,KTenguN,KTenguN,KTenguN,0,,,,,,1,KTenguN_en01,,,1,0,'02_black',악몽(카라스텐구),|||,악몽,10000,150,100,500,E
+Kurumi_en99,쿠루미,10000,150,110,800,6,4,4,1,S,2,1,A,B,D,S,Kurumi,Kurumi,Kurumi,3,MBLOCK,CURE_HP_S,CURE_MP_S,,Kurumi,1,Kurumi_en01,,,0,0,'04',쿠루미,|||,요괴,2000,100,50,400,D
+Layla_en99,레이라,10000,100,100,100,1,1,1,1,S,2,1,B,B,B,B,Layla,Layla,Layla,0,,,,,,1,Layla_en01,,,0,0,'01',레이라 프리즘리버,|||,??,1000,100,10,100,A
+Letty_en99,레티,10000,250,75,1100,5,3,3,1,L,2,1,A,A,B,A,Letty,Letty,Letty,1,MBLOCK,,,,Letty,1,Letty_en01,,,0,0,'03',레티 화이트락,|||,요괴,12000,150,40,500,C
+LilyW_en99,릴리W,10000,150,110,850,6,4,1,1,S,2,1,A,B,C,A,LilyW,LilyW,LilyW,1,MBLOCK,,,,LilyW,1,LilyW_en01,,,0,0,'04',릴리 화이트,|||,요정,5000,100,50,400,D
+Luna_en99,루나,10000,120,75,900,6,4,3,1,S,1.5,1,A,B,C,S,Luna,Luna,Luna,2,MBLOCK,CURE_HP_S,,,Luna,1,Luna_en01,,,0,0,'04',루나 차일드,|||,요정,4100,100,50,700,D
+Lunasa_en99,루나사,10000,220,105,1000,6,4,2,1,M,2,1,A,A,A,A,Lunasa,Lunasa,Lunasa,1,MBLOCK,,,,Lunasa,1,Lunasa_en01,,,0,0,'04',루나사 프리즘리버,|||,소령,9000,250,50,500,C
+Lyrica_en99,리리카,10000,200,115,950,6,4,2,1,S,2,1,A,B,B,A,Lyrica,Lyrica,Lyrica,1,MBLOCK,,,,Lyrica,1,Lyrica_en01,,,0,0,'04',리리카 프리즘리버,|||,소령,12000,250,80,500,C
+Maid_en99,요정메이드,10000,80,75,1000,6,3,2,1,M,1.5,1,A,A,B,A,Maid,Maid,Maid,0,,,,,,1,Maid_en01,,,0,0,'02_red',요정메이드,|||,요정,2500,150,40,600,E
+Makura_en99,마쿠라,10000,900,100,1400,4,3,6,1,L,3.5,1,A,A,A,A,Makura,Makura,Makura,3,YUMEWATARI,MBLOCK+,CURE_MP_L,,Makura,1,Makura_en01,,,0,0,'03',무와타리 마쿠라,|||,요괴,50000,400,100,1000,E
+MakuraF_en99,마쿠라,10000,2000,140,2500,8,5,4,1,L,6,1,S,S,S,S,MakuraF,MakuraF,MakuraF,2,MBLOCK+,CURE_MP_L,,,bgm_pp_GSW,1,MakuraF_en01,,,0,0,'03',무와타리 마쿠라(꿈),|||,요괴,50000,400,100,1000,E
+MakuraS_en99,마쿠라,10000,900,100,1400,4,3,4,1,L,3.5,1,A,A,A,A,MakuraS,MakuraS,MakuraS,4,YUMEWATARI,BARRIER_MAKURA2,MBLOCK+,CURE_MP_L,bgm_pp_warabe,1,MakuraS_en01,,,0,0,'03',무와타리 마쿠라,|||,요괴,50000,400,100,1000,E
+Marisa_en99,마리사,10000,220,110,1050,7,3,4,1,M,2.5,1,A,A,B,A,Marisa,Marisa,Marisa,2,MBLOCK,M_SHIELD,,,Marisa,1,Marisa_en01,,,0,0,'04',키리사메 마리사,|||,인간,9600,100,50,400,A
+MarisaR_en99,마리사,10000,350,110,1100,7,3,5,1,M,3,1,A,A,B,A,MarisaR,MarisaR,MarisaR,2,MBLOCK,M_SHIELD,,,MarisaR,1,Marisa_en01,,,0,0,'03',키리사메 마리사,|||,인간,25000,100,100,1000,D
+MarisaRN_en99,악몽,10000,500,130,1400,7,3,3,1,M,3,1,A,A,B,A,MarisaRN,MarisaRN,MarisaRN,2,MBLOCK+,M_SHIELD,,,MarisaR,1,MarisaN_en01,,,0,0,'03',악몽(마리사),|||,악몽,50000,500,100,1000,E
+Medicine_en99,메디,10000,350,120,1100,6,4,3,1,SS,2,1,A,A,C,A,Medicine,Medicine,Medicine,1,MBLOCK,,,,Medicine,1,Medicine_en01,,,0,0,'03',메디슨 멜랑콜리,|||,요괴,30000,200,80,800,D
+MedicineN_en99,악몽,10000,400,135,1400,6,4,3,1,SS,2,1,A,A,C,A,MedicineN,MedicineN,MedicineN,1,MBLOCK,,,,Medicine,1,MedicineN_en01,,,0,0,'03',악몽(메디슨),|||,악몽,50000,500,100,1000,E
+Meiling_en99,메이링,10000,220,60,1150,5,3,4,1,L,2.5,1,A,S,B,A,Meiling,Meiling,Meiling,1,MBLOCK,,,,Meiling,1,Meiling_en01,,,0,0,'04',홍 메이링,|||,요괴,5000,100,40,500,D
+MeilingN_en99,악몽,10000,400,90,1700,5,3,3,1,L,2.5,1,A,A,B,A,MeilingN,MeilingN,MeilingN,1,MBLOCK,,,,Meiling,1,MeilingN_en01,,,0,0,'03',악몽(메이링),|||,악몽,50000,500,100,1000,E
+Meko_en99,메코,10000,500,120,1300,6,4,6,1,S,2,1,A,A,A,A,Meko,Meko,Meko,3,MBLOCK,BARRIER_MEKO,CURE_HP_S,,Meko,1,Meko_en01,,,0,0,'04',메코 ,|||,요괴,40000,400,100,1000,E
+MekoB_en99,블랙메코,10000,100,80,900,6,4,1,1,S,2,1,A,A,A,A,MekoB,MekoB,MekoB,1,MBLOCK,,,,MekoB,1,MekoB_en01,,,0,0,'03',블랙메코,|||,요괴,35000,150,50,400,E
+MekoD_en99,메코,10000,150,80,900,6,4,1,1,S,2,1,A,A,A,A,MekoD,Meko,Meko,1,MBLOCK,,,,Meko2,1,MekoD_en01,,,0,0,'04',메코 ,|||,요괴,1500,100,50,400,E
+MekoM_en99,메코,10000,500,120,1300,6,4,3,1,S,2,1,A,A,A,A,MekoM,Meko,Meko,1,MBLOCK+,,,,Meko2,1,MekoM_en01,,,0,0,'03',메코 (꿈의 결),|||,요괴,40000,400,100,1000,E
+Merlin_en99,메를랑,10000,250,95,1100,5,3,3,1,L,2,1,A,B,C,A,Merlin,Merlin,Merlin,1,MBLOCK,,,,Merlin,1,Merlin_en01,,,0,0,'04',메를랑 프리즘리버,|||,소령,9000,250,50,600,C
+Mima_en99,미마,10000,450,90,1200,6,4,3,1,L,3.5,1,A,B,A,A,Mima,Mima,Mima,4,MBLOCK,M_SHIELD_MIMA,BOOST_MIMA,CURE_MP_S,Mima2,1,Mima_en01,,,0,0,'04',미마,|||,악령,10000,250,50,1000,D
+MimaG_en99,고스트,10000,200,110,900,6,3,1,1,L,3.5,1,A,B,A,A,MimaG,MimaG,MimaG,0,,,,,,1,MimaG_en01,,,0,0,'04',고스트(미마),|||,악령,6000,150,40,500,A
+MimaN_en99,악몽,10000,500,90,1000,6,4,3,1,L,3.5,1,A,A,A,A,MimaN,MimaN,MimaN,3,MBLOCK+,M_SHIELD_MIMA,CURE_MP_M,,Mima,1,MimaN_en01,,,0,0,'03',악몽(미마),|||,악몽,20000,300,100,1000,E
+Minoriko_en99,미노리코,10000,200,85,1100,6,4,4,1,M,2,1,A,A,C,A,Minoriko,Minoriko,Minoriko,1,MBLOCK,,,,Minoriko,1,Minoriko_en01,,,0,0,'03',아키 미노리코,|||,신,5000,250,50,800,C
+Mokou_en99,모코우,10000,350,105,1000,6,3,6,1,M,3,1,A,A,B,A,Mokou,Mokou,Mokou,3,MBLOCK,CURE_HP_M,CURE_MP_M,,Mokou,1,Mokou_en01,,,0,0,'03',후지와라노 모코우,|||,인간,20000,200,60,600,A
+MokouN_en99,악몽,10000,500,120,800,6,3,3,1,M,3,1,A,A,C,A,MokouN,MokouN,MokouN,4,MBLOCK,REVITALIZE2,CURE_HP_M,CURE_MP_M,Mokou,1,MokouN_en01,,,0,0,'04',악몽(모코우),|||,악몽,10000,200,100,1000,E
+Momiji_en99,모미지,10000,150,85,1150,6,4,4,1,M,2.5,1,A,A,B,A,Momiji,Momiji,Momiji,1,MBLOCK,,,,Momiji,1,Momiji_en02,,,1,1,'04',이누바시리 모미지,|||,요괴,2500,100,40,500,D
+Murasa_en99,무라사,10000,300,120,1200,6,4,3,1,M,2.5,1,A,A,S,A,Murasa,Murasa,Murasa,1,MBLOCK,,,,Murasa,1,Murasa_en01,,,0,0,'04',무라사 미나미츠,|||,요괴,10000,200,100,1000,E
+MurasaN_en99,악몽,10000,400,120,1200,6,4,2,1,M,2.5,1,A,A,S,A,MurasaN,MurasaN,MurasaN,1,MBLOCK,,,,Murasa,1,MurasaN_en01,,,0,0,'04',악몽(무라사),|||,악몽,10000,200,100,1000,E
+MYousei_en99,M요정,10000,300,100,1200,5,2,1,1,M,2,1,A,A,B,A,MYousei,MYousei,MYousei,2,CURE_HP_S,CURE_MP_M,,,,1,MYousei_en01,,,0,0,'02_red',마계요정,|||,요정,10000,150,50,500,D
+Mystia_en99,미스티아,10000,250,110,1000,6,4,3,1,S,2,1,A,B,C,S,Mystia,Mystia,Mystia,1,MBLOCK,,,,Mystia,1,Mystia_en01,,,0,0,'03',미스티아 로렐라이,|||,요괴,25000,200,50,500,D
+Nazrin_en99,나즈린,10000,250,115,1000,4,2,4,1,S,2,1,A,A,C,A,Nazrin,Nazrin,Nazrin,1,MBLOCK,,,,Nazrin,1,Nazrin_en01,,,0,0,'04',나즈린,|||,요괴,8000,250,50,500,C
+NazrinN_en99,악몽,10000,400,135,800,6,4,2,1,S,2,1,A,A,A,A,NazrinN,NazrinN,NazrinN,1,MBLOCK,,,,Nazrin,1,NazrinN_en01,,,1,0,'04',악몽(나즈린),|||,악몽,10000,200,100,1000,E
+Nitori_FA_en99,니토리,10000,250,75,1200,5,3,5,1,M,2.5,1,A,A,S,A,Nitori,Nitori,Nitori,1,MBLOCK,,,,Nitori2,1,Nitori_en01,,,0,0,'03',카와시로 니토리(FA),|||,요괴,7000,250,50,600,B
+Nue_en99,누에,10000,450,120,1000,6,4,6,1,M,2.5,1,A,A,C,S,Nue,Nue,Nue,1,MBLOCK,,,,Nue,1,Nue_en01,,,0,0,'04',호쥬 누에,|||,요괴,33000,200,50,500,A
+NueN_en99,악몽,10000,500,130,1400,6,4,3,1,M,2.5,1,A,A,A,S,NueN,NueN,NueN,2,MBLOCK,CURE_MP_M,,,Nue,1,NueN_en01,,,0,0,'04',악몽(누에),|||,악몽,10000,200,100,1000,E
+Onamazu_en99,오오나마즈,10000,999,60,1500,4,2,5,1,LL,3.5,1,A,A,A,A,Onamazu,Onamazu,Onamazu,3,MBLOCK+,CURE_HP_S,CURE_MP_L,,Onamazu,1,Onamazu_en01,,,0,0,'03',오오나마즈,|||,요괴,40000,0,100,1000,E
+OnamazuN_en99,악몽,10000,600,60,1500,4,2,1,1,LL,3.5,1,A,A,A,A,OnamazuN,OnamazuN,OnamazuN,1,MBLOCK+,,,,,1,OnamazuN_en01,,,0,0,'04',악몽(오오나마즈),|||,악몽,20000,100,100,1000,E
+Onryo_en99,원령,10000,100,90,800,5,2,1,1,S,1.5,1,A,A,A,A,Onryo,Onryo,Onryo,0,,,,,,1,Onryo_en01,,,0,0,'02_blue',원령,|||,원령,3000,150,50,500,D
+OnryoL_en99,원령L,10000,150,60,1000,5,2,2,1,L,2,1,A,A,A,A,OnryoL,OnryoL,OnryoL,0,,,,,,1,OnryoL_en01,,,0,0,'02_red',원령(대),|||,원령,10000,150,50,500,D
+OnryoR_en99,원령R,10000,150,95,950,5,2,1,1,M,1.5,1,A,A,A,A,OnryoR,OnryoR,OnryoR,0,,,,,,1,OnryoR_en01,,,0,0,'02_red',원령(적),|||,원령,5000,150,40,500,D
+Orin_en99,오린,10000,250,110,1100,6,4,4,1,M,2.5,1,A,A,C,A,Orin,Orin,Orin,1,MBLOCK,,,,Orin,1,Orin_en01,,,0,0,'04',카엔뵤 린,|||,요괴,20000,250,80,500,D
+OrinC_en99,오린,10000,250,125,700,8,5,1,1,SS,2.5,1,B,S,D,A,OrinC,OrinC,OrinC,0,,,,,Orin,1,Orin_en01,,,0,0,'04',카엔뵤 린,|||,요괴,3000,150,40,500,C
+Parsee_en99,파르시,10000,250,100,1100,6,3,3,1,M,2,1,A,A,B,A,Parsee,Parsee,Parsee,1,MBLOCK,,,,Parsee,1,Parsee_en01,,,0,0,'03',미즈하시 파르시,|||,요괴,27000,100,50,500,D
+ParseeN_en99,악몽,10000,250,100,1100,6,3,3,1,M,2,1,A,A,B,A,ParseeN,ParseeN,ParseeN,1,MBLOCK,,,,Parsee,1,ParseeN_en01,,,0,0,'03',악몽(파르시),|||,악몽,50000,500,100,1000,E
+Patchouli_en99,파츄리,10000,220,90,800,5,4,6,1,M,2.5,1,A,B,C,A,Patchouli,Patchouli,Patchouli,2,MBLOCK,M_SHIELD_PATCHE,,,Patchouli,1,Patchouli_en01,,,0,0,'03',파츄리 널릿지,|||,마법사,2000,100,40,500,E
+Prism_en99,세자매,10000,250,100,1050,6,3,4,1,L,6,1,A,A,A,A,Prism,Prism,Prism,1,MBLOCK,,,,Prism,3,Lunasa_en01,Merlin_en01,Lyrica_en01,0,0,'03',프리즘리버 세자매,|||,소령,10000,250,50,800,C
+Ran_en99,란,10000,320,120,1250,6,4,4,1,L,3.5,1,A,S,D,A,Ran,Ran,Ran,1,MBLOCK,,,,Ran,1,Ran_en01,,,0,0,'04',야쿠모 란,|||,요수,14000,200,80,800,A
+RanN_en99,악몽,10000,500,120,1300,6,4,3,1,L,3,1,A,S,C,A,RanN,RanN,RanN,2,MBLOCK,SHIKI_RANN,,,Ran,1,RanN_en01,,,0,0,'04',악몽(란),|||,악몽,10000,200,100,1000,E
+ReimuR_en99,레이무,10000,400,135,1000,6,4,7,1,M,3,1,A,A,B,A,ReimuR,ReimuR,ReimuR,2,MBLOCK,N_KEKKAI,,,ReimuR,1,Reimu_en01,,,1,0,'03',하쿠레이 레이무,|||,인간,25000,200,100,1000,D
+ReimuRN_en99,악몽,10000,500,145,1000,6,4,3,1,M,3,1,A,A,B,A,ReimuRN,ReimuRN,ReimuRN,2,MBLOCK+,N_KEKKAI,,,ReimuR,1,ReimuN_en01,,,1,0,'03',악몽(레이무),|||,악몽,50000,500,100,1000,E
+Remilia_en99,레밀리아,10000,300,100,1200,7,4,5,1,S,3.5,1,A,A,D,S,Remilia,Remilia,Remilia,2,MBLOCK,VAMPIRE2,,,Remilia,1,Remilia_en01,,,0,0,'03',레밀리아 스칼렛,|||,요괴,1000,100,50,500,A
+RemiliaN_en99,악몽,10000,500,125,1400,7,4,3,1,S,3.5,1,S,A,D,S,RemiliaN,RemiliaN,RemiliaN,2,MBLOCK,VAMPIRE2,,,Remilia,1,RemiliaN_en01,,,0,0,'04',악몽(레밀리아),|||,악몽,10000,200,100,1000,E
+Rumia_en99,루미아,10000,230,100,1050,6,4,4,1,S,2,1,A,A,B,S,Rumia,Rumia,Rumia,2,MBLOCK,YAMI,,,Rumia,1,Rumia_en01,,,0,0,'04',루미아,|||,요괴,3300,100,50,700,C
+Sakuya_en99,사쿠야,10000,250,80,850,3,1,6,1,L,2.5,1,A,A,C,A,Sakuya,Sakuya,Sakuya,2,MBLOCK,P_SQUARE,,,Sakuya2,1,Sakuya_en02,,,1,0,'03',이자요이 사쿠야,|||,인간,2000,100,50,400,D
+SakuyaN_en99,악몽,10000,250,80,850,3,1,2,1,L,2.5,1,A,A,C,A,SakuyaN,SakuyaN,SakuyaN,1,MBLOCK,,,,Sakuya2,1,SakuyaN_en01,,,1,0,'03',악몽(사쿠야),|||,악몽,50000,500,100,1000,E
+Sanae_en99,사나에,10000,250,90,900,5,3,7,1,M,2.5,1,A,A,B,A,Sanae,Sanae,Sanae,1,MBLOCK,,,,Sanae3,1,Sanae_en01,,,0,0,'04',코치야 사나에,|||,인간,1500,100,50,400,D
+SanaeN_en99,악몽,10000,400,130,1400,6,4,3,1,M,2.5,1,A,A,B,A,SanaeN,SanaeN,SanaeN,3,MBLOCK,KAZEHAFURI,BARRIER_SANAE,,Sanae3,1,SanaeN_en01,,,0,0,'03',악몽(사나에),|||,악몽,50000,500,100,1000,E
+Satori_en99,사토리,10000,350,100,900,6,4,5,1,M,2.5,1,A,A,B,A,Satori,Satori,Satori,1,MBLOCK,,,,Satori,1,Satori_en01,,,0,0,'03',코메이지 사토리,|||,요괴,30000,150,50,500,D
+Seirensen_en99,성련선,10000,500,60,1200,6,4,4,1,LL,0,1,A,-,A,A,Seirensen,Seirensen,Seirensen,1,MBLOCK,,,,Seirensen,3,Murasa_en01,Ichirin_en01,Akyu_en01,0,0,'04',성련선,|||,비창,15000,100,40,1000,D
+Sheep_en99,검은양,10000,150,90,1100,6,3,2,1,M,2,1,A,A,C,A,Sheep,Sheep,Sheep,2,BARRIER_SHEEP,COUNTSHEEP,,,,1,Sheep_en01,,,0,0,'02_blue',검은양,|||,요괴,10000,150,50,500,E
+SheepL_en99,큰 양,10000,999,50,3000,5,2,4,1,3L,4.5,1,A,A,A,A,SheepL,SheepL,SheepL,1,MBLOCK+,,,,,1,SheepL_en01,,,0,0,'04',큰 양,|||,요괴,100000,0,50,1000,E
+SheepLN_en99,악몽,10000,600,50,1500,5,2,2,1,3L,4.5,1,A,A,A,A,SheepLN,SheepLN,SheepLN,1,MBLOCK+,,,,,1,SheepLN_en01,,,0,0,'04',악몽(큰 양),|||,악몽,20000,100,100,1000,E
+SheepR_en99,붉은양,10000,150,90,1500,5,2,2,1,L,2,1,A,A,C,A,SheepR,SheepR,SheepR,0,,,,,,1,SheepR_en01,,,0,0,'02_red',붉은양,|||,요괴,12000,150,50,1000,E
+SheepW_en99,흰양,10000,150,105,900,7,3,2,1,M,2,1,A,A,C,A,SheepW,SheepW,SheepW,0,,,,,,1,SheepW_en01,,,0,0,'02_blue',흰양,|||,요괴,10000,150,100,500,E
+Shinki_en99,신키,10000,600,80,1500,4,3,6,1,L,4,1,A,A,A,A,Shinki,Shinki,Shinki,4,MBLOCK+,BARRIER_SHINKI,CURE_HP_S,CURE_MP_L,Shinki,1,Shinki_en01,,,0,0,'03',신키,|||,신,50000,400,40,1000,E
+ShinkiN_en99,신키,10000,600,80,1500,4,3,3,1,L,4,1,A,A,A,A,ShinkiN,ShinkiN,ShinkiN,4,MBLOCK,BARRIER_SHINKI,CURE_HP_M,CURE_MP_L,Shinki,1,ShinkiN_en01,,,0,0,'03',악몽(신키),|||,악몽,50000,500,100,1000,E
+Shitone_en99,시토네,10000,900,100,1400,4,3,8,1,L,3.5,1,A,A,A,A,Shitone,Shitone,Shitone,4,YUMEWATARI,MBLOCK+,CURE_HP_L,CURE_MP_L,Shitone,1,Shitone_en01,,,0,0,'04',시토네,|||,요괴,100000,900,100,1000,E
+ShitoneF_en99,시토네,10000,1000,100,1900,4,3,3,1,L,3.5,1,S,S,S,S,ShitoneF,ShitoneF,ShitoneF,2,MBLOCK+,CURE_MP_L,,,,1,ShitoneF_en01,,,0,0,'03',시토네(꿈),|||,요괴,30000,1000,100,1000,E
+Shizuha_en99,시즈하,10000,200,95,800,6,4,3,1,M,2,1,A,A,C,A,Shizuha,Shizuha,Shizuha,1,MBLOCK,,,,Shizuha,1,Shizuha_en01,,,0,0,'04',아키 시즈하,|||,신,5000,200,60,500,C
+Sho_en99,쇼,10000,250,115,1250,6,4,3,1,M,2,1,A,A,B,A,Sho,Sho,Sho,1,MBLOCK,,,,Sho,1,Sho_en01,,,1,0,'04',토라마루 쇼,|||,요괴,8000,200,50,500,D
+ShoN_en99,악몽,10000,400,120,1200,6,4,2,1,M,2,1,A,A,A,A,ShoN,ShoN,ShoN,2,MBLOCK,CURE_MP_M,,,Sho,1,ShoN_en01,,,1,0,'04',악몽(쇼),|||,악몽,10000,200,100,1000,E
+Star_en99,스타,10000,120,85,800,6,4,3,1,S,1.5,1,A,B,C,A,Star,Star,Star,2,MBLOCK,CURE_HP_S,,,Star,1,Star_en01,,,0,0,'04',스타 사파이어,|||,요정,3900,100,50,600,D
+Suika_en99,스이카,10000,255,115,1600,5,3,3,1,S,3.5,1,A,A,B,A,Suika,Suika,Suika,1,MBLOCK,,,,Suika,1,Suika_en01,,,0,0,'03',이부키 스이카,|||,요괴,16000,250,80,800,A
+SuikaN_en99,악몽,10000,500,125,1800,6,4,2,1,S,3.5,1,A,S,B,A,SuikaN,SuikaN,SuikaN,2,MBLOCK,CURE_MP_M,,,Suika,1,SuikaN_en01,,,0,0,'04',악몽(스이카),|||,악몽,10000,200,100,1000,E
+Sunny_en99,서니,10000,120,80,850,6,4,3,1,S,1.5,1,A,A,B,A,Sunny,Sunny,Sunny,3,MBLOCK,CURE_HP_S,S_BARRIER,,Sunny,1,Sunny_en01,,,0,0,'04',서니 밀크,|||,요정,4000,100,50,700,D
+Suwako_en99,스와코,10000,320,125,1100,6,4,5,1,S,3.5,1,A,A,S,A,Suwako,Suwako,Suwako,0,,,,,Suwako,1,Suwako_en01,,,0,0,'04',모리야 스와코,|||,신,12000,300,80,800,A
+SuwakoN_en99,악몽,10000,500,140,900,6,4,2,1,S,3.5,1,A,S,S,A,SuwakoN,SuwakoN,SuwakoN,2,MBLOCK,RAIN_KEKKAI2,,,Suwako,1,SuwakoN_en01,,,0,0,'04',악몽(스와코),|||,악몽,10000,200,100,1000,E
+Tenshi_en99,텐시,10000,370,110,1800,6,4,5,1,M,3,1,A,A,A,A,Tenshi,Tenshi,Tenshi,1,MBLOCK,,,,Tenshi,1,Tenshi_en01,,,1,0,'03',히나나위 텐시,|||,천인,30000,300,100,1000,E
+TenshiN_en99,악몽,10000,500,110,2000,6,4,3,1,M,3,1,A,A,A,A,TenshiN,TenshiN,TenshiN,2,MBLOCK,CURE_MP_M,,,Tenshi,1,TenshiN_en01,,,1,0,'04',악몽(텐시),|||,악몽,10000,200,100,1000,E
+TensokuE_en99,비상천칙,10000,700,90,1800,5,3,4,1,LL,3.5,1,A,A,C,A,TensokuE,TensokuE,TensokuE,2,MBLOCK,CURE_MP_L,,,,1,TensokuE_en01,,,0,0,'04',핵열조신 비상천칙,|||,로봇,55000,200,100,1000,E
+TensokuD_en99,데빌천칙,10000,1000,90,2100,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,2,MBLOCK,CURE_MP_L,,,,1,TensokuD_en01,,,0,0,'04',데빌천칙,|||,로봇,100000,1000,100,1000,E
+TensokuEN_en99,악몽,10000,600,90,1800,5,3,1,1,LL,3.5,1,A,A,C,A,TensokuEN,TensokuEN,TensokuEN,1,MBLOCK+,,,,,1,TensokuEN_en01,,,0,0,'04',악몽(비상천칙),|||,악몽,20000,100,100,1000,E
+Tewi_en99,테위,10000,310,95,1000,6,4,4,1,S,2,1,A,A,C,A,Tewi,Tewi,Tewi,1,MBLOCK,,,,Tewi,1,Tewi_en01,,,0,0,'03',이나바 테위,|||,요수,30000,300,50,500,D
+Toyohime_en99,토요히메,10000,1000,80,1500,6,4,4,1,L,3.5,1,A,A,A,A,Toyohime,Toyohime,Toyohime,3,MBLOCK+,BARRIER_TOYOHIME,CURE_MP_M,,Toyohime,1,ToyohimeD_en01,,,0,1,'03',와타츠키노 토요히메,|||,월인,100000,500,100,1000,E
+ToyohimeN_en99,악몽,10000,500,80,1200,6,4,3,1,L,3.5,1,A,A,A,A,ToyohimeN,ToyohimeN,ToyohimeN,2,MBLOCK,BARRIER_TOYOHIME,,,Toyohime,1,ToyohimeN_en01,,,0,1,'04',악몽(토요히메),|||,악몽,10000,200,100,1000,E
+Udonge_en99,우동게,10000,320,120,1000,6,4,4,1,M,2.5,1,A,A,C,A,Udonge,Udonge,Udonge,1,MBLOCK,,,,Udonge,1,Udonge_en01,,,0,0,'04',레이센 우동게인 이나바,|||,달토끼,30000,200,50,500,D
+UFOB_en99,UFO(청),10000,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,UFOB,UFOB,UFOB,0,,,,,,1,UFOB_en01,,,0,0,'02_blue',UFO(청),|||,??,3500,100,50,400,D
+UFOB2_en99,???,10000,100,110,800,7,3,1,1,M,1.5,1,A,D,D,A,Bakebake,Bakebake,Bakebake,0,,,,,,1,UFOB2_en01,,,0,0,'02_blue',???,|||,??,3500,100,50,400,D
+UFOG_en99,UFO(녹),10000,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,UFOG,UFOG,UFOG,0,,,,,,1,UFOG_en01,,,0,0,'02_green',UFO(녹),|||,??,6000,100,40,500,D
+UFOG2_en99,???,10000,200,50,1050,6,3,2,1,M,1.5,1,A,D,D,A,Yousei1,Yousei1,Yousei1,0,,,,,,1,UFOG2_en01,,,0,0,'02_green',???,|||,??,6000,100,40,500,D
+UFOR_en99,UFO(적),10000,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,UFOR,UFOR,UFOR,0,,,,,,1,UFOR_en01,,,0,0,'02_red',UFO(적),|||,??,4000,100,50,500,D
+UFOR2_en99,???,10000,100,75,900,6,3,2,1,M,1.5,1,A,D,D,A,Kedama,Kedama,Kedama,0,,,,,,1,UFOR2_en01,,,0,0,'02_red',???,|||,??,4000,100,50,500,D
+Usagi_en99,요괴토끼,10000,110,90,1000,6,3,3,1,M,2,1,A,A,C,A,Usagi,Usagi,Usagi,0,,,,,,1,Usagi_en01,,,0,0,'02_red',요괴토끼,|||,요수,7300,100,50,500,D
+UsagiD_en99,요괴토끼D,10000,150,100,1100,6,3,3,1,M,2,1,A,A,C,A,UsagiD,Usagi,Usagi,1,MBLOCK,,,,,1,UsagiD_en01,,,0,0,'02_red',요괴토끼D,|||,요수,10000,100,50,500,D
+UsagiN_en99,악몽,10000,200,90,1000,6,3,2,1,M,2,1,A,A,C,A,UsagiN,UsagiN,UsagiN,0,,,,,,1,UsagiN_en01,,,0,0,'02_black',악몽(요괴토끼),|||,악몽,10000,150,50,500,E
+Utsuho_en99,우츠호,10000,400,120,1300,7,4,5,1,L,3.5,1,A,A,C,A,Utsuho,Utsuho,Utsuho,3,MBLOCK,CURE_HP_S,CURE_MP_M,,Utsuho,1,Utsuho_en01,,,0,0,'03',레이우지 우츠호,|||,요괴,30000,200,80,1000,D
+UtsuhoB_en99,우츠호,10000,90,80,950,6,4,4,1,L,1,1,A,A,C,A,UtsuhoB,UtsuhoB,UtsuhoB,1,MBLOCK,,,,UtsuhoB,1,UtsuhoB_en01,,,0,0,'04',레이우지 우츠호,|||,요괴,2000,100,40,400,D
+UtsuhoH_en99,우츠호,10000,990,90,1200,8,4,8,1,L,4,1,S,A,C,A,UtsuhoH,UtsuhoH,UtsuhoH,3,CURE_HP_M,CURE_MP_L,MBLOCK,,UtsuhoH,1,UtsuhoH_en01,,,0,0,'03',레이우지 우츠호(폭주),|||,요괴,30000,0,100,800,D
+UtsuhoN_en99,악몽,10000,500,120,1000,7,4,3,1,L,3.5,1,S,A,C,A,UtsuhoN,UtsuhoN,UtsuhoN,3,MBLOCK,BARRIER_UTSUHO,CURE_MP_L,,UtsuhoH,1,UtsuhoN_en01,,,0,0,'04',악몽(우츠호),|||,악몽,10000,200,100,1000,E
+Wriggle_en99,리글,10000,200,90,1000,6,4,3,1,S,2,1,A,B,A,S,Wriggle,Wriggle,Wriggle,1,MBLOCK,,,,Wriggle,1,Wriggle_en01,,,0,0,'03',리글 나이트버그,|||,요괴,10000,200,50,500,D
+Yamame_en99,야마메,10000,220,80,1100,6,4,3,1,M,2,1,A,A,B,A,Yamame,Yamame,Yamame,1,MBLOCK,,,,Yamame,1,Yamame_en01,,,0,0,'03',쿠로다니 야마메,|||,요괴,8000,150,50,500,C
+Yorihime_en99,요리히메,10000,500,110,1100,6,4,6,1,M,3.5,1,A,A,S,A,Yorihime,Yorihime,Yorihime,2,MBLOCK,CURE_MP_S,,,Yorihime,1,Yorihime_en01,,,1,0,'03',와타츠키노 요리히메,|||,월인,20000,490,80,1000,D
+YorihimeN_en99,악몽,10000,500,130,1000,6,4,4,1,M,3.5,1,A,A,S,A,YorihimeN,YorihimeN,YorihimeN,2,MBLOCK,CURE_MP_M,,,Yorihime,1,YorihimeN_en01,,,1,0,'04',악몽(요리히메),|||,악몽,10000,200,100,1000,E
+Youmu_en99,요우무,10000,300,125,1350,6,3,7,1,M,2.5,1,A,A,B,A,Youmu,Youmu,Youmu,1,MBLOCK,,,,Youmu2,1,Youmu_en01,,,1,0,'04',콘파쿠 요우무,|||,반령,10000,200,50,500,A
+Yousei1_en99,요정B,10000,100,80,750,5,2,2,1,S,1.5,1,A,A,B,A,Yousei1,Yousei1,Yousei1,0,,,,,,1,Yousei1_en01,,,0,0,'02_blue',요정(청),|||,요정,3000,150,50,400,D
+Yousei2_en99,요정R,10000,120,85,800,5,2,2,1,S,1.5,1,A,A,B,A,Yousei2,Yousei2,Yousei2,0,,,,,,1,Yousei2_en01,,,0,0,'02_red',요정(적),|||,요정,3000,150,50,400,D
+YouseiL_en99,L요정,10000,200,90,1000,5,2,1,1,S,1.5,1,A,A,B,A,YouseiL,YouseiL,YouseiL,1,BARRIER_L_YOUSEI,,,,,1,YouseiL_en01,,,0,0,'02_green',레이저요정,|||,요정,5000,200,80,800,E
+Yugi_en99,유기,10000,260,70,1600,6,4,3,1,L,3,1,A,A,B,A,Yugi,Yugi,Yugi,1,MBLOCK,,,,Yugi,1,Yugi_en01,,,0,0,'03',호시구마 유기,|||,요괴,30000,100,50,800,D
+YugiN_en99,악몽,10000,400,90,1800,6,4,2,1,L,3,1,A,A,B,A,YugiN,YugiN,YugiN,1,MBLOCK,,,,Yugi,1,YugiN_en01,,,0,0,'03',악몽(유기),|||,악몽,50000,500,100,1000,E
+Yuka_en99,유카,10000,350,50,1500,5,3,10,1,L,3.5,1,A,A,C,A,Yuka,Yuka,Yuka,2,MBLOCK,CURE_MP_M,,,Yuka2,1,Yuka_en01,,,1,0,'04',카자미 유카,|||,요괴,25000,150,40,1000,E
+YukaN_en99,악몽,10000,400,70,1600,5,3,3,1,L,3.5,1,A,A,C,A,YukaN,YukaN,YukaN,1,MBLOCK,,,,Yuka2,1,YukaN_en01,,,1,1,'03',악몽(유카),|||,악몽,50000,500,100,1000,E
+Yukari_en99,유카리,10000,600,80,1200,4,3,9,1,L,3.5,1,A,A,A,S,Yukari,Yukari,Yukari,3,MBLOCK,SUKIMA,BARRIER_YUKARI,,Yukari,1,Yukari_en01,,,0,0,'03',야쿠모 유카리,|||,요괴,10000,300,50,800,A
+YukariN_en99,악몽,10000,500,40,1100,5,3,2,1,L,3.5,1,A,A,A,S,YukariN,YukariN,YukariN,3,MBLOCK+,SUKIMA,BARRIER_YUKARI,,Yukari,1,YukariN_en01,,,0,0,'04',악몽(유카리),|||,악몽,10000,200,0,1000,E
+Yumeko_en99,유메코,10000,450,120,1400,6,4,5,1,L,3,1,A,A,C,A,Yumeko,Yumeko,Yumeko,2,MBLOCK,CURE_MP_M,,,Yumeko,1,Yumeko_en01,,,1,0,'03',유메코,|||,마계인,30000,500,100,1000,E
+YumekoN_en99,악몽,10000,400,130,1500,6,4,3,1,L,3,1,A,A,C,A,YumekoN,YumekoN,YumekoN,2,MBLOCK,CURE_MP_M,,,Yumeko,1,YumekoN_en01,,,1,0,'03',악몽(유메코),|||,악몽,50000,500,100,1000,E
+Yuyuko_en99,유유코,10000,500,85,1250,5,3,8,1,L,3.5,1,A,A,A,A,Yuyuko,Yuyuko,Yuyuko,2,MBLOCK,MAI2,,,Yuyuko,1,Yuyuko_en01,,,0,1,'03',사이교우지 유유코,|||,망령,11000,500,50,800,A
+YuyukoN_en99,악몽,10000,500,105,900,6,3,3,1,L,3.5,1,A,A,C,A,YuyukoN,YuyukoN,YuyukoN,2,MBLOCK,CURE_MP_M,,,Yuyuko,1,YuyukoN_en01,,,0,1,'04',악몽(유유코),|||,악몽,10000,200,100,1000,E
+Zenki_en99,젠키,10000,140,105,1100,7,4,2,1,M,2,1,A,A,D,A,Zenki,Zenki,Zenki,1,MBLOCK,,,,,1,Zenki_en01,,,0,0,'04',젠키,|||,요괴,8000,200,50,500,C
+ZenkiN_en99,악몽,10000,300,120,1100,7,4,2,1,M,2,1,S,C,D,A,ZenkiN,ZenkiN,ZenkiN,1,MBLOCK,,,,,1,ZenkiN_en01,,,0,0,'04',악몽(젠키),|||,악몽,10000,150,100,500,E
+Zombie_en99,Z요정,10000,150,100,1000,6,3,2,1,S,1.5,1,A,A,B,A,Zombie,Zombie,Zombie,1,CURE_HP_L,,,,,1,Zombie_en01,,,0,0,'02_blue',좀비 페어리,|||,요정,5000,150,50,600,D

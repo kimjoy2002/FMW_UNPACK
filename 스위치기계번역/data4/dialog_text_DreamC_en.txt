@@ -1,0 +1,3 @@
+﻿ID,LineID,face,dialog
+0,0,DreamC0a,......
+1,0,DreamC0a,None
