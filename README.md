@@ -25,9 +25,9 @@
 
 1. cpp파일을 빌드합니다.
 
-g++ FMWIUnpack.cpp -o FMWIUnpack -static
-g++ FMWICypher.cpp -o FMWICypher -static
-g++ FMWIRepacking.cpp -o FMWIRepacking -static
+    * g++ FMWIUnpack.cpp -o FMWIUnpack -static
+    * g++ FMWICypher.cpp -o FMWICypher -static
+    * g++ FMWIRepacking.cpp -o FMWIRepacking -static
 
 2. "컴플리트데이터" 폴더를 만들어 컴플리트에서 추출하고싶은 dat를 그 안에 둡니다.
 (일부 언팩이 안되는 dat도 있기때문에 번역을 위해서는 data1.dat, data4.dat, data5.dat, data9.dat정도만 가져오면 됩니다.)
